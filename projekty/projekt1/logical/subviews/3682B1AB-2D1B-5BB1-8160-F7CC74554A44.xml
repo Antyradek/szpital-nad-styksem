@@ -1,0 +1,72 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Diagram class="oracle.dbtools.crest.swingui.logical.DPVLogical" name="Logical" id="3682B1AB-2D1B-5BB1-8160-F7CC74554A44">
+<createdBy>arq</createdBy>
+<modifiedBy>arq</modifiedBy>
+<createdTime>2016-04-09 22:47:22 UTC</createdTime>
+<autoRoute>false</autoRoute>
+<boxInbox>true</boxInbox>
+<showLegend>false</showLegend>
+<showLabels>false</showLabels>
+<showRelAttributes>false</showRelAttributes>
+<gridEnabled>false</gridEnabled>
+<showGrid>false</showGrid>
+<diagramColor>-1</diagramColor>
+<display>false</display>
+<notation>1</notation>
+<objectViews>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="253F7842-5DD3-98F8-3A03-DD5FE58ABB8B" otype="Entity" vid="510C2975-6E00-5365-CE0D-4DAD611B7D30">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="803" y="219" width="275" height="275"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="4CECB67E-DFB1-51D1-02D3-B9AC9DCF3D99" otype="Entity" vid="BE2BF5D2-2FB0-85C8-B46D-CAA02878B817">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="85" y="276" width="177" height="114"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="4F869B19-054D-522D-2432-E802417ADD93" otype="Entity" vid="50E069B7-197B-51A6-7306-ABDFDEA8C530">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="853" y="287" width="174" height="90"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="54D816DD-5451-95A8-99B3-5AFAF5E2FA80" otype="Entity" vid="B8F8C8FF-2F89-2CE7-B3CB-F2DF39C36FD0">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="854" y="395" width="170" height="84"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="834EC1AE-EC92-B032-00E4-6B77495DBFA8" otype="Entity" vid="E83DA5F0-F2F9-9B3C-7C46-C0999E29EF28">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="352" y="215" width="250" height="246"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="B6AF26D7-1B39-BD1D-A135-E34D298328A6" otype="Entity" vid="06A9080D-4CB8-A0FE-8D2A-33981CB23D24">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="378" y="304" width="198" height="132"/>
+</OView>
+</objectViews>
+<connectors>
+<Connector class="oracle.dbtools.crest.swingui.logical.TVRelation" oid="603E5BF2-C0F8-9380-6F7A-C5BF5FD4A7B7" otype="Relation" vid_source="06A9080D-4CB8-A0FE-8D2A-33981CB23D24" vid_target="BE2BF5D2-2FB0-85C8-B46D-CAA02878B817">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<lineWidth>1</lineWidth>
+<points>
+<point x="378" y="341"/>
+<point x="262" y="341"/>
+</points>
+</Connector>
+<Connector class="oracle.dbtools.crest.swingui.logical.TVInheritanceRelation" oid="86CDD5FA-E544-FFF8-1FE4-61FD5084B44C" otype="Hierarchy relation" vid_source="E83DA5F0-F2F9-9B3C-7C46-C0999E29EF28" vid_target="06A9080D-4CB8-A0FE-8D2A-33981CB23D24">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<lineWidth>1</lineWidth>
+</Connector>
+<Connector class="oracle.dbtools.crest.swingui.logical.TVRelation" oid="8F9F1DAE-EF07-D591-51D7-BE0D759E180A" otype="Relation" vid_source="BE2BF5D2-2FB0-85C8-B46D-CAA02878B817" vid_target="E83DA5F0-F2F9-9B3C-7C46-C0999E29EF28">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<lineWidth>1</lineWidth>
+<points>
+<point x="262" y="323"/>
+<point x="352" y="323"/>
+</points>
+</Connector>
+<Connector class="oracle.dbtools.crest.swingui.logical.TVInheritanceRelation" oid="DC3A0424-DFBA-CC87-C0E2-CAD1D1C0119B" otype="Hierarchy relation" vid_source="510C2975-6E00-5365-CE0D-4DAD611B7D30" vid_target="50E069B7-197B-51A6-7306-ABDFDEA8C530">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<lineWidth>1</lineWidth>
+</Connector>
+<Connector class="oracle.dbtools.crest.swingui.logical.TVInheritanceRelation" oid="E950705B-7C0A-F854-3E50-2510565EF72F" otype="Hierarchy relation" vid_source="510C2975-6E00-5365-CE0D-4DAD611B7D30" vid_target="B8F8C8FF-2F89-2CE7-B3CB-F2DF39C36FD0">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<lineWidth>1</lineWidth>
+</Connector>
+</connectors>
+</Diagram>

@@ -1,0 +1,69 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="4CECB67E-DFB1-51D1-02D3-B9AC9DCF3D99" name="Pokrewieństwo">
+<createdBy>arq</createdBy>
+<createdTime>2016-04-09 23:14:45 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Numer" id="067A4A2E-D25F-232F-F402-35FE869FA84D">
+<createdBy>arq</createdBy>
+<createdTime>2016-04-09 23:17:24 UTC</createdTime>
+<comment>Do przerobienia na Enum</comment>
+<generatorID>603E5BF2-C0F8-9380-6F7A-C5BF5FD4A7B7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<referedAttribute>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Numer1" id="DF4F3AC6-3C96-A549-ABB9-B841DD7F9538">
+<createdBy>arq</createdBy>
+<createdTime>2016-04-09 23:18:19 UTC</createdTime>
+<generatorID>603E5BF2-C0F8-9380-6F7A-C5BF5FD4A7B7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<referedAttribute>5CE5FF06-48A7-5E5C-BE17-8F3BFB33113E</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Pokrewieństwo TMP" id="7E15B968-B4F4-956D-EA03-7917E3EF28BF">
+<createdBy>arq</createdBy>
+<createdTime>2016-04-09 23:18:44 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="A263BD2E-E8E4-35EA-A3C8-AD303A88EF6F" name="Pokrewieństwo PK">
+<createdBy>arq</createdBy>
+<createdTime>2016-04-09 23:18:07 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>067A4A2E-D25F-232F-F402-35FE869FA84D</attributeRef>
+<attributeRef>DF4F3AC6-3C96-A549-ABB9-B841DD7F9538</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>
