@@ -1,7 +1,7 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="834EC1AE-EC92-B032-00E4-6B77495DBFA8" name="Osoba">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:11:24 UTC</createdTime>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="340FDEDC-9C41-F6C9-76E5-52CC025E60C5" name="Hospitalizacja">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:36:42 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
@@ -15,9 +15,9 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
-<Attribute name="Numer" id="F4C8AD76-C3BA-3F25-7885-ACD80EB063A7">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:02 UTC</createdTime>
+<Attribute name="Data umieszczenia na oddziale" id="DCBF8664-6F03-3D97-3283-F3FED6E39498">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:40:01 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
@@ -25,9 +25,9 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="Imię" id="C1CD96FB-C734-65C6-459B-633DB9524DBA">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:12 UTC</createdTime>
+<Attribute name="Przewidywany czas pobytu" id="CF5322A4-0C16-BEE1-1BFC-5C7D9B271864">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:37:19 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
@@ -35,30 +35,9 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="Nazwisko" id="AC07842F-C6BA-7088-FFAB-A163AEB424E1">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:24 UTC</createdTime>
-<ownerDesignName>projekt1</ownerDesignName>
-<engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
-</engineerTo>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="Adres" id="A2CD6514-A58E-CCA5-979F-7C1081E9F8F6">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:36 UTC</createdTime>
-<ownerDesignName>projekt1</ownerDesignName>
-<engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
-</engineerTo>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="Telefon" id="A6A186FC-3B4C-C1D4-295B-575576DFB9C5">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:43 UTC</createdTime>
-<comment>Nie wszyscy mają telefony, prawda?</comment>
+<Attribute name="Faktyczna data wypisania z oddziału" id="32549E40-F7D8-CBAA-DA30-969425900F3A">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:40:36 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
@@ -67,20 +46,29 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
+<Attribute name="Numer" id="05A85FEA-B4B0-353D-8416-99DB668D57E5">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:46:07 UTC</createdTime>
+<generatorID>D3C416E0-16C7-6F3F-C0FA-730BE8A8632D</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>4B01A393-EED8-58ED-92D6-CC4F19B3B863</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="2DB35F44-ABB2-4E17-3019-17D0A43AD947" name="Osoba PK">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:08 UTC</createdTime>
+<identifier id="F38A7AC3-DC99-8366-F66D-81DD319C9C6B" name="Hospitalizacja PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:47:56 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
 <pk>true</pk>
-<newElementsIDs>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</newElementsIDs>
-<usedAttributes>
-<attributeRef>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</attributeRef>
-</usedAttributes>
 </identifier>
 </identifiers>
 </Entity>

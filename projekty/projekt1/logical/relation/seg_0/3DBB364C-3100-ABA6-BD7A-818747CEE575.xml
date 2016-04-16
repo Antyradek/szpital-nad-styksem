@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Posiadanie doświadczenia" directorySegmentName="seg_0" id="3DBB364C-3100-ABA6-BD7A-818747CEE575">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 13:38:10 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<sourcePk>2DB35F44-ABB2-4E17-3019-17D0A43AD947</sourcePk>
+<identifying>true</identifying>
+<nameOnSource>Posiada</nameOnSource>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>54F881B8-EDA4-DD14-2752-8C63B0AF9D32</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>AF98251D-672B-6B0E-E1BB-B51384C08A32</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

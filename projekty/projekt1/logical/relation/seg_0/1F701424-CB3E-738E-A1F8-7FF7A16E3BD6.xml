@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="materiał_pozycja" directorySegmentName="seg_0" id="1F701424-CB3E-738E-A1F8-7FF7A16E3BD6">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:01:30 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<sourcePk>03A0DD98-6BAD-7E0B-5A68-8AE2CF178D3E</sourcePk>
+<targetPk>7B8CCE09-5A7E-550E-EE68-08360C3C8F0C</targetPk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>D49E28BE-9A07-080D-99F1-45A6AFBF7CC5</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>1CE67358-B263-42A4-67C3-40DE81607ACE</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

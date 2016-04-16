@@ -1,0 +1,29 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_1" id="85743FFD-3D24-15A3-946A-2482647A4F2E" name="Stan cywilny">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 17:19:18 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Typ" id="19416479-C13E-A35B-6DB2-B77155EBC548">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 17:19:25 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

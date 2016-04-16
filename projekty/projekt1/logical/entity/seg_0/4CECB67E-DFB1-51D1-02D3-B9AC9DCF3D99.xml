@@ -28,25 +28,27 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="Numer1" id="DF4F3AC6-3C96-A549-ABB9-B841DD7F9538">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:18:19 UTC</createdTime>
-<generatorID>603E5BF2-C0F8-9380-6F7A-C5BF5FD4A7B7</generatorID>
+<Attribute name="Numer2" id="D44897C6-6969-0BAF-64A7-A50ED2858290">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 13:36:32 UTC</createdTime>
+<generatorID>8F9F1DAE-EF07-D591-51D7-BE0D759E180A</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
-<referedAttribute>5CE5FF06-48A7-5E5C-BE17-8F3BFB33113E</referedAttribute>
+<referedAttribute>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</referedAttribute>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="Pokrewieństwo TMP" id="7E15B968-B4F4-956D-EA03-7917E3EF28BF">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:18:44 UTC</createdTime>
+<Attribute name="Typ" id="E00A5F66-E36D-ACB3-D8BF-792E0D971514">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 17:12:31 UTC</createdTime>
+<generatorID>171956F9-D39B-24B1-FD80-D15F993CFDA9</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
+<referedAttribute>4AE4C5DD-6855-BF9A-ADF1-C2540A9F4DD5</referedAttribute>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
@@ -62,7 +64,8 @@
 <pk>true</pk>
 <usedAttributes>
 <attributeRef>067A4A2E-D25F-232F-F402-35FE869FA84D</attributeRef>
-<attributeRef>DF4F3AC6-3C96-A549-ABB9-B841DD7F9538</attributeRef>
+<attributeRef>D44897C6-6969-0BAF-64A7-A50ED2858290</attributeRef>
+<attributeRef>E00A5F66-E36D-ACB3-D8BF-792E0D971514</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>

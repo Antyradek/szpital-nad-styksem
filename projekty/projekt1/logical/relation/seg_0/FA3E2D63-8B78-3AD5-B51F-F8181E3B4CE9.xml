@@ -1,0 +1,21 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Zamówienia na oddział" directorySegmentName="seg_0" id="FA3E2D63-8B78-3AD5-B51F-F8181E3B4CE9">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:06:12 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<sourcePk>EAA6EBDD-65E8-0688-F5A1-91D133E5162F</sourcePk>
+<targetPk>AFD89A21-5516-276F-6772-DF38129E2367</targetPk>
+<identifying>false</identifying>
+<nameOnSource>Przypisany na</nameOnSource>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>62524700-5EDB-49B8-C4B9-C954BF69C848</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>409C8C47-B50D-D8CB-9F16-040D6FDDCE0A</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

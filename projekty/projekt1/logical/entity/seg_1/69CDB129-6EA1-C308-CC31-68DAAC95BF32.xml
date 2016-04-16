@@ -1,0 +1,43 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_1" id="69CDB129-6EA1-C308-CC31-68DAAC95BF32" name="Typ pokrewieństwa">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 17:12:03 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Typ" id="4AE4C5DD-6855-BF9A-ADF1-C2540A9F4DD5">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 17:12:14 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="8715B2C3-4367-4393-7950-FAA502AC1190" name="Typ pokrewieństwa PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 17:12:16 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>4AE4C5DD-6855-BF9A-ADF1-C2540A9F4DD5</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

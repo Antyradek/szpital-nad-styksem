@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Pozycje w formularzu" directorySegmentName="seg_0" id="4D55CBBE-33C6-6A64-520A-240441A7BA75">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 15:59:58 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<sourcePk>EAA6EBDD-65E8-0688-F5A1-91D133E5162F</sourcePk>
+<identifying>true</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>62524700-5EDB-49B8-C4B9-C954BF69C848</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>D49E28BE-9A07-080D-99F1-45A6AFBF7CC5</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

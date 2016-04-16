@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Dozowany lek" directorySegmentName="seg_0" id="10233DEF-6F90-BC2A-156E-802B49BDF317">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:15:30 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<sourcePk>8542A22D-66B2-70CC-B2C9-EF95AAF1DA48</sourcePk>
+<targetPk>7B8CCE09-5A7E-550E-EE68-08360C3C8F0C</targetPk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>255F0182-73A9-6457-7626-C3308F3D9671</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>0779BCB8-2518-6B9E-181E-24BCAD9A2AD0</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

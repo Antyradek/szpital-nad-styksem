@@ -1,7 +1,7 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="253F7842-5DD3-98F8-3A03-DD5FE58ABB8B" name="Wizyta">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:02:29 UTC</createdTime>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="8629B282-B17B-4415-D491-E5E310AAE0F8" name="Łożko">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:43:00 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
@@ -15,9 +15,9 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
-<Attribute name="Numer" id="031DC8C4-B72C-D6BD-0283-EB3632D093B3">
+<Attribute name="Numer" id="4B01A393-EED8-58ED-92D6-CC4F19B3B863">
 <createdBy>marek_000</createdBy>
-<createdTime>2016-04-16 14:52:59 UTC</createdTime>
+<createdTime>2016-04-16 16:43:09 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
@@ -25,38 +25,30 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="Data i godzina wizyty" id="4B233C3D-50C7-A3CE-3D98-BBC7D08F5528">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:06:19 UTC</createdTime>
-<ownerDesignName>projekt1</ownerDesignName>
-<engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
-</engineerTo>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="Numer gabinetu" id="B9791E66-4595-3DCD-E555-B1914D7D1FBE">
+<Attribute name="Numer1" id="BBE4B68D-C66F-6F57-76F6-2B57C478D93B">
 <createdBy>marek_000</createdBy>
-<createdTime>2016-04-16 16:28:27 UTC</createdTime>
+<createdTime>2016-04-16 16:43:51 UTC</createdTime>
+<generatorID>F46D1859-C5D1-E908-E3D5-4623008EC94C</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
+<referedAttribute>96F58E77-9C49-FA5E-1366-6BDFF3044688</referedAttribute>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="7BE68EF9-A104-F3C0-9FD7-41E1B300A8FE" name="Wizyta PK">
+<identifier id="F47D6549-FD28-B180-C3C5-9B5A03278A1C" name="Łożko PK">
 <createdBy>marek_000</createdBy>
-<createdTime>2016-04-16 14:53:08 UTC</createdTime>
+<createdTime>2016-04-16 16:43:23 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>
-<attributeRef>031DC8C4-B72C-D6BD-0283-EB3632D093B3</attributeRef>
+<attributeRef>4B01A393-EED8-58ED-92D6-CC4F19B3B863</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>

@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Dostawy materiału" directorySegmentName="seg_0" id="30C58D50-227B-7A26-372E-53ACC30B781E">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:22:39 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<sourcePk>7B8CCE09-5A7E-550E-EE68-08360C3C8F0C</sourcePk>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>1CE67358-B263-42A4-67C3-40DE81607ACE</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>511E2161-CDBC-2300-804C-97A8D41296ED</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
