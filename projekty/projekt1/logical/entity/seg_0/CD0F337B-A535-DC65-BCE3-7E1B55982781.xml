@@ -1,0 +1,44 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="CD0F337B-A535-DC65-BCE3-7E1B55982781" name="Lekarz rodzinny">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 12:51:36 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<hierarchicalParent>834EC1AE-EC92-B032-00E4-6B77495DBFA8</hierarchicalParent>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Nr praktyki" id="45AA232B-F468-A016-6348-0757D8D5A5CC">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 12:55:55 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="4F9A8130-D327-4E48-127A-024DF27F9E68" name="Lekarz rodzinny PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 12:58:32 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>45AA232B-F468-A016-6348-0757D8D5A5CC</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

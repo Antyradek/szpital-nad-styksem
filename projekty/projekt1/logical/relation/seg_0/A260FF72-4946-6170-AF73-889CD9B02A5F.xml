@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Dostawy dostawcy" directorySegmentName="seg_0" id="A260FF72-4946-6170-AF73-889CD9B02A5F">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:23:42 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<sourcePk>4C30E375-43D7-069B-12A0-33B4F5B035CC</sourcePk>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>15395932-CB60-E20A-D296-7B87F4E9F5E5</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>511E2161-CDBC-2300-804C-97A8D41296ED</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

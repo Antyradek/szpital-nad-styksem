@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Leki pacjenta" directorySegmentName="seg_0" id="83690A02-3336-8450-4FBB-3AE085546BFF">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:14:42 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<sourcePk>2DB35F44-ABB2-4E17-3019-17D0A43AD947</sourcePk>
+<identifying>true</identifying>
+<nameOnSource>Przyjmuje</nameOnSource>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>B6AF26D7-1B39-BD1D-A135-E34D298328A6</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>255F0182-73A9-6457-7626-C3308F3D9671</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

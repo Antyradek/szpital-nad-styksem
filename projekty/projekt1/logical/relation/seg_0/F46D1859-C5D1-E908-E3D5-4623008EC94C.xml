@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Łóżka na oddziale" directorySegmentName="seg_0" id="F46D1859-C5D1-E908-E3D5-4623008EC94C">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:43:51 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<sourcePk>AFD89A21-5516-276F-6772-DF38129E2367</sourcePk>
+<identifying>false</identifying>
+<nameOnSource>Ma</nameOnSource>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>409C8C47-B50D-D8CB-9F16-040D6FDDCE0A</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>8629B282-B17B-4415-D491-E5E310AAE0F8</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

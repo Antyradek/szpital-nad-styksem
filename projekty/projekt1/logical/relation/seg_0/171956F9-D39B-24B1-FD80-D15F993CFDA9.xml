@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Typy pokrewieństw" directorySegmentName="seg_0" id="171956F9-D39B-24B1-FD80-D15F993CFDA9">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 17:12:31 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<sourcePk>8715B2C3-4367-4393-7950-FAA502AC1190</sourcePk>
+<identifying>true</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>69CDB129-6EA1-C308-CC31-68DAAC95BF32</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>4CECB67E-DFB1-51D1-02D3-B9AC9DCF3D99</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

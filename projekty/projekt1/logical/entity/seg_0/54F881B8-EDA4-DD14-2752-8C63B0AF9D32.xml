@@ -1,7 +1,7 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="834EC1AE-EC92-B032-00E4-6B77495DBFA8" name="Osoba">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:11:24 UTC</createdTime>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="54F881B8-EDA4-DD14-2752-8C63B0AF9D32" name="Pracownik">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 13:02:13 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
@@ -11,13 +11,14 @@
 <fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
 <growthPercent>0</growthPercent>
 <growthType>Year</growthType>
+<hierarchicalParent>834EC1AE-EC92-B032-00E4-6B77495DBFA8</hierarchicalParent>
 <maxVolumes>9999999</maxVolumes>
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
-<Attribute name="Numer" id="F4C8AD76-C3BA-3F25-7885-ACD80EB063A7">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:02 UTC</createdTime>
+<Attribute name="Data urodzenia" id="017EC3DE-FCE6-7BDF-CFCF-A532E31F03ED">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 13:02:40 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
@@ -25,9 +26,9 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="Imię" id="C1CD96FB-C734-65C6-459B-633DB9524DBA">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:12 UTC</createdTime>
+<Attribute name="Płeć" id="5B5AAF2A-75A7-03AD-3C0A-2247096FF9C2">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 13:03:29 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
@@ -35,30 +36,9 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="Nazwisko" id="AC07842F-C6BA-7088-FFAB-A163AEB424E1">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:24 UTC</createdTime>
-<ownerDesignName>projekt1</ownerDesignName>
-<engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
-</engineerTo>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="Adres" id="A2CD6514-A58E-CCA5-979F-7C1081E9F8F6">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:36 UTC</createdTime>
-<ownerDesignName>projekt1</ownerDesignName>
-<engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
-</engineerTo>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="Telefon" id="A6A186FC-3B4C-C1D4-295B-575576DFB9C5">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:43 UTC</createdTime>
-<comment>Nie wszyscy mają telefony, prawda?</comment>
+<Attribute name="PESEL" id="5500D97C-A9A9-554F-D09E-C3540D349A42">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 13:04:30 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
@@ -67,19 +47,30 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
+<Attribute name="Typ" id="42EE2700-246B-9123-B210-AEAF84558F40">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 14:43:50 UTC</createdTime>
+<generatorID>CE4A9212-52E1-260F-09BC-0F89A47E4F50</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<referedAttribute>52F26875-82B2-EB88-AF4B-B94454B61CCA</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="2DB35F44-ABB2-4E17-3019-17D0A43AD947" name="Osoba PK">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-09 23:12:08 UTC</createdTime>
+<identifier id="D1A41AE6-F85E-78FA-C242-BA18502B1EB0" name="Pracownik PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 17:17:55 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
 <pk>true</pk>
-<newElementsIDs>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</newElementsIDs>
 <usedAttributes>
-<attributeRef>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</attributeRef>
+<attributeRef>42EE2700-246B-9123-B210-AEAF84558F40</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>

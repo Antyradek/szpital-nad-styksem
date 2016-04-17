@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Rodzaj umowy do zatrudnienia" directorySegmentName="seg_0" id="4B285E6F-8209-2F0A-9AB1-7C1A544E1A96">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 13:59:18 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<sourcePk>52F732B8-16A5-6CBE-CA3D-68542A1BE5EB</sourcePk>
+<targetPk>ECB935F6-C3FE-95A0-88FD-7747E09F7318</targetPk>
+<identifying>true</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>0EF6334D-4EAC-2ED7-E3BC-05C165DACD3F</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>83358130-9001-E463-3BC0-BEBABE93B2C2</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
