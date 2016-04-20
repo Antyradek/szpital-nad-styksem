@@ -22,7 +22,6 @@
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
@@ -40,9 +39,27 @@
 </Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="03A0DD98-6BAD-7E0B-5A68-8AE2CF178D3E" name="Pozycja zamówienia PK">
-<createdBy>marek_000</createdBy>
-<createdTime>2016-04-16 16:00:23 UTC</createdTime>
+<identifier id="8A915561-14BC-AD7C-0B15-C31E7AEEB3FC" name="Pozycja zamówienia PK">
+<createdBy>arq</createdBy>
+<createdTime>2016-04-20 20:03:34 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<pk>true</pk>
+</identifier>
+<identifier id="1C1A4AD3-E88C-9B2D-89B7-7BDCEABEC8A9" name="Pozycja zamówienia PKv1">
+<createdBy>arq</createdBy>
+<createdTime>2016-04-20 20:03:34 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<pk>true</pk>
+</identifier>
+<identifier id="1B0C8908-524A-6C57-C9DB-FD75345C7404" name="Pozycja zamówienia PKv2">
+<createdBy>arq</createdBy>
+<createdTime>2016-04-20 20:03:34 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>

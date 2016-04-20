@@ -46,9 +46,21 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="Numer" id="953DD451-DD98-5A97-5211-6E5B470D86CD">
-<createdBy>marek_000</createdBy>
-<createdTime>2016-04-16 16:06:45 UTC</createdTime>
+<Attribute name="Typ" id="DB3AF0A2-4F43-8798-D2E7-CAB25B41342B">
+<createdBy>arq</createdBy>
+<createdTime>2016-04-20 20:00:08 UTC</createdTime>
+<generatorID>3E2E1D52-95C5-E266-F63A-4BD0621365E8</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+</engineerTo>
+<referedAttribute>42EE2700-246B-9123-B210-AEAF84558F40</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Numer" id="12B483A9-F77D-A91F-C52B-873D23B36970">
+<createdBy>arq</createdBy>
+<createdTime>2016-04-20 20:05:19 UTC</createdTime>
 <generatorID>FA3E2D63-8B78-3AD5-B51F-F8181E3B4CE9</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>

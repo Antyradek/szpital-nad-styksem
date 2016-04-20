@@ -12,7 +12,7 @@
 <nameOnSource>Przypisany na</nameOnSource>
 <optionalSource>false</optionalSource>
 <optionalTarget>true</optionalTarget>
-<sourceCardinality>1</sourceCardinality>
+<sourceCardinality>*</sourceCardinality>
 <sourceEntity>62524700-5EDB-49B8-C4B9-C954BF69C848</sourceEntity>
 <targetCardinalityString>1</targetCardinalityString>
 <targetEntity>409C8C47-B50D-D8CB-9F16-040D6FDDCE0A</targetEntity>
