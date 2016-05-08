@@ -1,0 +1,107 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="7484811E-87D7-C916-D011-A70EBE5A4071" name="Kwalifikacja">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>715D2BD2-76EF-AD91-24EA-3A315E3E2654</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Id" id="1A4D71B0-D90C-D351-EEB1-D62BBB2FD5B9">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>51C9D09B-7119-854C-F932-CC4529895CBA</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Nazwa" id="98A3A494-9026-4059-2A6C-D2F9DE925DB3">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>D8D444AB-A289-53B2-B669-1E854BCEA8F9</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_zdobycia" id="ACA9C06B-08D3-691F-3F9F-BBF3B792C14F">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>A87364EC-85E0-B62C-61CC-EAC9A22D48B7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Typ" id="DA187952-AF8C-7B6D-18EA-57024FA79E00">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>BFD4646E-DBFA-E752-C83E-0F0400D6B7F2</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Nazwa_instytucji" id="A1259BA3-D347-8A81-4CF8-7FED853C5B92">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>1777DC8D-AB84-F46C-9E50-B7FC3D147D96</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Pracownik_Numer" id="6E2979DA-8382-B4D3-825C-4AA632772645">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>462E36D7-93A0-069A-B8E9-BEE3AF2D7827</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="6471ACD9-24CA-41A1-EB14-1012A4558A13" referredColumn="25500856-596B-76CC-F12B-10404BC3CEDF"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="58B75930-C925-1EB2-8CB5-43D1A637A225" name="Kwalifikacja_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>42341528-D4E6-5723-E527-81B1CCA89986</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1A4D71B0-D90C-D351-EEB1-D62BBB2FD5B9"/>
+<colUsage columnID="6E2979DA-8382-B4D3-825C-4AA632772645"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="DBF0AA71-6E05-AE4B-DBA1-D102D08DE70B" name="Kwalifikacja_Pracownik_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>275A9D09-9C80-F991-A476-FA187CCCC423</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6E2979DA-8382-B4D3-825C-4AA632772645"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

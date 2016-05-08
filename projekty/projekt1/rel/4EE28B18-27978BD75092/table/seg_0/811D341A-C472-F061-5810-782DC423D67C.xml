@@ -1,0 +1,73 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="811D341A-C472-F061-5810-782DC423D67C" name="Lek">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>0779BCB8-2518-6B9E-181E-24BCAD9A2AD0</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Numer" id="D7347272-F244-4947-49EB-D96346844D53">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>4172B126-1147-5FB6-441E-C5CB4F828332</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="E59E2AA9-4B94-F20E-D397-6CAA989113D6" referredColumn="105BB7A0-A169-C1E7-C76A-33CEF8E42167"/>
+</associations>
+</Column>
+<Column name="Dawkowanie" id="A7DC5A81-D06B-009C-E5C3-967B6FD83F40">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>46F0D0A0-D52D-57E2-2CE2-DFBB4CFA713D</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Sposób_podawania" id="53979F64-8639-BF71-6B9B-83988790D781">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>7869F4F2-58CA-CD6A-1030-046041118BEB</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="ACAFB058-3AA5-10C8-3B66-B6FC2AF0078E" name="Lek_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>7B8CCE09-5A7E-550E-EE68-08360C3C8F0C</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D7347272-F244-4947-49EB-D96346844D53"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="7AD155AA-64D6-25E0-5D8C-333F0D3AB720" name="Lek_Materiał_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>39B5C380-E80A-9354-DD64-DD54C68BD1F0</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="D7347272-F244-4947-49EB-D96346844D53"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,104 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="C5F640EC-556E-33F8-8AA6-729F4B42DD13" name="Pozycja_zamówienia">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>D49E28BE-9A07-080D-99F1-45A6AFBF7CC5</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Liczba" id="A1FE87C1-20A8-ECD5-848A-C54A84795CA0">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>F423CEA7-5B23-63A2-C999-4203F98737D4</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Materiał_Numer" id="E3FE4FA5-32C8-80D6-BBC4-8B076B34ED81">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>0D5A38B1-33F7-BB26-7878-B8D5025A8EFD</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="969ACC84-72C7-DD0C-9456-87B29A661597" referredColumn="105BB7A0-A169-C1E7-C76A-33CEF8E42167"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="ED6B320B-2819-19EB-C4FB-9B589C7A1391" name="Pozycja_zamówienia_PKv3">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 12:51:02 UTC</createdTime>
+<generatorID>4E4A7481-298A-0770-AD0C-03B04F1017FB</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+</ind_PK_UK>
+<ind_PK_UK id="AE720B80-12FD-F11E-DD93-3E12DC3971AB" name="Pozycja_zamówienia_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>03A0DD98-6BAD-7E0B-5A68-8AE2CF178D3E</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+</ind_PK_UK>
+<ind_PK_UK id="C4D67835-95FF-5057-B20F-A4FDDFDDA669" name="Pozycja_zamówienia_PKv1">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 12:51:02 UTC</createdTime>
+<generatorID>DCFAB417-7C4E-7BCE-8D9A-AD28F3203EF7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+</ind_PK_UK>
+<ind_PK_UK id="0BDC575B-93F9-F794-F2B8-9A9CF3859F3A" name="Pozycja_zamówienia_PKv2">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 12:51:02 UTC</createdTime>
+<generatorID>6533E88E-8944-F02F-F322-E03AF1E5E748</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+</ind_PK_UK>
+<ind_PK_UK id="95E4E237-1C55-6CE3-DCCF-3A3C790167B6" name="Pozycja_zamówienia__IDX">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>1F701424-CB3E-738E-A1F8-7FF7A16E3BD6</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="E3FE4FA5-32C8-80D6-BBC4-8B076B34ED81"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="223CE4BE-431C-3423-5C5B-7074E18BD494" name="Pozycja_zamówienia_Formularz_zapotrzebowania_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>4D55CBBE-33C6-6A64-520A-240441A7BA75</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+</ind_PK_UK>
+<ind_PK_UK id="41FD9C46-8BEC-C5F3-4412-0D1C504F6377" name="Pozycja_zamówienia_Materiał_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 12:51:02 UTC</createdTime>
+<generatorID>1F701424-CB3E-738E-A1F8-7FF7A16E3BD6</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E3FE4FA5-32C8-80D6-BBC4-8B076B34ED81"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

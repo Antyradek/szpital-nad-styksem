@@ -1,0 +1,112 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="6F6F534C-C423-38AF-540F-411E00F94AC9" name="Hospitalizacja">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>340FDEDC-9C41-F6C9-76E5-52CC025E60C5</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Data_umieszczenia_na_oddziale" id="3D438492-0836-7FF7-4A17-E4579589E382">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>DCBF8664-6F03-3D97-3283-F3FED6E39498</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Przewidywany_czas_pobytu" id="D44EEC27-8532-9917-CC08-C9DB02CA2988">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>CF5322A4-0C16-BEE1-1BFC-5C7D9B271864</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Faktyczna_data_wypisania_z_oddziału" id="5A31F74E-6E99-2881-21A0-E5B0FAAD9457">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>32549E40-F7D8-CBAA-DA30-969425900F3A</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Łożko_Numer" id="09006376-D4CB-C22F-6FEC-FB52813C1DEE">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>05A85FEA-B4B0-353D-8416-99DB668D57E5</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="97C4319B-B158-9669-7D4D-F06168BD5713" referredColumn="BB7D1CEA-2401-2900-E7B0-98F3BBF813B1"/>
+</associations>
+</Column>
+<Column name="Pacjent_Numer" id="CB1D9B0A-1CE7-4B5F-4CD8-957FAA753F1D">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>2E9EC9EE-01F8-A11C-B5F6-1632A5D5AE99</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="42743918-BC37-3659-C7B5-6168AB966958" referredColumn="B318ACC8-21FE-0D5B-DDEC-6BDDD2CDB70D"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="08355DF6-183E-06B3-C8B2-96689727C429" name="Hospitalizacja_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>F38A7AC3-DC99-8366-F66D-81DD319C9C6B</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="CB1D9B0A-1CE7-4B5F-4CD8-957FAA753F1D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="94A2AB6F-977F-9F03-09B6-3CD4D0580A8D" name="Hospitalizacja_Pacjent_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>111ADB0E-DB6C-DFC3-9DF9-790B1D789F02</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="CB1D9B0A-1CE7-4B5F-4CD8-957FAA753F1D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C1D3332B-DE22-F938-2E75-D4E70DB6552E" name="Hospitalizacja_Łożko_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>D3C416E0-16C7-6F3F-C0FA-730BE8A8632D</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="09006376-D4CB-C22F-6FEC-FB52813C1DEE"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

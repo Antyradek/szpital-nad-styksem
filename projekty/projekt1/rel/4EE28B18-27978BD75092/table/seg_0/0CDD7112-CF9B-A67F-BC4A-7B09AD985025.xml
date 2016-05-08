@@ -1,0 +1,84 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="0CDD7112-CF9B-A67F-BC4A-7B09AD985025" name="Lekarz_rodzinny">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>CD0F337B-A535-DC65-BCE3-7E1B55982781</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Numer" id="161A8575-E348-4E83-870C-CA5308A0BBCA">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="41E88573-8225-A9D4-E676-EE913F0D6B7D" referredColumn="36A0D318-F83F-BC5E-0EC4-69C2037ABBE2"/>
+</associations>
+</Column>
+<Column name="Nr_praktyki" id="2570DB0A-706B-8ABC-39F8-0DCB1E873B09">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>45AA232B-F468-A016-6348-0757D8D5A5CC</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="D259A8F8-FF25-BE25-BB49-2818D8C5F6FE" name="Lekarz_rodzinny_PKv2">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 12:51:02 UTC</createdTime>
+<generatorID>81CC529A-E2DD-691B-F712-53F4EF476CF7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="161A8575-E348-4E83-870C-CA5308A0BBCA"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="01BDA91E-F434-A0DE-5786-F7F7F9F075BF" name="Lekarz_rodzinny_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>2DB35F44-ABB2-4E17-3019-17D0A43AD947</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="161A8575-E348-4E83-870C-CA5308A0BBCA"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="74243C78-4C1F-649B-766D-21449BF65EB9" name="Lekarz_rodzinny_PKv1">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>4F9A8130-D327-4E48-127A-024DF27F9E68</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2570DB0A-706B-8ABC-39F8-0DCB1E873B09"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="DB70A214-D79F-AB7A-4FEE-0CCAC4ED9C03" name="Lekarz_rodzinny_Osoba_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>70064E0A-9DF7-E723-828C-B40A9FC750C3</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="161A8575-E348-4E83-870C-CA5308A0BBCA"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

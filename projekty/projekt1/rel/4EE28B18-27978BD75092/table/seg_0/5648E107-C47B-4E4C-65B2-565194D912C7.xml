@@ -1,0 +1,101 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="5648E107-C47B-4E4C-65B2-565194D912C7" name="Dostawa">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>511E2161-CDBC-2300-804C-97A8D41296ED</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Ilość" id="735A9F49-29FD-2946-01CD-5639727DB4F6">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>0BF42253-DEE9-7C8E-D2AD-93388EDCB8E0</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Koszt_jednostkowy" id="DE90D73B-D587-A869-BC72-F6453819C466">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>3E407AE2-92DD-7D8F-CDE6-185B400752A2</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT043</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Materiał_Numer" id="29301580-172B-9593-1A64-6CC88327CD99">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>579359AB-F80E-36C0-88D2-C38A3F0F6193</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="E6777589-14D6-E326-C893-1D0C59D2E7F1" referredColumn="105BB7A0-A169-C1E7-C76A-33CEF8E42167"/>
+</associations>
+</Column>
+<Column name="Dostawca_Numer" id="E23828F0-B2F7-07EE-9FD4-7BD812E430E3">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>B040D8CB-4126-2090-EB71-A6EF4EC1AC78</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="AFC5C373-31BE-1A1D-6A26-0FC94E3F1643" referredColumn="BCB3F903-35BF-C365-210C-760ED0640273"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="D1829626-4FE3-1ABF-E7C6-39F77150A77D" name="Dostawa_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>1ECD8750-FA8B-031F-5F7A-0491AD1F6733</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="29301580-172B-9593-1A64-6CC88327CD99"/>
+<colUsage columnID="E23828F0-B2F7-07EE-9FD4-7BD812E430E3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="DFE7220E-6B95-5634-EE6C-A7B029730450" name="Dostawa_Dostawca_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>A260FF72-4946-6170-AF73-889CD9B02A5F</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E23828F0-B2F7-07EE-9FD4-7BD812E430E3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="12EDC65C-6FE5-EA75-D581-1D99D42016A7" name="Dostawa_Materiał_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>30C58D50-227B-7A26-372E-53ACC30B781E</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="29301580-172B-9593-1A64-6CC88327CD99"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

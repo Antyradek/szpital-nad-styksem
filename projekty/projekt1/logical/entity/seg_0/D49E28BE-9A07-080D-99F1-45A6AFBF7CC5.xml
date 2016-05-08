@@ -22,7 +22,10 @@
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
-<use>0</use>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 <Attribute name="Numer" id="0D5A38B1-33F7-BB26-7878-B8D5025A8EFD">
@@ -34,32 +37,33 @@
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
 <referedAttribute>4172B126-1147-5FB6-441E-C5CB4F828332</referedAttribute>
-<use>0</use>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="8A915561-14BC-AD7C-0B15-C31E7AEEB3FC" name="Pozycja zamówienia PK">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-20 20:03:34 UTC</createdTime>
+<identifier id="DCFAB417-7C4E-7BCE-8D9A-AD28F3203EF7" name="Pozycja zamówienia PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 12:46:02 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
 <pk>true</pk>
 </identifier>
-<identifier id="1C1A4AD3-E88C-9B2D-89B7-7BDCEABEC8A9" name="Pozycja zamówienia PKv1">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-20 20:03:34 UTC</createdTime>
+<identifier id="6533E88E-8944-F02F-F322-E03AF1E5E748" name="Pozycja zamówienia PKv1">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 12:46:02 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
 <pk>true</pk>
 </identifier>
-<identifier id="1B0C8908-524A-6C57-C9DB-FD75345C7404" name="Pozycja zamówienia PKv2">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-20 20:03:34 UTC</createdTime>
+<identifier id="4E4A7481-298A-0770-AD0C-03B04F1017FB" name="Pozycja zamówienia PKv2">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 12:46:02 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>

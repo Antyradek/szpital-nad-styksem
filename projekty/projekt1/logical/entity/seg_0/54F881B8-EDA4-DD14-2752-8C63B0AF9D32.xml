@@ -23,7 +23,9 @@
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
-<use>0</use>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 <Attribute name="Płeć" id="5B5AAF2A-75A7-03AD-3C0A-2247096FF9C2">
@@ -33,7 +35,9 @@
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
-<use>0</use>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 <Attribute name="PESEL" id="5500D97C-A9A9-554F-D09E-C3540D349A42">
@@ -44,7 +48,9 @@
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
-<use>0</use>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 <Attribute name="Typ" id="42EE2700-246B-9123-B210-AEAF84558F40">
@@ -56,20 +62,8 @@
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
 <referedAttribute>52F26875-82B2-EB88-AF4B-B94454B61CCA</referedAttribute>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="Numer" id="16EE90E7-1972-A2EE-73F4-13DAFE9B6374">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-20 20:09:48 UTC</createdTime>
-<generatorID>A7FBD0B2-ED62-9AEC-651D-03A86A197936</generatorID>
-<ownerDesignName>projekt1</ownerDesignName>
-<engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
-</engineerTo>
-<nullsAllowed>true</nullsAllowed>
-<referedAttribute>96F58E77-9C49-FA5E-1366-6BDFF3044688</referedAttribute>
-<use>0</use>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>

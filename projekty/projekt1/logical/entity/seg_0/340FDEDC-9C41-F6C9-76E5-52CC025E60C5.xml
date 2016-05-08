@@ -22,7 +22,9 @@
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
-<use>0</use>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 <Attribute name="Przewidywany czas pobytu" id="CF5322A4-0C16-BEE1-1BFC-5C7D9B271864">
@@ -32,7 +34,9 @@
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
-<use>0</use>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 <Attribute name="Faktyczna data wypisania z oddziału" id="32549E40-F7D8-CBAA-DA30-969425900F3A">
@@ -43,31 +47,23 @@
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
-<use>0</use>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="Numer1" id="96D90729-BD65-5563-5CF8-47A5A094DEF9">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-20 20:00:08 UTC</createdTime>
-<generatorID>111ADB0E-DB6C-DFC3-9DF9-790B1D789F02</generatorID>
-<ownerDesignName>projekt1</ownerDesignName>
-<engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
-</engineerTo>
-<referedAttribute>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</referedAttribute>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="Numer" id="95CC68B5-626B-252E-F140-6062ADCFC6A6">
-<createdBy>arq</createdBy>
-<createdTime>2016-04-20 20:08:10 UTC</createdTime>
+<Attribute name="Numer" id="05A85FEA-B4B0-353D-8416-99DB668D57E5">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-04-16 16:46:07 UTC</createdTime>
 <generatorID>D3C416E0-16C7-6F3F-C0FA-730BE8A8632D</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
+<nullsAllowed>true</nullsAllowed>
 <referedAttribute>4B01A393-EED8-58ED-92D6-CC4F19B3B863</referedAttribute>
-<use>0</use>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>

@@ -1,0 +1,110 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="1EFC8501-EA69-ABAF-94D4-360140EC72BF" name="Doświadczenie_zawodowe">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>AF98251D-672B-6B0E-E1BB-B51384C08A32</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Id" id="3337B308-7E6A-227D-BCFA-19D14CCD5715">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>43E3E8F3-F9F6-1AA8-CFAF-D3403420DD9F</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Stanowisko" id="0EB08057-EB60-C78B-5DFD-5C8E0DC73CFD">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>B6BC867A-4BF4-39BE-9FCF-B8A4130A9DB8</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Nazwa_placówki" id="A81773D1-17AA-AC1F-86E6-069A72D3A582">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>B86B7B71-904A-2789-19F3-CD6678531AA1</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_od" id="1B000D6B-56C2-A9A9-20DA-D21C2FC2A3A7">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>D2956830-E33D-4E59-074E-188E2AB92AD0</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_do" id="BACBCB6F-101A-29CB-B5FC-AF6FBCE99C99">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>74F1B216-CD75-1490-C8AF-605C98F10DED</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Pracownik_Numer" id="54C1C2FF-D40F-FE02-A43C-7EC9C9BF463F">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>C5B1B3F2-905A-7B36-9319-A032A916D7E4</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="24A701D4-45D4-87A4-F257-8CC6337C22B6" referredColumn="25500856-596B-76CC-F12B-10404BC3CEDF"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="F0345341-2985-DC9A-9DFC-B8ECCCD905A5" name="Doświadczenie_zawodowe_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>5A9B714B-3BBE-FFC8-5B4E-6E66FF2AFEF0</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="3337B308-7E6A-227D-BCFA-19D14CCD5715"/>
+<colUsage columnID="54C1C2FF-D40F-FE02-A43C-7EC9C9BF463F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C220BA47-89D3-F807-3CD1-AC5EA8980767" name="Doświadczenie_zawodowe_Pracownik_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>3DBB364C-3100-ABA6-BD7A-818747CEE575</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="54C1C2FF-D40F-FE02-A43C-7EC9C9BF463F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

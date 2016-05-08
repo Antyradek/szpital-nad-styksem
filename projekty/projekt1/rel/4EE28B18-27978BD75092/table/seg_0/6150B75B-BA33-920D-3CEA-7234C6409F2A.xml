@@ -1,0 +1,148 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="6150B75B-BA33-920D-3CEA-7234C6409F2A" name="Pacjent">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>B6AF26D7-1B39-BD1D-A135-E34D298328A6</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Numer" id="B318ACC8-21FE-0D5B-DDEC-6BDDD2CDB70D">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="91E51062-3322-0947-B11D-06ADFD979AD0" referredColumn="36A0D318-F83F-BC5E-0EC4-69C2037ABBE2"/>
+</associations>
+</Column>
+<Column name="Data_urodzenia" id="2C307A03-446A-500B-7355-5AA56924D6B0">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>60E96B27-5B1E-FD11-6B11-BE9719A6793E</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Płeć" id="9B48784F-8F73-37EC-E5D1-C02CE62716C2">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>7F665C16-6A31-D455-5882-17DEADB998F0</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_rejestracji" id="D21B8854-0587-72E7-995D-92EF8CF203B3">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>6E61E172-79EF-7988-C266-98602A17FBDC</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Lekarz_rodzinny_Nr_praktyki" id="BF0FDE28-9504-AE4B-E1E5-CFEB6527A0D3">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>9A6B19C0-52C1-58C4-717E-9839E2D3BC7A</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="3F241048-2C3D-183F-B0DF-4343DE893EE6" referredColumn="2570DB0A-706B-8ABC-39F8-0DCB1E873B09"/>
+</associations>
+</Column>
+<Column name="Stan_cywilny_Stan_cywilny_ID" id="0C442F13-C1E2-046D-8F42-D378C8D54C5A">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="81ACA97C-3A5F-A841-7D8F-9114DC13C808" referredColumn="B2122B98-D842-632A-8681-0246B17D8430"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="E68B0295-D57F-24B5-E98F-BECE9CA12C40" name="Pacjent_PKv1">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 12:51:02 UTC</createdTime>
+<generatorID>81CC529A-E2DD-691B-F712-53F4EF476CF7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="B318ACC8-21FE-0D5B-DDEC-6BDDD2CDB70D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="20C18A11-7C21-CBBB-31AE-E1A663827DED" name="Pacjent_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>2DB35F44-ABB2-4E17-3019-17D0A43AD947</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Unique Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="B318ACC8-21FE-0D5B-DDEC-6BDDD2CDB70D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="FE772DDE-AB20-6A28-0E9E-F86613D522A5" name="Pacjent_Osoba_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>86CDD5FA-E544-FFF8-1FE4-61FD5084B44C</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="B318ACC8-21FE-0D5B-DDEC-6BDDD2CDB70D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="0291C52F-B050-5FC5-5FD3-512DFF0A5050" name="Pacjent_Lekarz_rodzinny_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>7CE4B7D7-A7AA-45FB-B5A6-051CFF7B299A</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="BF0FDE28-9504-AE4B-E1E5-CFEB6527A0D3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="73B2551E-4778-ABBD-CAF4-78BD4DE49471" name="Pacjent_Stan_cywilny_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>0A5C9DE6-1B79-1C88-5C89-C773A6D71507</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="0C442F13-C1E2-046D-8F42-D378C8D54C5A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

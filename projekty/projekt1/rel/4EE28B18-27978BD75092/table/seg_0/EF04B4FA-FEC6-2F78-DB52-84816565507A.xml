@@ -1,0 +1,134 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="EF04B4FA-FEC6-2F78-DB52-84816565507A" name="Zatrudnienie">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>0EF6334D-4EAC-2ED7-E3BC-05C165DACD3F</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Id" id="71ABB907-6948-28D0-FD9B-2177993D0290">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>B12418E2-EC56-D3A8-10F1-70CE71E77CBA</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Godziny_tygodniowo" id="5F0A9E95-4C77-DA1A-676E-142AED734B92">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>0F15EEA9-8EEC-A61D-9775-9534001EFCAA</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Okres_umowy" id="64F1A87D-ABC4-3416-D492-36CE356A5FF4">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>E04A4031-EB3C-9455-140A-579988412535</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Sposób_rozliczenia_wynagrodzenia" id="9CA1C85A-A675-D44A-3EE5-87E668284EC1">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>ADDDF004-1337-74E7-4088-825C37ED8107</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Pracownik_Numer" id="9AFF7286-6DCE-1560-7691-1C0C99163EA7">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>4BA4C843-9076-74E5-4DE6-BEF6736EC164</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Rodzaj_umowy_Typ" id="1812AA25-FD76-A79E-7B36-79563BE40D0B">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>453FDA80-96B8-6303-35BF-CD579CE28012</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="0ED060A3-3E8B-EE25-F76B-405ACBFABCEE" referredColumn="F5A11298-810F-AAC8-072F-6234E0EED024"/>
+</associations>
+</Column>
+<Column name="Pracownik_Rodzaj_pracownika_Typ" id="BE70D36C-C938-A34D-6ECC-33D4BB4E8D50">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 12:51:02 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="505CC60B-CF31-10CE-2200-12F20E7B6154" referredColumn="25500856-596B-76CC-F12B-10404BC3CEDF"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="28827F10-52ED-94FA-DD63-389E21209F38" name="Zatrudnienie_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>52F732B8-16A5-6CBE-CA3D-68542A1BE5EB</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="71ABB907-6948-28D0-FD9B-2177993D0290"/>
+<colUsage columnID="1812AA25-FD76-A79E-7B36-79563BE40D0B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="05D999AE-1823-596C-3540-841E136D8ADD" name="Zatrudnienie_Pracownik_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>259C3617-3EFE-479A-32EC-78689FC49803</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="BE70D36C-C938-A34D-6ECC-33D4BB4E8D50"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="D5F8C7C2-4045-3ECE-2B9C-F1B3DC047F8C" name="Zatrudnienie_Rodzaj_umowy_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>4B285E6F-8209-2F0A-9AB1-7C1A544E1A96</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1812AA25-FD76-A79E-7B36-79563BE40D0B"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -22,7 +22,9 @@
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
-<use>0</use>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 <Attribute name="Data początkowa" id="A2ACBC8F-50F9-C3BC-85DE-A503DC33AFB6">
@@ -32,7 +34,9 @@
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
-<use>0</use>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 <Attribute name="Data końcowa" id="A697EEB1-6C20-14D3-50FF-1C99DC6BA69A">
@@ -42,19 +46,9 @@
 <engineerTo>
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="Numer" id="4B22EC5B-6D52-EBDD-97A4-8B383E62C191">
-<createdBy>marek_000</createdBy>
-<createdTime>2016-04-16 16:14:42 UTC</createdTime>
-<generatorID>83690A02-3336-8450-4FBB-3AE085546BFF</generatorID>
-<ownerDesignName>projekt1</ownerDesignName>
-<engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
-</engineerTo>
-<referedAttribute>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</referedAttribute>
-<use>0</use>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 <Attribute name="Numer1" id="BC9DF5B6-E452-E9C2-3D24-CD709CD7C9B4">
@@ -66,7 +60,8 @@
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
 <referedAttribute>4172B126-1147-5FB6-441E-C5CB4F828332</referedAttribute>
-<use>0</use>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
@@ -79,9 +74,6 @@
 <item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
 </engineerTo>
 <pk>true</pk>
-<usedAttributes>
-<attributeRef>4B22EC5B-6D52-EBDD-97A4-8B383E62C191</attributeRef>
-</usedAttributes>
 </identifier>
 </identifiers>
 </Entity>

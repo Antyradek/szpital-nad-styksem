@@ -1,0 +1,94 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="427448B9-3A72-76BC-0404-8A67F2F47D06" name="Pacjent_oczekujący">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>8EE4CB9A-FAB0-8A9B-63F3-A50DF090EEA7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<ordsAlias>pacjentoczekujacy</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Data_umieszczenia" id="03291A90-DED0-D2D5-ACB8-40DA2A14F1F5">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>F88EA0EE-C67C-707F-A55C-3E7BC3FD7CE9</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Oddział_Numer" id="5A087F76-9708-65B7-9938-A7E8D938855A">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>2AD4864E-0D0E-B69C-D1EC-2FA898873E91</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="1338A6F0-6041-B19B-3A95-C3FA4BC21DEA" referredColumn="B1826EC0-075F-962C-B215-87E2682564B4"/>
+</associations>
+</Column>
+<Column name="Pacjent_Numer" id="E571DFFE-62B1-F7EE-9A62-470A34C0D558">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>8D4A3C76-B14B-7B09-C5DA-8C5C4307F123</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="D04634A3-8EA1-AC25-F2DC-77FB58E03E19" name="Pacjent_oczekujący__IDX">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>54863312-041C-7B7A-6C48-76ED3464DC4B</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="E571DFFE-62B1-F7EE-9A62-470A34C0D558"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="B7E7EAEC-DC57-6F2A-63FD-162F2453CF15" name="Pacjent_oczekujący__IDXv1">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>152CB348-ABF1-D548-C07E-C3A1ACD56101</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="5A087F76-9708-65B7-9938-A7E8D938855A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="AD34221F-C3E4-5A9C-36AA-21BF45227E97" name="Pacjent_oczekujący_Oddział_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 11:00:42 UTC</createdTime>
+<generatorID>152CB348-ABF1-D548-C07E-C3A1ACD56101</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5A087F76-9708-65B7-9938-A7E8D938855A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="EC148A36-878A-4EE4-1C10-F5865EF50274" name="Pacjent_oczekujący_Pacjent_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-08 12:51:02 UTC</createdTime>
+<generatorID>54863312-041C-7B7A-6C48-76ED3464DC4B</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+</ind_PK_UK>
+</indexes>
+</Table>
