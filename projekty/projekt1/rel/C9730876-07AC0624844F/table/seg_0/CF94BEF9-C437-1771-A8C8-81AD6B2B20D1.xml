@@ -1,0 +1,90 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="CF94BEF9-C437-1771-A8C8-81AD6B2B20D1" name="Pacjent_oczekujący">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>8EE4CB9A-FAB0-8A9B-63F3-A50DF090EEA7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<ordsAlias>pacjent_oczekujacy</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Pacjent_Numer" id="FC3B915A-AE7A-64A1-410C-4D1611619386">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>E168A615-982A-057E-A9BE-D553A895170C</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="D8DE1BD9-C706-A534-16BA-FB78C8762CAA" referredColumn="86B35959-BDD3-1AD4-1CAF-437F45026B5D"/>
+</associations>
+</Column>
+<Column name="Data_umieszczenia" id="D9CAC235-D6C3-5145-4732-B50DB79C63F3">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>F88EA0EE-C67C-707F-A55C-3E7BC3FD7CE9</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Oddział_Numer" id="16648434-03AA-72BE-2E4D-8A66E4FE0590">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>2AD4864E-0D0E-B69C-D1EC-2FA898873E91</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="A43880ED-B0BE-1E88-B980-DCE26CC20158" referredColumn="5910A907-A15A-6570-1736-80E7AC0B1D32"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="6D4D6CB1-6539-AD45-7A5C-52EF729570CB" name="Pacjent_oczekujący_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>BDB385B4-B0CB-B5BE-9F05-A57FB0BECA2E</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="FC3B915A-AE7A-64A1-410C-4D1611619386"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="A3678944-1A4F-C7FA-F673-1C1C2418271F" name="Pacjent_oczekujący_Oddział_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>152CB348-ABF1-D548-C07E-C3A1ACD56101</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="16648434-03AA-72BE-2E4D-8A66E4FE0590"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="0300520B-60BB-D441-74BF-EAD041C39590" name="Pacjent_oczekujący_Pacjent_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:59:16 UTC</createdTime>
+<generatorID>54863312-041C-7B7A-6C48-76ED3464DC4B</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="FC3B915A-AE7A-64A1-410C-4D1611619386"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

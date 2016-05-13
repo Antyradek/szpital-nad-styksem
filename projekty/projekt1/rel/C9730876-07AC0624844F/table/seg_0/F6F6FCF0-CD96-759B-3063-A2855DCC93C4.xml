@@ -1,0 +1,83 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F6F6FCF0-CD96-759B-3063-A2855DCC93C4" name="Osoba">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>834EC1AE-EC92-B032-00E4-6B77495DBFA8</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Numer" id="7B67E03A-8CD6-D1F2-2AEC-325F929FAAFB">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Imię" id="54CD7BBA-9AE7-3FF8-B68A-0BDC09B9233A">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>C1CD96FB-C734-65C6-459B-633DB9524DBA</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Nazwisko" id="9C10A3D3-AF7B-15FF-4804-AF9506F37810">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>AC07842F-C6BA-7088-FFAB-A163AEB424E1</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Adres" id="B5B358B6-CD49-A0F4-8D5B-70E80C63F5C8">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>A2CD6514-A58E-CCA5-979F-7C1081E9F8F6</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Telefon" id="C9BBE6C4-7399-A822-666D-A8BC328C16AE">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<comment>Nie wszyscy mają telefony, prawda?</comment>
+<generatorID>A6A186FC-3B4C-C1D4-295B-575576DFB9C5</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="178AC658-C6AA-D30A-A62D-3D445BF31EAE" name="Osoba_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>81CC529A-E2DD-691B-F712-53F4EF476CF7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7B67E03A-8CD6-D1F2-2AEC-325F929FAAFB"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

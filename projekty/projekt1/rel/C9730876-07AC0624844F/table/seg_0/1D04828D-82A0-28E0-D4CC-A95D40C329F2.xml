@@ -1,0 +1,76 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="1D04828D-82A0-28E0-D4CC-A95D40C329F2" name="Pozycja_zamówienia">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>D49E28BE-9A07-080D-99F1-45A6AFBF7CC5</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<ordsAlias>pozycja_zamowienia</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Lp" id="0ADA8F7A-2468-34D0-1BAE-1472FFC3447D">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>7B0EC628-4A49-1AEC-0DB6-15D4B2A7EB5C</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Liczba" id="815F2775-5D9B-9671-F516-FE3AA472F257">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>F423CEA7-5B23-63A2-C999-4203F98737D4</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Materiał_Numer" id="2D72AE80-33B8-9293-ECBD-E1CECDE819F2">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>7AAB4C63-6E0E-555A-F10B-48DE890C7B4B</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="F747B29A-7A90-884C-CD73-C2B39CC7004D" referredColumn="BCFCD484-80F1-B676-E779-EAE823AC550D"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="7EA30D51-EF1A-8B9E-5629-27A733FF0B9E" name="Pozycja_zamówienia_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>DCFAB417-7C4E-7BCE-8D9A-AD28F3203EF7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="0ADA8F7A-2468-34D0-1BAE-1472FFC3447D"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="4C212BD5-B38C-4EB6-9C18-385E367CA8C1" name="Pozycja_zamówienia_Materiał_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:59:16 UTC</createdTime>
+<generatorID>1F701424-CB3E-738E-A1F8-7FF7A16E3BD6</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="2D72AE80-33B8-9293-ECBD-E1CECDE819F2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

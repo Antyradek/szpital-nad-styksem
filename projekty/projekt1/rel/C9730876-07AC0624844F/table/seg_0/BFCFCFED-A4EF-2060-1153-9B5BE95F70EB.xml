@@ -1,0 +1,134 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="BFCFCFED-A4EF-2060-1153-9B5BE95F70EB" name="Formularz_zapotrzebowania">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>93068D7F-0BFC-A0FA-B954-231F53EBEF03</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Numer" id="A0213591-AAD1-2F81-06C3-0B450831C757">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>2D728326-F7D1-AD16-31B7-7F753A048801</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_zgłoszenia" id="C2014B47-4E93-A5DC-5A06-B504D1D2A7E3">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>73DC98B1-AC85-BD0E-EC32-A1D91F263926</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_otrzymania" id="60DA5038-0DA8-8EB4-2B2A-FDBEF9AB3C9F">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>5042A776-BF69-37DD-F9C9-E7200E7EB0BE</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Pracownik_Numer" id="9A3D6F33-4A74-BF43-1CD3-9457C9011D09">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>83BA9434-1096-7CBC-C6DB-C32C70991EDA</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="156E12E0-BC78-1A84-720D-EE93BC3C401D" referredColumn="990342F3-06DC-6E79-DC27-4E1FF0182345"/>
+</associations>
+</Column>
+<Column name="Oddział_Numer" id="A0F3D59F-DCF0-1A44-B2B5-73E8287E305F">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>2A0DE8BA-DF14-EEC6-5BC0-637E74D5D47E</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="94013027-6C35-824C-D632-D1708CAF9EAF" referredColumn="5910A907-A15A-6570-1736-80E7AC0B1D32"/>
+</associations>
+</Column>
+<Column name="Pozycja_zamowienia_Lp" id="C0E7BE26-C24D-AB17-75A5-E89FE1D1D204">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 21:27:33 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="776CD5AB-C836-877B-757C-69FBF4512CD4" referredColumn="0ADA8F7A-2468-34D0-1BAE-1472FFC3447D"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="ACBDF608-881B-E57A-C31C-D6E2F2DE465E" name="Formularz_zapotrzebowania_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>1F4B48AE-E5A8-E09E-2179-2696C0F172C0</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A0213591-AAD1-2F81-06C3-0B450831C757"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="E4FC87D9-E55C-B53E-4DC9-F12AB84FCA89" name="Formularz_zapotrzebowania_Oddział_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>B5565DAA-4FA1-8DE8-912A-75C40BA8F757</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A0F3D59F-DCF0-1A44-B2B5-73E8287E305F"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C81155DE-BD19-3B39-344C-893FB7448589" name="Formularz_zapotrzebowania_Pracownik_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>0A637089-6DA0-3BED-7AF0-82E6AD4CBA97</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9A3D6F33-4A74-BF43-1CD3-9457C9011D09"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="36C211B6-5FF9-18C1-C5B5-5561873DEAA9" name="Formularz_zapotrzebowania_Pozycja_zamówienia_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 21:28:13 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C0E7BE26-C24D-AB17-75A5-E89FE1D1D204"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

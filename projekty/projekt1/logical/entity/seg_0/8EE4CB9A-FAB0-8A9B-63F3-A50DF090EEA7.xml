@@ -4,7 +4,7 @@
 <createdTime>2016-04-16 17:01:12 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <adequatelyNormalized>NO</adequatelyNormalized>
 <expectedVolumes>0</expectedVolumes>
@@ -20,7 +20,7 @@
 <createdTime>2016-04-16 17:01:41 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
@@ -33,12 +33,42 @@
 <generatorID>152CB348-ABF1-D548-C07E-C3A1ACD56101</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <referedAttribute>96F58E77-9C49-FA5E-1366-6BDFF3044688</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Numer1" id="E168A615-982A-057E-A9BE-D553A895170C">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:38:00 UTC</createdTime>
+<generatorID>54863312-041C-7B7A-6C48-76ED3464DC4B</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<referedAttribute>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="BDB385B4-B0CB-B5BE-9F05-A57FB0BECA2E" name="Pacjent oczekujący PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:37:25 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>2AD4864E-0D0E-B69C-D1EC-2FA898873E91</attributeRef>
+<attributeRef>2AD4864E-0D0E-B69C-D1EC-2FA898873E91</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
 </Entity>

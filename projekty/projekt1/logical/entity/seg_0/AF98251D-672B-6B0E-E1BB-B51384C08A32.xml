@@ -4,7 +4,7 @@
 <createdTime>2016-04-16 13:19:28 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <adequatelyNormalized>NO</adequatelyNormalized>
 <expectedVolumes>0</expectedVolumes>
@@ -20,7 +20,7 @@
 <createdTime>2016-04-16 13:37:57 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
@@ -32,7 +32,7 @@
 <createdTime>2016-04-16 13:20:12 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
@@ -44,7 +44,7 @@
 <createdTime>2016-04-16 13:20:41 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -57,7 +57,7 @@
 <createdTime>2016-04-16 13:21:49 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -70,12 +70,26 @@
 <createdTime>2016-04-16 13:22:58 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Numer" id="63846DD2-A878-3659-5941-1454E92DAC5B">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:26:22 UTC</createdTime>
+<generatorID>3DBB364C-3100-ABA6-BD7A-818747CEE575</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<referedAttribute>5C8F551B-F2AF-782D-16EF-249BC429C250</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
@@ -85,7 +99,7 @@
 <createdTime>2016-04-16 13:38:04 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>

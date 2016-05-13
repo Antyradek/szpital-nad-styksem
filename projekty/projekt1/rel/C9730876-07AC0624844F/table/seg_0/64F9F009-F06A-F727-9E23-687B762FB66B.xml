@@ -1,0 +1,111 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="64F9F009-F06A-F727-9E23-687B762FB66B" name="Pracownik">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>54F881B8-EDA4-DD14-2752-8C63B0AF9D32</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Numer" id="990342F3-06DC-6E79-DC27-4E1FF0182345">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="9BD7BB25-7686-8AFC-191A-7126ED9422EA" referredColumn="7B67E03A-8CD6-D1F2-2AEC-325F929FAAFB"/>
+</associations>
+</Column>
+<Column name="Data_urodzenia" id="55060993-F6D8-C6F7-AFBF-1F872FC670E4">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>017EC3DE-FCE6-7BDF-CFCF-A532E31F03ED</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Płeć" id="8D069DBA-9E91-05CC-9ADF-5F5DC0BBFE1D">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>5B5AAF2A-75A7-03AD-3C0A-2247096FF9C2</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PESEL" id="A886F03C-38A2-50A4-79B3-1CBCE377EF07">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>5500D97C-A9A9-554F-D09E-C3540D349A42</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Rodzaj_pracownika_Typ" id="94695EC7-709D-92AB-71EC-D47DF688BF7A">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>42EE2700-246B-9123-B210-AEAF84558F40</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="D9E7CC19-AC5F-2B3D-EC03-F156F608F5AA" referredColumn="FBC89646-4949-0E46-1446-3F939572F282"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="C6C9626C-AEE3-F15E-6261-45BE38B7F224" name="Pracownik_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>81CC529A-E2DD-691B-F712-53F4EF476CF7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="990342F3-06DC-6E79-DC27-4E1FF0182345"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="02D53402-68D8-AD84-1352-8DE54EC256B9" name="Pracownik_Osoba_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>5A9E4059-7D9C-AA7D-9F3A-8DBB9B014C1E</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="990342F3-06DC-6E79-DC27-4E1FF0182345"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="40F34520-C96A-46AE-9910-739E7BDC9EB1" name="Pracownik_Rodzaj_pracownika_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>CE4A9212-52E1-260F-09BC-0F89A47E4F50</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="94695EC7-709D-92AB-71EC-D47DF688BF7A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

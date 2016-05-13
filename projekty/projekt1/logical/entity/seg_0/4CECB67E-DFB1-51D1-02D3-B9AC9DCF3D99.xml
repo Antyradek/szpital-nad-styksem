@@ -4,7 +4,7 @@
 <createdTime>2016-04-09 23:14:45 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="3FAE9C84-45CA-2F60-2F4B-E5A3835E946B" value="true"/>
 </engineerTo>
 <adequatelyNormalized>NO</adequatelyNormalized>
 <expectedVolumes>0</expectedVolumes>
@@ -21,12 +21,40 @@
 <generatorID>171956F9-D39B-24B1-FD80-D15F993CFDA9</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="3FAE9C84-45CA-2F60-2F4B-E5A3835E946B" value="true"/>
 </engineerTo>
 <referedAttribute>4AE4C5DD-6855-BF9A-ADF1-C2540A9F4DD5</referedAttribute>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Numer" id="CDFFDFD0-6A32-E612-CD55-5EE8837EF169">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 18:50:49 UTC</createdTime>
+<generatorID>603E5BF2-C0F8-9380-6F7A-C5BF5FD4A7B7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="3FAE9C84-45CA-2F60-2F4B-E5A3835E946B" value="true"/>
+</engineerTo>
+<referedAttribute>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Numer1" id="82F7B33D-BC10-10C0-6E1B-9D0DDFA23FD1">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 18:50:49 UTC</createdTime>
+<generatorID>8F9F1DAE-EF07-D591-51D7-BE0D759E180A</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="3FAE9C84-45CA-2F60-2F4B-E5A3835E946B" value="true"/>
+</engineerTo>
+<referedAttribute>F4C8AD76-C3BA-3F25-7885-ACD80EB063A7</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
@@ -36,7 +64,7 @@
 <createdTime>2016-04-09 23:18:07 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="3FAE9C84-45CA-2F60-2F4B-E5A3835E946B" value="true"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>

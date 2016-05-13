@@ -1,0 +1,98 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="93068D7F-0BFC-A0FA-B954-231F53EBEF03" name="Formularz zapotrzebowania">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:32:17 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Numer" id="2D728326-F7D1-AD16-31B7-7F753A048801">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:32:37 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Data zgłoszenia" id="73DC98B1-AC85-BD0E-EC32-A1D91F263926">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:32:51 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Data otrzymania" id="5042A776-BF69-37DD-F9C9-E7200E7EB0BE">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:33:03 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Numer1" id="83BA9434-1096-7CBC-C6DB-C32C70991EDA">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:33:34 UTC</createdTime>
+<generatorID>0A637089-6DA0-3BED-7AF0-82E6AD4CBA97</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<referedAttribute>5C8F551B-F2AF-782D-16EF-249BC429C250</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Numer2" id="2A0DE8BA-DF14-EEC6-5BC0-637E74D5D47E">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:46:07 UTC</createdTime>
+<generatorID>B5565DAA-4FA1-8DE8-912A-75C40BA8F757</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<referedAttribute>96F58E77-9C49-FA5E-1366-6BDFF3044688</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="1F4B48AE-E5A8-E09E-2179-2696C0F172C0" name="Formularz zapotrzebowania PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:32:46 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>2D728326-F7D1-AD16-31B7-7F753A048801</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

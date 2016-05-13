@@ -1,0 +1,104 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="279D5CF4-601D-4F1B-BB33-21D15205F5E7" name="Pokrewieństwo">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>4CECB67E-DFB1-51D1-02D3-B9AC9DCF3D99</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Typ_pokrewieństwa_Typ" id="07FFE237-E919-394A-A41B-308AD9CB53ED">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>E00A5F66-E36D-ACB3-D8BF-792E0D971514</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="AD35A28F-02A8-1DE8-C123-41ABE360E10B" referredColumn="99C709A7-2A43-0BA0-D77B-529DCCC97DF7"/>
+</associations>
+</Column>
+<Column name="Pacjent_Numer" id="4E1F2375-D791-0372-3BA5-1A34E9C75564">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>CDFFDFD0-6A32-E612-CD55-5EE8837EF169</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="066BEE52-BA7B-C3CC-E516-FD6CEDEFF2FC" referredColumn="86B35959-BDD3-1AD4-1CAF-437F45026B5D"/>
+</associations>
+</Column>
+<Column name="Osoba_Numer" id="0864C76D-4809-44B8-5064-C7EC164D1F07">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>82F7B33D-BC10-10C0-6E1B-9D0DDFA23FD1</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="58F6ABDB-2AD0-1941-0C2A-AD728C10CF90" referredColumn="7B67E03A-8CD6-D1F2-2AEC-325F929FAAFB"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="1E8F6ADA-73AC-B50D-827A-BDC1B5148AD9" name="Pokrewieństwo_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>A263BD2E-E8E4-35EA-A3C8-AD303A88EF6F</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="07FFE237-E919-394A-A41B-308AD9CB53ED"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="7182FA09-8107-DDA1-CD1A-2667062A2CC3" name="Pokrewieństwo_Pacjent_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>603E5BF2-C0F8-9380-6F7A-C5BF5FD4A7B7</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="4E1F2375-D791-0372-3BA5-1A34E9C75564"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="104FF1E6-C66A-B3A9-80D0-DC7A8DC5AFBF" name="Pokrewieństwo_Typ_pokrewieństwa_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>171956F9-D39B-24B1-FD80-D15F993CFDA9</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="07FFE237-E919-394A-A41B-308AD9CB53ED"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="C6490E41-ED48-7B9F-B0B1-01D3600C02B2" name="Pokrewieństwo_Osoba_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:59:15 UTC</createdTime>
+<generatorID>8F9F1DAE-EF07-D591-51D7-BE0D759E180A</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="0864C76D-4809-44B8-5064-C7EC164D1F07"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

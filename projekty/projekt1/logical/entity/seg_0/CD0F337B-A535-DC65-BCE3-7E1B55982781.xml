@@ -4,7 +4,7 @@
 <createdTime>2016-04-16 12:51:36 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="CB8C424A-0629-2485-35AE-2605581473C0" value="true"/>
 </engineerTo>
 <adequatelyNormalized>NO</adequatelyNormalized>
 <expectedVolumes>0</expectedVolumes>
@@ -16,12 +16,24 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Numer" id="FE61F754-3293-62A2-3405-5D81EC573D88">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:46:52 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="CB8C424A-0629-2485-35AE-2605581473C0" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
 <Attribute name="Nr praktyki" id="45AA232B-F468-A016-6348-0757D8D5A5CC">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-04-16 12:55:55 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="CB8C424A-0629-2485-35AE-2605581473C0" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
@@ -30,16 +42,16 @@
 </Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="4F9A8130-D327-4E48-127A-024DF27F9E68" name="Lekarz rodzinny PK">
+<identifier id="F10EE1A1-2882-D92F-00D1-9F8E13BA707B" name="Lekarz rodzinny PK">
 <createdBy>marek_000</createdBy>
-<createdTime>2016-04-16 12:58:32 UTC</createdTime>
+<createdTime>2016-05-13 20:47:02 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="CB8C424A-0629-2485-35AE-2605581473C0" value="true"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>
-<attributeRef>45AA232B-F468-A016-6348-0757D8D5A5CC</attributeRef>
+<attributeRef>FE61F754-3293-62A2-3405-5D81EC573D88</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>

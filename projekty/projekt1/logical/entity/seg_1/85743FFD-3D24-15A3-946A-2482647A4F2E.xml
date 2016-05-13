@@ -4,7 +4,7 @@
 <createdTime>2016-04-16 17:19:18 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="CB8C424A-0629-2485-35AE-2605581473C0" value="true"/>
 </engineerTo>
 <adequatelyNormalized>NO</adequatelyNormalized>
 <expectedVolumes>0</expectedVolumes>
@@ -20,7 +20,7 @@
 <createdTime>2016-04-16 17:19:25 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="CB8C424A-0629-2485-35AE-2605581473C0" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
@@ -28,4 +28,19 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="CDAC5FBC-84F8-A48B-AF13-E55A7501EFF3" name="Stan cywilny PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:35:00 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="CB8C424A-0629-2485-35AE-2605581473C0" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>19416479-C13E-A35B-6DB2-B77155EBC548</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
 </Entity>

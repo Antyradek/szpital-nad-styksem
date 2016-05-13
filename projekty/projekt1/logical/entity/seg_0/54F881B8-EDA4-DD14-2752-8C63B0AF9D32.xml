@@ -4,7 +4,7 @@
 <createdTime>2016-04-16 13:02:13 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="C9730876-341C-5005-74FF-07AC0624844F" value="true"/>
 </engineerTo>
 <adequatelyNormalized>NO</adequatelyNormalized>
 <expectedVolumes>0</expectedVolumes>
@@ -16,12 +16,24 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Numer" id="5C8F551B-F2AF-782D-16EF-249BC429C250">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:26:11 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="C9730876-341C-5005-74FF-07AC0624844F" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
 <Attribute name="Data urodzenia" id="017EC3DE-FCE6-7BDF-CFCF-A532E31F03ED">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-04-16 13:02:40 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="C9730876-341C-5005-74FF-07AC0624844F" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
@@ -33,7 +45,7 @@
 <createdTime>2016-04-16 13:03:29 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="C9730876-341C-5005-74FF-07AC0624844F" value="true"/>
 </engineerTo>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
@@ -45,7 +57,7 @@
 <createdTime>2016-04-16 13:04:30 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="C9730876-341C-5005-74FF-07AC0624844F" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -59,9 +71,10 @@
 <generatorID>CE4A9212-52E1-260F-09BC-0F89A47E4F50</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="C9730876-341C-5005-74FF-07AC0624844F" value="true"/>
 </engineerTo>
 <referedAttribute>52F26875-82B2-EB88-AF4B-B94454B61CCA</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT024</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
@@ -73,11 +86,11 @@
 <createdTime>2016-04-16 17:17:55 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="C9730876-341C-5005-74FF-07AC0624844F" value="true"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>
-<attributeRef>42EE2700-246B-9123-B210-AEAF84558F40</attributeRef>
+<attributeRef>5C8F551B-F2AF-782D-16EF-249BC429C250</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>

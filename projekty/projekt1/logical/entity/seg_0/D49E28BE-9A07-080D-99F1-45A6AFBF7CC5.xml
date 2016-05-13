@@ -4,7 +4,7 @@
 <createdTime>2016-04-16 15:56:12 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <adequatelyNormalized>NO</adequatelyNormalized>
 <expectedVolumes>0</expectedVolumes>
@@ -15,12 +15,24 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Lp" id="7B0EC628-4A49-1AEC-0DB6-15D4B2A7EB5C">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:06:15 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
 <Attribute name="Liczba" id="F423CEA7-5B23-63A2-C999-4203F98737D4">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-04-16 15:57:41 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
@@ -28,15 +40,30 @@
 <logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="Numer" id="0D5A38B1-33F7-BB26-7878-B8D5025A8EFD">
+<Attribute name="Numer" id="7AAB4C63-6E0E-555A-F10B-48DE890C7B4B">
 <createdBy>marek_000</createdBy>
-<createdTime>2016-04-16 16:01:48 UTC</createdTime>
+<createdTime>2016-05-13 19:04:23 UTC</createdTime>
 <generatorID>1F701424-CB3E-738E-A1F8-7FF7A16E3BD6</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <referedAttribute>4172B126-1147-5FB6-441E-C5CB4F828332</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Numer1" id="35D51180-6A6D-F2E7-B40D-B8FA924C9832">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 19:46:50 UTC</createdTime>
+<generatorID>CAE37ABE-1E2A-0B7E-8FA0-D40F7B70A9E9</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<engineerTo>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+</engineerTo>
+<referedAttribute>2D728326-F7D1-AD16-31B7-7F753A048801</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT011</logicalDatatype>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
@@ -48,27 +75,14 @@
 <createdTime>2016-05-08 12:46:02 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
+<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
 </engineerTo>
 <pk>true</pk>
-</identifier>
-<identifier id="6533E88E-8944-F02F-F322-E03AF1E5E748" name="Pozycja zamówienia PKv1">
-<createdBy>marek_000</createdBy>
-<createdTime>2016-05-08 12:46:02 UTC</createdTime>
-<ownerDesignName>projekt1</ownerDesignName>
-<engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
-</engineerTo>
-<pk>true</pk>
-</identifier>
-<identifier id="4E4A7481-298A-0770-AD0C-03B04F1017FB" name="Pozycja zamówienia PKv2">
-<createdBy>marek_000</createdBy>
-<createdTime>2016-05-08 12:46:02 UTC</createdTime>
-<ownerDesignName>projekt1</ownerDesignName>
-<engineerTo>
-<item key="4EE28B18-D289-D210-CDB7-27978BD75092" value="true"/>
-</engineerTo>
-<pk>true</pk>
+<newElementsIDs>7B0EC628-4A49-1AEC-0DB6-15D4B2A7EB5C,CAE37ABE-1E2A-0B7E-8FA0-D40F7B70A9E9</newElementsIDs>
+<usedAttributes>
+<attributeRef>7B0EC628-4A49-1AEC-0DB6-15D4B2A7EB5C</attributeRef>
+<attributeRef>35D51180-6A6D-F2E7-B40D-B8FA924C9832</attributeRef>
+</usedAttributes>
 </identifier>
 </identifiers>
 </Entity>

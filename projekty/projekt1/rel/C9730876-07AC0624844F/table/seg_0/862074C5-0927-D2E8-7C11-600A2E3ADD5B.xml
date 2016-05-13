@@ -1,0 +1,112 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="862074C5-0927-D2E8-7C11-600A2E3ADD5B" name="Dozowanie_leku">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>255F0182-73A9-6457-7626-C3308F3D9671</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Liczba_jednostek_na_dobę" id="3EAFCD95-A2F4-4BC5-B0FB-BBA578427B5C">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>10E77F11-DFAF-7447-E728-D061F47F4E19</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_początkowa" id="08139C26-9B63-0240-C9A9-D0ED455B559D">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>A2ACBC8F-50F9-C3BC-85DE-A503DC33AFB6</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_końcowa" id="2A3FB1EE-8E41-B371-B076-0C7F6D25B0CF">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>A697EEB1-6C20-14D3-50FF-1C99DC6BA69A</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Lek_Numer" id="CE07C7B2-9891-DB00-AC4A-3FD349DB527E">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>BC9DF5B6-E452-E9C2-3D24-CD709CD7C9B4</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="FBDD7E07-2A35-F902-5B39-EC6D473B2429" referredColumn="03EE92A6-497F-0C47-2B41-CD04CA94BD58"/>
+</associations>
+</Column>
+<Column name="Pacjent_Numer" id="5BD04A0F-9E73-9D9D-54B0-588DB2924D54">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>8FDD9E5B-F3DF-C17A-ED46-DA8A4DD5FC5D</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="6A123EF9-C6A0-FCEA-8030-151EC1A8D772" referredColumn="86B35959-BDD3-1AD4-1CAF-437F45026B5D"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="923D50B7-F88E-D40A-A836-1329559281C6" name="Dozowanie_leku_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>8542A22D-66B2-70CC-B2C9-EF95AAF1DA48</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="CE07C7B2-9891-DB00-AC4A-3FD349DB527E"/>
+<colUsage columnID="5BD04A0F-9E73-9D9D-54B0-588DB2924D54"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="3EF35435-9B61-FF8F-9682-2D10190DEB39" name="Dozowanie_leku_Pacjent_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>83690A02-3336-8450-4FBB-3AE085546BFF</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5BD04A0F-9E73-9D9D-54B0-588DB2924D54"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="65F3D419-B2FA-6DD1-812A-8A6AFD91A6ED" name="Dozowanie_leku_Lek_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:59:15 UTC</createdTime>
+<generatorID>10233DEF-6F90-BC2A-156E-802B49BDF317</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="CE07C7B2-9891-DB00-AC4A-3FD349DB527E"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

@@ -1,0 +1,79 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="BD4DAFA3-5C2F-D86F-9E79-93ED8D9DF269" name="Pracownicy_na_oddziale">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>DB307ACF-48AB-67DB-1F23-3435C8558232</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Pracownik_Numer" id="A3F0603A-AA3A-F9AA-88EE-217ED9325D01">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>DB813E14-B272-9CED-8535-DCCCC3D2F79D</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="1823328D-9641-D83E-58F1-F27D7013D366" referredColumn="990342F3-06DC-6E79-DC27-4E1FF0182345"/>
+</associations>
+</Column>
+<Column name="Oddział_Numer" id="820F6144-1360-70C9-534A-D5304C4F0BF8">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>4F568C42-A9E1-4262-AE5E-C1F94C5AC574</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="F859D747-8B6E-71CF-F493-F2BDD2FCD0E1" referredColumn="5910A907-A15A-6570-1736-80E7AC0B1D32"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="330AA20E-2C25-B278-2BFA-05FC6DC1DAD7" name="Pracownicy_na_oddziale_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>75B361C4-E713-A02F-97FE-1DCA67BA3B3C</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A3F0603A-AA3A-F9AA-88EE-217ED9325D01"/>
+<colUsage columnID="820F6144-1360-70C9-534A-D5304C4F0BF8"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="E45D9FDF-D151-10C2-7AC1-11456AB44D5B" name="Pracownicy_na_oddziale_Oddział_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>CAF03BA7-899C-E659-7FC6-035594750D1B</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="820F6144-1360-70C9-534A-D5304C4F0BF8"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="9C6A5997-A5E7-E162-54F3-F5E2018A1F49" name="Pracownicy_na_oddziale_Pracownik_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>AEBC1166-6235-3470-13EE-2E1CDD988E6D</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A3F0603A-AA3A-F9AA-88EE-217ED9325D01"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

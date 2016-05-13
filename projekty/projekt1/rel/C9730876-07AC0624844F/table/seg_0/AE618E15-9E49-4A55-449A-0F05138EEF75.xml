@@ -1,0 +1,109 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="AE618E15-9E49-4A55-449A-0F05138EEF75" name="Wizyta">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>253F7842-5DD3-98F8-3A03-DD5FE58ABB8B</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Numer" id="6818FC68-9404-9CEE-7BAB-3C21B8818335">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>031DC8C4-B72C-D6BD-0283-EB3632D093B3</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Data_i_godzina_wizyty" id="AA73654B-643A-10D9-4694-75651E9B746A">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>4B233C3D-50C7-A3CE-3D98-BBC7D08F5528</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT014</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Numer_gabinetu" id="D5312C16-D6EC-36C2-CFC7-52787CC26426">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>B9791E66-4595-3DCD-E555-B1914D7D1FBE</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Pacjent_Numer" id="489BD418-15A4-69C9-81D5-364D5943F7D9">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>B37A1DCF-2265-ACD9-CF2E-B9A59A77EE64</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="4EF32DCA-E17E-5AFF-5763-E28B6250EA1C" referredColumn="86B35959-BDD3-1AD4-1CAF-437F45026B5D"/>
+</associations>
+</Column>
+<Column name="Pracownik_Numer" id="15F133DA-A26B-742F-E503-178BDC0542B7">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 21:22:39 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="61585EEF-BEF3-F8A4-D58F-0D54E5FB74CD" referredColumn="990342F3-06DC-6E79-DC27-4E1FF0182345"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="FBAFA722-91A3-A5B9-D3EC-FCC02AE86535" name="Wizyta_PK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>7BE68EF9-A104-F3C0-9FD7-41E1B300A8FE</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="6818FC68-9404-9CEE-7BAB-3C21B8818335"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="9664DC43-C2BA-C620-1882-B4A9B90CF2E6" name="Wizyta_Pacjent_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:51:53 UTC</createdTime>
+<generatorID>E3DFA71F-4E23-5D2F-C407-D648C38225F6</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="489BD418-15A4-69C9-81D5-364D5943F7D9"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="504A3D7D-9CE5-7F16-BC21-BC42D2CD3533" name="Wizyta_Pracownik_FK">
+<createdBy>marek_000</createdBy>
+<createdTime>2016-05-13 20:59:16 UTC</createdTime>
+<generatorID>5D3EF13C-5C7A-8B41-1D2A-675F355E0FA5</generatorID>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="15F133DA-A26B-742F-E503-178BDC0542B7"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
