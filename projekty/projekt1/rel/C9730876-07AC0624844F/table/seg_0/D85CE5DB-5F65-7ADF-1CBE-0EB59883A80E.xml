@@ -1,9 +1,10 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D85CE5DB-5F65-7ADF-1CBE-0EB59883A80E" name="Hospitalizacja">
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D85CE5DB-5F65-7ADF-1CBE-0EB59883A80E" name="Hospitalizacje">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-05-13 20:51:53 UTC</createdTime>
 <generatorID>340FDEDC-9C41-F6C9-76E5-52CC025E60C5</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
+<ordsAlias>hospitalizacja</ordsAlias>
 <allowColumnReorder>false</allowColumnReorder>
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>
@@ -41,7 +42,7 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
-<Column name="Faktyczna_data_wypisania_z_oddziału" id="863EDCC8-8705-6BA8-7B50-B65619081AF4">
+<Column name="Faktyczna_data_wypisania" id="863EDCC8-8705-6BA8-7B50-B65619081AF4">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-05-13 20:51:53 UTC</createdTime>
 <generatorID>32549E40-F7D8-CBAA-DA30-969425900F3A</generatorID>

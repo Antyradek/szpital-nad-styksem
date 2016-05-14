@@ -1,9 +1,10 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="BC8975C6-3980-8D8D-80E5-E55A7490AADF" name="Zatrudnienie">
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="BC8975C6-3980-8D8D-80E5-E55A7490AADF" name="Zatrudnienia">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-05-13 20:51:53 UTC</createdTime>
 <generatorID>0EF6334D-4EAC-2ED7-E3BC-05C165DACD3F</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
+<ordsAlias>zatrudnienie</ordsAlias>
 <allowColumnReorder>false</allowColumnReorder>
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>
@@ -41,7 +42,7 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <autoIncrementCycle>false</autoIncrementCycle>
 </Column>
-<Column name="Sposób_rozliczenia_wynagrodzenia" id="9983BF83-FD4D-5DCF-BBA2-C5A3F1C19277">
+<Column name="Tryb_rozliczenia_wynagrodzenia" id="9983BF83-FD4D-5DCF-BBA2-C5A3F1C19277">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-05-13 20:51:53 UTC</createdTime>
 <generatorID>ADDDF004-1337-74E7-4088-825C37ED8107</generatorID>

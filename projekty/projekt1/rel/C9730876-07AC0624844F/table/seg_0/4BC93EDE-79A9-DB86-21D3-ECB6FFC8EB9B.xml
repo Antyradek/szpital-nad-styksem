@@ -1,9 +1,10 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="4BC93EDE-79A9-DB86-21D3-ECB6FFC8EB9B" name="Hospitalizacja_ambulatoryjna">
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="4BC93EDE-79A9-DB86-21D3-ECB6FFC8EB9B" name="Hospitalizacje_ambulatoryjne">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-05-13 20:51:53 UTC</createdTime>
 <generatorID>DE6BCA70-C0B0-E7D3-FD27-AE1820533031</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
+<ordsAlias>hospitalizacja_ambulatoryjna</ordsAlias>
 <allowColumnReorder>false</allowColumnReorder>
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>

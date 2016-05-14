@@ -1,10 +1,10 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="DB307ACF-48AB-67DB-1F23-3435C8558232" name="Pracownicy na oddziale">
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="DB307ACF-48AB-67DB-1F23-3435C8558232" name="Pracownik na oddziale">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-05-13 20:40:05 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+<item key="C9730876-341C-5005-74FF-07AC0624844F" value="true"/>
 </engineerTo>
 <adequatelyNormalized>NO</adequatelyNormalized>
 <expectedVolumes>0</expectedVolumes>
@@ -21,7 +21,7 @@
 <generatorID>AEBC1166-6235-3470-13EE-2E1CDD988E6D</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+<item key="C9730876-341C-5005-74FF-07AC0624844F" value="true"/>
 </engineerTo>
 <referedAttribute>5C8F551B-F2AF-782D-16EF-249BC429C250</referedAttribute>
 <useDomainConstraints>false</useDomainConstraints>
@@ -35,7 +35,7 @@
 <generatorID>CAF03BA7-899C-E659-7FC6-035594750D1B</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+<item key="C9730876-341C-5005-74FF-07AC0624844F" value="true"/>
 </engineerTo>
 <referedAttribute>96F58E77-9C49-FA5E-1366-6BDFF3044688</referedAttribute>
 <useDomainConstraints>false</useDomainConstraints>
@@ -50,7 +50,7 @@
 <createdTime>2016-05-13 20:40:37 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <engineerTo>
-<item key="5D10FDA5-3F37-44C8-E98C-2822898CC725" value="true"/>
+<item key="C9730876-341C-5005-74FF-07AC0624844F" value="true"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>

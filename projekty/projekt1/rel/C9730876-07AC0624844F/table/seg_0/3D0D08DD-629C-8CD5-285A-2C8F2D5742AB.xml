@@ -1,9 +1,10 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="3D0D08DD-629C-8CD5-285A-2C8F2D5742AB" name="Typ_pokrewieństwa">
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="3D0D08DD-629C-8CD5-285A-2C8F2D5742AB" name="Typy_pokrewieństwa">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-05-13 20:51:53 UTC</createdTime>
 <generatorID>69CDB129-6EA1-C308-CC31-68DAAC95BF32</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
+<ordsAlias>typy_pokrewienstwa</ordsAlias>
 <allowColumnReorder>false</allowColumnReorder>
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>
