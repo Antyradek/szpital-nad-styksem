@@ -9,23 +9,11 @@
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>
 <columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
-<Column name="Lp" id="0ADA8F7A-2468-34D0-1BAE-1472FFC3447D">
-<createdBy>marek_000</createdBy>
-<createdTime>2016-05-13 20:51:53 UTC</createdTime>
-<generatorID>7B0EC628-4A49-1AEC-0DB6-15D4B2A7EB5C</generatorID>
-<ownerDesignName>projekt1</ownerDesignName>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT011</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-<autoIncrementCycle>false</autoIncrementCycle>
-</Column>
 <Column name="Liczba" id="815F2775-5D9B-9671-F516-FE3AA472F257">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-05-13 20:51:53 UTC</createdTime>
 <generatorID>F423CEA7-5B23-63A2-C999-4203F98737D4</generatorID>
 <ownerDesignName>projekt1</ownerDesignName>
-<nullsAllowed>true</nullsAllowed>
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT011</logicalDatatype>
@@ -47,18 +35,31 @@
 <colAssociation fkAssociation="F747B29A-7A90-884C-CD73-C2B39CC7004D" referredColumn="BCFCD484-80F1-B676-E779-EAE823AC550D"/>
 </associations>
 </Column>
+<Column name="Formularz" id="855F77DC-EFEA-81A8-CD5F-A8F9FBAC447B">
+<createdBy>felix</createdBy>
+<createdTime>2016-05-19 18:07:41 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="B5A47C96-708F-15E6-8236-F72224569FA7" referredColumn="A0213591-AAD1-2F81-06C3-0B450831C757"/>
+</associations>
+</Column>
 </columns>
 <indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
-<ind_PK_UK id="7EA30D51-EF1A-8B9E-5629-27A733FF0B9E" name="Pozycja_zamówienia_PK">
-<createdBy>marek_000</createdBy>
-<createdTime>2016-05-13 20:51:53 UTC</createdTime>
-<generatorID>DCFAB417-7C4E-7BCE-8D9A-AD28F3203EF7</generatorID>
+<ind_PK_UK id="D6A8ADC0-19F6-F9C8-AB07-D723FCAAA105" name="Pozycje_zamówienia_PK">
+<createdBy>felix</createdBy>
+<createdTime>2016-05-19 18:08:18 UTC</createdTime>
 <ownerDesignName>projekt1</ownerDesignName>
 <pk>true</pk>
 <indexState>Primary Constraint</indexState>
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
-<colUsage columnID="0ADA8F7A-2468-34D0-1BAE-1472FFC3447D"/>
+<colUsage columnID="855F77DC-EFEA-81A8-CD5F-A8F9FBAC447B"/>
+<colUsage columnID="2D72AE80-33B8-9293-ECBD-E1CECDE819F2"/>
 </indexColumnUsage>
 </ind_PK_UK>
 <ind_PK_UK id="4C212BD5-B38C-4EB6-9C18-385E367CA8C1" name="Pozycja_zamówienia_Materiał_FK">
@@ -70,6 +71,16 @@
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
 <colUsage columnID="2D72AE80-33B8-9293-ECBD-E1CECDE819F2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="EDEE6218-1800-615F-ABA4-F94E43F4DFD3" name="Pozycje_zamówienia_Formularze_zapotrzebowania_FK">
+<createdBy>felix</createdBy>
+<createdTime>2016-05-19 18:08:45 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="855F77DC-EFEA-81A8-CD5F-A8F9FBAC447B"/>
 </indexColumnUsage>
 </ind_PK_UK>
 </indexes>

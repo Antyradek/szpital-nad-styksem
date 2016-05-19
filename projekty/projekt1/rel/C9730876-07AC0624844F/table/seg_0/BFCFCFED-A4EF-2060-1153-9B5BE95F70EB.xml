@@ -72,19 +72,6 @@
 <colAssociation fkAssociation="94013027-6C35-824C-D632-D1708CAF9EAF" referredColumn="5910A907-A15A-6570-1736-80E7AC0B1D32"/>
 </associations>
 </Column>
-<Column name="Pozycja_zamowienia_Lp" id="C0E7BE26-C24D-AB17-75A5-E89FE1D1D204">
-<createdBy>marek_000</createdBy>
-<createdTime>2016-05-13 21:27:33 UTC</createdTime>
-<ownerDesignName>projekt1</ownerDesignName>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT011</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-<autoIncrementCycle>false</autoIncrementCycle>
-<associations>
-<colAssociation fkAssociation="776CD5AB-C836-877B-757C-69FBF4512CD4" referredColumn="0ADA8F7A-2468-34D0-1BAE-1472FFC3447D"/>
-</associations>
-</Column>
 </columns>
 <indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
 <ind_PK_UK id="ACBDF608-881B-E57A-C31C-D6E2F2DE465E" name="Formularz_zapotrzebowania_PK">
@@ -119,16 +106,6 @@
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
 <colUsage columnID="9A3D6F33-4A74-BF43-1CD3-9457C9011D09"/>
-</indexColumnUsage>
-</ind_PK_UK>
-<ind_PK_UK id="36C211B6-5FF9-18C1-C5B5-5561873DEAA9" name="Formularz_zapotrzebowania_Pozycja_zamówienia_FK">
-<createdBy>marek_000</createdBy>
-<createdTime>2016-05-13 21:28:13 UTC</createdTime>
-<ownerDesignName>projekt1</ownerDesignName>
-<indexState>Foreign Key</indexState>
-<isSurrogateKey>false</isSurrogateKey>
-<indexColumnUsage>
-<colUsage columnID="C0E7BE26-C24D-AB17-75A5-E89FE1D1D204"/>
 </indexColumnUsage>
 </ind_PK_UK>
 </indexes>

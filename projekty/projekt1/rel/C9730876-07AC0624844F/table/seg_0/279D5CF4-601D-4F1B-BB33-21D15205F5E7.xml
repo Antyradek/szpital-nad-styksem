@@ -17,6 +17,7 @@
 <useDomainConstraints>false</useDomainConstraints>
 <use>1</use>
 <logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20 CHAR</dataTypeSize>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 <previousColumn>false</previousColumn>
 <autoIncrementCycle>false</autoIncrementCycle>
@@ -66,6 +67,8 @@
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
 <colUsage columnID="07FFE237-E919-394A-A41B-308AD9CB53ED"/>
+<colUsage columnID="0864C76D-4809-44B8-5064-C7EC164D1F07"/>
+<colUsage columnID="4E1F2375-D791-0372-3BA5-1A34E9C75564"/>
 </indexColumnUsage>
 </ind_PK_UK>
 <ind_PK_UK id="7182FA09-8107-DDA1-CD1A-2667062A2CC3" name="Pokrewieństwo_Pacjent_FK">

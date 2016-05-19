@@ -72,6 +72,17 @@
 <colAssociation fkAssociation="6A123EF9-C6A0-FCEA-8030-151EC1A8D772" referredColumn="86B35959-BDD3-1AD4-1CAF-437F45026B5D"/>
 </associations>
 </Column>
+<Column name="Czas_podania" id="44703EAD-35F4-2794-1E66-6471149C424F">
+<createdBy>felix</createdBy>
+<createdTime>2016-05-19 18:20:34 UTC</createdTime>
+<commentInRDBMS>Sekundy od północy danego dnia</commentInRDBMS>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
 </columns>
 <indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
 <ind_PK_UK id="923D50B7-F88E-D40A-A836-1329559281C6" name="Dozowanie_leku_PK">
@@ -85,6 +96,9 @@
 <indexColumnUsage>
 <colUsage columnID="CE07C7B2-9891-DB00-AC4A-3FD349DB527E"/>
 <colUsage columnID="5BD04A0F-9E73-9D9D-54B0-588DB2924D54"/>
+<colUsage columnID="08139C26-9B63-0240-C9A9-D0ED455B559D"/>
+<colUsage columnID="2A3FB1EE-8E41-B371-B076-0C7F6D25B0CF"/>
+<colUsage columnID="44703EAD-35F4-2794-1E66-6471149C424F"/>
 </indexColumnUsage>
 </ind_PK_UK>
 <ind_PK_UK id="3EF35435-9B61-FF8F-9682-2D10190DEB39" name="Dozowanie_leku_Pacjent_FK">

@@ -9,6 +9,16 @@
 <existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
 <parsed>true</parsed>
 <columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Id" id="73ABD690-F28F-8CE1-7AF2-C56220B72889">
+<createdBy>felix</createdBy>
+<createdTime>2016-05-19 18:01:40 UTC</createdTime>
+<ownerDesignName>projekt1</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
 <Column name="Pacjent_Numer" id="FC3B915A-AE7A-64A1-410C-4D1611619386">
 <createdBy>marek_000</createdBy>
 <createdTime>2016-05-13 20:51:53 UTC</createdTime>
@@ -61,7 +71,7 @@
 <indexState>Primary Constraint</indexState>
 <isSurrogateKey>false</isSurrogateKey>
 <indexColumnUsage>
-<colUsage columnID="FC3B915A-AE7A-64A1-410C-4D1611619386"/>
+<colUsage columnID="73ABD690-F28F-8CE1-7AF2-C56220B72889"/>
 </indexColumnUsage>
 </ind_PK_UK>
 <ind_PK_UK id="A3678944-1A4F-C7FA-F673-1C1C2418271F" name="Pacjent_oczekujący_Oddział_FK">
