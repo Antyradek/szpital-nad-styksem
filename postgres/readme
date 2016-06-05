@@ -1,0 +1,9 @@
+Tutaj jest kilka plików SQL do zabawy z bazą.
+Zainstaluj bazę PostgreSQL i skonfiguruj siebie jako administratora.
+Następnie idź do wiersza poleceń i podaj odpowiedni plik.
+$ psql szpital-nad-styksem -f create.sql
+$ psql szpital-nad-styksem -f drop.sql
+
+Jeśli nazwa twojego użytkownika jest inna od administratora bazy, to dodaj jeszcze
+-U <użytkownik>
+do powyższych komend.

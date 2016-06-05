@@ -1,0 +1,5 @@
+#!/bin/bash
+# Usuń wszystkie tabele
+DB_NAME=szpital-nad-styksem
+
+psql $DB_NAME -f drop.sql

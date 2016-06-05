@@ -1,0 +1,6 @@
+-- Wypełnienie bazy danymi
+INSERT INTO dupa VALUES (100, 200);
+INSERT INTO dupa VALUES (300, 400);
+
+INSERT INTO pupa VALUES (456, 654);
+INSERT INTO pupa VALUES (123, 321);

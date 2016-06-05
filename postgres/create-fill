@@ -1,0 +1,7 @@
+#!/bin/bash
+# Stwórz tabele, wsadź i wypisz
+DB_NAME=szpital-nad-styksem
+
+psql $DB_NAME -f create.sql
+psql $DB_NAME -f fill.sql
+psql $DB_NAME -f print.sql
