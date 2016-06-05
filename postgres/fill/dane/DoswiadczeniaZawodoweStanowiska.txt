@@ -1,0 +1,19 @@
+Pielęgniarka
+Lekarz
+Ginekolog
+Chirurg
+Dyrektor
+Dyrektor personalny
+Pielęgniarka oddziałowa
+Dostawca
+Lekarz rodzinny
+Pediatra
+Anestezjolog
+Farmaceuta
+Recepcjonista
+Dyrektor wykonawczy
+Asystent
+Student
+Stażysta
+Praktykant
+Manager

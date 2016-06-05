@@ -1,0 +1,4 @@
+Przelew
+Faktura
+Wpłata na konto
+Wypłata w dziale kadr
