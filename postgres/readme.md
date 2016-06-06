@@ -7,3 +7,15 @@ $ psql szpital-nad-styksem -f drop.sql
 Jeśli nazwa twojego użytkownika jest inna od administratora bazy, to dodaj jeszcze
 -U <użytkownik>
 do powyższych komend.
+
+
+Wykonywanie skryptów w postgresql:
+\i create.sql
+\i drop.sql
+
+Getting error: Peer authentication failed for user “postgres”, when trying to get pgsql working with rails:
+http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge
+
+USTAWIANIE FORMATU DATY W POSTGRESIE:
+set datestyle to MDY;
+

@@ -1,3 +1,4 @@
+BEGIN
 INSERT INTO Doswiadczenia_zawodowe VALUES (1,'Lekarz rodzinny','43955 West Charlotte Amalie Blvd.','6-19-45','9-14-80',4946);
 INSERT INTO Doswiadczenia_zawodowe VALUES (2,'Stażysta','45935 East Saint Lucia Ct.','3-20-13','2-16-83',2924);
 INSERT INTO Doswiadczenia_zawodowe VALUES (3,'Stażysta','30836 South Thailand Ln.','8-28-14','4-30-85',2768);
@@ -4498,3 +4499,4 @@ INSERT INTO Doswiadczenia_zawodowe VALUES (4497,'Pielęgniarka','97960 East Burk
 INSERT INTO Doswiadczenia_zawodowe VALUES (4498,'Dyrektor','99138  Croatia Ave.','10-24-40','12-29-84',3394);
 INSERT INTO Doswiadczenia_zawodowe VALUES (4499,'Stażysta','30928 North Iowa City Ct.','9-27-89','7-26-81',3314);
 INSERT INTO Doswiadczenia_zawodowe VALUES (4500,'Dyrektor personalny','15302 West Bentonville Way','9-18-30','2-19-82',3958);
+COMMIT

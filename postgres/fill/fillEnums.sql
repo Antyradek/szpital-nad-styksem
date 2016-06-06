@@ -20,7 +20,7 @@ INSERT INTO Typy_pokrewienstwa VALUES ('Siostrzeniec');
 INSERT INTO Stany_cywilne VALUES ('Kawaler');
 INSERT INTO Stany_cywilne VALUES ('Panna');
 INSERT INTO Stany_cywilne VALUES ('Rozwodnik');
-INSERT INTO Stany_cywilne VAL;UES ('Rozwodka');
+INSERT INTO Stany_cywilne VALUES ('Rozwodka');
 INSERT INTO Stany_cywilne VALUES ('Wdowiec');
 INSERT INTO Stany_cywilne VALUES ('Wdowa');
 INSERT INTO Stany_cywilne VALUES ('Maz');
