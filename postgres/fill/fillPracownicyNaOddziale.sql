@@ -1,1600 +1,1600 @@
-INSERT INTO Pracownicy_na_oddziale VALUES (4405,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3929,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (2919,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4781,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4573,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3609,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (2885,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (2679,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4648,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4385,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4510,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3925,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4336,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3103,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3207,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3431,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3246,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (4779,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (4399,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4205,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3833,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4829,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3348,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (4009,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4616,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (2851,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4532,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3489,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (2640,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3660,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3260,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3418,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3365,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4074,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (2517,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (2711,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4730,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4479,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3740,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4544,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4121,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4251,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4383,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4796,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (2922,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (4543,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4762,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4694,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3336,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (2538,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4580,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3141,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3343,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3711,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3826,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4780,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3776,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3036,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3621,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3676,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (2748,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3856,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3023,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (4027,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3874,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3103,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4515,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (4278,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (2886,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3965,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4189,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3583,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3565,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2724,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3295,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4332,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (2557,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2617,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4053,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3111,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3262,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (2964,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3219,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3741,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3282,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4860,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3636,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4765,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3421,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4447,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4070,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4126,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3722,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (2657,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3100,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (2642,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (2932,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4000,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3231,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3225,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (2566,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3770,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3795,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2855,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3133,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3353,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3729,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4759,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3300,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4209,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (4719,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4349,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4401,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4566,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (3396,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3354,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3892,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3035,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3035,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4800,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (2701,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3205,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3651,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3621,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4180,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (4722,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4429,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (2836,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3911,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4818,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3127,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (2897,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3298,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3024,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4672,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3879,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3313,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4882,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3606,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3464,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (2952,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4398,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3337,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4162,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3012,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3965,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3797,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4849,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3468,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (2962,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4292,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (2682,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3497,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4816,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4272,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4260,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4470,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4872,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4984,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (3674,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (2866,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3782,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4353,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (3017,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (2800,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (2779,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3202,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4954,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4808,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (4865,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3227,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3355,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3106,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4473,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3326,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4549,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3053,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4357,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3706,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4055,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4368,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3970,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (2944,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4491,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (2974,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4511,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3552,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3365,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (2632,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4772,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4839,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3915,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3883,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3213,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3542,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3936,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (2715,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (4758,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (2547,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (2998,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (2760,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (3480,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3625,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (2743,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4860,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3914,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3737,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4153,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (2897,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3456,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4648,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4866,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3198,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4069,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3916,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4065,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4325,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (4247,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3049,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (2964,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3031,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3732,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4260,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4496,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3838,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (2672,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4801,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (2742,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (2701,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4012,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4893,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4155,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3210,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (2927,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (2878,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3587,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3334,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4331,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (2650,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (2692,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3965,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3827,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3409,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (2896,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3881,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (2982,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4033,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (4648,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (2809,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4153,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4294,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4420,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3952,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (2524,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4123,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4842,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (2580,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4023,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3132,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (3552,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4162,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4394,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3422,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3206,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3675,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4538,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3418,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4346,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3014,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4803,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3002,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4596,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3939,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4458,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3062,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (2607,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4058,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (2769,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3872,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (2929,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4557,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4632,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (2866,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3468,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (2810,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4802,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4410,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3554,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3235,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4942,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (2997,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (2940,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3223,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3442,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4068,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4447,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3459,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (2683,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (3305,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4059,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3110,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3372,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4199,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (2980,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3277,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (2702,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4299,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (3939,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3320,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3195,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3555,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4302,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3619,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (2920,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3168,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2520,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3673,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3147,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4227,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3204,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (2714,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (2849,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3620,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (3014,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4675,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4917,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (2651,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3396,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4059,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3479,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2903,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3488,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3878,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4166,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4417,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4061,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (2647,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (2551,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3750,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4456,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3992,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (2647,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4302,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3073,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4638,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (2532,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4478,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (2689,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3632,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3642,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4314,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3812,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4988,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (2763,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (2709,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (3533,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4552,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4942,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (2638,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (2691,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3767,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4170,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3638,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4860,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4810,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4577,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (2958,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4346,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (2776,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4953,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3147,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3666,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3324,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4790,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3451,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (4484,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (3736,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2749,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4993,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4253,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (2593,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3989,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3302,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4434,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3589,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2624,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2911,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4260,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3398,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3754,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (2751,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3415,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4029,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (3037,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4032,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3081,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4906,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (2635,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (2931,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3123,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (4488,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3439,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (4845,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4005,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3402,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (2613,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3393,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3931,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4417,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3279,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (2981,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3980,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3735,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4298,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3329,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4582,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3104,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4131,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3949,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3209,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (3171,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3792,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3097,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (2849,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4882,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3170,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3991,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4973,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (2982,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (4582,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3195,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (2562,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (3273,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4312,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (2739,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (2701,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2885,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (2700,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3087,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3894,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4605,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3935,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3791,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3104,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4002,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (2913,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (3200,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4780,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4790,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3475,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3951,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3092,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (2610,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3382,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (2598,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (2561,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3406,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3889,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4392,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3297,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3806,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4307,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (2710,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3049,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4457,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3144,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3652,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4782,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4305,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (4374,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3925,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (2784,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (2603,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4578,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2534,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4009,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4348,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (2530,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4107,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4366,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4883,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4856,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (2790,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4245,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3462,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3718,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (4402,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3156,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3216,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3318,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3376,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4220,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4926,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4455,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3044,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4601,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4168,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2886,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4884,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4963,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (2763,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3061,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4049,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4421,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3040,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3034,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4822,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3221,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3836,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3029,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3870,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4883,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3174,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3632,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3897,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3190,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (2950,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (2856,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3988,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4982,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4704,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4830,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4047,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3559,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (2862,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3330,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (2654,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3316,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3455,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4820,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3354,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4040,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (2586,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (3355,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (4210,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (4408,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (2855,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4088,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4379,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4344,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3160,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4058,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3541,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4745,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4786,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3339,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3790,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3867,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4835,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3607,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4147,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (2572,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (2565,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3173,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4886,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3282,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (4683,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3378,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3310,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4028,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (2809,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4380,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3416,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3854,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3099,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (2811,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3294,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3649,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4563,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4172,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3241,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (2526,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3424,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4690,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4745,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3704,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3116,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4754,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4097,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3911,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3263,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (2536,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3932,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3356,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (2965,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4197,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3546,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4255,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3413,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (2975,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4471,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3319,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2910,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (4207,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3082,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4902,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4093,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4968,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (2747,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (2731,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3228,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4733,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3268,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4549,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3116,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (2804,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4149,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3282,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3636,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3006,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3728,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3950,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4457,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3629,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4316,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3299,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3852,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (2898,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4711,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4222,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3509,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3730,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4919,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4218,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (2619,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4502,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3463,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3740,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4642,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (2716,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (2684,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (2862,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3827,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (2734,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (2965,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (2616,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3189,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4629,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (2662,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (3800,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4875,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3032,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3123,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3343,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (2604,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (2613,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3539,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4151,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (2517,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (2909,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (2622,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4353,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4860,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3245,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (2731,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3422,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3191,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4663,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3217,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4547,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3573,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3736,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3603,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4495,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (2747,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4930,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4626,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (2502,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3589,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4465,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4047,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (2770,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4159,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4947,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3143,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (2610,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (2589,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3894,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4054,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4060,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (2817,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3066,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3672,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (2768,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (2995,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2889,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4393,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4385,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3386,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (2716,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3319,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3153,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4600,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4761,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (4793,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3235,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3356,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3138,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (2673,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4948,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3491,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4660,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (2664,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4570,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (2831,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (2730,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3728,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4847,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3774,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3196,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4602,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (4069,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3323,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4032,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3164,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3410,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3409,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4308,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (2560,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (2995,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3657,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3788,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3212,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3921,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4789,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (2906,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3410,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3761,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4475,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (2846,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (2711,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (3393,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3992,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3028,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (2758,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3042,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4838,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4936,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3086,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4018,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3241,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3667,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (2714,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3443,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (3583,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4395,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3329,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3176,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4557,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3736,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4159,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3146,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4050,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4640,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3756,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3636,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3300,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4177,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3812,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3014,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4175,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4834,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3080,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3300,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4566,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (2805,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4570,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4187,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3459,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (2502,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (2782,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3090,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (2779,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3977,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (3716,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4819,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4074,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (2647,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3364,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4191,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (3154,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4548,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3910,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3763,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3293,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4791,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3662,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4188,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3145,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4125,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3483,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4886,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3142,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4312,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3301,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4941,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3833,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4373,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3768,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3096,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4866,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4202,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4786,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3512,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4695,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4076,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4540,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3880,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (3884,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3357,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3542,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3788,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4870,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4494,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4915,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4374,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3737,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (2702,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (3577,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3721,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3657,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3276,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3466,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3222,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3880,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3772,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3953,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4401,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4112,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (2587,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4429,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (3832,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3668,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (2556,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4326,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3720,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4991,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3102,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3526,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (2768,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3822,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3059,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3613,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4425,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3331,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3657,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4698,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3398,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4089,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4137,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4875,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (2760,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3405,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3958,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3347,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3941,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3217,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4137,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3463,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3204,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4460,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3852,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4996,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4513,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (2787,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3386,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (2832,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3971,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (2719,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (2930,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4832,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3281,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3242,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (2717,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (2716,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4417,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3141,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4944,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4076,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3603,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3976,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4325,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (2879,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4232,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (2502,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3047,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3648,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4165,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4417,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3807,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (2898,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4888,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3182,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4239,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4973,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3305,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3576,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (2689,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4395,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3492,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3786,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4937,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4830,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4085,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4919,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (2573,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (2809,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4059,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3894,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4662,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3049,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3295,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3787,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4718,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4999,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3732,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4564,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4286,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4223,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4699,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (3576,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (2745,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4875,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (2764,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3883,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4879,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4375,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3836,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4212,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2873,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3379,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3146,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3878,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3533,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3023,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4460,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3918,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3976,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4832,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4016,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (2921,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4939,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4644,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3058,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (2590,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3883,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3855,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4893,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3766,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4768,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4436,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4420,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4279,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (2820,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4527,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4870,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3721,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3573,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4006,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4059,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (2983,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (3076,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (2867,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4070,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (2908,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4207,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4071,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4730,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (2697,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3332,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3645,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4926,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3660,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (2718,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (2970,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (2847,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4266,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4715,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4771,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3238,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (2707,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3135,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (2884,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (2654,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3274,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4132,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4685,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4464,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3046,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4586,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3463,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (2880,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3616,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3680,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4657,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3611,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3408,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4384,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4434,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3680,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4269,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4699,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (2508,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (2688,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (2729,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4809,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3132,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4845,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4701,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4561,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (3699,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3752,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4213,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (2554,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3279,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4516,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3516,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4558,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3152,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4138,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4725,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4538,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3321,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4997,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3812,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4457,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4049,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (2999,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3958,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3024,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3443,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3022,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3683,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4987,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (2545,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (2818,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3797,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3746,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (2965,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3237,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3006,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3921,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4691,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3376,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4991,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3083,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4470,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3461,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3822,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4240,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (2597,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3969,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4321,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4397,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4668,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (2653,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (2529,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4771,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3710,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3753,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3175,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (4435,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3766,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4911,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4881,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3436,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3596,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4109,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4417,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3296,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3065,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4135,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (2931,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4654,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4307,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3575,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4250,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4861,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3025,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4640,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4757,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4283,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3056,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4966,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3879,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (2796,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4549,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4285,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3295,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (2960,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4084,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4378,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3335,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3996,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3442,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4734,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (2820,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3313,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3625,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3578,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (2982,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (4283,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (2564,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (4333,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2600,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4905,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (2657,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3449,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3383,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3559,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3210,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3423,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (2532,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (2897,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4793,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4287,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3701,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3081,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4647,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3316,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4244,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3435,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4786,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3933,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4341,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4252,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3531,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4599,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4369,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (2809,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4168,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3635,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4167,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4976,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3369,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4064,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (2827,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3457,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4598,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4178,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4590,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3542,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4882,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3292,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3512,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3887,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3404,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3572,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3146,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4624,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4278,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4492,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4180,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3260,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4330,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4551,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4651,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (2517,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4862,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3759,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3779,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (3365,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (2565,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3477,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4965,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3958,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (3453,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3533,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (4379,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4439,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3799,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3151,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4432,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4937,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4863,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (2864,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4805,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3498,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3358,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4668,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (2532,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4535,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3741,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3634,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3875,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4411,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (2506,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4044,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (2990,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4872,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4455,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (2723,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3168,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (4886,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3490,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3659,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4693,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (2976,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3583,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4940,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3323,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (3523,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4116,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4905,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4801,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (4839,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3400,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3470,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (2688,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (3101,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3307,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3267,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4963,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4151,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (2852,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4736,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3502,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (4321,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3060,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (4091,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3112,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (2894,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4821,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3630,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4480,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4936,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4855,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4628,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4321,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4113,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3685,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3216,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (2543,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4141,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (2717,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3216,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4530,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4141,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3903,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4706,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3257,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4540,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4742,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (2741,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (2647,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4588,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4453,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2987,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3320,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3003,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (2645,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3940,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4176,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (2655,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (3289,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4268,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4711,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3457,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (2508,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4545,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2719,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3525,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4172,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3453,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4329,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4814,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (2730,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3718,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4182,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3361,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4791,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2558,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3969,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (2959,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (2552,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3147,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3680,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3173,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (2664,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (2807,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (4250,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3846,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (2993,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4982,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (4853,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (2802,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4933,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3263,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4179,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4226,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3879,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2773,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4014,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3068,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (2765,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4442,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3000,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4526,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3299,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3848,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4934,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4353,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (2645,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4192,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3679,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3485,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4270,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3009,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (2634,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4707,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4608,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4626,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3883,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3859,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (4264,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4358,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3726,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4978,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3115,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3466,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4498,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4169,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4876,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3202,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4206,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (4859,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3786,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3154,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3274,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4600,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (2527,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4174,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4787,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3308,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3803,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4090,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3873,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3207,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4374,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3040,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (4730,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (2940,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4390,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3540,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3392,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (2851,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3471,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3026,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3999,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3377,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (2780,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (2709,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4766,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2668,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3243,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3602,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3141,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (4213,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4829,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4251,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (2861,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3230,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4680,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3715,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4311,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3759,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4299,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4434,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3538,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (2534,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (4280,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3176,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (4687,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4905,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (2717,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (3137,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3201,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (2560,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4028,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4436,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (2608,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3086,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3070,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (2649,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4429,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (4478,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (4173,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2607,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4325,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2644,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4835,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4142,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (2596,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (2521,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4375,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (2919,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4433,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (3631,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3845,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (4770,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (4617,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4124,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (2865,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3431,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4378,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3334,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3036,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4037,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3258,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4281,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3097,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4891,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (4313,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3715,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (2926,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4776,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (2851,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (2854,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3140,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (4446,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4079,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4676,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3495,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2614,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3226,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3267,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3061,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (3774,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4135,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3782,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (2923,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (2873,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4675,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (2895,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (2912,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (2761,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (2887,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4466,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3312,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (4961,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (2636,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (4421,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3354,19);
-INSERT INTO Pracownicy_na_oddziale VALUES (3685,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (2566,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4509,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4271,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (4945,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (4072,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3181,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4990,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4450,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (2988,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (3826,23);
-INSERT INTO Pracownicy_na_oddziale VALUES (4470,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4955,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (2933,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4318,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4495,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3267,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3331,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3913,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3975,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4921,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (3127,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (4371,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4308,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (2918,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (2534,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2697,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3970,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4351,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3058,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4855,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (2746,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4223,37);
-INSERT INTO Pracownicy_na_oddziale VALUES (3711,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4616,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (2842,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4070,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3370,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (3236,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (4696,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (2743,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3437,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4970,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (2657,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3891,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3960,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (3743,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3942,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (3921,13);
-INSERT INTO Pracownicy_na_oddziale VALUES (3399,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (4497,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3744,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4112,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (3571,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (3368,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (2561,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4937,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3782,3);
-INSERT INTO Pracownicy_na_oddziale VALUES (4156,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (3143,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (2579,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (2870,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3763,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3898,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3922,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (3294,39);
-INSERT INTO Pracownicy_na_oddziale VALUES (4748,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4614,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (2851,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (3934,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (4278,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (3515,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3289,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3665,24);
-INSERT INTO Pracownicy_na_oddziale VALUES (4539,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4346,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3166,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3472,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (4104,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4413,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4966,17);
-INSERT INTO Pracownicy_na_oddziale VALUES (3326,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4910,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (2898,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3757,7);
-INSERT INTO Pracownicy_na_oddziale VALUES (4755,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3912,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (3579,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (2845,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (3207,38);
-INSERT INTO Pracownicy_na_oddziale VALUES (3525,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (4789,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3040,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4656,6);
-INSERT INTO Pracownicy_na_oddziale VALUES (3326,40);
-INSERT INTO Pracownicy_na_oddziale VALUES (2998,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (3408,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4358,4);
-INSERT INTO Pracownicy_na_oddziale VALUES (4301,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (2775,35);
-INSERT INTO Pracownicy_na_oddziale VALUES (2557,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4002,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (3465,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (2667,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (3831,5);
-INSERT INTO Pracownicy_na_oddziale VALUES (3169,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (3064,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3372,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (3186,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4018,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4244,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (4013,15);
-INSERT INTO Pracownicy_na_oddziale VALUES (2633,12);
-INSERT INTO Pracownicy_na_oddziale VALUES (4913,11);
-INSERT INTO Pracownicy_na_oddziale VALUES (4518,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4775,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4674,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4104,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (4150,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (2913,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3143,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (4803,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (3093,26);
-INSERT INTO Pracownicy_na_oddziale VALUES (4461,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (2976,31);
-INSERT INTO Pracownicy_na_oddziale VALUES (2821,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (4051,16);
-INSERT INTO Pracownicy_na_oddziale VALUES (3124,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (3951,30);
-INSERT INTO Pracownicy_na_oddziale VALUES (3602,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (2819,9);
-INSERT INTO Pracownicy_na_oddziale VALUES (4433,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (2805,22);
-INSERT INTO Pracownicy_na_oddziale VALUES (2838,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (3257,25);
-INSERT INTO Pracownicy_na_oddziale VALUES (4171,2);
-INSERT INTO Pracownicy_na_oddziale VALUES (3137,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (4898,18);
-INSERT INTO Pracownicy_na_oddziale VALUES (4249,10);
-INSERT INTO Pracownicy_na_oddziale VALUES (3040,27);
-INSERT INTO Pracownicy_na_oddziale VALUES (3484,14);
-INSERT INTO Pracownicy_na_oddziale VALUES (3063,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3490,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (3047,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3388,28);
-INSERT INTO Pracownicy_na_oddziale VALUES (4025,36);
-INSERT INTO Pracownicy_na_oddziale VALUES (4699,34);
-INSERT INTO Pracownicy_na_oddziale VALUES (3529,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (2865,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3933,8);
-INSERT INTO Pracownicy_na_oddziale VALUES (4017,32);
-INSERT INTO Pracownicy_na_oddziale VALUES (4286,20);
-INSERT INTO Pracownicy_na_oddziale VALUES (3501,21);
-INSERT INTO Pracownicy_na_oddziale VALUES (3173,33);
-INSERT INTO Pracownicy_na_oddziale VALUES (3635,29);
-INSERT INTO Pracownicy_na_oddziale VALUES (2942,1);
-INSERT INTO Pracownicy_na_oddziale VALUES (3666,32);
+INSERT INTO Pracownicy_na_oddziale VALUES (4405,12),
+(3929,11),
+(2919,13),
+(4781,18),
+(4573,8),
+(3609,17),
+(2885,13),
+(2679,33),
+(4648,37),
+(4385,2),
+(4510,9),
+(3925,27),
+(4336,4),
+(3103,7),
+(3207,32),
+(3431,13),
+(3246,38),
+(4779,32),
+(4399,28),
+(4205,28),
+(3833,21),
+(4829,34),
+(3348,19),
+(4009,27),
+(4616,34),
+(2851,28),
+(4532,16),
+(3489,24),
+(2640,2),
+(3660,18),
+(3260,27),
+(3418,10),
+(3365,33),
+(4074,28),
+(2517,11),
+(2711,25),
+(4730,8),
+(4479,18),
+(3740,17),
+(4544,27),
+(4121,2),
+(4251,1),
+(4383,10),
+(4796,13),
+(2922,12),
+(4543,10),
+(4762,25),
+(4694,27),
+(3336,3),
+(2538,1),
+(4580,12),
+(3141,13),
+(3343,17),
+(3711,6),
+(3826,28),
+(4780,29),
+(3776,19),
+(3036,29),
+(3621,9),
+(3676,17),
+(2748,17),
+(3856,2),
+(3023,32),
+(4027,5),
+(3874,40),
+(3103,11),
+(4515,32),
+(4278,35),
+(2886,30),
+(3965,15),
+(4189,10),
+(3583,24),
+(3565,14),
+(2724,6),
+(3295,28),
+(4332,29),
+(2557,8),
+(2617,13),
+(4053,11),
+(3111,4),
+(3262,2),
+(2964,18),
+(3219,11),
+(3741,20),
+(3282,35),
+(4860,21),
+(3636,8),
+(4765,10),
+(3421,20),
+(4447,11),
+(4070,27),
+(4126,26),
+(3722,40),
+(2657,33),
+(3100,15),
+(2642,4),
+(2932,28),
+(4000,22),
+(3231,32),
+(3225,25),
+(2566,38),
+(3770,22),
+(3795,8),
+(2855,5),
+(3133,4),
+(3353,10),
+(3729,28),
+(4759,8),
+(3300,8),
+(4209,23),
+(4719,34),
+(4349,16),
+(4401,17),
+(4566,1),
+(3396,3),
+(3354,23),
+(3892,30),
+(3035,2),
+(3035,27),
+(4800,2),
+(2701,33),
+(3205,39),
+(3651,10),
+(3621,30),
+(4180,38),
+(4722,25),
+(4429,36),
+(2836,12),
+(3911,34),
+(4818,3),
+(3127,32),
+(2897,14),
+(3298,20),
+(3024,11),
+(4672,18),
+(3879,8),
+(3313,2),
+(4882,24),
+(3606,36),
+(3464,22),
+(2952,36),
+(4398,15),
+(3337,10),
+(4162,33),
+(3012,29),
+(3965,17),
+(3797,26),
+(4849,3),
+(3468,9),
+(2962,7),
+(4292,13),
+(2682,15),
+(3497,11),
+(4816,18),
+(4272,25),
+(4260,15),
+(4470,40),
+(4872,20),
+(4984,31),
+(3674,39),
+(2866,5),
+(3782,15),
+(4353,25),
+(3017,4),
+(2800,35),
+(2779,13),
+(3202,39),
+(4954,8),
+(4808,12),
+(4865,18),
+(3227,27),
+(3355,22),
+(3106,33),
+(4473,26),
+(3326,13),
+(4549,2),
+(3053,13),
+(4357,15),
+(3706,18),
+(4055,20),
+(4368,10),
+(3970,24),
+(2944,3),
+(4491,20),
+(2974,25),
+(4511,2),
+(3552,10),
+(3365,24),
+(2632,22),
+(4772,7),
+(4839,27),
+(3915,40),
+(3883,38),
+(3213,8),
+(3542,13),
+(3936,25),
+(2715,32),
+(4758,19),
+(2547,32),
+(2998,16),
+(2760,31),
+(3480,4),
+(3625,9),
+(2743,34),
+(4860,7),
+(3914,20),
+(3737,5),
+(4153,23),
+(2897,17),
+(3456,21),
+(4648,3),
+(4866,17),
+(3198,37),
+(4069,2),
+(3916,39),
+(4065,3),
+(4325,23),
+(4247,28),
+(3049,28),
+(2964,2),
+(3031,13),
+(3732,25),
+(4260,17),
+(4496,20),
+(3838,23),
+(2672,33),
+(4801,20),
+(2742,13),
+(2701,4),
+(4012,39),
+(4893,18),
+(4155,15),
+(3210,37),
+(2927,17),
+(2878,7),
+(3587,26),
+(3334,17),
+(4331,18),
+(2650,26),
+(2692,11),
+(3965,3),
+(3827,27),
+(3409,4),
+(2896,24),
+(3881,25),
+(2982,20),
+(4033,12),
+(4648,35),
+(2809,2),
+(4153,13),
+(4294,18),
+(4420,24),
+(3952,39),
+(2524,37),
+(4123,10),
+(4842,4),
+(2580,6),
+(4023,38),
+(3132,35),
+(3552,6),
+(4162,13),
+(4394,13),
+(3422,17),
+(3206,8),
+(3675,33),
+(4538,3),
+(3418,16),
+(4346,10),
+(3014,14),
+(4803,26),
+(3002,28),
+(4596,24),
+(3939,14),
+(4458,23),
+(3062,27),
+(2607,2),
+(4058,29),
+(2769,10),
+(3872,38),
+(2929,21),
+(4557,10),
+(4632,7),
+(2866,30),
+(3468,27),
+(2810,27),
+(4802,36),
+(4410,10),
+(3554,39),
+(3235,29),
+(4942,2),
+(2997,26),
+(2940,3),
+(3223,21),
+(3442,4),
+(4068,35),
+(4447,39),
+(3459,20),
+(2683,31),
+(3305,1),
+(4059,33),
+(3110,30),
+(3372,26),
+(4199,38),
+(2980,39),
+(3277,7),
+(2702,34),
+(4299,25),
+(3939,22),
+(3320,37),
+(3195,10),
+(3555,33),
+(4302,32),
+(3619,7),
+(2920,38),
+(3168,8),
+(2520,5),
+(3673,6),
+(3147,26),
+(4227,4),
+(3204,38),
+(2714,32),
+(2849,10),
+(3620,31),
+(3014,40),
+(4675,3),
+(4917,33),
+(2651,33),
+(3396,18),
+(4059,33),
+(3479,8),
+(2903,19),
+(3488,16),
+(3878,13),
+(4166,37),
+(4417,10),
+(4061,18),
+(2647,37),
+(2551,7),
+(3750,29),
+(4456,30),
+(3992,40),
+(2647,35),
+(4302,18),
+(3073,9),
+(4638,22),
+(2532,24),
+(4478,7),
+(2689,24),
+(3632,10),
+(3642,28),
+(4314,11),
+(3812,3),
+(4988,13),
+(2763,1),
+(2709,35),
+(3533,16),
+(4552,5),
+(4942,31),
+(2638,12),
+(2691,2),
+(3767,34),
+(4170,40),
+(3638,7),
+(4860,10),
+(4810,25),
+(4577,15),
+(2958,29),
+(4346,22),
+(2776,2),
+(4953,40),
+(3147,39),
+(3666,2),
+(3324,16),
+(4790,9),
+(3451,12),
+(4484,1),
+(3736,14),
+(2749,6),
+(4993,20),
+(4253,4),
+(2593,13),
+(3989,4),
+(3302,40),
+(4434,26),
+(3589,14),
+(2624,14),
+(2911,3),
+(4260,15),
+(3398,36),
+(3754,30),
+(2751,4),
+(3415,16),
+(4029,31),
+(3037,28),
+(4032,4),
+(3081,17),
+(4906,1),
+(2635,25),
+(2931,11),
+(3123,23),
+(4488,32),
+(3439,12),
+(4845,33),
+(4005,12),
+(3402,29),
+(2613,6),
+(3393,12),
+(3931,40),
+(4417,38),
+(3279,25),
+(2981,10),
+(3980,36),
+(3735,29),
+(4298,9),
+(3329,10),
+(4582,18),
+(3104,40),
+(4131,8),
+(3949,8),
+(3209,1),
+(3171,32),
+(3792,33),
+(3097,19),
+(2849,22),
+(4882,6),
+(3170,34),
+(3991,3),
+(4973,22),
+(2982,32),
+(4582,34),
+(3195,34),
+(2562,1),
+(3273,10),
+(4312,36),
+(2739,16),
+(2701,8),
+(2885,15),
+(2700,34),
+(3087,11),
+(3894,34),
+(4605,13),
+(3935,29),
+(3791,14),
+(3104,31),
+(4002,13),
+(2913,31),
+(3200,26),
+(4780,6),
+(4790,28),
+(3475,4),
+(3951,4),
+(3092,1),
+(2610,34),
+(3382,12),
+(2598,37),
+(2561,39),
+(3406,24),
+(3889,40),
+(4392,19),
+(3297,4),
+(3806,15),
+(4307,33),
+(2710,29),
+(3049,14),
+(4457,21),
+(3144,39),
+(3652,30),
+(4782,33),
+(4305,19),
+(4374,24),
+(3925,25),
+(2784,18),
+(2603,3),
+(4578,14),
+(2534,2),
+(4009,24),
+(4348,28),
+(2530,37),
+(4107,29),
+(4366,29),
+(4883,35),
+(4856,11),
+(2790,21),
+(4245,33),
+(3462,4),
+(3718,32),
+(4402,18),
+(3156,40),
+(3216,19),
+(3318,9),
+(3376,13),
+(4220,5),
+(4926,28),
+(4455,32),
+(3044,8),
+(4601,5),
+(4168,8),
+(2886,7),
+(4884,37),
+(4963,39),
+(2763,4),
+(3061,34),
+(4049,4),
+(4421,17),
+(3040,4),
+(3034,3),
+(4822,6),
+(3221,32),
+(3836,17),
+(3029,17),
+(3870,10),
+(4883,17),
+(3174,37),
+(3632,16),
+(3897,17),
+(3190,9),
+(2950,12),
+(2856,11),
+(3988,21),
+(4982,21),
+(4704,26),
+(4830,25),
+(4047,21),
+(3559,20),
+(2862,6),
+(3330,2),
+(2654,3),
+(3316,22),
+(3455,14),
+(4820,37),
+(3354,14),
+(4040,38),
+(2586,31),
+(3355,12),
+(4210,19),
+(4408,23),
+(2855,36),
+(4088,20),
+(4379,8),
+(4344,38),
+(3160,4),
+(4058,22),
+(3541,14),
+(4745,40),
+(4786,11),
+(3339,27),
+(3790,22),
+(3867,14),
+(4835,4),
+(3607,1),
+(4147,38),
+(2572,3),
+(2565,38),
+(3173,40),
+(4886,21),
+(3282,12),
+(4683,22),
+(3378,38),
+(3310,27),
+(4028,27),
+(2809,30),
+(4380,6),
+(3416,3),
+(3854,28),
+(3099,33),
+(2811,4),
+(3294,7),
+(3649,39),
+(4563,22),
+(4172,20),
+(3241,22),
+(2526,40),
+(3424,27),
+(4690,7),
+(4745,14),
+(3704,19),
+(3116,35),
+(4754,22),
+(4097,34),
+(3911,17),
+(3263,15),
+(2536,4),
+(3932,12),
+(3356,9),
+(2965,3),
+(4197,8),
+(3546,16),
+(4255,19),
+(3413,28),
+(2975,22),
+(4471,29),
+(3319,14),
+(2910,19),
+(4207,19),
+(3082,1),
+(4902,1),
+(4093,30),
+(4968,34),
+(2747,6),
+(2731,39),
+(3228,9),
+(4733,37),
+(3268,14),
+(4549,34),
+(3116,37),
+(2804,9),
+(4149,29),
+(3282,11),
+(3636,9),
+(3006,27),
+(3728,30),
+(3950,25),
+(4457,2),
+(3629,39),
+(4316,36),
+(3299,18),
+(3852,36),
+(2898,7),
+(4711,11),
+(4222,34),
+(3509,9),
+(3730,6),
+(4919,5),
+(4218,33),
+(2619,1),
+(4502,5),
+(3463,26),
+(3740,6),
+(4642,25),
+(2716,37),
+(2684,37),
+(2862,11),
+(3827,3),
+(2734,15),
+(2965,26),
+(2616,21),
+(3189,15),
+(4629,2),
+(2662,35),
+(3800,24),
+(4875,7),
+(3032,5),
+(3123,21),
+(3343,30),
+(2604,27),
+(2613,30),
+(3539,11),
+(4151,32),
+(2517,38),
+(2909,4),
+(2622,17),
+(4353,18),
+(4860,33),
+(3245,24),
+(2731,11),
+(3422,7),
+(3191,30),
+(4663,24),
+(3217,1),
+(4547,40),
+(3573,2),
+(3736,16),
+(3603,11),
+(4495,29),
+(2747,20),
+(4930,6),
+(4626,18),
+(2502,22),
+(3589,2),
+(4465,9),
+(4047,5),
+(2770,22),
+(4159,4),
+(4947,38),
+(3143,11),
+(2610,10),
+(2589,13),
+(3894,1),
+(4054,14),
+(4060,29),
+(2817,36),
+(3066,26),
+(3672,34),
+(2768,34),
+(2995,8),
+(2889,17),
+(4393,1),
+(4385,26),
+(3386,31),
+(2716,38),
+(3319,19),
+(3153,35),
+(4600,27),
+(4761,32),
+(4793,17),
+(3235,17),
+(3356,17),
+(3138,21),
+(2673,3),
+(4948,15),
+(3491,5),
+(4660,36),
+(2664,27),
+(4570,9),
+(2831,21),
+(2730,9),
+(3728,10),
+(4847,39),
+(3774,26),
+(3196,22),
+(4602,12),
+(4069,22),
+(3323,27),
+(4032,29),
+(3164,3),
+(3410,23),
+(3409,8),
+(4308,7),
+(2560,2),
+(2995,23),
+(3657,2),
+(3788,19),
+(3212,22),
+(3921,14),
+(4789,1),
+(2906,33),
+(3410,9),
+(3761,16),
+(4475,36),
+(2846,15),
+(2711,1),
+(3393,11),
+(3992,7),
+(3028,6),
+(2758,30),
+(3042,36),
+(4838,8),
+(4936,40),
+(3086,34),
+(4018,10),
+(3241,3),
+(3667,11),
+(2714,26),
+(3443,25),
+(3583,40),
+(4395,18),
+(3329,12),
+(3176,10),
+(4557,39),
+(3736,39),
+(4159,26),
+(3146,17),
+(4050,15),
+(4640,4),
+(3756,19),
+(3636,29),
+(3300,16),
+(4177,30),
+(3812,38),
+(3014,34),
+(4175,2),
+(4834,38),
+(3080,37),
+(3300,10),
+(4566,33),
+(2805,22),
+(4570,4),
+(4187,13),
+(3459,12),
+(2502,36),
+(2782,5),
+(3090,31),
+(2779,22),
+(3977,1),
+(3716,8),
+(4819,24),
+(4074,7),
+(2647,22),
+(3364,29),
+(4191,31),
+(3154,20),
+(4548,27),
+(3910,32),
+(3763,15),
+(3293,37),
+(4791,7),
+(3662,16),
+(4188,30),
+(3145,11),
+(4125,20),
+(3483,14),
+(4886,34),
+(3142,17),
+(4312,12),
+(3301,8),
+(4941,14),
+(3833,2),
+(4373,38),
+(3768,24),
+(3096,36),
+(4866,2),
+(4202,13),
+(4786,38),
+(3512,18),
+(4695,28),
+(4076,5),
+(4540,30),
+(3880,25),
+(3884,14),
+(3357,30),
+(3542,30),
+(3788,20),
+(4870,4),
+(4494,15),
+(4915,40),
+(4374,34),
+(3737,32),
+(2702,25),
+(3577,10),
+(3721,22),
+(3657,36),
+(3276,16),
+(3466,4),
+(3222,33),
+(3880,37),
+(3772,12),
+(3953,24),
+(4401,17),
+(4112,39),
+(2587,21),
+(4429,35),
+(3832,36),
+(3668,15),
+(2556,13),
+(4326,17),
+(3720,28),
+(4991,32),
+(3102,24),
+(3526,37),
+(2768,14),
+(3822,3),
+(3059,5),
+(3613,14),
+(4425,8),
+(3331,29),
+(3657,6),
+(4698,32),
+(3398,36),
+(4089,2),
+(4137,4),
+(4875,17),
+(2760,12),
+(3405,11),
+(3958,12),
+(3347,17),
+(3941,5),
+(3217,13),
+(4137,2),
+(3463,39),
+(3204,2),
+(4460,33),
+(3852,14),
+(4996,36),
+(4513,1),
+(2787,37),
+(3386,11),
+(2832,30),
+(3971,6),
+(2719,4),
+(2930,18),
+(4832,12),
+(3281,11),
+(3242,40),
+(2717,10),
+(2716,1),
+(4417,28),
+(3141,4),
+(4944,36),
+(4076,36),
+(3603,11),
+(3976,21),
+(4325,39),
+(2879,10),
+(4232,11),
+(2502,23),
+(3047,18),
+(3648,34),
+(4165,7),
+(4417,10),
+(3807,23),
+(2898,22),
+(4888,27),
+(3182,18),
+(4239,11),
+(4973,38),
+(3305,26),
+(3576,17),
+(2689,5),
+(4395,34),
+(3492,28),
+(3786,5),
+(4937,39),
+(4830,7),
+(4085,5),
+(4919,35),
+(2573,23),
+(2809,22),
+(4059,22),
+(3894,25),
+(4662,2),
+(3049,5),
+(3295,26),
+(3787,35),
+(4718,24),
+(4999,26),
+(3732,30),
+(4564,34),
+(4286,31),
+(4223,8),
+(4699,35),
+(3576,25),
+(2745,31),
+(4875,11),
+(2764,26),
+(3883,9),
+(4879,9),
+(4375,37),
+(3836,4),
+(4212,14),
+(2873,8),
+(3379,12),
+(3146,15),
+(3878,23),
+(3533,19),
+(3023,31),
+(4460,9),
+(3918,7),
+(3976,20),
+(4832,26),
+(4016,13),
+(2921,16),
+(4939,35),
+(4644,40),
+(3058,7),
+(2590,23),
+(3883,6),
+(3855,20),
+(4893,22),
+(3766,28),
+(4768,34),
+(4436,27),
+(4420,15),
+(4279,29),
+(2820,6),
+(4527,1),
+(4870,17),
+(3721,8),
+(3573,40),
+(4006,28),
+(4059,20),
+(2983,31),
+(3076,38),
+(2867,3),
+(4070,2),
+(2908,36),
+(4207,17),
+(4071,33),
+(4730,27),
+(2697,27),
+(3332,4),
+(3645,35),
+(4926,30),
+(3660,7),
+(2718,35),
+(2970,17),
+(2847,10),
+(4266,16),
+(4715,39),
+(4771,3),
+(3238,23),
+(2707,24),
+(3135,20),
+(2884,13),
+(2654,29),
+(3274,28),
+(4132,26),
+(4685,1),
+(4464,26),
+(3046,31),
+(4586,38),
+(3463,13),
+(2880,14),
+(3616,34),
+(3680,20),
+(4657,9),
+(3611,11),
+(3408,5),
+(4384,27),
+(4434,23),
+(3680,11),
+(4269,16),
+(4699,35),
+(2508,35),
+(2688,32),
+(2729,5),
+(4809,11),
+(3132,31),
+(4845,18),
+(4701,25),
+(4561,35),
+(3699,22),
+(3752,40),
+(4213,31),
+(2554,21),
+(3279,9),
+(4516,22),
+(3516,29),
+(4558,20),
+(3152,13),
+(4138,15),
+(4725,22),
+(4538,12),
+(3321,31),
+(4997,37),
+(3812,9),
+(4457,34),
+(4049,40),
+(2999,20),
+(3958,14),
+(3024,12),
+(3443,20),
+(3022,14),
+(3683,26),
+(4987,19),
+(2545,4),
+(2818,15),
+(3797,24),
+(3746,31),
+(2965,9),
+(3237,28),
+(3006,24),
+(3921,29),
+(4691,18),
+(3376,28),
+(4991,30),
+(3083,29),
+(4470,3),
+(3461,3),
+(3822,31),
+(4240,28),
+(2597,19),
+(3969,28),
+(4321,24),
+(4397,34),
+(4668,20),
+(2653,36),
+(2529,37),
+(4771,15),
+(3710,22),
+(3753,18),
+(3175,38),
+(4435,2),
+(3766,11),
+(4911,39),
+(4881,10),
+(3436,14),
+(3596,28),
+(4109,25),
+(4417,28),
+(3296,14),
+(3065,4),
+(4135,3),
+(2931,15),
+(4654,40),
+(4307,7),
+(3575,18),
+(4250,22),
+(4861,30),
+(3025,40),
+(4640,5),
+(4757,22),
+(4283,2),
+(3056,13),
+(4966,12),
+(3879,27),
+(2796,9),
+(4549,11),
+(4285,6),
+(3295,19),
+(2960,18),
+(4084,8),
+(4378,23),
+(3335,37),
+(3996,18),
+(3442,21),
+(4734,32),
+(2820,19),
+(3313,15),
+(3625,14),
+(3578,34),
+(2982,19),
+(4283,26),
+(2564,38),
+(4333,14),
+(2600,18),
+(4905,10),
+(2657,22),
+(3449,15),
+(3383,36),
+(3559,5),
+(3210,7),
+(3423,25),
+(2532,24),
+(2897,28),
+(4793,1),
+(4287,20),
+(3701,40),
+(3081,17),
+(4647,37),
+(3316,36),
+(4244,13),
+(3435,25),
+(4786,4),
+(3933,14),
+(4341,14),
+(4252,19),
+(3531,3),
+(4599,21),
+(4369,19),
+(2809,18),
+(4168,16),
+(3635,17),
+(4167,37),
+(4976,19),
+(3369,6),
+(4064,2),
+(2827,29),
+(3457,34),
+(4598,9),
+(4178,22),
+(4590,40),
+(3542,10),
+(4882,34),
+(3292,20),
+(3512,3),
+(3887,28),
+(3404,26),
+(3572,13),
+(3146,2),
+(4624,34),
+(4278,20),
+(4492,31),
+(4180,39),
+(3260,10),
+(4330,18),
+(4551,26),
+(4651,24),
+(2517,13),
+(4862,2),
+(3759,18),
+(3779,1),
+(3365,28),
+(2565,18),
+(3477,2),
+(4965,10),
+(3958,35),
+(3453,36),
+(3533,32),
+(4379,13),
+(4439,11),
+(3799,3),
+(3151,36),
+(4432,35),
+(4937,4),
+(4863,3),
+(2864,22),
+(4805,39),
+(3498,36),
+(3358,40),
+(4668,18),
+(2532,26),
+(4535,7),
+(3741,36),
+(3634,36),
+(3875,21),
+(4411,22),
+(2506,35),
+(4044,32),
+(2990,30),
+(4872,3),
+(4455,37),
+(2723,24),
+(3168,19),
+(4886,9),
+(3490,4),
+(3659,1),
+(4693,19),
+(2976,34),
+(3583,8),
+(4940,12),
+(3323,1),
+(3523,26),
+(4116,25),
+(4905,37),
+(4801,19),
+(4839,3),
+(3400,14),
+(3470,17),
+(2688,35),
+(3101,3),
+(3307,9),
+(3267,16),
+(4963,16),
+(4151,26),
+(2852,15),
+(4736,16),
+(3502,23),
+(4321,13),
+(3060,38),
+(4091,5),
+(3112,24),
+(2894,34),
+(4821,9),
+(3630,33),
+(4480,18),
+(4936,8),
+(4855,31),
+(4628,16),
+(4321,14),
+(4113,26),
+(3685,11),
+(3216,38),
+(2543,21),
+(4141,37),
+(2717,40),
+(3216,4),
+(4530,2),
+(4141,19),
+(3903,3),
+(4706,21),
+(3257,33),
+(4540,20),
+(4742,1),
+(2741,38),
+(2647,2),
+(4588,39),
+(4453,8),
+(2987,4),
+(3320,39),
+(3003,9),
+(2645,2),
+(3940,1),
+(4176,28),
+(2655,35),
+(3289,20),
+(4268,6),
+(4711,16),
+(3457,1),
+(2508,10),
+(4545,8),
+(2719,22),
+(3525,24),
+(4172,6),
+(3453,25),
+(4329,20),
+(4814,10),
+(2730,16),
+(3718,4),
+(4182,28),
+(3361,8),
+(4791,14),
+(2558,22),
+(3969,6),
+(2959,4),
+(2552,27),
+(3147,37),
+(3680,5),
+(3173,6),
+(2664,3),
+(2807,12),
+(4250,16),
+(3846,26),
+(2993,8),
+(4982,12),
+(4853,20),
+(2802,24),
+(4933,10),
+(3263,37),
+(4179,6),
+(4226,23),
+(3879,8),
+(2773,29),
+(4014,17),
+(3068,5),
+(2765,4),
+(4442,4),
+(3000,7),
+(4526,32),
+(3299,9),
+(3848,24),
+(4934,33),
+(4353,12),
+(2645,36),
+(4192,16),
+(3679,13),
+(3485,25),
+(4270,17),
+(3009,39),
+(2634,34),
+(4707,34),
+(4608,8),
+(4626,30),
+(3883,34),
+(3859,19),
+(4264,11),
+(4358,6),
+(3726,17),
+(4978,34),
+(3115,11),
+(3466,34),
+(4498,4),
+(4169,34),
+(4876,16),
+(3202,24),
+(4206,19),
+(4859,34),
+(3786,14),
+(3154,3),
+(3274,37),
+(4600,22),
+(2527,34),
+(4174,39),
+(4787,23),
+(3308,37),
+(3803,13),
+(4090,28),
+(3873,36),
+(3207,35),
+(4374,19),
+(3040,6),
+(4730,6),
+(2940,5),
+(4390,9),
+(3540,26),
+(3392,34),
+(2851,17),
+(3471,36),
+(3026,24),
+(3999,18),
+(3377,35),
+(2780,5),
+(2709,33),
+(4766,14),
+(2668,17),
+(3243,37),
+(3602,7),
+(3141,14),
+(4213,5),
+(4829,1),
+(4251,13),
+(2861,33),
+(3230,31),
+(4680,27),
+(3715,1),
+(4311,6),
+(3759,26),
+(4299,11),
+(4434,14),
+(3538,18),
+(2534,34),
+(4280,39),
+(3176,10),
+(4687,7),
+(4905,3),
+(2717,15),
+(3137,16),
+(3201,6),
+(2560,31),
+(4028,30),
+(4436,28),
+(2608,37),
+(3086,16),
+(3070,10),
+(2649,5),
+(4429,23),
+(4478,1),
+(4173,8),
+(2607,7),
+(4325,8),
+(2644,27),
+(4835,30),
+(4142,37),
+(2596,34),
+(2521,31),
+(4375,9),
+(2919,29),
+(4433,23),
+(3631,32),
+(3845,32),
+(4770,32),
+(4617,3),
+(4124,38),
+(2865,24),
+(3431,27),
+(4378,5),
+(3334,3),
+(3036,9),
+(4037,39),
+(3258,13),
+(4281,39),
+(3097,36),
+(4891,17),
+(4313,4),
+(3715,4),
+(2926,4),
+(4776,11),
+(2851,22),
+(2854,37),
+(3140,16),
+(4446,40),
+(4079,8),
+(4676,20),
+(3495,14),
+(2614,34),
+(3226,7),
+(3267,37),
+(3061,29),
+(3774,25),
+(4135,13),
+(3782,28),
+(2923,32),
+(2873,37),
+(4675,24),
+(2895,3),
+(2912,32),
+(2761,13),
+(2887,30),
+(4466,20),
+(3312,37),
+(4961,3),
+(2636,2),
+(4421,3),
+(3354,19),
+(3685,5),
+(2566,29),
+(4509,36),
+(4271,13),
+(4945,5),
+(4072,10),
+(3181,28),
+(4990,21),
+(4450,8),
+(2988,25),
+(3826,23),
+(4470,40),
+(4955,29),
+(2933,26),
+(4318,36),
+(4495,5),
+(3267,24),
+(3331,21),
+(3913,36),
+(3975,26),
+(4921,3),
+(3127,35),
+(4371,27),
+(4308,7),
+(2918,4),
+(2534,14),
+(2697,33),
+(3970,26),
+(4351,27),
+(3058,20),
+(4855,29),
+(2746,29),
+(4223,37),
+(3711,39),
+(4616,24),
+(2842,21),
+(4070,18),
+(3370,1),
+(3236,15),
+(4696,20),
+(2743,8),
+(3437,4),
+(4970,29),
+(2657,39),
+(3891,11),
+(3960,24),
+(3743,10),
+(3942,31),
+(3921,13),
+(3399,31),
+(4497,33),
+(3744,36),
+(4112,39),
+(3571,7),
+(3368,17),
+(2561,39),
+(4937,5),
+(3782,3),
+(4156,25),
+(3143,38),
+(2579,36),
+(2870,18),
+(3763,8),
+(3898,5),
+(3922,22),
+(3294,39),
+(4748,28),
+(4614,7),
+(2851,31),
+(3934,40),
+(4278,26),
+(3515,28),
+(3289,6),
+(3665,24),
+(4539,30),
+(4346,40),
+(3166,4),
+(3472,22),
+(4104,8),
+(4413,33),
+(4966,17),
+(3326,28),
+(4910,22),
+(2898,18),
+(3757,7),
+(4755,34),
+(3912,40),
+(3579,10),
+(2845,4),
+(3207,38),
+(3525,29),
+(4789,5),
+(3040,28),
+(4656,6),
+(3326,40),
+(2998,28),
+(3408,11),
+(4358,4),
+(4301,31),
+(2775,35),
+(2557,36),
+(4002,18),
+(3465,33),
+(2667,11),
+(3831,5),
+(3169,12),
+(3064,32),
+(3372,36),
+(3186,21),
+(4018,36),
+(4244,33),
+(4013,15),
+(2633,12),
+(4913,11),
+(4518,26),
+(4775,27),
+(4674,36),
+(4104,21),
+(4150,21),
+(2913,21),
+(3143,30),
+(4803,1),
+(3093,26),
+(4461,32),
+(2976,31),
+(2821,20),
+(4051,16),
+(3124,9),
+(3951,30),
+(3602,14),
+(2819,9),
+(4433,29),
+(2805,22),
+(2838,32),
+(3257,25),
+(4171,2),
+(3137,27),
+(4898,18),
+(4249,10),
+(3040,27),
+(3484,14),
+(3063,34),
+(3490,8),
+(3047,20),
+(3388,28),
+(4025,36),
+(4699,34),
+(3529,33),
+(2865,33),
+(3933,8),
+(4017,32),
+(4286,20),
+(3501,21),
+(3173,33),
+(3635,29),
+(2942,1),
+(3666,32);

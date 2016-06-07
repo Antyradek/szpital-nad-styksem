@@ -1,3500 +1,3500 @@
-INSERT INTO Kwalifikacje VALUES (1,'Studia doktoranckie','12-19-82','Szkolenie','Grambling',2834);
-INSERT INTO Kwalifikacje VALUES (2,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-19-96','Studia doktoranckie','Charlotte',2927);
-INSERT INTO Kwalifikacje VALUES (3,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-13-86','Studia pielęgniarskie','Reno',2929);
-INSERT INTO Kwalifikacje VALUES (4,'Kurs specjalistyczny - Szczepienia ochronne','12-18-82','Studia wyższe licencjackie','Lincoln',3194);
-INSERT INTO Kwalifikacje VALUES (5,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-16-88','Studia pielęgniarskie','North Charleston',2862);
-INSERT INTO Kwalifikacje VALUES (6,'Kurs specjalistyczny - Szczepienia ochronne','6-24-11','Kurs kwalifikacyjny','Newark',3967);
-INSERT INTO Kwalifikacje VALUES (7,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-23-02','Studia pielęgniarskie','Moline',3675);
-INSERT INTO Kwalifikacje VALUES (8,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-28-89','Studia wyższe licencjackie','Valparaiso',2849);
-INSERT INTO Kwalifikacje VALUES (9,'Specjalizacja zawodowa','2-17-88','Szkolenie','Hoboken',3493);
-INSERT INTO Kwalifikacje VALUES (10,'Kurs specjalistyczny - Szczepienia ochronne','3-28-94','Studia wyższe licencjackie','Miami Beach',3590);
-INSERT INTO Kwalifikacje VALUES (11,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-4-81','Szkolenie','South Burlington',4315);
-INSERT INTO Kwalifikacje VALUES (12,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-5-82','Studia pielęgniarskie','Port St. Lucie',3207);
-INSERT INTO Kwalifikacje VALUES (13,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-28-93','Studia pielęgniarskie','Hattiesburg',4583);
-INSERT INTO Kwalifikacje VALUES (14,'Specjalizacja zawodowa','11-12-96','Kurs dokształcający','Kankakee',3934);
-INSERT INTO Kwalifikacje VALUES (15,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-20-14','Kurs kwalifikacyjny','Nanticoke',2605);
-INSERT INTO Kwalifikacje VALUES (16,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-12-83','Szkolenie','Fargo',3562);
-INSERT INTO Kwalifikacje VALUES (17,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-22-95','Studia pielęgniarskie','Grand Island',3394);
-INSERT INTO Kwalifikacje VALUES (18,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-12-89','Studia pielęgniarskie','Woodward',3935);
-INSERT INTO Kwalifikacje VALUES (19,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-9-84','Studia doktoranckie','Rolla',3541);
-INSERT INTO Kwalifikacje VALUES (20,'Studia pielęgniarskie','7-21-93','Szkolenie','Lexington',4943);
-INSERT INTO Kwalifikacje VALUES (21,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-8-87','Kurs dokształcający','Ontario',3968);
-INSERT INTO Kwalifikacje VALUES (22,'Kurs specjalistyczny - Szczepienia ochronne','1-11-02','Kurs specjalistyczny','Carrollton',4301);
-INSERT INTO Kwalifikacje VALUES (23,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-12-91','Specjalizacja','Marshfield',4041);
-INSERT INTO Kwalifikacje VALUES (24,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-10-80','Kurs kwalifikacyjny','Covington',4112);
-INSERT INTO Kwalifikacje VALUES (25,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-18-07','Studia wyższe licencjackie','Walla Walla',4545);
-INSERT INTO Kwalifikacje VALUES (26,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-12-04','Szkolenie','Port Jervis',2827);
-INSERT INTO Kwalifikacje VALUES (27,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-22-81','Kurs dokształcający','Oro Valley',2901);
-INSERT INTO Kwalifikacje VALUES (28,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-11-05','Kurs specjalistyczny','Ann Arbor',3039);
-INSERT INTO Kwalifikacje VALUES (29,'Studia wyższe licencjackie','7-10-01','Kurs kwalifikacyjny','Plano',4605);
-INSERT INTO Kwalifikacje VALUES (30,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-26-09','Studia doktoranckie','Morrison',3921);
-INSERT INTO Kwalifikacje VALUES (31,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-29-81','Kurs specjalistyczny','Saint Cloud',4956);
-INSERT INTO Kwalifikacje VALUES (32,'Studia wyższe licencjackie','12-18-95','Studia doktoranckie','Nacogdoches',3157);
-INSERT INTO Kwalifikacje VALUES (33,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-13-90','Specjalizacja','Corry',3667);
-INSERT INTO Kwalifikacje VALUES (34,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-10-07','Studia pielęgniarskie','Beckley',4445);
-INSERT INTO Kwalifikacje VALUES (35,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-1-99','Studia wyższe licencjackie','Scottsbluff',2981);
-INSERT INTO Kwalifikacje VALUES (36,'Kurs specjalistyczny - Szczepienia ochronne','1-22-85','Studia wyższe licencjackie','Manassas',4991);
-INSERT INTO Kwalifikacje VALUES (37,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-30-95','Kurs dokształcający','Brownsville',3329);
-INSERT INTO Kwalifikacje VALUES (38,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-17-09','Kurs dokształcający','Biddeford',2678);
-INSERT INTO Kwalifikacje VALUES (39,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-24-90','Studia doktoranckie','Stamford',2739);
-INSERT INTO Kwalifikacje VALUES (40,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-14-01','Kurs dokształcający','Isle of Palms',2503);
-INSERT INTO Kwalifikacje VALUES (41,'Studia pielęgniarskie','12-10-95','Szkolenie','Lakeland',4220);
-INSERT INTO Kwalifikacje VALUES (42,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-7-98','Kurs dokształcający','Tonawanda',3751);
-INSERT INTO Kwalifikacje VALUES (43,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-18-92','Kurs dokształcający','Lockport',3397);
-INSERT INTO Kwalifikacje VALUES (44,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-2-89','Kurs dokształcający','Independence',4611);
-INSERT INTO Kwalifikacje VALUES (45,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-9-16','Specjalizacja','La Habra',4419);
-INSERT INTO Kwalifikacje VALUES (46,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-11-80','Studia doktoranckie','Redding',3745);
-INSERT INTO Kwalifikacje VALUES (47,'Studia doktoranckie','7-28-92','Studia wyższe licencjackie','Kahului',2960);
-INSERT INTO Kwalifikacje VALUES (48,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-26-95','Kurs dokształcający','West Hollywood',4171);
-INSERT INTO Kwalifikacje VALUES (49,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-12-96','Studia pielęgniarskie','Iowa City',2923);
-INSERT INTO Kwalifikacje VALUES (50,'Studia doktoranckie','3-15-14','Kurs kwalifikacyjny','Vacaville',3558);
-INSERT INTO Kwalifikacje VALUES (51,'Studia wyższe licencjackie','1-30-95','Szkolenie','Beacon',3393);
-INSERT INTO Kwalifikacje VALUES (52,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-31-85','Szkolenie','La Cañada Flintridge',4725);
-INSERT INTO Kwalifikacje VALUES (53,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-30-10','Studia wyższe licencjackie','Long Beach',4900);
-INSERT INTO Kwalifikacje VALUES (54,'Studia doktoranckie','10-11-81','Studia doktoranckie','Plantation',4003);
-INSERT INTO Kwalifikacje VALUES (55,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-22-05','Kurs specjalistyczny','Johnson City',3479);
-INSERT INTO Kwalifikacje VALUES (56,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-7-10','Kurs dokształcający','Sturgis',4655);
-INSERT INTO Kwalifikacje VALUES (57,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-20-12','Studia pielęgniarskie','Memphis',4564);
-INSERT INTO Kwalifikacje VALUES (58,'Kurs specjalistyczny - Szczepienia ochronne','3-17-00','Szkolenie','Greenville',4660);
-INSERT INTO Kwalifikacje VALUES (59,'Studia mające zastosowanie w działalności podstawowej','3-26-09','Kurs specjalistyczny','Riverside',3424);
-INSERT INTO Kwalifikacje VALUES (60,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-20-87','Studia wyższe licencjackie','Berlin',4162);
-INSERT INTO Kwalifikacje VALUES (61,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-11-83','Studia wyższe licencjackie','North Charleston',4237);
-INSERT INTO Kwalifikacje VALUES (62,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-29-14','Specjalizacja','Bremerton',4394);
-INSERT INTO Kwalifikacje VALUES (63,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-7-96','Specjalizacja','Basin',3892);
-INSERT INTO Kwalifikacje VALUES (64,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-14-11','Kurs kwalifikacyjny','Kansas City',3481);
-INSERT INTO Kwalifikacje VALUES (65,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-6-90','Kurs dokształcający','Farrell',4906);
-INSERT INTO Kwalifikacje VALUES (66,'Kurs specjalistyczny - Szczepienia ochronne','10-5-07','Studia wyższe licencjackie','Clarksburg',4195);
-INSERT INTO Kwalifikacje VALUES (67,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-5-97','Szkolenie','Burlington',3575);
-INSERT INTO Kwalifikacje VALUES (68,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-26-92','Studia pielęgniarskie','Los Angeles',2853);
-INSERT INTO Kwalifikacje VALUES (69,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-28-84','Kurs dokształcający','Muskegon',4762);
-INSERT INTO Kwalifikacje VALUES (70,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-14-81','Studia doktoranckie','West Hollywood',4072);
-INSERT INTO Kwalifikacje VALUES (71,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-25-96','Studia wyższe licencjackie','Fairfax',3559);
-INSERT INTO Kwalifikacje VALUES (72,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-19-02','Kurs dokształcający','Methuen',3549);
-INSERT INTO Kwalifikacje VALUES (73,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-25-99','Szkolenie','San Antonio',4901);
-INSERT INTO Kwalifikacje VALUES (74,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-12-87','Studia wyższe licencjackie','Woburn',3993);
-INSERT INTO Kwalifikacje VALUES (75,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-23-83','Specjalizacja','East Lansing',3927);
-INSERT INTO Kwalifikacje VALUES (76,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-26-94','Specjalizacja','Ogden',4019);
-INSERT INTO Kwalifikacje VALUES (77,'Studia pielęgniarskie','12-23-07','Specjalizacja','Duarte',4380);
-INSERT INTO Kwalifikacje VALUES (78,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-4-04','Studia doktoranckie','Muskegon',4963);
-INSERT INTO Kwalifikacje VALUES (79,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-26-94','Kurs kwalifikacyjny','Lawrenceville',4072);
-INSERT INTO Kwalifikacje VALUES (80,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-13-03','Kurs dokształcający','Fremont',4683);
-INSERT INTO Kwalifikacje VALUES (81,'Kurs specjalistyczny – Terapia bólu','4-1-99','Szkolenie','Frederick',3009);
-INSERT INTO Kwalifikacje VALUES (82,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-26-97','Szkolenie','Titusville',2931);
-INSERT INTO Kwalifikacje VALUES (83,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-3-91','Kurs kwalifikacyjny','Duncan',3786);
-INSERT INTO Kwalifikacje VALUES (84,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-27-04','Szkolenie','Somersworth',3503);
-INSERT INTO Kwalifikacje VALUES (85,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-29-88','Kurs kwalifikacyjny','Harrisburg',3496);
-INSERT INTO Kwalifikacje VALUES (86,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-18-12','Studia pielęgniarskie','Lockport',3039);
-INSERT INTO Kwalifikacje VALUES (87,'Kurs specjalistyczny – Terapia bólu','5-12-01','Kurs dokształcający','Allentown',4092);
-INSERT INTO Kwalifikacje VALUES (88,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-27-01','Specjalizacja','Glendora',4685);
-INSERT INTO Kwalifikacje VALUES (89,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-20-09','Szkolenie','Charlotte Amalie',3953);
-INSERT INTO Kwalifikacje VALUES (90,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-9-15','Studia doktoranckie','Bakersfield',4890);
-INSERT INTO Kwalifikacje VALUES (91,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-10-16','Studia pielęgniarskie','Chicopee',3785);
-INSERT INTO Kwalifikacje VALUES (92,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-1-96','Studia doktoranckie','Scottsdale',4466);
-INSERT INTO Kwalifikacje VALUES (93,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-26-09','Kurs kwalifikacyjny','West Memphis',4299);
-INSERT INTO Kwalifikacje VALUES (94,'Studia wyższe licencjackie','6-9-89','Studia pielęgniarskie','Canandaigua',3471);
-INSERT INTO Kwalifikacje VALUES (95,'Kurs specjalistyczny – Terapia bólu','9-18-98','Studia pielęgniarskie','Pascagoula',4847);
-INSERT INTO Kwalifikacje VALUES (96,'Studia doktoranckie','1-6-13','Kurs kwalifikacyjny','Farrell',4900);
-INSERT INTO Kwalifikacje VALUES (97,'Specjalizacja zawodowa','9-8-98','Studia doktoranckie','Tupelo',4256);
-INSERT INTO Kwalifikacje VALUES (98,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-8-87','Studia pielęgniarskie','Clovis',2894);
-INSERT INTO Kwalifikacje VALUES (99,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-11-99','Kurs specjalistyczny','Jordan Valley',3773);
-INSERT INTO Kwalifikacje VALUES (100,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-24-05','Studia pielęgniarskie','Torrance',3104);
-INSERT INTO Kwalifikacje VALUES (101,'Studia doktoranckie','9-26-81','Szkolenie','Duncan',3176);
-INSERT INTO Kwalifikacje VALUES (102,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-10-11','Kurs kwalifikacyjny','Fort Dodge',4614);
-INSERT INTO Kwalifikacje VALUES (103,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-24-11','Studia pielęgniarskie','Medford',4362);
-INSERT INTO Kwalifikacje VALUES (104,'Specjalizacja zawodowa','8-27-03','Kurs kwalifikacyjny','Rockford',3321);
-INSERT INTO Kwalifikacje VALUES (105,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-28-13','Kurs specjalistyczny','Merced',4286);
-INSERT INTO Kwalifikacje VALUES (106,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-9-09','Specjalizacja','Jeannette',3639);
-INSERT INTO Kwalifikacje VALUES (107,'Kurs specjalistyczny – Terapia bólu','2-2-06','Kurs kwalifikacyjny','Bangor',2651);
-INSERT INTO Kwalifikacje VALUES (108,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-31-88','Studia doktoranckie','Minot',4342);
-INSERT INTO Kwalifikacje VALUES (109,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-9-06','Studia doktoranckie','South Bend',4269);
-INSERT INTO Kwalifikacje VALUES (110,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-13-86','Kurs specjalistyczny','Schenectady',4411);
-INSERT INTO Kwalifikacje VALUES (111,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-9-87','Szkolenie','Dothan',3070);
-INSERT INTO Kwalifikacje VALUES (112,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-2-11','Specjalizacja','Sheridan',4943);
-INSERT INTO Kwalifikacje VALUES (113,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-30-14','Kurs dokształcający','Riverton',2646);
-INSERT INTO Kwalifikacje VALUES (114,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-23-92','Szkolenie','Union City',3129);
-INSERT INTO Kwalifikacje VALUES (115,'Kurs specjalistyczny – Terapia bólu','11-16-15','Studia wyższe licencjackie','Tacoma',2527);
-INSERT INTO Kwalifikacje VALUES (116,'Kurs specjalistyczny – Terapia bólu','11-21-86','Specjalizacja','Liberal',4038);
-INSERT INTO Kwalifikacje VALUES (117,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-3-91','Szkolenie','Sheridan',4248);
-INSERT INTO Kwalifikacje VALUES (118,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-17-15','Kurs specjalistyczny','Westfield',4044);
-INSERT INTO Kwalifikacje VALUES (119,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-30-93','Studia pielęgniarskie','McAllen',2843);
-INSERT INTO Kwalifikacje VALUES (120,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-27-05','Kurs dokształcający','Centennial',3996);
-INSERT INTO Kwalifikacje VALUES (121,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-20-89','Studia pielęgniarskie','Canandaigua',4616);
-INSERT INTO Kwalifikacje VALUES (122,'Kurs specjalistyczny - Szczepienia ochronne','4-26-13','Kurs dokształcający','Winnemucca',3470);
-INSERT INTO Kwalifikacje VALUES (123,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-6-87','Studia wyższe licencjackie','Gilbert',2801);
-INSERT INTO Kwalifikacje VALUES (124,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-4-95','Specjalizacja','Lebanon',3921);
-INSERT INTO Kwalifikacje VALUES (125,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-27-09','Kurs specjalistyczny','Palos Verdes Estates',2939);
-INSERT INTO Kwalifikacje VALUES (126,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-8-95','Studia wyższe licencjackie','Frederick',4557);
-INSERT INTO Kwalifikacje VALUES (127,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-8-02','Szkolenie','Fairbanks',4034);
-INSERT INTO Kwalifikacje VALUES (128,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-21-15','Kurs dokształcający','Pasco',2623);
-INSERT INTO Kwalifikacje VALUES (129,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-17-88','Specjalizacja','Marietta',3900);
-INSERT INTO Kwalifikacje VALUES (130,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-23-96','Studia wyższe licencjackie','Cape Coral',3483);
-INSERT INTO Kwalifikacje VALUES (131,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-21-91','Szkolenie','Texas City',3071);
-INSERT INTO Kwalifikacje VALUES (132,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-6-06','Kurs kwalifikacyjny','Areceibo',4427);
-INSERT INTO Kwalifikacje VALUES (133,'Studia mające zastosowanie w działalności podstawowej','12-26-11','Studia doktoranckie','Hopkinsville',3112);
-INSERT INTO Kwalifikacje VALUES (134,'Kurs specjalistyczny – Terapia bólu','11-19-91','Specjalizacja','Aliquippa',4613);
-INSERT INTO Kwalifikacje VALUES (135,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-28-94','Kurs specjalistyczny','Saipan',2842);
-INSERT INTO Kwalifikacje VALUES (136,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-23-83','Kurs dokształcający','Geneva',3291);
-INSERT INTO Kwalifikacje VALUES (137,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-31-07','Studia pielęgniarskie','Ada',4445);
-INSERT INTO Kwalifikacje VALUES (138,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-27-07','Kurs dokształcający','Kent',3473);
-INSERT INTO Kwalifikacje VALUES (139,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-8-92','Studia wyższe licencjackie','San Marino',4485);
-INSERT INTO Kwalifikacje VALUES (140,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-18-84','Studia wyższe licencjackie','Sunnyvale',2570);
-INSERT INTO Kwalifikacje VALUES (141,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-11-98','Szkolenie','Arvada',3049);
-INSERT INTO Kwalifikacje VALUES (142,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-11-16','Studia doktoranckie','Kennesaw',4851);
-INSERT INTO Kwalifikacje VALUES (143,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-19-99','Specjalizacja','Burlingame',3344);
-INSERT INTO Kwalifikacje VALUES (144,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-7-16','Studia pielęgniarskie','Richland',4091);
-INSERT INTO Kwalifikacje VALUES (145,'Studia doktoranckie','4-4-04','Kurs kwalifikacyjny','White Plains',3245);
-INSERT INTO Kwalifikacje VALUES (146,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-24-08','Kurs dokształcający','Poughkeepsie',3305);
-INSERT INTO Kwalifikacje VALUES (147,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-16-91','Studia wyższe licencjackie','Mesquite',3245);
-INSERT INTO Kwalifikacje VALUES (148,'Studia mające zastosowanie w działalności podstawowej','2-15-84','Specjalizacja','Mission Viejo',3043);
-INSERT INTO Kwalifikacje VALUES (149,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-19-12','Specjalizacja','Cape Coral',3812);
-INSERT INTO Kwalifikacje VALUES (150,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-19-00','Studia wyższe licencjackie','Phoenix',3645);
-INSERT INTO Kwalifikacje VALUES (151,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-1-03','Szkolenie','Bozeman',3644);
-INSERT INTO Kwalifikacje VALUES (152,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-16-09','Kurs dokształcający','Jeffersontown',4382);
-INSERT INTO Kwalifikacje VALUES (153,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-17-10','Studia pielęgniarskie','Winston-Salem',2945);
-INSERT INTO Kwalifikacje VALUES (154,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-30-99','Kurs specjalistyczny','West Hollywood',3129);
-INSERT INTO Kwalifikacje VALUES (155,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-3-10','Kurs dokształcający','Aguadilla',2969);
-INSERT INTO Kwalifikacje VALUES (156,'Studia wyższe licencjackie','3-4-98','Specjalizacja','North Chicago',4908);
-INSERT INTO Kwalifikacje VALUES (157,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-16-84','Szkolenie','Henderson',2723);
-INSERT INTO Kwalifikacje VALUES (158,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-30-94','Studia wyższe licencjackie','Greenville',4990);
-INSERT INTO Kwalifikacje VALUES (159,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-31-88','Szkolenie','Baldwin Park',2739);
-INSERT INTO Kwalifikacje VALUES (160,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-15-03','Szkolenie','Memphis',3954);
-INSERT INTO Kwalifikacje VALUES (161,'Specjalizacja zawodowa','11-27-13','Studia pielęgniarskie','Pittston',4847);
-INSERT INTO Kwalifikacje VALUES (162,'Kurs specjalistyczny – Terapia bólu','8-26-97','Kurs specjalistyczny','Pendleton',3749);
-INSERT INTO Kwalifikacje VALUES (163,'Studia doktoranckie','1-15-92','Kurs kwalifikacyjny','Carolina',3165);
-INSERT INTO Kwalifikacje VALUES (164,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-25-81','Kurs specjalistyczny','Rensselaer',4995);
-INSERT INTO Kwalifikacje VALUES (165,'Studia pielęgniarskie','5-14-97','Kurs dokształcający','Kingsport',2699);
-INSERT INTO Kwalifikacje VALUES (166,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-24-13','Specjalizacja','Gallup',3241);
-INSERT INTO Kwalifikacje VALUES (167,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-11-15','Specjalizacja','Forest Lake',3296);
-INSERT INTO Kwalifikacje VALUES (168,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-25-90','Studia pielęgniarskie','Plattsburgh',2589);
-INSERT INTO Kwalifikacje VALUES (169,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-6-14','Kurs kwalifikacyjny','Bismarck',3638);
-INSERT INTO Kwalifikacje VALUES (170,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-25-05','Kurs kwalifikacyjny','Asbury Park',4480);
-INSERT INTO Kwalifikacje VALUES (171,'Kurs specjalistyczny - Szczepienia ochronne','11-13-01','Kurs kwalifikacyjny','Rancho Cucamonga',3982);
-INSERT INTO Kwalifikacje VALUES (172,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-31-94','Kurs specjalistyczny','Watertown',2835);
-INSERT INTO Kwalifikacje VALUES (173,'Kurs specjalistyczny – Terapia bólu','3-22-93','Studia doktoranckie','Beverly',3730);
-INSERT INTO Kwalifikacje VALUES (174,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-18-00','Szkolenie','Titusville',3059);
-INSERT INTO Kwalifikacje VALUES (175,'Kurs specjalistyczny – Terapia bólu','9-18-98','Studia doktoranckie','Laredo',4507);
-INSERT INTO Kwalifikacje VALUES (176,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-6-87','Kurs specjalistyczny','Oklahoma City',2888);
-INSERT INTO Kwalifikacje VALUES (177,'Studia wyższe licencjackie','12-17-91','Studia doktoranckie','Garland',3651);
-INSERT INTO Kwalifikacje VALUES (178,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-7-06','Kurs dokształcający','Richmond',3393);
-INSERT INTO Kwalifikacje VALUES (179,'Studia mające zastosowanie w działalności podstawowej','6-12-03','Kurs kwalifikacyjny','Brookfield',4530);
-INSERT INTO Kwalifikacje VALUES (180,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-10-83','Kurs dokształcający','Kokomo',3694);
-INSERT INTO Kwalifikacje VALUES (181,'Studia mające zastosowanie w działalności podstawowej','10-24-83','Studia wyższe licencjackie','Gainesville',3661);
-INSERT INTO Kwalifikacje VALUES (182,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-27-06','Specjalizacja','Fort Wayne',4320);
-INSERT INTO Kwalifikacje VALUES (183,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-7-86','Studia doktoranckie','Medford',3237);
-INSERT INTO Kwalifikacje VALUES (184,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-9-13','Kurs specjalistyczny','Waterloo',2793);
-INSERT INTO Kwalifikacje VALUES (185,'Kurs specjalistyczny - Szczepienia ochronne','1-8-99','Studia doktoranckie','Lebanon',4230);
-INSERT INTO Kwalifikacje VALUES (186,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-5-86','Kurs specjalistyczny','El Monte',2734);
-INSERT INTO Kwalifikacje VALUES (187,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-4-82','Szkolenie','Vergennes',3976);
-INSERT INTO Kwalifikacje VALUES (188,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-19-83','Szkolenie','Vail',2501);
-INSERT INTO Kwalifikacje VALUES (189,'Kurs specjalistyczny - Szczepienia ochronne','8-18-02','Studia doktoranckie','Stafford',3880);
-INSERT INTO Kwalifikacje VALUES (190,'Studia wyższe licencjackie','11-12-82','Specjalizacja','Pocatello',4840);
-INSERT INTO Kwalifikacje VALUES (191,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-29-98','Szkolenie','San Angelo',4485);
-INSERT INTO Kwalifikacje VALUES (192,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-13-02','Studia wyższe licencjackie','Greensburg',3604);
-INSERT INTO Kwalifikacje VALUES (193,'Studia mające zastosowanie w działalności podstawowej','2-15-89','Studia wyższe licencjackie','Bossier City',4975);
-INSERT INTO Kwalifikacje VALUES (194,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-3-94','Kurs specjalistyczny','Prescott',4428);
-INSERT INTO Kwalifikacje VALUES (195,'Studia wyższe licencjackie','7-7-02','Kurs kwalifikacyjny','Whittier',4264);
-INSERT INTO Kwalifikacje VALUES (196,'Studia pielęgniarskie','10-12-95','Szkolenie','Needham',3193);
-INSERT INTO Kwalifikacje VALUES (197,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-24-91','Kurs specjalistyczny','Council Bluffs',3197);
-INSERT INTO Kwalifikacje VALUES (198,'Studia doktoranckie','1-14-90','Studia doktoranckie','Port Arthur',2694);
-INSERT INTO Kwalifikacje VALUES (199,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-8-01','Kurs specjalistyczny','Cedarburg',4304);
-INSERT INTO Kwalifikacje VALUES (200,'Studia doktoranckie','8-26-98','Studia wyższe licencjackie','Batavia',4351);
-INSERT INTO Kwalifikacje VALUES (201,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-2-03','Kurs specjalistyczny','North Platte',3781);
-INSERT INTO Kwalifikacje VALUES (202,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-19-91','Szkolenie','Alexandria',3307);
-INSERT INTO Kwalifikacje VALUES (203,'Studia wyższe licencjackie','5-16-06','Studia pielęgniarskie','Roanoke',4736);
-INSERT INTO Kwalifikacje VALUES (204,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-5-81','Kurs specjalistyczny','Palo Alto',3592);
-INSERT INTO Kwalifikacje VALUES (205,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-29-05','Studia wyższe licencjackie','Escondido',3358);
-INSERT INTO Kwalifikacje VALUES (206,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-8-98','Studia wyższe licencjackie','Brea',3655);
-INSERT INTO Kwalifikacje VALUES (207,'Kurs specjalistyczny – Terapia bólu','5-30-10','Studia wyższe licencjackie','Lockport',4823);
-INSERT INTO Kwalifikacje VALUES (208,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-9-89','Szkolenie','Boston',4595);
-INSERT INTO Kwalifikacje VALUES (209,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-21-83','Szkolenie','Laconia',4659);
-INSERT INTO Kwalifikacje VALUES (210,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-16-95','Kurs specjalistyczny','Fremont',2927);
-INSERT INTO Kwalifikacje VALUES (211,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-17-88','Szkolenie','Boulder',4181);
-INSERT INTO Kwalifikacje VALUES (212,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-28-98','Specjalizacja','Lansing',4051);
-INSERT INTO Kwalifikacje VALUES (213,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-10-89','Kurs kwalifikacyjny','Chicopee',3985);
-INSERT INTO Kwalifikacje VALUES (214,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-19-87','Studia doktoranckie','Williamsport',4355);
-INSERT INTO Kwalifikacje VALUES (215,'Studia doktoranckie','10-4-06','Studia doktoranckie','Dearborn',4225);
-INSERT INTO Kwalifikacje VALUES (216,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-17-98','Kurs dokształcający','Basin',4104);
-INSERT INTO Kwalifikacje VALUES (217,'Kurs specjalistyczny - Szczepienia ochronne','2-4-01','Studia doktoranckie','Saint Paul',2825);
-INSERT INTO Kwalifikacje VALUES (218,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-19-86','Kurs specjalistyczny','Mesquite',4235);
-INSERT INTO Kwalifikacje VALUES (219,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-3-05','Kurs dokształcający','Norman',4414);
-INSERT INTO Kwalifikacje VALUES (220,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-19-12','Kurs specjalistyczny','West Valley City',3963);
-INSERT INTO Kwalifikacje VALUES (221,'Studia mające zastosowanie w działalności podstawowej','11-9-07','Specjalizacja','Laredo',4747);
-INSERT INTO Kwalifikacje VALUES (222,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-5-01','Studia doktoranckie','Lebanon',2671);
-INSERT INTO Kwalifikacje VALUES (223,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-5-88','Studia pielęgniarskie','Santa Ana',2738);
-INSERT INTO Kwalifikacje VALUES (224,'Specjalizacja zawodowa','11-19-04','Kurs dokształcający','Lafayette',4904);
-INSERT INTO Kwalifikacje VALUES (225,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-9-07','Szkolenie','Sherrill',4896);
-INSERT INTO Kwalifikacje VALUES (226,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-23-90','Szkolenie','Lander',4878);
-INSERT INTO Kwalifikacje VALUES (227,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-20-06','Kurs dokształcający','Memphis',3533);
-INSERT INTO Kwalifikacje VALUES (228,'Kurs specjalistyczny - Szczepienia ochronne','7-13-90','Kurs dokształcający','Atlantic City',4053);
-INSERT INTO Kwalifikacje VALUES (229,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-18-13','Szkolenie','Somersworth',3561);
-INSERT INTO Kwalifikacje VALUES (230,'Specjalizacja zawodowa','3-2-88','Studia pielęgniarskie','Aliquippa',4315);
-INSERT INTO Kwalifikacje VALUES (231,'Studia wyższe licencjackie','10-12-13','Specjalizacja','Davenport',2839);
-INSERT INTO Kwalifikacje VALUES (232,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-24-88','Szkolenie','West Covina',3808);
-INSERT INTO Kwalifikacje VALUES (233,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-9-14','Kurs specjalistyczny','Basin',3505);
-INSERT INTO Kwalifikacje VALUES (234,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-4-06','Studia doktoranckie','Vacaville',2559);
-INSERT INTO Kwalifikacje VALUES (235,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-14-95','Studia wyższe licencjackie','Tustin',4459);
-INSERT INTO Kwalifikacje VALUES (236,'Kurs specjalistyczny - Szczepienia ochronne','8-1-04','Kurs dokształcający','Farmer City',2560);
-INSERT INTO Kwalifikacje VALUES (237,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-29-88','Kurs specjalistyczny','Biddeford',3786);
-INSERT INTO Kwalifikacje VALUES (238,'Studia mające zastosowanie w działalności podstawowej','1-13-03','Specjalizacja','Fresno',4876);
-INSERT INTO Kwalifikacje VALUES (239,'Studia pielęgniarskie','5-27-83','Kurs kwalifikacyjny','Bethany',3535);
-INSERT INTO Kwalifikacje VALUES (240,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-4-82','Szkolenie','St. Marys',2966);
-INSERT INTO Kwalifikacje VALUES (241,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-7-02','Szkolenie','Webster Groves',3081);
-INSERT INTO Kwalifikacje VALUES (242,'Studia mające zastosowanie w działalności podstawowej','6-30-09','Kurs specjalistyczny','Bay City',3375);
-INSERT INTO Kwalifikacje VALUES (243,'Studia wyższe licencjackie','2-15-03','Kurs dokształcający','Midland',4432);
-INSERT INTO Kwalifikacje VALUES (244,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-19-95','Kurs dokształcający','New Iberia',3817);
-INSERT INTO Kwalifikacje VALUES (245,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-6-16','Studia doktoranckie','Harrisburg',3921);
-INSERT INTO Kwalifikacje VALUES (246,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-2-14','Studia doktoranckie','Abilene',2567);
-INSERT INTO Kwalifikacje VALUES (247,'Studia pielęgniarskie','8-11-09','Szkolenie','McKeesport',3402);
-INSERT INTO Kwalifikacje VALUES (248,'Studia pielęgniarskie','2-16-06','Szkolenie','Sheboygan',4298);
-INSERT INTO Kwalifikacje VALUES (249,'Studia doktoranckie','5-2-89','Kurs dokształcający','Fresno',4600);
-INSERT INTO Kwalifikacje VALUES (250,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-17-04','Kurs kwalifikacyjny','Lowell',4600);
-INSERT INTO Kwalifikacje VALUES (251,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-11-84','Kurs kwalifikacyjny','Valparaiso',3609);
-INSERT INTO Kwalifikacje VALUES (252,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-14-81','Kurs kwalifikacyjny','DuBois',3778);
-INSERT INTO Kwalifikacje VALUES (253,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-25-97','Szkolenie','Hickory',2590);
-INSERT INTO Kwalifikacje VALUES (254,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-16-81','Kurs dokształcający','Little Falls',3198);
-INSERT INTO Kwalifikacje VALUES (255,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-15-02','Studia pielęgniarskie','Missoula',2785);
-INSERT INTO Kwalifikacje VALUES (256,'Kurs specjalistyczny - Szczepienia ochronne','7-19-11','Kurs specjalistyczny','Torrington',4753);
-INSERT INTO Kwalifikacje VALUES (257,'Specjalizacja zawodowa','8-10-96','Specjalizacja','Apple Valley',2590);
-INSERT INTO Kwalifikacje VALUES (258,'Kurs specjalistyczny - Szczepienia ochronne','12-17-89','Studia wyższe licencjackie','Gettysburg',3205);
-INSERT INTO Kwalifikacje VALUES (259,'Studia wyższe licencjackie','9-27-92','Kurs dokształcający','Wausau',2560);
-INSERT INTO Kwalifikacje VALUES (260,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-27-07','Szkolenie','Miami Beach',4838);
-INSERT INTO Kwalifikacje VALUES (261,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-9-01','Kurs kwalifikacyjny','Opelousas',3388);
-INSERT INTO Kwalifikacje VALUES (262,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-10-99','Kurs kwalifikacyjny','Pittston',3087);
-INSERT INTO Kwalifikacje VALUES (263,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-27-92','Studia doktoranckie','Opelousas',4855);
-INSERT INTO Kwalifikacje VALUES (264,'Kurs specjalistyczny - Szczepienia ochronne','3-21-11','Kurs kwalifikacyjny','Paterson',4072);
-INSERT INTO Kwalifikacje VALUES (265,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-31-11','Szkolenie','Port Orford',3017);
-INSERT INTO Kwalifikacje VALUES (266,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-1-02','Szkolenie','Oxford',3327);
-INSERT INTO Kwalifikacje VALUES (267,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-31-84','Kurs dokształcający','Atlantic City',3710);
-INSERT INTO Kwalifikacje VALUES (268,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-5-11','Studia doktoranckie','Starkville',4654);
-INSERT INTO Kwalifikacje VALUES (269,'Studia pielęgniarskie','6-7-99','Szkolenie','Hilo',2645);
-INSERT INTO Kwalifikacje VALUES (270,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-12-92','Studia wyższe licencjackie','Zanesville',3857);
-INSERT INTO Kwalifikacje VALUES (271,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-27-91','Studia doktoranckie','Hoboken',2575);
-INSERT INTO Kwalifikacje VALUES (272,'Specjalizacja zawodowa','11-5-82','Studia wyższe licencjackie','Guthrie',4793);
-INSERT INTO Kwalifikacje VALUES (273,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-25-84','Kurs specjalistyczny','Everett',4811);
-INSERT INTO Kwalifikacje VALUES (274,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-18-80','Kurs specjalistyczny','Guánica',3390);
-INSERT INTO Kwalifikacje VALUES (275,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-12-14','Studia wyższe licencjackie','Cheyenne',3907);
-INSERT INTO Kwalifikacje VALUES (276,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-7-81','Szkolenie','Batavia',3131);
-INSERT INTO Kwalifikacje VALUES (277,'Studia mające zastosowanie w działalności podstawowej','6-12-02','Studia pielęgniarskie','Beckley',2812);
-INSERT INTO Kwalifikacje VALUES (278,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-16-14','Kurs dokształcający','Santa Ana',4474);
-INSERT INTO Kwalifikacje VALUES (279,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-20-99','Kurs kwalifikacyjny','Laredo',3033);
-INSERT INTO Kwalifikacje VALUES (280,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-25-15','Szkolenie','Valdez',3578);
-INSERT INTO Kwalifikacje VALUES (281,'Studia wyższe licencjackie','2-22-04','Szkolenie','Flagstaff',4592);
-INSERT INTO Kwalifikacje VALUES (282,'Studia pielęgniarskie','11-15-14','Kurs dokształcający','Tallahassee',4897);
-INSERT INTO Kwalifikacje VALUES (283,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-30-12','Kurs dokształcający','Dothan',3070);
-INSERT INTO Kwalifikacje VALUES (284,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-6-01','Kurs kwalifikacyjny','Fargo',4485);
-INSERT INTO Kwalifikacje VALUES (285,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-26-08','Studia doktoranckie','Iowa City',3935);
-INSERT INTO Kwalifikacje VALUES (286,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-9-03','Szkolenie','Cudahy',3376);
-INSERT INTO Kwalifikacje VALUES (287,'Studia wyższe licencjackie','8-25-08','Studia wyższe licencjackie','Anaconda',3257);
-INSERT INTO Kwalifikacje VALUES (288,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-3-11','Studia wyższe licencjackie','Peabody',4478);
-INSERT INTO Kwalifikacje VALUES (289,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-16-91','Kurs kwalifikacyjny','Starkville',4368);
-INSERT INTO Kwalifikacje VALUES (290,'Studia wyższe licencjackie','3-5-87','Kurs dokształcający','Worland',3632);
-INSERT INTO Kwalifikacje VALUES (291,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-18-13','Kurs kwalifikacyjny','Kahului',4154);
-INSERT INTO Kwalifikacje VALUES (292,'Studia doktoranckie','2-23-98','Kurs kwalifikacyjny','Cody',3129);
-INSERT INTO Kwalifikacje VALUES (293,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-21-85','Szkolenie','Salisbury',4460);
-INSERT INTO Kwalifikacje VALUES (294,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-21-87','Studia doktoranckie','La Cañada Flintridge',4739);
-INSERT INTO Kwalifikacje VALUES (295,'Kurs specjalistyczny – Terapia bólu','9-3-12','Kurs kwalifikacyjny','Oneonta',3600);
-INSERT INTO Kwalifikacje VALUES (296,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-31-86','Specjalizacja','Aspen',2514);
-INSERT INTO Kwalifikacje VALUES (297,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-19-84','Studia pielęgniarskie','Yorba Linda',4874);
-INSERT INTO Kwalifikacje VALUES (298,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-21-98','Studia wyższe licencjackie','Rutland',4097);
-INSERT INTO Kwalifikacje VALUES (299,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-29-85','Specjalizacja','Schaumburg',4325);
-INSERT INTO Kwalifikacje VALUES (300,'Studia doktoranckie','2-6-86','Kurs kwalifikacyjny','Laughlin',3940);
-INSERT INTO Kwalifikacje VALUES (301,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-15-03','Szkolenie','Yorba Linda',3233);
-INSERT INTO Kwalifikacje VALUES (302,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-31-96','Szkolenie','Oneida',3071);
-INSERT INTO Kwalifikacje VALUES (303,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','11-3-82','Kurs dokształcający','Compton',3105);
-INSERT INTO Kwalifikacje VALUES (304,'Specjalizacja zawodowa','1-17-12','Studia wyższe licencjackie','Mobile',4005);
-INSERT INTO Kwalifikacje VALUES (305,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-30-88','Studia wyższe licencjackie','Dubuque',2801);
-INSERT INTO Kwalifikacje VALUES (306,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-5-80','Kurs specjalistyczny','West Covina',3876);
-INSERT INTO Kwalifikacje VALUES (307,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-27-04','Szkolenie','Titusville',4142);
-INSERT INTO Kwalifikacje VALUES (308,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-11-11','Studia doktoranckie','Santa Ana',3267);
-INSERT INTO Kwalifikacje VALUES (309,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-28-84','Studia doktoranckie','Whittier',4685);
-INSERT INTO Kwalifikacje VALUES (310,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-12-87','Specjalizacja','Eden Prairie',3750);
-INSERT INTO Kwalifikacje VALUES (311,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-14-16','Szkolenie','Riverside',4329);
-INSERT INTO Kwalifikacje VALUES (312,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-18-14','Studia wyższe licencjackie','Norman',4798);
-INSERT INTO Kwalifikacje VALUES (313,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-2-82','Studia wyższe licencjackie','Sierra Madre',4581);
-INSERT INTO Kwalifikacje VALUES (314,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-24-11','Szkolenie','Wichita',2580);
-INSERT INTO Kwalifikacje VALUES (315,'Studia wyższe licencjackie','12-25-11','Kurs specjalistyczny','West Bend',4274);
-INSERT INTO Kwalifikacje VALUES (316,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','2-6-97','Kurs kwalifikacyjny','Chicago Heights',3246);
-INSERT INTO Kwalifikacje VALUES (317,'Studia doktoranckie','12-13-10','Kurs dokształcający','Albany',3918);
-INSERT INTO Kwalifikacje VALUES (318,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-20-00','Studia doktoranckie','Eden Prairie',3317);
-INSERT INTO Kwalifikacje VALUES (319,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-4-15','Studia pielęgniarskie','Coatesville',4653);
-INSERT INTO Kwalifikacje VALUES (320,'Studia wyższe licencjackie','12-7-13','Kurs specjalistyczny','Little Falls',2821);
-INSERT INTO Kwalifikacje VALUES (321,'Studia doktoranckie','2-4-85','Kurs kwalifikacyjny','Honolulu',4697);
-INSERT INTO Kwalifikacje VALUES (322,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-22-06','Studia pielęgniarskie','Oklahoma City',3311);
-INSERT INTO Kwalifikacje VALUES (323,'Specjalizacja zawodowa','11-23-80','Kurs dokształcający','Hackensack',4204);
-INSERT INTO Kwalifikacje VALUES (324,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-21-16','Kurs kwalifikacyjny','Santa Barbara',2563);
-INSERT INTO Kwalifikacje VALUES (325,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-23-01','Studia doktoranckie','Bradbury',2956);
-INSERT INTO Kwalifikacje VALUES (326,'Kurs specjalistyczny - Szczepienia ochronne','12-3-82','Studia pielęgniarskie','Covina',3551);
-INSERT INTO Kwalifikacje VALUES (327,'Kurs specjalistyczny - Szczepienia ochronne','7-11-87','Studia pielęgniarskie','Eufaula',4257);
-INSERT INTO Kwalifikacje VALUES (328,'Studia wyższe licencjackie','11-9-06','Kurs kwalifikacyjny','Nichols Hills',3209);
-INSERT INTO Kwalifikacje VALUES (329,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-10-84','Kurs dokształcający','Washington',2810);
-INSERT INTO Kwalifikacje VALUES (330,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-25-06','Specjalizacja','Cicero',2560);
-INSERT INTO Kwalifikacje VALUES (331,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-9-15','Kurs kwalifikacyjny','Gilbert',4221);
-INSERT INTO Kwalifikacje VALUES (332,'Kurs specjalistyczny – Terapia bólu','1-17-97','Studia wyższe licencjackie','White Plains',3448);
-INSERT INTO Kwalifikacje VALUES (333,'Kurs specjalistyczny – Terapia bólu','8-23-01','Szkolenie','San Francisco',2581);
-INSERT INTO Kwalifikacje VALUES (334,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-21-81','Studia doktoranckie','Gainesville',4680);
-INSERT INTO Kwalifikacje VALUES (335,'Specjalizacja zawodowa','3-24-97','Kurs dokształcający','Bossier City',3515);
-INSERT INTO Kwalifikacje VALUES (336,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-9-09','Szkolenie','Macon',3070);
-INSERT INTO Kwalifikacje VALUES (337,'Specjalizacja zawodowa','3-28-16','Kurs dokształcający','Omaha',4382);
-INSERT INTO Kwalifikacje VALUES (338,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-23-09','Szkolenie','South Gate',3052);
-INSERT INTO Kwalifikacje VALUES (339,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-29-08','Studia pielęgniarskie','Newport Beach',4273);
-INSERT INTO Kwalifikacje VALUES (340,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-17-86','Studia doktoranckie','Durango',4001);
-INSERT INTO Kwalifikacje VALUES (341,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-23-98','Kurs specjalistyczny','Easthampton',4764);
-INSERT INTO Kwalifikacje VALUES (342,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-25-03','Kurs specjalistyczny','Glens Falls',3395);
-INSERT INTO Kwalifikacje VALUES (343,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-22-12','Kurs specjalistyczny','Frederiksted',4252);
-INSERT INTO Kwalifikacje VALUES (344,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-20-91','Studia doktoranckie','Lebanon',4703);
-INSERT INTO Kwalifikacje VALUES (345,'Studia pielęgniarskie','10-18-14','Studia pielęgniarskie','Los Angeles',4583);
-INSERT INTO Kwalifikacje VALUES (346,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-21-01','Studia doktoranckie','Middletown',3999);
-INSERT INTO Kwalifikacje VALUES (347,'Studia pielęgniarskie','11-14-99','Studia pielęgniarskie','Nogales',4983);
-INSERT INTO Kwalifikacje VALUES (348,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-9-12','Specjalizacja','Inglewood',3623);
-INSERT INTO Kwalifikacje VALUES (349,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-6-94','Kurs dokształcający','Torrington',4800);
-INSERT INTO Kwalifikacje VALUES (350,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-1-89','Szkolenie','Laguna Hills',4909);
-INSERT INTO Kwalifikacje VALUES (351,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-18-14','Szkolenie','Eau Claire',2681);
-INSERT INTO Kwalifikacje VALUES (352,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-20-97','Kurs specjalistyczny','Gettysburg',4799);
-INSERT INTO Kwalifikacje VALUES (353,'Studia pielęgniarskie','1-31-86','Kurs dokształcający','Homer',3957);
-INSERT INTO Kwalifikacje VALUES (354,'Studia doktoranckie','7-17-87','Specjalizacja','Lancaster',3175);
-INSERT INTO Kwalifikacje VALUES (355,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-23-84','Studia wyższe licencjackie','Macomb',4575);
-INSERT INTO Kwalifikacje VALUES (356,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-8-10','Specjalizacja','Visalia',3571);
-INSERT INTO Kwalifikacje VALUES (357,'Kurs specjalistyczny - Szczepienia ochronne','4-27-07','Szkolenie','Kokomo',4726);
-INSERT INTO Kwalifikacje VALUES (358,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-19-83','Szkolenie','Rosemead',3108);
-INSERT INTO Kwalifikacje VALUES (359,'Studia wyższe licencjackie','1-13-99','Kurs dokształcający','Midwest City',4347);
-INSERT INTO Kwalifikacje VALUES (360,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-31-00','Kurs specjalistyczny','Oxford',3821);
-INSERT INTO Kwalifikacje VALUES (361,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-30-97','Studia pielęgniarskie','Bay St. Louis',4774);
-INSERT INTO Kwalifikacje VALUES (362,'Specjalizacja zawodowa','2-3-82','Kurs kwalifikacyjny','Clarksville',3050);
-INSERT INTO Kwalifikacje VALUES (363,'Studia wyższe licencjackie','2-9-90','Kurs kwalifikacyjny','Fountain Valley',3652);
-INSERT INTO Kwalifikacje VALUES (364,'Studia wyższe licencjackie','11-3-93','Szkolenie','Berkeley',3709);
-INSERT INTO Kwalifikacje VALUES (365,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-15-84','Studia wyższe licencjackie','Columbus',2812);
-INSERT INTO Kwalifikacje VALUES (366,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-17-87','Kurs kwalifikacyjny','Cedar Falls',2956);
-INSERT INTO Kwalifikacje VALUES (367,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-30-14','Studia doktoranckie','West Lafayette',4297);
-INSERT INTO Kwalifikacje VALUES (368,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-27-08','Studia pielęgniarskie','Nichols Hills',2671);
-INSERT INTO Kwalifikacje VALUES (369,'Studia wyższe licencjackie','10-20-90','Studia doktoranckie','Fresno',3134);
-INSERT INTO Kwalifikacje VALUES (370,'Kurs specjalistyczny – Terapia bólu','9-14-11','Specjalizacja','Beverly',3741);
-INSERT INTO Kwalifikacje VALUES (371,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-16-91','Specjalizacja','Thibodaux',4948);
-INSERT INTO Kwalifikacje VALUES (372,'Studia mające zastosowanie w działalności podstawowej','12-25-87','Szkolenie','Huntsville',3030);
-INSERT INTO Kwalifikacje VALUES (373,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-15-82','Kurs specjalistyczny','North Charleston',3537);
-INSERT INTO Kwalifikacje VALUES (374,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-4-89','Kurs dokształcający','Santa Ana',3802);
-INSERT INTO Kwalifikacje VALUES (375,'Kurs specjalistyczny – Terapia bólu','12-3-05','Studia pielęgniarskie','Catskill',3867);
-INSERT INTO Kwalifikacje VALUES (376,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-15-01','Szkolenie','West Memphis',2635);
-INSERT INTO Kwalifikacje VALUES (377,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-23-98','Specjalizacja','Citrus Heights',3412);
-INSERT INTO Kwalifikacje VALUES (378,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-10-16','Studia pielęgniarskie','Eugene',3303);
-INSERT INTO Kwalifikacje VALUES (379,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-2-94','Specjalizacja','Myrtle Beach',3125);
-INSERT INTO Kwalifikacje VALUES (380,'Studia pielęgniarskie','2-20-83','Studia pielęgniarskie','Thousand Oaks',4789);
-INSERT INTO Kwalifikacje VALUES (381,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-11-92','Studia wyższe licencjackie','Warwick',4535);
-INSERT INTO Kwalifikacje VALUES (382,'Studia pielęgniarskie','2-19-87','Specjalizacja','Pittsburgh',4621);
-INSERT INTO Kwalifikacje VALUES (383,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-21-86','Kurs kwalifikacyjny','Port Arthur',4620);
-INSERT INTO Kwalifikacje VALUES (384,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-23-07','Szkolenie','Medford',2524);
-INSERT INTO Kwalifikacje VALUES (385,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-28-84','Kurs specjalistyczny','Sanford',4997);
-INSERT INTO Kwalifikacje VALUES (386,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-15-98','Studia pielęgniarskie','Rolling Hills Estates',3858);
-INSERT INTO Kwalifikacje VALUES (387,'Studia doktoranckie','4-24-98','Studia wyższe licencjackie','Pasadena',4791);
-INSERT INTO Kwalifikacje VALUES (388,'Kurs specjalistyczny - Szczepienia ochronne','4-17-08','Specjalizacja','Rye',3639);
-INSERT INTO Kwalifikacje VALUES (389,'Studia doktoranckie','1-5-03','Specjalizacja','Holyoke',4564);
-INSERT INTO Kwalifikacje VALUES (390,'Kurs specjalistyczny - Szczepienia ochronne','8-3-93','Studia wyższe licencjackie','Cincinnati',4371);
-INSERT INTO Kwalifikacje VALUES (391,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-11-99','Specjalizacja','Warner Robins',2502);
-INSERT INTO Kwalifikacje VALUES (392,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-19-92','Kurs kwalifikacyjny','Bay City',4738);
-INSERT INTO Kwalifikacje VALUES (393,'Studia pielęgniarskie','10-8-11','Studia doktoranckie','Kenner',4777);
-INSERT INTO Kwalifikacje VALUES (394,'Studia pielęgniarskie','9-30-81','Studia pielęgniarskie','Harrisburg',4714);
-INSERT INTO Kwalifikacje VALUES (395,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-20-87','Studia wyższe licencjackie','Muskegon',4389);
-INSERT INTO Kwalifikacje VALUES (396,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-15-81','Kurs specjalistyczny','Beaumont',4030);
-INSERT INTO Kwalifikacje VALUES (397,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-5-84','Kurs kwalifikacyjny','Ardmore',2881);
-INSERT INTO Kwalifikacje VALUES (398,'Kurs specjalistyczny - Szczepienia ochronne','10-13-00','Kurs dokształcający','Rohnert Park',4343);
-INSERT INTO Kwalifikacje VALUES (399,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','7-22-85','Studia wyższe licencjackie','Rapid City',2824);
-INSERT INTO Kwalifikacje VALUES (400,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-14-91','Studia wyższe licencjackie','Calumet City',2871);
-INSERT INTO Kwalifikacje VALUES (401,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-23-87','Kurs specjalistyczny','Worcester',3934);
-INSERT INTO Kwalifikacje VALUES (402,'Kurs specjalistyczny - Szczepienia ochronne','5-26-83','Kurs dokształcający','North Platte',3814);
-INSERT INTO Kwalifikacje VALUES (403,'Specjalizacja zawodowa','7-29-13','Kurs specjalistyczny','Kona',2546);
-INSERT INTO Kwalifikacje VALUES (404,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-29-89','Studia wyższe licencjackie','Bell',4797);
-INSERT INTO Kwalifikacje VALUES (405,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-19-11','Kurs dokształcający','Milford',2698);
-INSERT INTO Kwalifikacje VALUES (406,'Studia mające zastosowanie w działalności podstawowej','5-16-87','Kurs kwalifikacyjny','Anderson',2823);
-INSERT INTO Kwalifikacje VALUES (407,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-11-86','Studia wyższe licencjackie','Lynwood',4609);
-INSERT INTO Kwalifikacje VALUES (408,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-3-13','Kurs kwalifikacyjny','Johnson City',4177);
-INSERT INTO Kwalifikacje VALUES (409,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-18-11','Studia pielęgniarskie','Anaconda',4436);
-INSERT INTO Kwalifikacje VALUES (410,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-24-11','Kurs dokształcający','Omaha',4849);
-INSERT INTO Kwalifikacje VALUES (411,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-19-08','Specjalizacja','Columbus',3372);
-INSERT INTO Kwalifikacje VALUES (412,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-20-91','Studia pielęgniarskie','Caguas',2843);
-INSERT INTO Kwalifikacje VALUES (413,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-24-16','Szkolenie','Atwater',3515);
-INSERT INTO Kwalifikacje VALUES (414,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-23-84','Szkolenie','Beloit',3583);
-INSERT INTO Kwalifikacje VALUES (415,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-21-08','Studia pielęgniarskie','Belpre',3260);
-INSERT INTO Kwalifikacje VALUES (416,'Kurs specjalistyczny – Terapia bólu','8-26-93','Kurs dokształcający','Greenville',3066);
-INSERT INTO Kwalifikacje VALUES (417,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-8-06','Specjalizacja','Muskegon',4104);
-INSERT INTO Kwalifikacje VALUES (418,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-8-83','Szkolenie','Birmingham',3230);
-INSERT INTO Kwalifikacje VALUES (419,'Studia wyższe licencjackie','6-20-03','Studia wyższe licencjackie','Liberal',3397);
-INSERT INTO Kwalifikacje VALUES (420,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-8-97','Kurs specjalistyczny','Norfolk',4087);
-INSERT INTO Kwalifikacje VALUES (421,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-19-11','Specjalizacja','Fort Lauderdale',2519);
-INSERT INTO Kwalifikacje VALUES (422,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-23-06','Szkolenie','Sandy',3101);
-INSERT INTO Kwalifikacje VALUES (423,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-26-80','Kurs kwalifikacyjny','Scottsbluff',2617);
-INSERT INTO Kwalifikacje VALUES (424,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-29-05','Kurs dokształcający','Grand Island',3654);
-INSERT INTO Kwalifikacje VALUES (425,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-22-10','Specjalizacja','Ypsilanti',2555);
-INSERT INTO Kwalifikacje VALUES (426,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-11-84','Szkolenie','Gulfport',3681);
-INSERT INTO Kwalifikacje VALUES (427,'Studia pielęgniarskie','10-1-14','Studia pielęgniarskie','Moscow',4490);
-INSERT INTO Kwalifikacje VALUES (428,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-22-85','Szkolenie','Jackson',3276);
-INSERT INTO Kwalifikacje VALUES (429,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-8-02','Specjalizacja','Orem',3871);
-INSERT INTO Kwalifikacje VALUES (430,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-13-88','Specjalizacja','Roseville',4494);
-INSERT INTO Kwalifikacje VALUES (431,'Kurs specjalistyczny – Terapia bólu','1-10-94','Szkolenie','Uniontown',4809);
-INSERT INTO Kwalifikacje VALUES (432,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-24-94','Studia pielęgniarskie','Seattle',2821);
-INSERT INTO Kwalifikacje VALUES (433,'Kurs specjalistyczny - Szczepienia ochronne','2-11-84','Specjalizacja','Ketchikan',3090);
-INSERT INTO Kwalifikacje VALUES (434,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-17-92','Kurs specjalistyczny','Oklahoma City',3177);
-INSERT INTO Kwalifikacje VALUES (435,'Kurs specjalistyczny - Szczepienia ochronne','6-21-98','Kurs dokształcający','Roseville',4131);
-INSERT INTO Kwalifikacje VALUES (436,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-4-07','Studia doktoranckie','Gardena',3882);
-INSERT INTO Kwalifikacje VALUES (437,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-4-84','Studia doktoranckie','Steubenville',2748);
-INSERT INTO Kwalifikacje VALUES (438,'Studia pielęgniarskie','10-10-84','Szkolenie','Davenport',3169);
-INSERT INTO Kwalifikacje VALUES (439,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-30-15','Studia pielęgniarskie','Compton',3873);
-INSERT INTO Kwalifikacje VALUES (440,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-2-10','Szkolenie','Reading',3095);
-INSERT INTO Kwalifikacje VALUES (441,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-24-86','Kurs dokształcający','Cypress',4466);
-INSERT INTO Kwalifikacje VALUES (442,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-19-96','Specjalizacja','Georgetown',4159);
-INSERT INTO Kwalifikacje VALUES (443,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-3-98','Studia doktoranckie','Coatesville',3311);
-INSERT INTO Kwalifikacje VALUES (444,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-19-07','Studia doktoranckie','Yukon',4473);
-INSERT INTO Kwalifikacje VALUES (445,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-14-94','Kurs kwalifikacyjny','Vacaville',4167);
-INSERT INTO Kwalifikacje VALUES (446,'Studia mające zastosowanie w działalności podstawowej','9-17-02','Studia wyższe licencjackie','Topeka',4731);
-INSERT INTO Kwalifikacje VALUES (447,'Studia pielęgniarskie','10-23-07','Specjalizacja','Barre',3861);
-INSERT INTO Kwalifikacje VALUES (448,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-4-85','Studia doktoranckie','Bellingham',4501);
-INSERT INTO Kwalifikacje VALUES (449,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-11-82','Kurs specjalistyczny','Houma',2563);
-INSERT INTO Kwalifikacje VALUES (450,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-19-11','Specjalizacja','Sheridan',2928);
-INSERT INTO Kwalifikacje VALUES (451,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-6-08','Kurs specjalistyczny','Appleton',4648);
-INSERT INTO Kwalifikacje VALUES (452,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-30-92','Kurs specjalistyczny','Lubbock',3747);
-INSERT INTO Kwalifikacje VALUES (453,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-8-88','Studia pielęgniarskie','Fairmont',4815);
-INSERT INTO Kwalifikacje VALUES (454,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-19-05','Studia pielęgniarskie','Crown Point',4278);
-INSERT INTO Kwalifikacje VALUES (455,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-17-16','Studia wyższe licencjackie','Burlington',3764);
-INSERT INTO Kwalifikacje VALUES (456,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-2-89','Kurs dokształcający','Santa Fe Springs',4678);
-INSERT INTO Kwalifikacje VALUES (457,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-26-87','Specjalizacja','Jackson',2754);
-INSERT INTO Kwalifikacje VALUES (458,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-19-01','Specjalizacja','Rancho Palos Verdes',2712);
-INSERT INTO Kwalifikacje VALUES (459,'Kurs specjalistyczny – Terapia bólu','9-10-82','Szkolenie','Union City',4775);
-INSERT INTO Kwalifikacje VALUES (460,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-27-88','Studia doktoranckie','Chula Vista',4269);
-INSERT INTO Kwalifikacje VALUES (461,'Studia doktoranckie','3-15-00','Kurs specjalistyczny','Enid',4235);
-INSERT INTO Kwalifikacje VALUES (462,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-27-83','Studia wyższe licencjackie','Natchitoches',3591);
-INSERT INTO Kwalifikacje VALUES (463,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-27-91','Kurs specjalistyczny','Boston',3775);
-INSERT INTO Kwalifikacje VALUES (464,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-26-86','Szkolenie','Jeffersonville',4622);
-INSERT INTO Kwalifikacje VALUES (465,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-3-08','Kurs dokształcający','Ashland',4961);
-INSERT INTO Kwalifikacje VALUES (466,'Kurs specjalistyczny – Terapia bólu','9-7-04','Kurs dokształcający','Hammond',3140);
-INSERT INTO Kwalifikacje VALUES (467,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-22-01','Kurs dokształcający','Ypsilanti',3200);
-INSERT INTO Kwalifikacje VALUES (468,'Studia wyższe licencjackie','11-12-04','Kurs kwalifikacyjny','Yigo',4664);
-INSERT INTO Kwalifikacje VALUES (469,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-20-84','Kurs specjalistyczny','Kahului',3149);
-INSERT INTO Kwalifikacje VALUES (470,'Studia pielęgniarskie','9-16-05','Kurs specjalistyczny','Saint Paul',3824);
-INSERT INTO Kwalifikacje VALUES (471,'Studia pielęgniarskie','9-15-86','Specjalizacja','Sheboygan',4064);
-INSERT INTO Kwalifikacje VALUES (472,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-6-09','Studia doktoranckie','Selma',3941);
-INSERT INTO Kwalifikacje VALUES (473,'Studia wyższe licencjackie','11-7-92','Kurs dokształcający','Diamond Bar',4725);
-INSERT INTO Kwalifikacje VALUES (474,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-16-91','Studia wyższe licencjackie','Fredericksburg',4209);
-INSERT INTO Kwalifikacje VALUES (475,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-23-92','Szkolenie','Irwindale',3713);
-INSERT INTO Kwalifikacje VALUES (476,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-5-11','Studia pielęgniarskie','Aliso Viejo',4862);
-INSERT INTO Kwalifikacje VALUES (477,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','11-29-09','Kurs kwalifikacyjny','New Rochelle',2683);
-INSERT INTO Kwalifikacje VALUES (478,'Kurs specjalistyczny – Terapia bólu','6-3-05','Kurs kwalifikacyjny','Beloit',2944);
-INSERT INTO Kwalifikacje VALUES (479,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-3-98','Szkolenie','Hastings',3613);
-INSERT INTO Kwalifikacje VALUES (480,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-23-09','Studia doktoranckie','Webster Groves',3601);
-INSERT INTO Kwalifikacje VALUES (481,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-3-06','Szkolenie','Seaford',3304);
-INSERT INTO Kwalifikacje VALUES (482,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-23-95','Szkolenie','Port Orford',3314);
-INSERT INTO Kwalifikacje VALUES (483,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-2-07','Szkolenie','Moore',2990);
-INSERT INTO Kwalifikacje VALUES (484,'Specjalizacja zawodowa','6-27-89','Studia wyższe licencjackie','Newcastle',4575);
-INSERT INTO Kwalifikacje VALUES (485,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-23-89','Studia doktoranckie','Valencia',3774);
-INSERT INTO Kwalifikacje VALUES (486,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-30-81','Specjalizacja','Davis',4134);
-INSERT INTO Kwalifikacje VALUES (487,'Studia wyższe licencjackie','4-13-93','Kurs kwalifikacyjny','Vallejo',3743);
-INSERT INTO Kwalifikacje VALUES (488,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-16-05','Studia wyższe licencjackie','North Platte',3541);
-INSERT INTO Kwalifikacje VALUES (489,'Specjalizacja zawodowa','8-11-11','Studia pielęgniarskie','Morgantown',3376);
-INSERT INTO Kwalifikacje VALUES (490,'Studia mające zastosowanie w działalności podstawowej','5-3-85','Szkolenie','Flagstaff',3803);
-INSERT INTO Kwalifikacje VALUES (491,'Studia pielęgniarskie','12-7-06','Studia doktoranckie','Rolling Hills',4247);
-INSERT INTO Kwalifikacje VALUES (492,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-29-06','Specjalizacja','Laguna Hills',4986);
-INSERT INTO Kwalifikacje VALUES (493,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-11-91','Szkolenie','Saginaw',4476);
-INSERT INTO Kwalifikacje VALUES (494,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-10-99','Szkolenie','Chandler',4790);
-INSERT INTO Kwalifikacje VALUES (495,'Studia wyższe licencjackie','11-25-04','Kurs kwalifikacyjny','Moraga',3313);
-INSERT INTO Kwalifikacje VALUES (496,'Specjalizacja zawodowa','4-30-82','Studia wyższe licencjackie','Butler',2529);
-INSERT INTO Kwalifikacje VALUES (497,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-9-12','Studia pielęgniarskie','Corry',3213);
-INSERT INTO Kwalifikacje VALUES (498,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-7-87','Kurs kwalifikacyjny','Hopkinsville',4381);
-INSERT INTO Kwalifikacje VALUES (499,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-7-05','Studia pielęgniarskie','Westfield',3632);
-INSERT INTO Kwalifikacje VALUES (500,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-15-83','Studia doktoranckie','Effingham',2585);
-INSERT INTO Kwalifikacje VALUES (501,'Studia wyższe licencjackie','8-19-90','Studia pielęgniarskie','Chandler',4987);
-INSERT INTO Kwalifikacje VALUES (502,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-4-80','Kurs specjalistyczny','Gilette',4608);
-INSERT INTO Kwalifikacje VALUES (503,'Specjalizacja zawodowa','5-25-85','Kurs kwalifikacyjny','Garden Grove',2698);
-INSERT INTO Kwalifikacje VALUES (504,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-4-02','Studia doktoranckie','Cheyenne',3838);
-INSERT INTO Kwalifikacje VALUES (505,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-1-88','Studia wyższe licencjackie','Hollister',4993);
-INSERT INTO Kwalifikacje VALUES (506,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-4-83','Kurs specjalistyczny','Franklin',3731);
-INSERT INTO Kwalifikacje VALUES (507,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-13-04','Studia wyższe licencjackie','Ann Arbor',4829);
-INSERT INTO Kwalifikacje VALUES (508,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-30-15','Specjalizacja','Walnut',4474);
-INSERT INTO Kwalifikacje VALUES (509,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-21-07','Studia pielęgniarskie','Pueblo',4650);
-INSERT INTO Kwalifikacje VALUES (510,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-17-92','Studia doktoranckie','Yukon',4880);
-INSERT INTO Kwalifikacje VALUES (511,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-21-90','Studia doktoranckie','Allentown',4882);
-INSERT INTO Kwalifikacje VALUES (512,'Specjalizacja zawodowa','4-20-07','Studia pielęgniarskie','Alhambra',2835);
-INSERT INTO Kwalifikacje VALUES (513,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-17-85','Kurs dokształcający','Pierre',3900);
-INSERT INTO Kwalifikacje VALUES (514,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-12-91','Studia wyższe licencjackie','Hope',3798);
-INSERT INTO Kwalifikacje VALUES (515,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-30-05','Szkolenie','Bremerton',4051);
-INSERT INTO Kwalifikacje VALUES (516,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-2-02','Kurs specjalistyczny','Corpus Christi',4423);
-INSERT INTO Kwalifikacje VALUES (517,'Studia wyższe licencjackie','3-16-96','Studia doktoranckie','Farmer City',4801);
-INSERT INTO Kwalifikacje VALUES (518,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-12-05','Szkolenie','Richmond',4595);
-INSERT INTO Kwalifikacje VALUES (519,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-23-82','Studia pielęgniarskie','Clarksburg',4499);
-INSERT INTO Kwalifikacje VALUES (520,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-16-87','Kurs dokształcający','Lima',3000);
-INSERT INTO Kwalifikacje VALUES (521,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-26-14','Kurs dokształcający','Clairton',4709);
-INSERT INTO Kwalifikacje VALUES (522,'Studia pielęgniarskie','11-26-98','Studia wyższe licencjackie','Kennewick',2748);
-INSERT INTO Kwalifikacje VALUES (523,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-12-96','Specjalizacja','Ypsilanti',3526);
-INSERT INTO Kwalifikacje VALUES (524,'Kurs specjalistyczny - Szczepienia ochronne','2-14-83','Studia pielęgniarskie','Slidell',4129);
-INSERT INTO Kwalifikacje VALUES (525,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-22-94','Studia wyższe licencjackie','Hope',2595);
-INSERT INTO Kwalifikacje VALUES (526,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-14-13','Specjalizacja','Spokane Valley',3924);
-INSERT INTO Kwalifikacje VALUES (527,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-31-14','Kurs specjalistyczny','Saipan',4580);
-INSERT INTO Kwalifikacje VALUES (528,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-1-98','Studia wyższe licencjackie','Thomasville',4170);
-INSERT INTO Kwalifikacje VALUES (529,'Studia mające zastosowanie w działalności podstawowej','11-4-99','Kurs dokształcający','Lansing',4795);
-INSERT INTO Kwalifikacje VALUES (530,'Studia doktoranckie','11-23-01','Specjalizacja','Auburn',2574);
-INSERT INTO Kwalifikacje VALUES (531,'Studia mające zastosowanie w działalności podstawowej','2-29-04','Szkolenie','Alexandria',4352);
-INSERT INTO Kwalifikacje VALUES (532,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-3-92','Kurs dokształcający','Worland',4385);
-INSERT INTO Kwalifikacje VALUES (533,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-22-80','Kurs specjalistyczny','Grand Rapids',3675);
-INSERT INTO Kwalifikacje VALUES (534,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-10-08','Studia pielęgniarskie','Reading',4683);
-INSERT INTO Kwalifikacje VALUES (535,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-1-96','Studia wyższe licencjackie','South Burlington',4053);
-INSERT INTO Kwalifikacje VALUES (536,'Studia pielęgniarskie','9-7-02','Studia pielęgniarskie','Parma',2518);
-INSERT INTO Kwalifikacje VALUES (537,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-21-04','Studia doktoranckie','Waltham',2755);
-INSERT INTO Kwalifikacje VALUES (538,'Studia doktoranckie','12-27-98','Kurs kwalifikacyjny','San Jose',4742);
-INSERT INTO Kwalifikacje VALUES (539,'Studia mające zastosowanie w działalności podstawowej','5-6-14','Studia pielęgniarskie','Boise',3372);
-INSERT INTO Kwalifikacje VALUES (540,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-5-99','Kurs kwalifikacyjny','Goose Creek',3123);
-INSERT INTO Kwalifikacje VALUES (541,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-17-92','Szkolenie','Henderson',4579);
-INSERT INTO Kwalifikacje VALUES (542,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-16-80','Szkolenie','Sandpoint',4218);
-INSERT INTO Kwalifikacje VALUES (543,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-18-91','Studia doktoranckie','Moore',3967);
-INSERT INTO Kwalifikacje VALUES (544,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-29-10','Studia wyższe licencjackie','Idabel',3171);
-INSERT INTO Kwalifikacje VALUES (545,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-7-91','Kurs dokształcający','Cincinnati',4525);
-INSERT INTO Kwalifikacje VALUES (546,'Studia doktoranckie','12-31-84','Specjalizacja','Wilmington',4934);
-INSERT INTO Kwalifikacje VALUES (547,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-8-95','Studia pielęgniarskie','Cambridge',2844);
-INSERT INTO Kwalifikacje VALUES (548,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-18-09','Kurs kwalifikacyjny','Little Falls',3540);
-INSERT INTO Kwalifikacje VALUES (549,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-4-10','Studia doktoranckie','New Iberia',4052);
-INSERT INTO Kwalifikacje VALUES (550,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-30-10','Kurs specjalistyczny','Sister Bay',4361);
-INSERT INTO Kwalifikacje VALUES (551,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-14-84','Kurs dokształcający','Ruston',3977);
-INSERT INTO Kwalifikacje VALUES (552,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-3-80','Specjalizacja','Owensboro',4873);
-INSERT INTO Kwalifikacje VALUES (553,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-25-11','Studia wyższe licencjackie','Sun Valley',2709);
-INSERT INTO Kwalifikacje VALUES (554,'Studia wyższe licencjackie','10-23-00','Kurs specjalistyczny','North Little Rock',4208);
-INSERT INTO Kwalifikacje VALUES (555,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-27-90','Szkolenie','Gloucester',4164);
-INSERT INTO Kwalifikacje VALUES (556,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-18-05','Szkolenie','Chelsea',3623);
-INSERT INTO Kwalifikacje VALUES (557,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-28-96','Studia doktoranckie','Hartford',4303);
-INSERT INTO Kwalifikacje VALUES (558,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-4-92','Studia wyższe licencjackie','Grambling',2723);
-INSERT INTO Kwalifikacje VALUES (559,'Kurs specjalistyczny – Terapia bólu','4-21-92','Studia doktoranckie','Wisconsin Dells',3964);
-INSERT INTO Kwalifikacje VALUES (560,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-7-04','Specjalizacja','Montgomery',4808);
-INSERT INTO Kwalifikacje VALUES (561,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-27-81','Szkolenie','Glen Cove',3328);
-INSERT INTO Kwalifikacje VALUES (562,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-21-13','Studia doktoranckie','Mesquite',3257);
-INSERT INTO Kwalifikacje VALUES (563,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-5-02','Studia wyższe licencjackie','Homer',3198);
-INSERT INTO Kwalifikacje VALUES (564,'Kurs specjalistyczny - Szczepienia ochronne','12-30-00','Studia doktoranckie','Laguna Hills',3931);
-INSERT INTO Kwalifikacje VALUES (565,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-21-99','Studia pielęgniarskie','Joplin',3662);
-INSERT INTO Kwalifikacje VALUES (566,'Kurs specjalistyczny - Szczepienia ochronne','2-14-01','Studia doktoranckie','Corry',4378);
-INSERT INTO Kwalifikacje VALUES (567,'Studia mające zastosowanie w działalności podstawowej','12-23-03','Studia wyższe licencjackie','Lakewood',3374);
-INSERT INTO Kwalifikacje VALUES (568,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-10-02','Kurs dokształcający','Lufkin',4844);
-INSERT INTO Kwalifikacje VALUES (569,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-18-81','Szkolenie','Hudson',4157);
-INSERT INTO Kwalifikacje VALUES (570,'Specjalizacja zawodowa','12-22-93','Kurs specjalistyczny','Kokomo',3186);
-INSERT INTO Kwalifikacje VALUES (571,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-31-00','Kurs specjalistyczny','Sherrill',4353);
-INSERT INTO Kwalifikacje VALUES (572,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-16-87','Studia doktoranckie','Jefferson City',4579);
-INSERT INTO Kwalifikacje VALUES (573,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-10-16','Specjalizacja','Midland',3997);
-INSERT INTO Kwalifikacje VALUES (574,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-4-04','Kurs specjalistyczny','Menomonee Falls',4648);
-INSERT INTO Kwalifikacje VALUES (575,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-12-01','Studia wyższe licencjackie','Yorba Linda',4072);
-INSERT INTO Kwalifikacje VALUES (576,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-7-92','Szkolenie','Medford',4209);
-INSERT INTO Kwalifikacje VALUES (577,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-2-98','Szkolenie','Eureka',2933);
-INSERT INTO Kwalifikacje VALUES (578,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-11-80','Studia pielęgniarskie','Santa Ana',4343);
-INSERT INTO Kwalifikacje VALUES (579,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-23-93','Szkolenie','Murfreesboro',3087);
-INSERT INTO Kwalifikacje VALUES (580,'Kurs specjalistyczny - Szczepienia ochronne','12-12-03','Studia doktoranckie','Isle of Palms',3319);
-INSERT INTO Kwalifikacje VALUES (581,'Studia pielęgniarskie','9-29-99','Kurs kwalifikacyjny','Arvada',3874);
-INSERT INTO Kwalifikacje VALUES (582,'Specjalizacja zawodowa','10-13-98','Specjalizacja','Bandera',2753);
-INSERT INTO Kwalifikacje VALUES (583,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-30-14','Szkolenie','Aliquippa',2850);
-INSERT INTO Kwalifikacje VALUES (584,'Studia mające zastosowanie w działalności podstawowej','5-10-86','Kurs kwalifikacyjny','Huntington',3817);
-INSERT INTO Kwalifikacje VALUES (585,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-21-90','Studia doktoranckie','Weymouth',4070);
-INSERT INTO Kwalifikacje VALUES (586,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-20-82','Szkolenie','Boise',4621);
-INSERT INTO Kwalifikacje VALUES (587,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-6-98','Studia doktoranckie','Montebello',3445);
-INSERT INTO Kwalifikacje VALUES (588,'Studia doktoranckie','5-28-07','Studia doktoranckie','Slidell',2733);
-INSERT INTO Kwalifikacje VALUES (589,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-6-90','Szkolenie','Rutland',4419);
-INSERT INTO Kwalifikacje VALUES (590,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-1-01','Szkolenie','Plantation',3149);
-INSERT INTO Kwalifikacje VALUES (591,'Studia pielęgniarskie','3-7-82','Szkolenie','Delta Junction',4724);
-INSERT INTO Kwalifikacje VALUES (592,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-2-96','Kurs dokształcający','Topeka',4365);
-INSERT INTO Kwalifikacje VALUES (593,'Studia wyższe licencjackie','7-31-82','Studia pielęgniarskie','Midwest City',4289);
-INSERT INTO Kwalifikacje VALUES (594,'Studia doktoranckie','11-16-99','Studia doktoranckie','Clarksburg',4802);
-INSERT INTO Kwalifikacje VALUES (595,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-10-82','Studia wyższe licencjackie','Newport',3551);
-INSERT INTO Kwalifikacje VALUES (596,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-10-90','Specjalizacja','Grafton',4979);
-INSERT INTO Kwalifikacje VALUES (597,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-31-08','Studia pielęgniarskie','Mission Viejo',3973);
-INSERT INTO Kwalifikacje VALUES (598,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-11-12','Kurs kwalifikacyjny','Belleville',3473);
-INSERT INTO Kwalifikacje VALUES (599,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-18-04','Kurs dokształcający','Riverton',4641);
-INSERT INTO Kwalifikacje VALUES (600,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-17-07','Studia doktoranckie','South Gate',4071);
-INSERT INTO Kwalifikacje VALUES (601,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','11-6-06','Kurs kwalifikacyjny','Carrollton',3809);
-INSERT INTO Kwalifikacje VALUES (602,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-1-05','Kurs specjalistyczny','Lima',3130);
-INSERT INTO Kwalifikacje VALUES (603,'Studia pielęgniarskie','11-24-81','Studia doktoranckie','Hialeah',4512);
-INSERT INTO Kwalifikacje VALUES (604,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-1-96','Studia doktoranckie','Maywood',4679);
-INSERT INTO Kwalifikacje VALUES (605,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-9-11','Kurs kwalifikacyjny','Toledo',3184);
-INSERT INTO Kwalifikacje VALUES (606,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-26-94','Studia pielęgniarskie','Rolla',3404);
-INSERT INTO Kwalifikacje VALUES (607,'Studia doktoranckie','1-1-14','Kurs dokształcający','McKeesport',4558);
-INSERT INTO Kwalifikacje VALUES (608,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-15-06','Studia wyższe licencjackie','Monrovia',2551);
-INSERT INTO Kwalifikacje VALUES (609,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-11-10','Studia pielęgniarskie','Statesboro',2825);
-INSERT INTO Kwalifikacje VALUES (610,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-16-15','Kurs specjalistyczny','Edmond',3915);
-INSERT INTO Kwalifikacje VALUES (611,'Studia mające zastosowanie w działalności podstawowej','9-6-01','Studia wyższe licencjackie','Melrose',2828);
-INSERT INTO Kwalifikacje VALUES (612,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-19-81','Kurs dokształcający','North Las Vegas',2577);
-INSERT INTO Kwalifikacje VALUES (613,'Studia wyższe licencjackie','3-18-97','Kurs specjalistyczny','Hot Springs',4715);
-INSERT INTO Kwalifikacje VALUES (614,'Kurs specjalistyczny – Terapia bólu','12-10-80','Szkolenie','Villa Park',4011);
-INSERT INTO Kwalifikacje VALUES (615,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-5-05','Studia doktoranckie','Olympia',4831);
-INSERT INTO Kwalifikacje VALUES (616,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-22-82','Studia wyższe licencjackie','Elsmere',4978);
-INSERT INTO Kwalifikacje VALUES (617,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-2-99','Kurs dokształcający','Johnstown',3926);
-INSERT INTO Kwalifikacje VALUES (618,'Studia pielęgniarskie','6-23-10','Studia pielęgniarskie','Reading',3571);
-INSERT INTO Kwalifikacje VALUES (619,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-22-95','Szkolenie','Rehoboth Beach',2839);
-INSERT INTO Kwalifikacje VALUES (620,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-27-93','Studia doktoranckie','Rocky Mount',4301);
-INSERT INTO Kwalifikacje VALUES (621,'Studia doktoranckie','5-14-09','Studia pielęgniarskie','Mesa',4232);
-INSERT INTO Kwalifikacje VALUES (622,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-18-15','Specjalizacja','Savannah',2602);
-INSERT INTO Kwalifikacje VALUES (623,'Kurs specjalistyczny – Terapia bólu','2-27-85','Studia wyższe licencjackie','Fallon',4755);
-INSERT INTO Kwalifikacje VALUES (624,'Studia mające zastosowanie w działalności podstawowej','11-26-08','Kurs kwalifikacyjny','Mason City',3882);
-INSERT INTO Kwalifikacje VALUES (625,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-29-81','Specjalizacja','Hastings',3706);
-INSERT INTO Kwalifikacje VALUES (626,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-3-80','Kurs specjalistyczny','Walla Walla',4077);
-INSERT INTO Kwalifikacje VALUES (627,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-23-02','Kurs kwalifikacyjny','Morrison',3119);
-INSERT INTO Kwalifikacje VALUES (628,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-6-82','Specjalizacja','Sioux City',3948);
-INSERT INTO Kwalifikacje VALUES (629,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-20-88','Kurs kwalifikacyjny','Sandy Springs',3755);
-INSERT INTO Kwalifikacje VALUES (630,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-10-99','Studia wyższe licencjackie','Vail',2746);
-INSERT INTO Kwalifikacje VALUES (631,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-24-80','Szkolenie','Montebello',4903);
-INSERT INTO Kwalifikacje VALUES (632,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-26-80','Studia pielęgniarskie','Santa Clara',3097);
-INSERT INTO Kwalifikacje VALUES (633,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-8-01','Specjalizacja','Palo Alto',4754);
-INSERT INTO Kwalifikacje VALUES (634,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-1-93','Studia doktoranckie','Blacksburg',4160);
-INSERT INTO Kwalifikacje VALUES (635,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-27-07','Szkolenie','Tyler',4679);
-INSERT INTO Kwalifikacje VALUES (636,'Studia doktoranckie','2-7-96','Szkolenie','Moscow',4817);
-INSERT INTO Kwalifikacje VALUES (637,'Studia doktoranckie','3-2-87','Kurs kwalifikacyjny','Fitchburg',4671);
-INSERT INTO Kwalifikacje VALUES (638,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-17-96','Szkolenie','Bismarck',3133);
-INSERT INTO Kwalifikacje VALUES (639,'Studia pielęgniarskie','1-5-13','Studia wyższe licencjackie','Sharon',4174);
-INSERT INTO Kwalifikacje VALUES (640,'Kurs specjalistyczny – Terapia bólu','9-24-05','Kurs dokształcający','Williamsport',3747);
-INSERT INTO Kwalifikacje VALUES (641,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-15-00','Kurs kwalifikacyjny','Washington',4161);
-INSERT INTO Kwalifikacje VALUES (642,'Specjalizacja zawodowa','7-26-08','Kurs kwalifikacyjny','Belpre',4606);
-INSERT INTO Kwalifikacje VALUES (643,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-5-08','Specjalizacja','Vail',4700);
-INSERT INTO Kwalifikacje VALUES (644,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-21-09','Studia doktoranckie','Minneapolis',3885);
-INSERT INTO Kwalifikacje VALUES (645,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-23-02','Kurs kwalifikacyjny','Pittston',4105);
-INSERT INTO Kwalifikacje VALUES (646,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-28-01','Kurs dokształcający','Columbus',3951);
-INSERT INTO Kwalifikacje VALUES (647,'Studia pielęgniarskie','2-13-05','Specjalizacja','Rolling Hills Estates',3944);
-INSERT INTO Kwalifikacje VALUES (648,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-16-81','Kurs kwalifikacyjny','Staunton',3373);
-INSERT INTO Kwalifikacje VALUES (649,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-7-85','Studia pielęgniarskie','Latrobe',2660);
-INSERT INTO Kwalifikacje VALUES (650,'Studia doktoranckie','7-3-08','Szkolenie','Taunton',4451);
-INSERT INTO Kwalifikacje VALUES (651,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-29-91','Specjalizacja','Lynwood',2834);
-INSERT INTO Kwalifikacje VALUES (652,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-20-01','Szkolenie','Ruston',4093);
-INSERT INTO Kwalifikacje VALUES (653,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-22-05','Kurs specjalistyczny','Kahului',2839);
-INSERT INTO Kwalifikacje VALUES (654,'Studia mające zastosowanie w działalności podstawowej','2-11-15','Kurs specjalistyczny','Dayton',4624);
-INSERT INTO Kwalifikacje VALUES (655,'Studia doktoranckie','6-1-92','Szkolenie','Arlington',3934);
-INSERT INTO Kwalifikacje VALUES (656,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-10-00','Studia wyższe licencjackie','Chula Vista',3285);
-INSERT INTO Kwalifikacje VALUES (657,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-24-87','Kurs kwalifikacyjny','North Chicago',4884);
-INSERT INTO Kwalifikacje VALUES (658,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-19-95','Kurs kwalifikacyjny','Meriden',4640);
-INSERT INTO Kwalifikacje VALUES (659,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-31-94','Studia pielęgniarskie','Tamuning',4033);
-INSERT INTO Kwalifikacje VALUES (660,'Studia pielęgniarskie','12-17-80','Kurs kwalifikacyjny','Monroe',3646);
-INSERT INTO Kwalifikacje VALUES (661,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-12-13','Studia wyższe licencjackie','Joplin',3386);
-INSERT INTO Kwalifikacje VALUES (662,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-19-85','Studia doktoranckie','Belleville',4562);
-INSERT INTO Kwalifikacje VALUES (663,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-18-92','Studia pielęgniarskie','Nashua',2736);
-INSERT INTO Kwalifikacje VALUES (664,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-22-91','Kurs specjalistyczny','Kalamazoo',3154);
-INSERT INTO Kwalifikacje VALUES (665,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-2-91','Studia doktoranckie','Jeffersontown',2507);
-INSERT INTO Kwalifikacje VALUES (666,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-13-89','Studia wyższe licencjackie','Apple Valley',3335);
-INSERT INTO Kwalifikacje VALUES (667,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-9-81','Studia pielęgniarskie','Murray',4220);
-INSERT INTO Kwalifikacje VALUES (668,'Studia doktoranckie','5-21-05','Szkolenie','Compton',3517);
-INSERT INTO Kwalifikacje VALUES (669,'Kurs specjalistyczny - Szczepienia ochronne','9-5-94','Specjalizacja','El Paso',3613);
-INSERT INTO Kwalifikacje VALUES (670,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-25-01','Studia doktoranckie','Basin',4193);
-INSERT INTO Kwalifikacje VALUES (671,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-20-02','Szkolenie','Atlanta',3696);
-INSERT INTO Kwalifikacje VALUES (672,'Kurs specjalistyczny – Terapia bólu','3-1-06','Kurs kwalifikacyjny','Fairfax',3159);
-INSERT INTO Kwalifikacje VALUES (673,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-31-05','Specjalizacja','Philadelphia',4369);
-INSERT INTO Kwalifikacje VALUES (674,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-24-98','Kurs specjalistyczny','Pittston',2866);
-INSERT INTO Kwalifikacje VALUES (675,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-19-10','Szkolenie','Independence',4880);
-INSERT INTO Kwalifikacje VALUES (676,'Kurs specjalistyczny – Terapia bólu','3-9-87','Kurs specjalistyczny','Newport Beach',3513);
-INSERT INTO Kwalifikacje VALUES (677,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-21-99','Kurs dokształcający','Las Vegas',3716);
-INSERT INTO Kwalifikacje VALUES (678,'Studia wyższe licencjackie','4-12-04','Kurs specjalistyczny','Grand Forks',4882);
-INSERT INTO Kwalifikacje VALUES (679,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-22-04','Studia pielęgniarskie','Kennesaw',2762);
-INSERT INTO Kwalifikacje VALUES (680,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-19-81','Studia doktoranckie','Artesia',3279);
-INSERT INTO Kwalifikacje VALUES (681,'Kurs dokształcający - Żywienie niemowląt i dzieci','9-28-86','Kurs dokształcający','Sugar Land',4695);
-INSERT INTO Kwalifikacje VALUES (682,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-23-03','Kurs specjalistyczny','Corinth',4993);
-INSERT INTO Kwalifikacje VALUES (683,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-10-09','Szkolenie','Rancho Cordova',4069);
-INSERT INTO Kwalifikacje VALUES (684,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-1-92','Kurs dokształcający','Norman',2795);
-INSERT INTO Kwalifikacje VALUES (685,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-1-82','Specjalizacja','Cruz Bay',3447);
-INSERT INTO Kwalifikacje VALUES (686,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-16-00','Studia pielęgniarskie','Sun Valley',3077);
-INSERT INTO Kwalifikacje VALUES (687,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-24-10','Studia pielęgniarskie','Ogdensburg',4102);
-INSERT INTO Kwalifikacje VALUES (688,'Studia doktoranckie','12-30-93','Kurs dokształcający','Irving',4132);
-INSERT INTO Kwalifikacje VALUES (689,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-2-85','Kurs dokształcający','Gilette',4568);
-INSERT INTO Kwalifikacje VALUES (690,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-25-81','Kurs dokształcający','Gallup',2652);
-INSERT INTO Kwalifikacje VALUES (691,'Kurs specjalistyczny – Terapia bólu','6-17-07','Studia doktoranckie','San Fernando',4196);
-INSERT INTO Kwalifikacje VALUES (692,'Studia doktoranckie','1-29-13','Szkolenie','La Mirada',3458);
-INSERT INTO Kwalifikacje VALUES (693,'Specjalizacja zawodowa','6-13-05','Specjalizacja','Maywood',2517);
-INSERT INTO Kwalifikacje VALUES (694,'Studia wyższe licencjackie','3-31-94','Studia pielęgniarskie','Ponce',2518);
-INSERT INTO Kwalifikacje VALUES (695,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-22-95','Studia doktoranckie','Truth or Consequences',2888);
-INSERT INTO Kwalifikacje VALUES (696,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-30-99','Studia pielęgniarskie','Murray',2633);
-INSERT INTO Kwalifikacje VALUES (697,'Studia mające zastosowanie w działalności podstawowej','1-31-11','Kurs specjalistyczny','Hoover',3523);
-INSERT INTO Kwalifikacje VALUES (698,'Kurs specjalistyczny - Szczepienia ochronne','1-10-98','Studia doktoranckie','Perth Amboy',3364);
-INSERT INTO Kwalifikacje VALUES (699,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-9-11','Kurs specjalistyczny','Palo Alto',4147);
-INSERT INTO Kwalifikacje VALUES (700,'Kurs dokształcający - Żywienie niemowląt i dzieci','9-14-95','Szkolenie','Schaumburg',4130);
-INSERT INTO Kwalifikacje VALUES (701,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-10-93','Studia pielęgniarskie','Norwich',4154);
-INSERT INTO Kwalifikacje VALUES (702,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-13-86','Studia doktoranckie','Crown Point',4365);
-INSERT INTO Kwalifikacje VALUES (703,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-6-87','Szkolenie','Brea',3471);
-INSERT INTO Kwalifikacje VALUES (704,'Kurs specjalistyczny – Terapia bólu','4-16-13','Kurs specjalistyczny','Worland',4904);
-INSERT INTO Kwalifikacje VALUES (705,'Studia doktoranckie','12-5-92','Szkolenie','Aberdeen',3846);
-INSERT INTO Kwalifikacje VALUES (706,'Studia mające zastosowanie w działalności podstawowej','3-7-07','Kurs dokształcający','Baton Rouge',3030);
-INSERT INTO Kwalifikacje VALUES (707,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-30-11','Kurs specjalistyczny','Valparaiso',3334);
-INSERT INTO Kwalifikacje VALUES (708,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-18-04','Kurs dokształcający','El Paso',3932);
-INSERT INTO Kwalifikacje VALUES (709,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-26-09','Kurs dokształcający','Bismarck',4631);
-INSERT INTO Kwalifikacje VALUES (710,'Studia doktoranckie','2-11-07','Kurs kwalifikacyjny','Stillwater',4357);
-INSERT INTO Kwalifikacje VALUES (711,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-3-89','Szkolenie','Johnson City',2936);
-INSERT INTO Kwalifikacje VALUES (712,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-25-16','Kurs specjalistyczny','Savannah',2931);
-INSERT INTO Kwalifikacje VALUES (713,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-26-16','Szkolenie','Laguna Hills',2501);
-INSERT INTO Kwalifikacje VALUES (714,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-8-08','Studia doktoranckie','Concord',3726);
-INSERT INTO Kwalifikacje VALUES (715,'Studia mające zastosowanie w działalności podstawowej','11-11-15','Kurs dokształcający','Elkhart',4362);
-INSERT INTO Kwalifikacje VALUES (716,'Kurs specjalistyczny – Terapia bólu','6-26-13','Kurs dokształcający','Kearney',3390);
-INSERT INTO Kwalifikacje VALUES (717,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-23-02','Studia pielęgniarskie','Johnson City',2844);
-INSERT INTO Kwalifikacje VALUES (718,'Studia doktoranckie','4-20-82','Studia wyższe licencjackie','Middletown',4123);
-INSERT INTO Kwalifikacje VALUES (719,'Studia pielęgniarskie','4-29-88','Kurs kwalifikacyjny','Bayamon',4231);
-INSERT INTO Kwalifikacje VALUES (720,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-23-88','Specjalizacja','Woburn',3277);
-INSERT INTO Kwalifikacje VALUES (721,'Studia doktoranckie','1-27-96','Szkolenie','Barre',4226);
-INSERT INTO Kwalifikacje VALUES (722,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-12-82','Studia pielęgniarskie','Statesboro',2694);
-INSERT INTO Kwalifikacje VALUES (723,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-12-94','Kurs kwalifikacyjny','Hagerstown',3588);
-INSERT INTO Kwalifikacje VALUES (724,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-13-02','Kurs dokształcający','College Park',3290);
-INSERT INTO Kwalifikacje VALUES (725,'Studia mające zastosowanie w działalności podstawowej','4-13-94','Kurs specjalistyczny','Worland',3052);
-INSERT INTO Kwalifikacje VALUES (726,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-3-89','Szkolenie','Amesbury',4740);
-INSERT INTO Kwalifikacje VALUES (727,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-3-91','Specjalizacja','Roanoke',4696);
-INSERT INTO Kwalifikacje VALUES (728,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-20-13','Kurs dokształcający','Norwalk',4933);
-INSERT INTO Kwalifikacje VALUES (729,'Studia wyższe licencjackie','11-22-09','Szkolenie','Lancaster',4913);
-INSERT INTO Kwalifikacje VALUES (730,'Specjalizacja zawodowa','7-1-02','Specjalizacja','Pembroke Pines',2742);
-INSERT INTO Kwalifikacje VALUES (731,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-10-04','Kurs specjalistyczny','Pittsfield',3646);
-INSERT INTO Kwalifikacje VALUES (732,'Specjalizacja zawodowa','10-21-93','Kurs specjalistyczny','Saukville',2757);
-INSERT INTO Kwalifikacje VALUES (733,'Studia pielęgniarskie','11-25-03','Studia wyższe licencjackie','Gallup',3677);
-INSERT INTO Kwalifikacje VALUES (734,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-17-82','Kurs dokształcający','Manhattan',4934);
-INSERT INTO Kwalifikacje VALUES (735,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-19-97','Specjalizacja','Cambridge',3690);
-INSERT INTO Kwalifikacje VALUES (736,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-26-15','Kurs dokształcający','Indianapolis',4839);
-INSERT INTO Kwalifikacje VALUES (737,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-28-12','Studia wyższe licencjackie','Lawton',3530);
-INSERT INTO Kwalifikacje VALUES (738,'Studia doktoranckie','2-18-85','Studia wyższe licencjackie','Agawam',4306);
-INSERT INTO Kwalifikacje VALUES (739,'Studia pielęgniarskie','9-8-13','Studia wyższe licencjackie','Calabasas',3010);
-INSERT INTO Kwalifikacje VALUES (740,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-11-11','Studia pielęgniarskie','Idaho Falls',3042);
-INSERT INTO Kwalifikacje VALUES (741,'Specjalizacja zawodowa','7-18-92','Szkolenie','Binghamton',4989);
-INSERT INTO Kwalifikacje VALUES (742,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-15-12','Studia doktoranckie','Huntington Beach',2840);
-INSERT INTO Kwalifikacje VALUES (743,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-8-15','Kurs dokształcający','Missoula',4344);
-INSERT INTO Kwalifikacje VALUES (744,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-8-97','Kurs specjalistyczny','Oneonta',4118);
-INSERT INTO Kwalifikacje VALUES (745,'Specjalizacja zawodowa','3-3-94','Kurs kwalifikacyjny','Orem',2939);
-INSERT INTO Kwalifikacje VALUES (746,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-22-93','Studia wyższe licencjackie','Allentown',4639);
-INSERT INTO Kwalifikacje VALUES (747,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-9-15','Specjalizacja','Atlanta',3109);
-INSERT INTO Kwalifikacje VALUES (748,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-10-99','Szkolenie','Alexandria',4553);
-INSERT INTO Kwalifikacje VALUES (749,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-13-09','Studia wyższe licencjackie','Independence',4000);
-INSERT INTO Kwalifikacje VALUES (750,'Kurs specjalistyczny – Terapia bólu','2-26-89','Kurs dokształcający','Visalia',4362);
-INSERT INTO Kwalifikacje VALUES (751,'Studia pielęgniarskie','2-19-10','Kurs kwalifikacyjny','Taunton',3088);
-INSERT INTO Kwalifikacje VALUES (752,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-16-09','Studia wyższe licencjackie','Rock Springs',4598);
-INSERT INTO Kwalifikacje VALUES (753,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-8-05','Kurs specjalistyczny','Hopkinsville',2761);
-INSERT INTO Kwalifikacje VALUES (754,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','3-23-97','Studia doktoranckie','Roswell',4685);
-INSERT INTO Kwalifikacje VALUES (755,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-16-98','Kurs specjalistyczny','Hackensack',4777);
-INSERT INTO Kwalifikacje VALUES (756,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-8-94','Studia doktoranckie','Gallup',4753);
-INSERT INTO Kwalifikacje VALUES (757,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-4-05','Kurs specjalistyczny','El Cerrito',4224);
-INSERT INTO Kwalifikacje VALUES (758,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-4-02','Szkolenie','Fallon',3599);
-INSERT INTO Kwalifikacje VALUES (759,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-9-03','Studia doktoranckie','Nashua',4359);
-INSERT INTO Kwalifikacje VALUES (760,'Kurs specjalistyczny – Terapia bólu','9-22-82','Kurs specjalistyczny','Jacksonville',4375);
-INSERT INTO Kwalifikacje VALUES (761,'Kurs specjalistyczny – Terapia bólu','4-27-05','Studia wyższe licencjackie','Kalispell',3139);
-INSERT INTO Kwalifikacje VALUES (762,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-30-06','Kurs dokształcający','Scottsbluff',3101);
-INSERT INTO Kwalifikacje VALUES (763,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-4-84','Kurs kwalifikacyjny','Sunbury',4488);
-INSERT INTO Kwalifikacje VALUES (764,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-13-84','Studia pielęgniarskie','Bossier City',4910);
-INSERT INTO Kwalifikacje VALUES (765,'Specjalizacja zawodowa','4-28-06','Kurs specjalistyczny','Beaver Falls',4124);
-INSERT INTO Kwalifikacje VALUES (766,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-15-99','Kurs specjalistyczny','Jeannette',3069);
-INSERT INTO Kwalifikacje VALUES (767,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-6-13','Kurs kwalifikacyjny','Palmdale',3071);
-INSERT INTO Kwalifikacje VALUES (768,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-21-15','Kurs kwalifikacyjny','Norwich',2852);
-INSERT INTO Kwalifikacje VALUES (769,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-4-13','Studia doktoranckie','Seward',3345);
-INSERT INTO Kwalifikacje VALUES (770,'Kurs specjalistyczny - Szczepienia ochronne','11-30-89','Specjalizacja','Idaho Springs',3609);
-INSERT INTO Kwalifikacje VALUES (771,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-6-82','Studia pielęgniarskie','Los Alamitos',4518);
-INSERT INTO Kwalifikacje VALUES (772,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-23-11','Kurs dokształcający','Grand Forks',3071);
-INSERT INTO Kwalifikacje VALUES (773,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-15-08','Kurs specjalistyczny','Costa Mesa',2601);
-INSERT INTO Kwalifikacje VALUES (774,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-7-80','Studia doktoranckie','Jeannette',2911);
-INSERT INTO Kwalifikacje VALUES (775,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-18-14','Studia pielęgniarskie','International Falls',3006);
-INSERT INTO Kwalifikacje VALUES (776,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-10-07','Kurs specjalistyczny','Racine',3936);
-INSERT INTO Kwalifikacje VALUES (777,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-11-06','Studia doktoranckie','Reedsport',2909);
-INSERT INTO Kwalifikacje VALUES (778,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-18-02','Kurs specjalistyczny','Fort Wayne',4558);
-INSERT INTO Kwalifikacje VALUES (779,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-5-11','Specjalizacja','La Mirada',4638);
-INSERT INTO Kwalifikacje VALUES (780,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-8-03','Studia pielęgniarskie','Baltimore',3629);
-INSERT INTO Kwalifikacje VALUES (781,'Studia pielęgniarskie','7-27-85','Studia pielęgniarskie','Sandpoint',4287);
-INSERT INTO Kwalifikacje VALUES (782,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-2-07','Studia pielęgniarskie','Seal Beach',3520);
-INSERT INTO Kwalifikacje VALUES (783,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-12-14','Szkolenie','Pittsfield',4932);
-INSERT INTO Kwalifikacje VALUES (784,'Studia wyższe licencjackie','5-28-08','Studia pielęgniarskie','Duluth',3793);
-INSERT INTO Kwalifikacje VALUES (785,'Studia doktoranckie','7-29-01','Specjalizacja','Hot Springs',2859);
-INSERT INTO Kwalifikacje VALUES (786,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-15-82','Studia wyższe licencjackie','Cudahy',4528);
-INSERT INTO Kwalifikacje VALUES (787,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-18-92','Szkolenie','Westfield',2548);
-INSERT INTO Kwalifikacje VALUES (788,'Studia pielęgniarskie','6-23-00','Studia wyższe licencjackie','Santa Monica',2916);
-INSERT INTO Kwalifikacje VALUES (789,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-20-09','Szkolenie','Cohoes',3175);
-INSERT INTO Kwalifikacje VALUES (790,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-4-99','Kurs kwalifikacyjny','Gadsden',4916);
-INSERT INTO Kwalifikacje VALUES (791,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-20-03','Szkolenie','Ogdensburg',4644);
-INSERT INTO Kwalifikacje VALUES (792,'Studia pielęgniarskie','5-2-88','Studia pielęgniarskie','Chesapeake',2815);
-INSERT INTO Kwalifikacje VALUES (793,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-10-14','Kurs dokształcający','Rockford',2949);
-INSERT INTO Kwalifikacje VALUES (794,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-28-86','Kurs dokształcający','Monongahela',3472);
-INSERT INTO Kwalifikacje VALUES (795,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-8-00','Kurs dokształcający','Rohnert Park',4601);
-INSERT INTO Kwalifikacje VALUES (796,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-7-84','Studia pielęgniarskie','Hollywood',3488);
-INSERT INTO Kwalifikacje VALUES (797,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-27-89','Specjalizacja','Santa Cruz',3434);
-INSERT INTO Kwalifikacje VALUES (798,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-23-10','Studia pielęgniarskie','Peoria',4204);
-INSERT INTO Kwalifikacje VALUES (799,'Kurs specjalistyczny - Szczepienia ochronne','6-9-07','Kurs dokształcający','Mason City',2561);
-INSERT INTO Kwalifikacje VALUES (800,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-12-84','Szkolenie','Taunton',4540);
-INSERT INTO Kwalifikacje VALUES (801,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-27-81','Kurs dokształcający','Union City',3400);
-INSERT INTO Kwalifikacje VALUES (802,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-28-96','Studia doktoranckie','Paterson',2577);
-INSERT INTO Kwalifikacje VALUES (803,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-28-95','Specjalizacja','Clemson',3219);
-INSERT INTO Kwalifikacje VALUES (804,'Kurs specjalistyczny - Szczepienia ochronne','4-15-98','Specjalizacja','New Rochelle',4484);
-INSERT INTO Kwalifikacje VALUES (805,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-19-93','Kurs dokształcający','Flint',3510);
-INSERT INTO Kwalifikacje VALUES (806,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-23-09','Kurs dokształcający','Lake Charles',2691);
-INSERT INTO Kwalifikacje VALUES (807,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-12-16','Studia wyższe licencjackie','Saratoga Springs',2593);
-INSERT INTO Kwalifikacje VALUES (808,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-21-99','Szkolenie','Pascagoula',4867);
-INSERT INTO Kwalifikacje VALUES (809,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-7-15','Kurs specjalistyczny','Farmington',4633);
-INSERT INTO Kwalifikacje VALUES (810,'Kurs specjalistyczny – Terapia bólu','5-14-96','Studia wyższe licencjackie','Appleton',3679);
-INSERT INTO Kwalifikacje VALUES (811,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-7-98','Kurs dokształcający','Vineland',4892);
-INSERT INTO Kwalifikacje VALUES (812,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-1-88','Specjalizacja','Saint Cloud',2549);
-INSERT INTO Kwalifikacje VALUES (813,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-10-09','Kurs specjalistyczny','East St. Louis',2504);
-INSERT INTO Kwalifikacje VALUES (814,'Kurs specjalistyczny - Szczepienia ochronne','6-23-88','Studia pielęgniarskie','Hopkinsville',4517);
-INSERT INTO Kwalifikacje VALUES (815,'Kurs specjalistyczny - Szczepienia ochronne','12-19-06','Kurs specjalistyczny','Scottsdale',2766);
-INSERT INTO Kwalifikacje VALUES (816,'Studia doktoranckie','3-21-12','Specjalizacja','Tacoma',3992);
-INSERT INTO Kwalifikacje VALUES (817,'Specjalizacja zawodowa','8-19-15','Kurs specjalistyczny','Thomasville',2889);
-INSERT INTO Kwalifikacje VALUES (818,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-17-12','Kurs dokształcający','Lahaina',2860);
-INSERT INTO Kwalifikacje VALUES (819,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-22-94','Specjalizacja','Tyler',3460);
-INSERT INTO Kwalifikacje VALUES (820,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-7-83','Studia pielęgniarskie','Wynne',2957);
-INSERT INTO Kwalifikacje VALUES (821,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-14-87','Szkolenie','Lynwood',2609);
-INSERT INTO Kwalifikacje VALUES (822,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-17-15','Kurs dokształcający','North Las Vegas',3402);
-INSERT INTO Kwalifikacje VALUES (823,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-2-92','Kurs kwalifikacyjny','Sherrill',2923);
-INSERT INTO Kwalifikacje VALUES (824,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-19-82','Studia pielęgniarskie','Hayward',3392);
-INSERT INTO Kwalifikacje VALUES (825,'Kurs specjalistyczny - Szczepienia ochronne','6-17-95','Kurs kwalifikacyjny','Shelton',4021);
-INSERT INTO Kwalifikacje VALUES (826,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-19-98','Studia pielęgniarskie','Carrollton',4427);
-INSERT INTO Kwalifikacje VALUES (827,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-20-91','Kurs specjalistyczny','Stafford',2885);
-INSERT INTO Kwalifikacje VALUES (828,'Studia pielęgniarskie','1-6-15','Studia wyższe licencjackie','Trenton',2801);
-INSERT INTO Kwalifikacje VALUES (829,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-9-06','Kurs kwalifikacyjny','Nacogdoches',3147);
-INSERT INTO Kwalifikacje VALUES (830,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-29-81','Kurs kwalifikacyjny','Stanton',3330);
-INSERT INTO Kwalifikacje VALUES (831,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-25-90','Kurs specjalistyczny','Wahoo',3514);
-INSERT INTO Kwalifikacje VALUES (832,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-9-10','Kurs kwalifikacyjny','Jeffersonville',4390);
-INSERT INTO Kwalifikacje VALUES (833,'Studia wyższe licencjackie','6-5-94','Kurs specjalistyczny','Bakersfield',3698);
-INSERT INTO Kwalifikacje VALUES (834,'Studia mające zastosowanie w działalności podstawowej','10-13-01','Studia wyższe licencjackie','Scarborough',3687);
-INSERT INTO Kwalifikacje VALUES (835,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-2-05','Specjalizacja','York',4124);
-INSERT INTO Kwalifikacje VALUES (836,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-1-08','Studia wyższe licencjackie','Salt Lake City',4149);
-INSERT INTO Kwalifikacje VALUES (837,'Studia wyższe licencjackie','6-5-13','Studia pielęgniarskie','College Station',4332);
-INSERT INTO Kwalifikacje VALUES (838,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-1-96','Studia pielęgniarskie','Appleton',4607);
-INSERT INTO Kwalifikacje VALUES (839,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-6-08','Studia doktoranckie','Naperville',4160);
-INSERT INTO Kwalifikacje VALUES (840,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-11-07','Studia doktoranckie','Scottsdale',4407);
-INSERT INTO Kwalifikacje VALUES (841,'Specjalizacja zawodowa','10-23-83','Szkolenie','West Sacramento',2678);
-INSERT INTO Kwalifikacje VALUES (842,'Studia mające zastosowanie w działalności podstawowej','10-19-11','Kurs specjalistyczny','Laughlin',2755);
-INSERT INTO Kwalifikacje VALUES (843,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-26-14','Kurs kwalifikacyjny','Brunswick',4772);
-INSERT INTO Kwalifikacje VALUES (844,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-20-83','Kurs specjalistyczny','Hoboken',3962);
-INSERT INTO Kwalifikacje VALUES (845,'Studia wyższe licencjackie','10-29-90','Studia wyższe licencjackie','Cincinnati',4249);
-INSERT INTO Kwalifikacje VALUES (846,'Studia wyższe licencjackie','10-3-98','Studia pielęgniarskie','Woburn',3033);
-INSERT INTO Kwalifikacje VALUES (847,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-4-05','Studia wyższe licencjackie','Arlington',4301);
-INSERT INTO Kwalifikacje VALUES (848,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-15-91','Kurs dokształcający','Marietta',4679);
-INSERT INTO Kwalifikacje VALUES (849,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-2-15','Specjalizacja','Columbia',4430);
-INSERT INTO Kwalifikacje VALUES (850,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-25-01','Studia pielęgniarskie','Boston',2906);
-INSERT INTO Kwalifikacje VALUES (851,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-28-11','Studia wyższe licencjackie','Pendleton',4408);
-INSERT INTO Kwalifikacje VALUES (852,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-26-03','Studia wyższe licencjackie','Nampa',4008);
-INSERT INTO Kwalifikacje VALUES (853,'Specjalizacja zawodowa','5-5-09','Szkolenie','Saint Louis',4499);
-INSERT INTO Kwalifikacje VALUES (854,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-10-06','Studia pielęgniarskie','Bayamon',3822);
-INSERT INTO Kwalifikacje VALUES (855,'Kurs specjalistyczny - Szczepienia ochronne','6-10-94','Studia doktoranckie','Warwick',2759);
-INSERT INTO Kwalifikacje VALUES (856,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-22-07','Kurs dokształcający','Toledo',2913);
-INSERT INTO Kwalifikacje VALUES (857,'Specjalizacja zawodowa','6-4-94','Specjalizacja','Waltham',3629);
-INSERT INTO Kwalifikacje VALUES (858,'Specjalizacja zawodowa','7-19-10','Kurs dokształcający','Hollywood',4278);
-INSERT INTO Kwalifikacje VALUES (859,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-29-03','Specjalizacja','Yakima',3263);
-INSERT INTO Kwalifikacje VALUES (860,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-12-04','Kurs dokształcający','Helena',2996);
-INSERT INTO Kwalifikacje VALUES (861,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-18-02','Kurs dokształcający','Monongahela',3019);
-INSERT INTO Kwalifikacje VALUES (862,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-18-96','Kurs dokształcający','St. Petersburg',3787);
-INSERT INTO Kwalifikacje VALUES (863,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-30-98','Studia doktoranckie','Sault Ste. Marie',3540);
-INSERT INTO Kwalifikacje VALUES (864,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-13-83','Studia doktoranckie','Truth or Consequences',3204);
-INSERT INTO Kwalifikacje VALUES (865,'Studia pielęgniarskie','4-10-14','Kurs kwalifikacyjny','Sioux City',4287);
-INSERT INTO Kwalifikacje VALUES (866,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-2-02','Studia wyższe licencjackie','Ruston',3316);
-INSERT INTO Kwalifikacje VALUES (867,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-28-05','Kurs dokształcający','Fort Lauderdale',3363);
-INSERT INTO Kwalifikacje VALUES (868,'Studia doktoranckie','8-25-83','Studia doktoranckie','Prescott',2855);
-INSERT INTO Kwalifikacje VALUES (869,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-17-90','Kurs specjalistyczny','Rancho Cucamonga',2513);
-INSERT INTO Kwalifikacje VALUES (870,'Kurs specjalistyczny - Szczepienia ochronne','1-3-02','Kurs dokształcający','Des Moines',2710);
-INSERT INTO Kwalifikacje VALUES (871,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-26-82','Specjalizacja','Pulaski',2586);
-INSERT INTO Kwalifikacje VALUES (872,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-4-97','Studia doktoranckie','Taunton',3240);
-INSERT INTO Kwalifikacje VALUES (873,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-25-15','Kurs kwalifikacyjny','Amesbury',4546);
-INSERT INTO Kwalifikacje VALUES (874,'Studia doktoranckie','4-13-13','Kurs kwalifikacyjny','Newport News',4603);
-INSERT INTO Kwalifikacje VALUES (875,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-5-00','Kurs dokształcający','Saint Paul',3588);
-INSERT INTO Kwalifikacje VALUES (876,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-20-85','Studia wyższe licencjackie','Suffolk',3990);
-INSERT INTO Kwalifikacje VALUES (877,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-4-87','Szkolenie','Las Vegas',4899);
-INSERT INTO Kwalifikacje VALUES (878,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','9-16-11','Szkolenie','West Jordan',4522);
-INSERT INTO Kwalifikacje VALUES (879,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-18-10','Specjalizacja','Urbana',4084);
-INSERT INTO Kwalifikacje VALUES (880,'Specjalizacja zawodowa','4-9-84','Studia wyższe licencjackie','Pascagoula',4966);
-INSERT INTO Kwalifikacje VALUES (881,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-14-83','Kurs dokształcający','Natchitoches',4015);
-INSERT INTO Kwalifikacje VALUES (882,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-15-93','Studia wyższe licencjackie','Provo',3189);
-INSERT INTO Kwalifikacje VALUES (883,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-14-14','Kurs dokształcający','Santa Clara',4611);
-INSERT INTO Kwalifikacje VALUES (884,'Studia doktoranckie','8-24-14','Studia wyższe licencjackie','Lockport',4936);
-INSERT INTO Kwalifikacje VALUES (885,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-13-12','Studia pielęgniarskie','Mechanicville',3864);
-INSERT INTO Kwalifikacje VALUES (886,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-7-87','Szkolenie','New Rochelle',2835);
-INSERT INTO Kwalifikacje VALUES (887,'Kurs specjalistyczny - Szczepienia ochronne','1-7-04','Specjalizacja','Augusta',3115);
-INSERT INTO Kwalifikacje VALUES (888,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','9-6-04','Studia pielęgniarskie','Hartford',3659);
-INSERT INTO Kwalifikacje VALUES (889,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-18-86','Specjalizacja','Rutland',3432);
-INSERT INTO Kwalifikacje VALUES (890,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-4-82','Studia pielęgniarskie','York',3515);
-INSERT INTO Kwalifikacje VALUES (891,'Kurs specjalistyczny – Terapia bólu','7-25-86','Specjalizacja','Caguas',4475);
-INSERT INTO Kwalifikacje VALUES (892,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-3-87','Kurs kwalifikacyjny','Lakewood',4046);
-INSERT INTO Kwalifikacje VALUES (893,'Studia wyższe licencjackie','7-24-97','Studia doktoranckie','Burlingame',4708);
-INSERT INTO Kwalifikacje VALUES (894,'Studia mające zastosowanie w działalności podstawowej','4-28-08','Szkolenie','Eden Prairie',4665);
-INSERT INTO Kwalifikacje VALUES (895,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-28-00','Studia doktoranckie','Normal',3619);
-INSERT INTO Kwalifikacje VALUES (896,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-14-83','Studia wyższe licencjackie','Boulder Junction',4926);
-INSERT INTO Kwalifikacje VALUES (897,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-31-08','Studia pielęgniarskie','Covina',2612);
-INSERT INTO Kwalifikacje VALUES (898,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-2-12','Kurs dokształcający','Manhattan Beach',2876);
-INSERT INTO Kwalifikacje VALUES (899,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-12-13','Studia doktoranckie','Dayton',3918);
-INSERT INTO Kwalifikacje VALUES (900,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-27-96','Studia pielęgniarskie','Williamsport',3629);
-INSERT INTO Kwalifikacje VALUES (901,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-8-86','Kurs dokształcający','Inglewood',4704);
-INSERT INTO Kwalifikacje VALUES (902,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-13-89','Studia pielęgniarskie','Augusta',4119);
-INSERT INTO Kwalifikacje VALUES (903,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-10-02','Studia wyższe licencjackie','Dana Point',4690);
-INSERT INTO Kwalifikacje VALUES (904,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-15-87','Kurs kwalifikacyjny','Waycross',4620);
-INSERT INTO Kwalifikacje VALUES (905,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-13-98','Specjalizacja','Las Cruces',3203);
-INSERT INTO Kwalifikacje VALUES (906,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-21-16','Kurs specjalistyczny','DeKalb',3526);
-INSERT INTO Kwalifikacje VALUES (907,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-29-06','Specjalizacja','Vincennes',4546);
-INSERT INTO Kwalifikacje VALUES (908,'Kurs specjalistyczny – Terapia bólu','1-15-09','Specjalizacja','Bremerton',4819);
-INSERT INTO Kwalifikacje VALUES (909,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-2-86','Studia doktoranckie','Sun Valley',2802);
-INSERT INTO Kwalifikacje VALUES (910,'Kurs specjalistyczny - Szczepienia ochronne','1-10-01','Kurs kwalifikacyjny','Laramie',4936);
-INSERT INTO Kwalifikacje VALUES (911,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-9-05','Studia doktoranckie','Placentia',3881);
-INSERT INTO Kwalifikacje VALUES (912,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-27-08','Specjalizacja','Milwaukee',4050);
-INSERT INTO Kwalifikacje VALUES (913,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-7-99','Kurs dokształcający','Dodge City',4378);
-INSERT INTO Kwalifikacje VALUES (914,'Kurs specjalistyczny – Terapia bólu','11-30-87','Studia doktoranckie','Guayanilla',4207);
-INSERT INTO Kwalifikacje VALUES (915,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-28-02','Studia wyższe licencjackie','Healdsburg',4730);
-INSERT INTO Kwalifikacje VALUES (916,'Kurs specjalistyczny - Szczepienia ochronne','9-17-95','Szkolenie','Tempe',2643);
-INSERT INTO Kwalifikacje VALUES (917,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-26-01','Specjalizacja','Ruston',4499);
-INSERT INTO Kwalifikacje VALUES (918,'Studia wyższe licencjackie','4-5-94','Szkolenie','Chesapeake',3900);
-INSERT INTO Kwalifikacje VALUES (919,'Studia doktoranckie','9-1-13','Studia pielęgniarskie','Fountain Valley',4103);
-INSERT INTO Kwalifikacje VALUES (920,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-16-04','Kurs specjalistyczny','Clearwater',4004);
-INSERT INTO Kwalifikacje VALUES (921,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-2-93','Kurs kwalifikacyjny','Lancaster',4597);
-INSERT INTO Kwalifikacje VALUES (922,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-6-86','Kurs specjalistyczny','Shreveport',3408);
-INSERT INTO Kwalifikacje VALUES (923,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-16-10','Kurs kwalifikacyjny','Stafford',3258);
-INSERT INTO Kwalifikacje VALUES (924,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-7-13','Szkolenie','Carrollton',4933);
-INSERT INTO Kwalifikacje VALUES (925,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-8-15','Szkolenie','Shawnee',4852);
-INSERT INTO Kwalifikacje VALUES (926,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-16-82','Szkolenie','Narragansett',3311);
-INSERT INTO Kwalifikacje VALUES (927,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-31-94','Studia doktoranckie','Peru',4735);
-INSERT INTO Kwalifikacje VALUES (928,'Studia pielęgniarskie','7-21-03','Studia doktoranckie','Los Alamitos',3619);
-INSERT INTO Kwalifikacje VALUES (929,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-18-13','Kurs kwalifikacyjny','Clarksburg',2787);
-INSERT INTO Kwalifikacje VALUES (930,'Studia mające zastosowanie w działalności podstawowej','1-15-12','Studia pielęgniarskie','Kemmerer',2683);
-INSERT INTO Kwalifikacje VALUES (931,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-27-01','Specjalizacja','La Palma',4073);
-INSERT INTO Kwalifikacje VALUES (932,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-23-84','Kurs specjalistyczny','Macomb',4060);
-INSERT INTO Kwalifikacje VALUES (933,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-5-04','Studia doktoranckie','Lewiston',3111);
-INSERT INTO Kwalifikacje VALUES (934,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-5-87','Szkolenie','Sacramento',2919);
-INSERT INTO Kwalifikacje VALUES (935,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-27-94','Szkolenie','Anderson',3793);
-INSERT INTO Kwalifikacje VALUES (936,'Studia pielęgniarskie','1-3-91','Kurs specjalistyczny','Westlake Village',4884);
-INSERT INTO Kwalifikacje VALUES (937,'Studia doktoranckie','7-30-81','Kurs dokształcający','Oro Valley',3176);
-INSERT INTO Kwalifikacje VALUES (938,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-3-08','Kurs specjalistyczny','Azusa',3956);
-INSERT INTO Kwalifikacje VALUES (939,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-13-91','Studia wyższe licencjackie','Claremore',3537);
-INSERT INTO Kwalifikacje VALUES (940,'Studia wyższe licencjackie','4-18-08','Studia pielęgniarskie','Fargo',3991);
-INSERT INTO Kwalifikacje VALUES (941,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-16-02','Kurs dokształcający','Rancho Cucamonga',3176);
-INSERT INTO Kwalifikacje VALUES (942,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-14-94','Szkolenie','Miami Beach',4984);
-INSERT INTO Kwalifikacje VALUES (943,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-4-96','Kurs dokształcający','Norfolk',4661);
-INSERT INTO Kwalifikacje VALUES (944,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-19-07','Studia pielęgniarskie','Brunswick',4321);
-INSERT INTO Kwalifikacje VALUES (945,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-19-07','Studia wyższe licencjackie','Richmond',4495);
-INSERT INTO Kwalifikacje VALUES (946,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-26-96','Specjalizacja','Cedar Falls',4983);
-INSERT INTO Kwalifikacje VALUES (947,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-5-01','Kurs specjalistyczny','Farmington',3267);
-INSERT INTO Kwalifikacje VALUES (948,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-15-94','Studia doktoranckie','Meridian',4391);
-INSERT INTO Kwalifikacje VALUES (949,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-27-08','Studia wyższe licencjackie','Northampton',4666);
-INSERT INTO Kwalifikacje VALUES (950,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-2-06','Szkolenie','Corinth',3350);
-INSERT INTO Kwalifikacje VALUES (951,'Studia doktoranckie','9-27-11','Kurs kwalifikacyjny','Sedalia',3925);
-INSERT INTO Kwalifikacje VALUES (952,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-21-10','Szkolenie','Evanston',3471);
-INSERT INTO Kwalifikacje VALUES (953,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-2-12','Kurs kwalifikacyjny','Auburn',4653);
-INSERT INTO Kwalifikacje VALUES (954,'Kurs specjalistyczny – Terapia bólu','1-3-02','Studia doktoranckie','Duarte',3861);
-INSERT INTO Kwalifikacje VALUES (955,'Specjalizacja zawodowa','2-25-84','Kurs kwalifikacyjny','Merizo',4015);
-INSERT INTO Kwalifikacje VALUES (956,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-17-83','Specjalizacja','Rialto',3170);
-INSERT INTO Kwalifikacje VALUES (957,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-25-06','Studia doktoranckie','Miami Gardens',3881);
-INSERT INTO Kwalifikacje VALUES (958,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-8-81','Studia wyższe licencjackie','Easton',3568);
-INSERT INTO Kwalifikacje VALUES (959,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-31-13','Specjalizacja','Haverhill',4572);
-INSERT INTO Kwalifikacje VALUES (960,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-20-94','Studia pielęgniarskie','Wausau',4169);
-INSERT INTO Kwalifikacje VALUES (961,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-1-97','Specjalizacja','Escondido',3351);
-INSERT INTO Kwalifikacje VALUES (962,'Specjalizacja zawodowa','4-4-93','Kurs dokształcający','Norman',3214);
-INSERT INTO Kwalifikacje VALUES (963,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-12-85','Kurs specjalistyczny','New Albany',3239);
-INSERT INTO Kwalifikacje VALUES (964,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-28-95','Specjalizacja','Gainesville',4665);
-INSERT INTO Kwalifikacje VALUES (965,'Specjalizacja zawodowa','4-15-15','Szkolenie','Diamond Bar',4344);
-INSERT INTO Kwalifikacje VALUES (966,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-31-10','Kurs dokształcający','Nichols Hills',4241);
-INSERT INTO Kwalifikacje VALUES (967,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-15-03','Kurs dokształcający','Harrisburg',4481);
-INSERT INTO Kwalifikacje VALUES (968,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-15-04','Studia doktoranckie','New Brunswick',4190);
-INSERT INTO Kwalifikacje VALUES (969,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-23-97','Specjalizacja','Ardmore',4297);
-INSERT INTO Kwalifikacje VALUES (970,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-21-91','Szkolenie','Montpelier',4353);
-INSERT INTO Kwalifikacje VALUES (971,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-13-02','Specjalizacja','Thibodaux',3030);
-INSERT INTO Kwalifikacje VALUES (972,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-22-06','Kurs dokształcający','Rancho Palos Verdes',3925);
-INSERT INTO Kwalifikacje VALUES (973,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-25-00','Studia doktoranckie','Plantation',4004);
-INSERT INTO Kwalifikacje VALUES (974,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-30-87','Specjalizacja','Douglas',3216);
-INSERT INTO Kwalifikacje VALUES (975,'Studia mające zastosowanie w działalności podstawowej','4-7-10','Studia pielęgniarskie','Saipan',4075);
-INSERT INTO Kwalifikacje VALUES (976,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-23-96','Kurs kwalifikacyjny','Plattsburgh',4577);
-INSERT INTO Kwalifikacje VALUES (977,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-15-04','Kurs specjalistyczny','La Habra',4154);
-INSERT INTO Kwalifikacje VALUES (978,'Studia pielęgniarskie','3-27-92','Studia wyższe licencjackie','Jackson',4464);
-INSERT INTO Kwalifikacje VALUES (979,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-10-04','Studia doktoranckie','Idaho Springs',4620);
-INSERT INTO Kwalifikacje VALUES (980,'Kurs dokształcający - Żywienie niemowląt i dzieci','9-23-12','Kurs dokształcający','Charlotte Amalie',4933);
-INSERT INTO Kwalifikacje VALUES (981,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-24-81','Studia doktoranckie','Chico',3464);
-INSERT INTO Kwalifikacje VALUES (982,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-30-12','Studia wyższe licencjackie','North Tonawanda',3106);
-INSERT INTO Kwalifikacje VALUES (983,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-27-93','Kurs specjalistyczny','Holyoke',3611);
-INSERT INTO Kwalifikacje VALUES (984,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-12-12','Studia wyższe licencjackie','Rhinelander',4928);
-INSERT INTO Kwalifikacje VALUES (985,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-16-87','Kurs specjalistyczny','Gold Beach',2858);
-INSERT INTO Kwalifikacje VALUES (986,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-8-08','Szkolenie','Sandpoint',3767);
-INSERT INTO Kwalifikacje VALUES (987,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-27-16','Studia wyższe licencjackie','Moultrie',3112);
-INSERT INTO Kwalifikacje VALUES (988,'Studia doktoranckie','1-30-93','Szkolenie','Ardmore',4621);
-INSERT INTO Kwalifikacje VALUES (989,'Studia pielęgniarskie','8-9-94','Kurs kwalifikacyjny','Loudon',3280);
-INSERT INTO Kwalifikacje VALUES (990,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-3-92','Specjalizacja','Chattanooga',2927);
-INSERT INTO Kwalifikacje VALUES (991,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-29-03','Szkolenie','Tamuning',3833);
-INSERT INTO Kwalifikacje VALUES (992,'Studia pielęgniarskie','7-21-92','Studia pielęgniarskie','Normal',2775);
-INSERT INTO Kwalifikacje VALUES (993,'Kurs specjalistyczny – Terapia bólu','4-12-88','Kurs kwalifikacyjny','Chickasha',3541);
-INSERT INTO Kwalifikacje VALUES (994,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-1-96','Kurs kwalifikacyjny','Lewiston',3912);
-INSERT INTO Kwalifikacje VALUES (995,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-28-07','Studia wyższe licencjackie','Kingsport',2749);
-INSERT INTO Kwalifikacje VALUES (996,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-26-01','Studia doktoranckie','New Britain',2625);
-INSERT INTO Kwalifikacje VALUES (997,'Kurs specjalistyczny - Szczepienia ochronne','6-12-00','Kurs dokształcający','Douglas',3656);
-INSERT INTO Kwalifikacje VALUES (998,'Kurs specjalistyczny – Terapia bólu','5-31-14','Kurs specjalistyczny','Elsmere',4780);
-INSERT INTO Kwalifikacje VALUES (999,'Kurs specjalistyczny - Szczepienia ochronne','6-16-07','Specjalizacja','Minneapolis',3682);
-INSERT INTO Kwalifikacje VALUES (1000,'Studia mające zastosowanie w działalności podstawowej','10-27-04','Kurs dokształcający','New York',3087);
-INSERT INTO Kwalifikacje VALUES (1001,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-18-04','Specjalizacja','Tampa',3267);
-INSERT INTO Kwalifikacje VALUES (1002,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-23-14','Kurs specjalistyczny','St. Petersburg',4820);
-INSERT INTO Kwalifikacje VALUES (1003,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-16-04','Studia pielęgniarskie','Houston',2679);
-INSERT INTO Kwalifikacje VALUES (1004,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-22-91','Szkolenie','Scranton',2747);
-INSERT INTO Kwalifikacje VALUES (1005,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-9-11','Kurs specjalistyczny','Thibodaux',3946);
-INSERT INTO Kwalifikacje VALUES (1006,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-25-86','Studia wyższe licencjackie','Biloxi',2501);
-INSERT INTO Kwalifikacje VALUES (1007,'Studia wyższe licencjackie','8-3-90','Kurs specjalistyczny','Oxnard',2823);
-INSERT INTO Kwalifikacje VALUES (1008,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-1-98','Szkolenie','Eden Prairie',4285);
-INSERT INTO Kwalifikacje VALUES (1009,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-15-13','Studia pielęgniarskie','Newton',2687);
-INSERT INTO Kwalifikacje VALUES (1010,'Specjalizacja zawodowa','4-21-07','Studia pielęgniarskie','Medford',3412);
-INSERT INTO Kwalifikacje VALUES (1011,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-10-15','Studia doktoranckie','Vermillion',4830);
-INSERT INTO Kwalifikacje VALUES (1012,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-27-00','Studia pielęgniarskie','Hattiesburg',3552);
-INSERT INTO Kwalifikacje VALUES (1013,'Studia wyższe licencjackie','2-5-07','Kurs specjalistyczny','Evansville',4197);
-INSERT INTO Kwalifikacje VALUES (1014,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-2-11','Szkolenie','Princeton',3724);
-INSERT INTO Kwalifikacje VALUES (1015,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-2-98','Studia wyższe licencjackie','Nashville',3069);
-INSERT INTO Kwalifikacje VALUES (1016,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-29-83','Specjalizacja','Eden Prairie',4083);
-INSERT INTO Kwalifikacje VALUES (1017,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-26-04','Kurs dokształcający','Laguna Niguel',2895);
-INSERT INTO Kwalifikacje VALUES (1018,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-18-08','Szkolenie','Barre',4579);
-INSERT INTO Kwalifikacje VALUES (1019,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-21-88','Kurs kwalifikacyjny','Dallas',2985);
-INSERT INTO Kwalifikacje VALUES (1020,'Specjalizacja zawodowa','11-13-92','Studia wyższe licencjackie','Peoria',2947);
-INSERT INTO Kwalifikacje VALUES (1021,'Studia wyższe licencjackie','9-5-14','Kurs dokształcający','Rialto',4055);
-INSERT INTO Kwalifikacje VALUES (1022,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-7-98','Szkolenie','Reading',2597);
-INSERT INTO Kwalifikacje VALUES (1023,'Studia wyższe licencjackie','1-9-13','Kurs dokształcający','Rialto',3245);
-INSERT INTO Kwalifikacje VALUES (1024,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-30-12','Kurs kwalifikacyjny','Spokane Valley',2601);
-INSERT INTO Kwalifikacje VALUES (1025,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-19-95','Kurs specjalistyczny','Saint Joseph',4967);
-INSERT INTO Kwalifikacje VALUES (1026,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-27-84','Szkolenie','Agat',3323);
-INSERT INTO Kwalifikacje VALUES (1027,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-14-91','Studia doktoranckie','Los Alamitos',3402);
-INSERT INTO Kwalifikacje VALUES (1028,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-3-81','Studia doktoranckie','Muskogee',3774);
-INSERT INTO Kwalifikacje VALUES (1029,'Kurs specjalistyczny – Terapia bólu','4-5-09','Specjalizacja','Duquesne',2579);
-INSERT INTO Kwalifikacje VALUES (1030,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-6-82','Kurs kwalifikacyjny','Catskill',4586);
-INSERT INTO Kwalifikacje VALUES (1031,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-3-97','Studia wyższe licencjackie','Pittston',2630);
-INSERT INTO Kwalifikacje VALUES (1032,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-7-04','Kurs kwalifikacyjny','Amesbury',4245);
-INSERT INTO Kwalifikacje VALUES (1033,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-21-88','Studia wyższe licencjackie','Davis',3051);
-INSERT INTO Kwalifikacje VALUES (1034,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-2-96','Studia doktoranckie','Chattanooga',3722);
-INSERT INTO Kwalifikacje VALUES (1035,'Studia pielęgniarskie','9-20-95','Kurs kwalifikacyjny','Rancho Palos Verdes',4237);
-INSERT INTO Kwalifikacje VALUES (1036,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-10-85','Kurs kwalifikacyjny','Middletown',2712);
-INSERT INTO Kwalifikacje VALUES (1037,'Studia doktoranckie','2-18-81','Studia pielęgniarskie','Bismarck',2948);
-INSERT INTO Kwalifikacje VALUES (1038,'Kurs specjalistyczny – Terapia bólu','1-22-01','Specjalizacja','Baltimore',3191);
-INSERT INTO Kwalifikacje VALUES (1039,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-11-88','Specjalizacja','Calabasas',3276);
-INSERT INTO Kwalifikacje VALUES (1040,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-7-95','Szkolenie','Parma',3668);
-INSERT INTO Kwalifikacje VALUES (1041,'Studia mające zastosowanie w działalności podstawowej','1-30-01','Szkolenie','Hutchinson',3130);
-INSERT INTO Kwalifikacje VALUES (1042,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-25-82','Szkolenie','Johnstown',4514);
-INSERT INTO Kwalifikacje VALUES (1043,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-30-92','Szkolenie','Minnetonka',4487);
-INSERT INTO Kwalifikacje VALUES (1044,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-24-82','Kurs dokształcający','Baton Rouge',4453);
-INSERT INTO Kwalifikacje VALUES (1045,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-3-87','Studia pielęgniarskie','Manhattan Beach',3563);
-INSERT INTO Kwalifikacje VALUES (1046,'Kurs specjalistyczny - Szczepienia ochronne','2-6-96','Specjalizacja','Nashua',3074);
-INSERT INTO Kwalifikacje VALUES (1047,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-26-94','Studia wyższe licencjackie','South Portland',2502);
-INSERT INTO Kwalifikacje VALUES (1048,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-2-09','Kurs specjalistyczny','Areceibo',3261);
-INSERT INTO Kwalifikacje VALUES (1049,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-14-08','Specjalizacja','Union City',4723);
-INSERT INTO Kwalifikacje VALUES (1050,'Specjalizacja zawodowa','5-27-87','Specjalizacja','Colorado Springs',4524);
-INSERT INTO Kwalifikacje VALUES (1051,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-20-04','Studia doktoranckie','South Gate',4640);
-INSERT INTO Kwalifikacje VALUES (1052,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-8-86','Szkolenie','Radford',3670);
-INSERT INTO Kwalifikacje VALUES (1053,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-20-00','Studia pielęgniarskie','Inglewood',4061);
-INSERT INTO Kwalifikacje VALUES (1054,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-10-83','Specjalizacja','Miami Beach',4659);
-INSERT INTO Kwalifikacje VALUES (1055,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-18-82','Studia doktoranckie','Wilson',4548);
-INSERT INTO Kwalifikacje VALUES (1056,'Studia pielęgniarskie','10-19-84','Studia wyższe licencjackie','North Platte',3495);
-INSERT INTO Kwalifikacje VALUES (1057,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-23-88','Studia pielęgniarskie','East St. Louis',3762);
-INSERT INTO Kwalifikacje VALUES (1058,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-14-08','Kurs specjalistyczny','Yakima',4595);
-INSERT INTO Kwalifikacje VALUES (1059,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-28-92','Specjalizacja','Elkhart',4645);
-INSERT INTO Kwalifikacje VALUES (1060,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-31-86','Studia pielęgniarskie','Thousand Oaks',4616);
-INSERT INTO Kwalifikacje VALUES (1061,'Studia pielęgniarskie','6-11-80','Studia pielęgniarskie','Tonawanda',3955);
-INSERT INTO Kwalifikacje VALUES (1062,'Studia mające zastosowanie w działalności podstawowej','9-15-09','Studia pielęgniarskie','Deadwood',4120);
-INSERT INTO Kwalifikacje VALUES (1063,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-17-11','Studia doktoranckie','Charleston',3257);
-INSERT INTO Kwalifikacje VALUES (1064,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-16-84','Studia doktoranckie','New Orleans',4774);
-INSERT INTO Kwalifikacje VALUES (1065,'Kurs specjalistyczny - Szczepienia ochronne','10-7-06','Kurs dokształcający','San Mateo',3561);
-INSERT INTO Kwalifikacje VALUES (1066,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-6-05','Specjalizacja','Costa Mesa',4376);
-INSERT INTO Kwalifikacje VALUES (1067,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-19-01','Kurs specjalistyczny','DuBois',2578);
-INSERT INTO Kwalifikacje VALUES (1068,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-30-92','Specjalizacja','Jeffersontown',3195);
-INSERT INTO Kwalifikacje VALUES (1069,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-12-11','Specjalizacja','Del Rio',3973);
-INSERT INTO Kwalifikacje VALUES (1070,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-21-91','Studia wyższe licencjackie','Lowell',4715);
-INSERT INTO Kwalifikacje VALUES (1071,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-8-10','Studia pielęgniarskie','Cruz Bay',2925);
-INSERT INTO Kwalifikacje VALUES (1072,'Specjalizacja zawodowa','10-30-08','Specjalizacja','Medford',4474);
-INSERT INTO Kwalifikacje VALUES (1073,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-2-12','Kurs kwalifikacyjny','Arlington',3030);
-INSERT INTO Kwalifikacje VALUES (1074,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-17-90','Kurs kwalifikacyjny','Santa Monica',3997);
-INSERT INTO Kwalifikacje VALUES (1075,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-21-88','Kurs dokształcający','West Haven',3203);
-INSERT INTO Kwalifikacje VALUES (1076,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-26-92','Specjalizacja','Ephraim',4335);
-INSERT INTO Kwalifikacje VALUES (1077,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-6-06','Kurs kwalifikacyjny','Port Arthur',4226);
-INSERT INTO Kwalifikacje VALUES (1078,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-23-94','Studia doktoranckie','Fairbanks',4700);
-INSERT INTO Kwalifikacje VALUES (1079,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-24-15','Szkolenie','Rolling Hills',4776);
-INSERT INTO Kwalifikacje VALUES (1080,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-13-92','Kurs dokształcający','Salem',2808);
-INSERT INTO Kwalifikacje VALUES (1081,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-26-80','Kurs dokształcający','Norman',4871);
-INSERT INTO Kwalifikacje VALUES (1082,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-27-94','Studia pielęgniarskie','Costa Mesa',4478);
-INSERT INTO Kwalifikacje VALUES (1083,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-31-03','Studia doktoranckie','Bay City',3333);
-INSERT INTO Kwalifikacje VALUES (1084,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-28-91','Kurs kwalifikacyjny','New Orleans',2899);
-INSERT INTO Kwalifikacje VALUES (1085,'Studia mające zastosowanie w działalności podstawowej','8-8-96','Kurs kwalifikacyjny','Manitowoc',3580);
-INSERT INTO Kwalifikacje VALUES (1086,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-16-80','Studia doktoranckie','Grand Island',3049);
-INSERT INTO Kwalifikacje VALUES (1087,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-5-80','Szkolenie','Bradbury',2571);
-INSERT INTO Kwalifikacje VALUES (1088,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-18-11','Specjalizacja','Moline',2760);
-INSERT INTO Kwalifikacje VALUES (1089,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-28-81','Studia wyższe licencjackie','Egg Harbor',4921);
-INSERT INTO Kwalifikacje VALUES (1090,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-27-03','Studia wyższe licencjackie','Irwindale',3977);
-INSERT INTO Kwalifikacje VALUES (1091,'Kurs specjalistyczny – Terapia bólu','10-29-93','Szkolenie','North Charleston',3433);
-INSERT INTO Kwalifikacje VALUES (1092,'Studia wyższe licencjackie','11-22-86','Specjalizacja','Green Bay',4644);
-INSERT INTO Kwalifikacje VALUES (1093,'Specjalizacja zawodowa','8-12-02','Studia doktoranckie','Artesia',2680);
-INSERT INTO Kwalifikacje VALUES (1094,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-12-13','Studia doktoranckie','Rancho Santa Margarita',3434);
-INSERT INTO Kwalifikacje VALUES (1095,'Studia pielęgniarskie','2-19-83','Kurs dokształcający','Bellingham',4051);
-INSERT INTO Kwalifikacje VALUES (1096,'Kurs specjalistyczny - Szczepienia ochronne','2-22-01','Specjalizacja','Pittsburgh',3371);
-INSERT INTO Kwalifikacje VALUES (1097,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-28-80','Specjalizacja','Little Rock',3577);
-INSERT INTO Kwalifikacje VALUES (1098,'Studia pielęgniarskie','3-31-85','Kurs kwalifikacyjny','Malibu',3265);
-INSERT INTO Kwalifikacje VALUES (1099,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-29-09','Szkolenie','McAlester',2799);
-INSERT INTO Kwalifikacje VALUES (1100,'Studia pielęgniarskie','5-9-04','Specjalizacja','Kokomo',4779);
-INSERT INTO Kwalifikacje VALUES (1101,'Studia doktoranckie','2-3-14','Kurs specjalistyczny','Baldwin Park',3413);
-INSERT INTO Kwalifikacje VALUES (1102,'Studia pielęgniarskie','8-31-04','Studia wyższe licencjackie','Oil City',3511);
-INSERT INTO Kwalifikacje VALUES (1103,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-22-81','Studia doktoranckie','Springfield',2610);
-INSERT INTO Kwalifikacje VALUES (1104,'Studia wyższe licencjackie','3-27-97','Studia doktoranckie','Muncie',3285);
-INSERT INTO Kwalifikacje VALUES (1105,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-5-15','Studia doktoranckie','Casper',2687);
-INSERT INTO Kwalifikacje VALUES (1106,'Kurs specjalistyczny – Terapia bólu','7-4-03','Kurs kwalifikacyjny','Greenville',3450);
-INSERT INTO Kwalifikacje VALUES (1107,'Kurs specjalistyczny – Terapia bólu','1-12-01','Szkolenie','Greensboro',2743);
-INSERT INTO Kwalifikacje VALUES (1108,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-9-84','Kurs specjalistyczny','Omaha',4960);
-INSERT INTO Kwalifikacje VALUES (1109,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-14-92','Kurs specjalistyczny','Texas City',3304);
-INSERT INTO Kwalifikacje VALUES (1110,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-25-00','Studia doktoranckie','Blythe',3878);
-INSERT INTO Kwalifikacje VALUES (1111,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-24-92','Szkolenie','Columbia',3416);
-INSERT INTO Kwalifikacje VALUES (1112,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-3-84','Specjalizacja','Attleboro',3601);
-INSERT INTO Kwalifikacje VALUES (1113,'Studia wyższe licencjackie','1-29-12','Studia wyższe licencjackie','San Fernando',2672);
-INSERT INTO Kwalifikacje VALUES (1114,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-13-04','Kurs dokształcający','Jeannette',3956);
-INSERT INTO Kwalifikacje VALUES (1115,'Kurs specjalistyczny – Terapia bólu','7-14-03','Kurs kwalifikacyjny','Parma',4349);
-INSERT INTO Kwalifikacje VALUES (1116,'Kurs specjalistyczny – Terapia bólu','9-20-05','Kurs specjalistyczny','Superior',3471);
-INSERT INTO Kwalifikacje VALUES (1117,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-15-10','Specjalizacja','College Park',4328);
-INSERT INTO Kwalifikacje VALUES (1118,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-17-92','Kurs kwalifikacyjny','Morrison',4394);
-INSERT INTO Kwalifikacje VALUES (1119,'Specjalizacja zawodowa','6-4-88','Kurs kwalifikacyjny','Thibodaux',3288);
-INSERT INTO Kwalifikacje VALUES (1120,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-27-02','Kurs dokształcający','Stafford',4028);
-INSERT INTO Kwalifikacje VALUES (1121,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-22-88','Kurs dokształcający','Saginaw',2826);
-INSERT INTO Kwalifikacje VALUES (1122,'Studia wyższe licencjackie','11-27-04','Kurs specjalistyczny','McAllen',3033);
-INSERT INTO Kwalifikacje VALUES (1123,'Specjalizacja zawodowa','8-25-97','Studia wyższe licencjackie','Texas City',3608);
-INSERT INTO Kwalifikacje VALUES (1124,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-19-08','Kurs dokształcający','Oro Valley',3409);
-INSERT INTO Kwalifikacje VALUES (1125,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-22-92','Studia doktoranckie','Cambridge',2531);
-INSERT INTO Kwalifikacje VALUES (1126,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-7-81','Kurs kwalifikacyjny','Pullman',4301);
-INSERT INTO Kwalifikacje VALUES (1127,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-20-11','Studia pielęgniarskie','Muskegon',3211);
-INSERT INTO Kwalifikacje VALUES (1128,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-7-15','Specjalizacja','Basin',3120);
-INSERT INTO Kwalifikacje VALUES (1129,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-25-05','Studia wyższe licencjackie','South El Monte',2868);
-INSERT INTO Kwalifikacje VALUES (1130,'Studia wyższe licencjackie','11-1-93','Kurs kwalifikacyjny','Nashua',4439);
-INSERT INTO Kwalifikacje VALUES (1131,'Studia mające zastosowanie w działalności podstawowej','10-15-81','Kurs specjalistyczny','Westlake Village',4451);
-INSERT INTO Kwalifikacje VALUES (1132,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-9-06','Kurs dokształcający','Pittsfield',3807);
-INSERT INTO Kwalifikacje VALUES (1133,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-20-03','Szkolenie','West Warwick',3675);
-INSERT INTO Kwalifikacje VALUES (1134,'Studia pielęgniarskie','4-15-07','Specjalizacja','Elsmere',3134);
-INSERT INTO Kwalifikacje VALUES (1135,'Studia doktoranckie','1-23-90','Szkolenie','Evansville',3788);
-INSERT INTO Kwalifikacje VALUES (1136,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-25-06','Kurs kwalifikacyjny','Scottsbluff',4923);
-INSERT INTO Kwalifikacje VALUES (1137,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-8-87','Szkolenie','Chicopee',3785);
-INSERT INTO Kwalifikacje VALUES (1138,'Specjalizacja zawodowa','5-10-06','Kurs dokształcający','Placentia',3741);
-INSERT INTO Kwalifikacje VALUES (1139,'Studia doktoranckie','4-11-95','Kurs dokształcający','North Pole',2697);
-INSERT INTO Kwalifikacje VALUES (1140,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-23-93','Studia doktoranckie','Truth or Consequences',3666);
-INSERT INTO Kwalifikacje VALUES (1141,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-25-02','Szkolenie','Moore',2997);
-INSERT INTO Kwalifikacje VALUES (1142,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-22-80','Studia wyższe licencjackie','Saint Albans',2677);
-INSERT INTO Kwalifikacje VALUES (1143,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-24-83','Kurs dokształcający','Wilson',4431);
-INSERT INTO Kwalifikacje VALUES (1144,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-19-14','Kurs dokształcający','La Habra Heights',3889);
-INSERT INTO Kwalifikacje VALUES (1145,'Kurs specjalistyczny - Szczepienia ochronne','9-9-86','Szkolenie','Kent',4608);
-INSERT INTO Kwalifikacje VALUES (1146,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-5-94','Kurs dokształcający','Jersey City',3778);
-INSERT INTO Kwalifikacje VALUES (1147,'Studia wyższe licencjackie','8-12-85','Kurs kwalifikacyjny','Gardner',4257);
-INSERT INTO Kwalifikacje VALUES (1148,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-4-96','Kurs kwalifikacyjny','Costa Mesa',3611);
-INSERT INTO Kwalifikacje VALUES (1149,'Specjalizacja zawodowa','5-30-89','Kurs specjalistyczny','Midland',4731);
-INSERT INTO Kwalifikacje VALUES (1150,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-19-96','Specjalizacja','Ocean City',4905);
-INSERT INTO Kwalifikacje VALUES (1151,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-19-81','Szkolenie','West Lafayette',4209);
-INSERT INTO Kwalifikacje VALUES (1152,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-25-85','Studia doktoranckie','La Puente',4116);
-INSERT INTO Kwalifikacje VALUES (1153,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-16-85','Specjalizacja','Ketchikan',4343);
-INSERT INTO Kwalifikacje VALUES (1154,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-26-05','Szkolenie','Glen Cove',3542);
-INSERT INTO Kwalifikacje VALUES (1155,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-18-84','Studia pielęgniarskie','Chicago Heights',3961);
-INSERT INTO Kwalifikacje VALUES (1156,'Studia doktoranckie','8-5-03','Kurs dokształcający','Kokomo',4091);
-INSERT INTO Kwalifikacje VALUES (1157,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-20-97','Specjalizacja','Jeffersonville',4838);
-INSERT INTO Kwalifikacje VALUES (1158,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-16-91','Szkolenie','Plantation',2926);
-INSERT INTO Kwalifikacje VALUES (1159,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-8-95','Studia doktoranckie','Fort Worth',4822);
-INSERT INTO Kwalifikacje VALUES (1160,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-24-06','Studia doktoranckie','Franklin',2954);
-INSERT INTO Kwalifikacje VALUES (1161,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-30-93','Specjalizacja','Elkhart',4159);
-INSERT INTO Kwalifikacje VALUES (1162,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-2-06','Specjalizacja','North Adams',4834);
-INSERT INTO Kwalifikacje VALUES (1163,'Studia mające zastosowanie w działalności podstawowej','8-15-00','Specjalizacja','Rye',3289);
-INSERT INTO Kwalifikacje VALUES (1164,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-1-99','Studia pielęgniarskie','Eufaula',3156);
-INSERT INTO Kwalifikacje VALUES (1165,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-20-96','Szkolenie','Gainesville',4292);
-INSERT INTO Kwalifikacje VALUES (1166,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-6-86','Kurs specjalistyczny','Corinth',2620);
-INSERT INTO Kwalifikacje VALUES (1167,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-9-10','Kurs kwalifikacyjny','Garland',4497);
-INSERT INTO Kwalifikacje VALUES (1168,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-25-02','Kurs dokształcający','Longview',4546);
-INSERT INTO Kwalifikacje VALUES (1169,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-24-07','Studia doktoranckie','Mayagüez',3510);
-INSERT INTO Kwalifikacje VALUES (1170,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-20-98','Szkolenie','Brigham City',4931);
-INSERT INTO Kwalifikacje VALUES (1171,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-26-02','Studia pielęgniarskie','Ogdensburg',2586);
-INSERT INTO Kwalifikacje VALUES (1172,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-24-87','Kurs kwalifikacyjny','Gloucester',4695);
-INSERT INTO Kwalifikacje VALUES (1173,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-4-99','Kurs dokształcający','Ketchikan',3739);
-INSERT INTO Kwalifikacje VALUES (1174,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-6-89','Studia doktoranckie','Montebello',4937);
-INSERT INTO Kwalifikacje VALUES (1175,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-16-14','Studia doktoranckie','Branson',2618);
-INSERT INTO Kwalifikacje VALUES (1176,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-9-05','Kurs kwalifikacyjny','Deadwood',4861);
-INSERT INTO Kwalifikacje VALUES (1177,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-30-95','Kurs kwalifikacyjny','Santa Barbara',2583);
-INSERT INTO Kwalifikacje VALUES (1178,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-27-92','Szkolenie','Duquesne',2720);
-INSERT INTO Kwalifikacje VALUES (1179,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-15-12','Kurs specjalistyczny','Cape May',4476);
-INSERT INTO Kwalifikacje VALUES (1180,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-30-89','Specjalizacja','Palos Verdes Estates',4651);
-INSERT INTO Kwalifikacje VALUES (1181,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-17-94','Studia wyższe licencjackie','Covina',2773);
-INSERT INTO Kwalifikacje VALUES (1182,'Studia mające zastosowanie w działalności podstawowej','10-21-93','Kurs specjalistyczny','Santa Fe Springs',4040);
-INSERT INTO Kwalifikacje VALUES (1183,'Specjalizacja zawodowa','5-21-81','Studia wyższe licencjackie','Hampton',3925);
-INSERT INTO Kwalifikacje VALUES (1184,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-30-07','Kurs dokształcający','Belpre',3463);
-INSERT INTO Kwalifikacje VALUES (1185,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-15-10','Kurs kwalifikacyjny','Sedalia',4826);
-INSERT INTO Kwalifikacje VALUES (1186,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-24-12','Szkolenie','Durango',2942);
-INSERT INTO Kwalifikacje VALUES (1187,'Studia mające zastosowanie w działalności podstawowej','1-6-08','Studia doktoranckie','Chicago Heights',3775);
-INSERT INTO Kwalifikacje VALUES (1188,'Specjalizacja zawodowa','5-1-06','Szkolenie','Kansas City',3011);
-INSERT INTO Kwalifikacje VALUES (1189,'Studia mające zastosowanie w działalności podstawowej','2-1-85','Studia pielęgniarskie','Bessemer',3580);
-INSERT INTO Kwalifikacje VALUES (1190,'Kurs specjalistyczny - Szczepienia ochronne','5-4-82','Kurs dokształcający','Jefferson City',3213);
-INSERT INTO Kwalifikacje VALUES (1191,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-16-83','Kurs dokształcający','Ponce',3552);
-INSERT INTO Kwalifikacje VALUES (1192,'Studia mające zastosowanie w działalności podstawowej','8-21-86','Kurs specjalistyczny','Dover',3080);
-INSERT INTO Kwalifikacje VALUES (1193,'Studia doktoranckie','10-23-91','Szkolenie','Kalispell',2526);
-INSERT INTO Kwalifikacje VALUES (1194,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-2-85','Kurs specjalistyczny','Thibodaux',3661);
-INSERT INTO Kwalifikacje VALUES (1195,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-13-94','Studia pielęgniarskie','Saint Joseph',2631);
-INSERT INTO Kwalifikacje VALUES (1196,'Studia pielęgniarskie','4-6-92','Kurs dokształcający','West Hartford',2750);
-INSERT INTO Kwalifikacje VALUES (1197,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-19-06','Specjalizacja','Mequon',2898);
-INSERT INTO Kwalifikacje VALUES (1198,'Studia pielęgniarskie','1-25-10','Kurs dokształcający','Batavia',4132);
-INSERT INTO Kwalifikacje VALUES (1199,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-4-99','Kurs kwalifikacyjny','Pascagoula',2549);
-INSERT INTO Kwalifikacje VALUES (1200,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-19-15','Kurs specjalistyczny','West Jordan',3295);
-INSERT INTO Kwalifikacje VALUES (1201,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-7-14','Szkolenie','Effingham',4848);
-INSERT INTO Kwalifikacje VALUES (1202,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-4-89','Studia doktoranckie','Norfolk',4007);
-INSERT INTO Kwalifikacje VALUES (1203,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-24-86','Szkolenie','Union City',4855);
-INSERT INTO Kwalifikacje VALUES (1204,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-26-93','Studia doktoranckie','Saginaw',3522);
-INSERT INTO Kwalifikacje VALUES (1205,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-5-93','Studia doktoranckie','Hickory',2861);
-INSERT INTO Kwalifikacje VALUES (1206,'Kurs specjalistyczny – Terapia bólu','3-27-87','Studia pielęgniarskie','Lake Charles',2746);
-INSERT INTO Kwalifikacje VALUES (1207,'Kurs specjalistyczny – Terapia bólu','3-27-81','Studia doktoranckie','Weirton',4830);
-INSERT INTO Kwalifikacje VALUES (1208,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-26-96','Kurs specjalistyczny','Belpre',3637);
-INSERT INTO Kwalifikacje VALUES (1209,'Kurs specjalistyczny - Szczepienia ochronne','6-7-92','Kurs specjalistyczny','Mequon',3937);
-INSERT INTO Kwalifikacje VALUES (1210,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-14-14','Kurs specjalistyczny','Gardner',3316);
-INSERT INTO Kwalifikacje VALUES (1211,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-19-92','Kurs kwalifikacyjny','La Palma',4052);
-INSERT INTO Kwalifikacje VALUES (1212,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-8-13','Kurs specjalistyczny','Redding',4322);
-INSERT INTO Kwalifikacje VALUES (1213,'Kurs specjalistyczny - Szczepienia ochronne','7-27-88','Studia pielęgniarskie','Valdosta',3739);
-INSERT INTO Kwalifikacje VALUES (1214,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-9-96','Studia doktoranckie','Alameda',4075);
-INSERT INTO Kwalifikacje VALUES (1215,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-1-94','Kurs dokształcający','Irvine',3413);
-INSERT INTO Kwalifikacje VALUES (1216,'Studia pielęgniarskie','8-9-92','Szkolenie','Walnut',3249);
-INSERT INTO Kwalifikacje VALUES (1217,'Kurs specjalistyczny – Terapia bólu','9-2-84','Specjalizacja','Biddeford',3667);
-INSERT INTO Kwalifikacje VALUES (1218,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-20-96','Studia wyższe licencjackie','Stafford',4800);
-INSERT INTO Kwalifikacje VALUES (1219,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-23-92','Studia pielęgniarskie','Shawnee',4734);
-INSERT INTO Kwalifikacje VALUES (1220,'Kurs specjalistyczny – Terapia bólu','8-25-05','Studia doktoranckie','Rolling Hills Estates',3061);
-INSERT INTO Kwalifikacje VALUES (1221,'Kurs specjalistyczny - Szczepienia ochronne','3-7-88','Kurs dokształcający','Tampa',3419);
-INSERT INTO Kwalifikacje VALUES (1222,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-29-95','Studia wyższe licencjackie','Provo',3779);
-INSERT INTO Kwalifikacje VALUES (1223,'Studia doktoranckie','3-16-93','Specjalizacja','Port Washington',4041);
-INSERT INTO Kwalifikacje VALUES (1224,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-16-82','Kurs dokształcający','Cape Coral',2789);
-INSERT INTO Kwalifikacje VALUES (1225,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-16-89','Kurs kwalifikacyjny','Cape May',4185);
-INSERT INTO Kwalifikacje VALUES (1226,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-6-07','Kurs dokształcający','Washington',3605);
-INSERT INTO Kwalifikacje VALUES (1227,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-6-04','Studia doktoranckie','Cedar City',4869);
-INSERT INTO Kwalifikacje VALUES (1228,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-15-08','Szkolenie','Saipan',4862);
-INSERT INTO Kwalifikacje VALUES (1229,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-28-89','Studia doktoranckie','Claremore',4119);
-INSERT INTO Kwalifikacje VALUES (1230,'Studia doktoranckie','2-19-02','Studia wyższe licencjackie','El Segundo',2633);
-INSERT INTO Kwalifikacje VALUES (1231,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-19-87','Kurs kwalifikacyjny','Nenana',2815);
-INSERT INTO Kwalifikacje VALUES (1232,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-7-11','Kurs kwalifikacyjny','Clarksville',3488);
-INSERT INTO Kwalifikacje VALUES (1233,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-22-97','Kurs specjalistyczny','Dearborn',4230);
-INSERT INTO Kwalifikacje VALUES (1234,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-8-15','Studia doktoranckie','Zanesville',3348);
-INSERT INTO Kwalifikacje VALUES (1235,'Studia pielęgniarskie','4-1-89','Kurs kwalifikacyjny','Cape Girardeau',4534);
-INSERT INTO Kwalifikacje VALUES (1236,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-21-95','Kurs kwalifikacyjny','Rolling Hills Estates',2935);
-INSERT INTO Kwalifikacje VALUES (1237,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-4-06','Studia doktoranckie','Pasco',3157);
-INSERT INTO Kwalifikacje VALUES (1238,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-7-10','Szkolenie','Worcester',4942);
-INSERT INTO Kwalifikacje VALUES (1239,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-20-03','Kurs kwalifikacyjny','La Mirada',4687);
-INSERT INTO Kwalifikacje VALUES (1240,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-11-01','Studia doktoranckie','Eatontown',2567);
-INSERT INTO Kwalifikacje VALUES (1241,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-27-84','Kurs kwalifikacyjny','Easthampton',3723);
-INSERT INTO Kwalifikacje VALUES (1242,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-15-08','Specjalizacja','Olean',4062);
-INSERT INTO Kwalifikacje VALUES (1243,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-15-10','Kurs dokształcający','Washington',3856);
-INSERT INTO Kwalifikacje VALUES (1244,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-3-90','Studia pielęgniarskie','Nampa',3659);
-INSERT INTO Kwalifikacje VALUES (1245,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-13-93','Specjalizacja','Grafton',4729);
-INSERT INTO Kwalifikacje VALUES (1246,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-1-93','Szkolenie','Springdale',4567);
-INSERT INTO Kwalifikacje VALUES (1247,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-19-13','Studia doktoranckie','San Luis Obispo',3937);
-INSERT INTO Kwalifikacje VALUES (1248,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-6-07','Kurs kwalifikacyjny','Aspen',3700);
-INSERT INTO Kwalifikacje VALUES (1249,'Studia doktoranckie','6-28-86','Specjalizacja','Elsmere',3183);
-INSERT INTO Kwalifikacje VALUES (1250,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-6-11','Kurs kwalifikacyjny','Springfield',2820);
-INSERT INTO Kwalifikacje VALUES (1251,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-8-08','Studia doktoranckie','Redondo Beach',2829);
-INSERT INTO Kwalifikacje VALUES (1252,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-3-03','Kurs specjalistyczny','Marshall',3493);
-INSERT INTO Kwalifikacje VALUES (1253,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-31-15','Kurs dokształcający','Melrose',3016);
-INSERT INTO Kwalifikacje VALUES (1254,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-4-06','Specjalizacja','Manhattan Beach',4195);
-INSERT INTO Kwalifikacje VALUES (1255,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-14-11','Kurs kwalifikacyjny','Huntington',3101);
-INSERT INTO Kwalifikacje VALUES (1256,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-2-12','Kurs specjalistyczny','Bridgeport',4379);
-INSERT INTO Kwalifikacje VALUES (1257,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-31-12','Kurs kwalifikacyjny','Placentia',4592);
-INSERT INTO Kwalifikacje VALUES (1258,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-8-84','Kurs kwalifikacyjny','Tacoma',2665);
-INSERT INTO Kwalifikacje VALUES (1259,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-23-13','Kurs kwalifikacyjny','Richmond',2881);
-INSERT INTO Kwalifikacje VALUES (1260,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-15-09','Specjalizacja','Leominster',4759);
-INSERT INTO Kwalifikacje VALUES (1261,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-19-85','Studia wyższe licencjackie','Coatesville',4394);
-INSERT INTO Kwalifikacje VALUES (1262,'Studia doktoranckie','9-19-85','Specjalizacja','Lubbock',3054);
-INSERT INTO Kwalifikacje VALUES (1263,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-12-96','Studia doktoranckie','Pembroke Pines',2547);
-INSERT INTO Kwalifikacje VALUES (1264,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-7-88','Kurs dokształcający','Half Moon Bay',4929);
-INSERT INTO Kwalifikacje VALUES (1265,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-20-13','Kurs specjalistyczny','Manitowoc',3955);
-INSERT INTO Kwalifikacje VALUES (1266,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-21-85','Kurs kwalifikacyjny','Somersworth',4065);
-INSERT INTO Kwalifikacje VALUES (1267,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-19-86','Kurs specjalistyczny','Rocky Mount',4284);
-INSERT INTO Kwalifikacje VALUES (1268,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-25-99','Kurs kwalifikacyjny','Newport News',4701);
-INSERT INTO Kwalifikacje VALUES (1269,'Studia doktoranckie','12-29-93','Kurs specjalistyczny','Dickinson',4421);
-INSERT INTO Kwalifikacje VALUES (1270,'Specjalizacja zawodowa','9-7-91','Kurs dokształcający','Chula Vista',4269);
-INSERT INTO Kwalifikacje VALUES (1271,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-14-07','Studia wyższe licencjackie','Taylorsville',4736);
-INSERT INTO Kwalifikacje VALUES (1272,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-6-94','Studia doktoranckie','La Crosse',4332);
-INSERT INTO Kwalifikacje VALUES (1273,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-12-89','Studia wyższe licencjackie','Jacksonville',3377);
-INSERT INTO Kwalifikacje VALUES (1274,'Studia doktoranckie','7-20-90','Specjalizacja','Clairton',4982);
-INSERT INTO Kwalifikacje VALUES (1275,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-23-80','Kurs dokształcający','Hialeah',3076);
-INSERT INTO Kwalifikacje VALUES (1276,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-4-08','Studia doktoranckie','Bend',3856);
-INSERT INTO Kwalifikacje VALUES (1277,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-20-91','Studia pielęgniarskie','Winooski',2881);
-INSERT INTO Kwalifikacje VALUES (1278,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-12-96','Studia pielęgniarskie','Cumberland',4933);
-INSERT INTO Kwalifikacje VALUES (1279,'Studia wyższe licencjackie','3-17-84','Studia wyższe licencjackie','Milford',4735);
-INSERT INTO Kwalifikacje VALUES (1280,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-9-94','Kurs specjalistyczny','Westlake Village',4295);
-INSERT INTO Kwalifikacje VALUES (1281,'Studia doktoranckie','10-19-11','Kurs dokształcający','Dodge City',4980);
-INSERT INTO Kwalifikacje VALUES (1282,'Studia pielęgniarskie','3-18-01','Kurs kwalifikacyjny','Cranston',4963);
-INSERT INTO Kwalifikacje VALUES (1283,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-12-82','Szkolenie','Glens Falls',4318);
-INSERT INTO Kwalifikacje VALUES (1284,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-5-15','Studia wyższe licencjackie','San Angelo',4597);
-INSERT INTO Kwalifikacje VALUES (1285,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-6-81','Studia wyższe licencjackie','Alamogordo',3173);
-INSERT INTO Kwalifikacje VALUES (1286,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-18-11','Kurs kwalifikacyjny','Santa Barbara',2880);
-INSERT INTO Kwalifikacje VALUES (1287,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-8-98','Studia pielęgniarskie','Falls Church',3223);
-INSERT INTO Kwalifikacje VALUES (1288,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-29-02','Specjalizacja','Bellflower',2933);
-INSERT INTO Kwalifikacje VALUES (1289,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-26-82','Kurs kwalifikacyjny','Muskegon',3301);
-INSERT INTO Kwalifikacje VALUES (1290,'Kurs specjalistyczny – Terapia bólu','12-30-80','Studia wyższe licencjackie','Niagara Falls',2876);
-INSERT INTO Kwalifikacje VALUES (1291,'Kurs specjalistyczny - Szczepienia ochronne','9-23-02','Specjalizacja','Georgetown',2624);
-INSERT INTO Kwalifikacje VALUES (1292,'Kurs dokształcający - Żywienie niemowląt i dzieci','9-4-10','Kurs kwalifikacyjny','Ventura',4510);
-INSERT INTO Kwalifikacje VALUES (1293,'Studia wyższe licencjackie','8-20-82','Specjalizacja','Lima',2525);
-INSERT INTO Kwalifikacje VALUES (1294,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-25-88','Studia pielęgniarskie','Reading',2568);
-INSERT INTO Kwalifikacje VALUES (1295,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-25-00','Specjalizacja','Thiensville',4118);
-INSERT INTO Kwalifikacje VALUES (1296,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-20-15','Kurs dokształcający','West Jordan',4134);
-INSERT INTO Kwalifikacje VALUES (1297,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-2-03','Szkolenie','Woodruff',3739);
-INSERT INTO Kwalifikacje VALUES (1298,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-21-83','Kurs dokształcający','Pendleton',4865);
-INSERT INTO Kwalifikacje VALUES (1299,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-3-88','Szkolenie','Spokane Valley',2967);
-INSERT INTO Kwalifikacje VALUES (1300,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-30-90','Studia doktoranckie','Glendale',4943);
-INSERT INTO Kwalifikacje VALUES (1301,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-11-87','Specjalizacja','Harrisburg',3373);
-INSERT INTO Kwalifikacje VALUES (1302,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-22-02','Kurs kwalifikacyjny','Boulder City',4094);
-INSERT INTO Kwalifikacje VALUES (1303,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-30-95','Kurs dokształcający','Delta Junction',3164);
-INSERT INTO Kwalifikacje VALUES (1304,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-17-91','Kurs kwalifikacyjny','Gold Beach',3591);
-INSERT INTO Kwalifikacje VALUES (1305,'Studia pielęgniarskie','11-27-92','Specjalizacja','Asbury Park',4468);
-INSERT INTO Kwalifikacje VALUES (1306,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-14-99','Studia doktoranckie','Carolina',4372);
-INSERT INTO Kwalifikacje VALUES (1307,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-5-10','Szkolenie','Lubbock',3976);
-INSERT INTO Kwalifikacje VALUES (1308,'Kurs specjalistyczny – Terapia bólu','1-23-89','Kurs specjalistyczny','Nenana',2510);
-INSERT INTO Kwalifikacje VALUES (1309,'Studia wyższe licencjackie','2-7-94','Szkolenie','Salinas',2629);
-INSERT INTO Kwalifikacje VALUES (1310,'Studia doktoranckie','2-28-03','Kurs kwalifikacyjny','Milford',4894);
-INSERT INTO Kwalifikacje VALUES (1311,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-20-99','Kurs dokształcający','Eau Claire',3812);
-INSERT INTO Kwalifikacje VALUES (1312,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-28-14','Kurs dokształcający','Areceibo',2853);
-INSERT INTO Kwalifikacje VALUES (1313,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-12-91','Kurs kwalifikacyjny','Vail',2906);
-INSERT INTO Kwalifikacje VALUES (1314,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-21-88','Specjalizacja','Salisbury',3510);
-INSERT INTO Kwalifikacje VALUES (1315,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-3-15','Szkolenie','San Antonio',2983);
-INSERT INTO Kwalifikacje VALUES (1316,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-8-00','Studia doktoranckie','Vallejo',3058);
-INSERT INTO Kwalifikacje VALUES (1317,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-13-86','Studia doktoranckie','Orangeburg',4642);
-INSERT INTO Kwalifikacje VALUES (1318,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-9-91','Studia doktoranckie','New Haven',3761);
-INSERT INTO Kwalifikacje VALUES (1319,'Studia mające zastosowanie w działalności podstawowej','9-12-87','Kurs specjalistyczny','Durham',4986);
-INSERT INTO Kwalifikacje VALUES (1320,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-10-04','Specjalizacja','Mobile',3918);
-INSERT INTO Kwalifikacje VALUES (1321,'Studia doktoranckie','3-10-94','Studia wyższe licencjackie','Lynn',3930);
-INSERT INTO Kwalifikacje VALUES (1322,'Studia doktoranckie','4-8-95','Specjalizacja','Santa Monica',3338);
-INSERT INTO Kwalifikacje VALUES (1323,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-14-02','Specjalizacja','Santa Cruz',4344);
-INSERT INTO Kwalifikacje VALUES (1324,'Studia mające zastosowanie w działalności podstawowej','6-16-07','Szkolenie','Murfreesboro',4498);
-INSERT INTO Kwalifikacje VALUES (1325,'Studia mające zastosowanie w działalności podstawowej','4-4-85','Studia pielęgniarskie','Laguna Niguel',4548);
-INSERT INTO Kwalifikacje VALUES (1326,'Studia pielęgniarskie','8-25-02','Studia doktoranckie','Provo',4441);
-INSERT INTO Kwalifikacje VALUES (1327,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-9-15','Szkolenie','Lawton',4836);
-INSERT INTO Kwalifikacje VALUES (1328,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-1-16','Specjalizacja','Plymouth',2953);
-INSERT INTO Kwalifikacje VALUES (1329,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-15-85','Studia pielęgniarskie','Sierra Vista',4513);
-INSERT INTO Kwalifikacje VALUES (1330,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-11-09','Studia doktoranckie','Statesboro',4316);
-INSERT INTO Kwalifikacje VALUES (1331,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-20-99','Studia doktoranckie','Watervliet',3370);
-INSERT INTO Kwalifikacje VALUES (1332,'Studia wyższe licencjackie','4-14-86','Studia doktoranckie','Saginaw',4884);
-INSERT INTO Kwalifikacje VALUES (1333,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-22-96','Studia pielęgniarskie','Worcester',4197);
-INSERT INTO Kwalifikacje VALUES (1334,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-7-16','Studia doktoranckie','Hawthorne',3027);
-INSERT INTO Kwalifikacje VALUES (1335,'Studia wyższe licencjackie','11-18-15','Studia pielęgniarskie','Concord',4307);
-INSERT INTO Kwalifikacje VALUES (1336,'Studia mające zastosowanie w działalności podstawowej','5-15-04','Studia doktoranckie','Lakeland',4058);
-INSERT INTO Kwalifikacje VALUES (1337,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-28-09','Szkolenie','Aliso Viejo',4806);
-INSERT INTO Kwalifikacje VALUES (1338,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-16-91','Studia doktoranckie','Vicksburg',2782);
-INSERT INTO Kwalifikacje VALUES (1339,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-28-02','Studia wyższe licencjackie','Branson',3777);
-INSERT INTO Kwalifikacje VALUES (1340,'Kurs specjalistyczny - Szczepienia ochronne','11-22-07','Specjalizacja','Murfreesboro',3442);
-INSERT INTO Kwalifikacje VALUES (1341,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-11-93','Studia pielęgniarskie','Charlotte Amalie',4818);
-INSERT INTO Kwalifikacje VALUES (1342,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-2-16','Studia pielęgniarskie','Santa Clarita',4066);
-INSERT INTO Kwalifikacje VALUES (1343,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-1-94','Kurs specjalistyczny','Dixon',2554);
-INSERT INTO Kwalifikacje VALUES (1344,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-18-09','Kurs specjalistyczny','Odessa',4288);
-INSERT INTO Kwalifikacje VALUES (1345,'Specjalizacja zawodowa','10-18-90','Studia wyższe licencjackie','Gary',4161);
-INSERT INTO Kwalifikacje VALUES (1346,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-26-99','Kurs dokształcający','Pullman',2765);
-INSERT INTO Kwalifikacje VALUES (1347,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-29-95','Kurs kwalifikacyjny','Astoria',4252);
-INSERT INTO Kwalifikacje VALUES (1348,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-4-10','Szkolenie','Valencia',3840);
-INSERT INTO Kwalifikacje VALUES (1349,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-14-90','Kurs kwalifikacyjny','Lake Forest',2699);
-INSERT INTO Kwalifikacje VALUES (1350,'Kurs specjalistyczny – Terapia bólu','10-11-07','Kurs specjalistyczny','Passaic',3233);
-INSERT INTO Kwalifikacje VALUES (1351,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-1-06','Specjalizacja','Fallon',4410);
-INSERT INTO Kwalifikacje VALUES (1352,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-29-82','Specjalizacja','Prescott',3849);
-INSERT INTO Kwalifikacje VALUES (1353,'Studia pielęgniarskie','8-11-09','Studia doktoranckie','Astoria',3040);
-INSERT INTO Kwalifikacje VALUES (1354,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-8-11','Specjalizacja','South Bend',4211);
-INSERT INTO Kwalifikacje VALUES (1355,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-11-09','Specjalizacja','Las Vegas',4312);
-INSERT INTO Kwalifikacje VALUES (1356,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-6-12','Specjalizacja','Frederick',3117);
-INSERT INTO Kwalifikacje VALUES (1357,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-19-16','Szkolenie','Chicopee',3604);
-INSERT INTO Kwalifikacje VALUES (1358,'Studia doktoranckie','9-9-84','Kurs specjalistyczny','Blacksburg',4678);
-INSERT INTO Kwalifikacje VALUES (1359,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-27-05','Studia doktoranckie','New Castle',3958);
-INSERT INTO Kwalifikacje VALUES (1360,'Studia wyższe licencjackie','5-2-86','Studia pielęgniarskie','Walla Walla',4376);
-INSERT INTO Kwalifikacje VALUES (1361,'Specjalizacja zawodowa','5-3-12','Kurs kwalifikacyjny','Sierra Vista',2992);
-INSERT INTO Kwalifikacje VALUES (1362,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-31-96','Kurs kwalifikacyjny','Corpus Christi',2778);
-INSERT INTO Kwalifikacje VALUES (1363,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-28-99','Studia pielęgniarskie','Cudahy',4553);
-INSERT INTO Kwalifikacje VALUES (1364,'Kurs specjalistyczny – Terapia bólu','1-12-93','Studia wyższe licencjackie','Elko',3009);
-INSERT INTO Kwalifikacje VALUES (1365,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-6-01','Kurs specjalistyczny','Asheville',4138);
-INSERT INTO Kwalifikacje VALUES (1366,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-7-98','Kurs dokształcający','Marshall',2980);
-INSERT INTO Kwalifikacje VALUES (1367,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-10-96','Kurs specjalistyczny','Vacaville',2782);
-INSERT INTO Kwalifikacje VALUES (1368,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-20-13','Studia doktoranckie','Vancouver',4823);
-INSERT INTO Kwalifikacje VALUES (1369,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-26-08','Szkolenie','Mayagüez',4405);
-INSERT INTO Kwalifikacje VALUES (1370,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-13-94','Szkolenie','Meridian',4248);
-INSERT INTO Kwalifikacje VALUES (1371,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-18-00','Studia wyższe licencjackie','Holyoke',3980);
-INSERT INTO Kwalifikacje VALUES (1372,'Studia mające zastosowanie w działalności podstawowej','1-28-11','Studia pielęgniarskie','Columbus',3881);
-INSERT INTO Kwalifikacje VALUES (1373,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-25-12','Studia doktoranckie','Springfield',4445);
-INSERT INTO Kwalifikacje VALUES (1374,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-6-82','Studia doktoranckie','Laurel',3926);
-INSERT INTO Kwalifikacje VALUES (1375,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-30-00','Kurs dokształcający','Clarksville',3317);
-INSERT INTO Kwalifikacje VALUES (1376,'Studia wyższe licencjackie','8-11-87','Kurs kwalifikacyjny','Green Bay',3226);
-INSERT INTO Kwalifikacje VALUES (1377,'Studia pielęgniarskie','11-30-07','Kurs dokształcający','Fallon',3626);
-INSERT INTO Kwalifikacje VALUES (1378,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-23-93','Szkolenie','Alpharetta',3606);
-INSERT INTO Kwalifikacje VALUES (1379,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-23-09','Kurs specjalistyczny','Easthampton',4387);
-INSERT INTO Kwalifikacje VALUES (1380,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-18-02','Studia wyższe licencjackie','Valparaiso',3452);
-INSERT INTO Kwalifikacje VALUES (1381,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-17-08','Kurs dokształcający','Roanoke',3988);
-INSERT INTO Kwalifikacje VALUES (1382,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-1-95','Kurs specjalistyczny','Menomonee Falls',4028);
-INSERT INTO Kwalifikacje VALUES (1383,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-5-08','Kurs kwalifikacyjny','Latrobe',3574);
-INSERT INTO Kwalifikacje VALUES (1384,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-7-04','Specjalizacja','Eau Claire',3148);
-INSERT INTO Kwalifikacje VALUES (1385,'Kurs specjalistyczny – Terapia bólu','10-26-13','Kurs dokształcający','Bandon',4983);
-INSERT INTO Kwalifikacje VALUES (1386,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-30-83','Studia doktoranckie','Dearborn',3905);
-INSERT INTO Kwalifikacje VALUES (1387,'Kurs specjalistyczny - Szczepienia ochronne','11-22-01','Studia pielęgniarskie','Murfreesboro',4721);
-INSERT INTO Kwalifikacje VALUES (1388,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-9-84','Specjalizacja','Huntington Beach',3997);
-INSERT INTO Kwalifikacje VALUES (1389,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-18-02','Kurs specjalistyczny','Newport News',2512);
-INSERT INTO Kwalifikacje VALUES (1390,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-8-97','Szkolenie','Hialeah',2612);
-INSERT INTO Kwalifikacje VALUES (1391,'Studia mające zastosowanie w działalności podstawowej','12-3-12','Kurs kwalifikacyjny','Eden Prairie',3455);
-INSERT INTO Kwalifikacje VALUES (1392,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-30-15','Kurs specjalistyczny','Ithaca',4835);
-INSERT INTO Kwalifikacje VALUES (1393,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-19-82','Kurs specjalistyczny','Logan',4752);
-INSERT INTO Kwalifikacje VALUES (1394,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-17-02','Studia doktoranckie','Jamestown',4274);
-INSERT INTO Kwalifikacje VALUES (1395,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-1-88','Kurs dokształcający','Inglewood',3808);
-INSERT INTO Kwalifikacje VALUES (1396,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-29-84','Specjalizacja','Albany',2935);
-INSERT INTO Kwalifikacje VALUES (1397,'Studia pielęgniarskie','1-16-96','Studia wyższe licencjackie','Clearwater',3366);
-INSERT INTO Kwalifikacje VALUES (1398,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-11-15','Kurs specjalistyczny','Orange',4683);
-INSERT INTO Kwalifikacje VALUES (1399,'Kurs specjalistyczny - Szczepienia ochronne','10-19-01','Specjalizacja','Honolulu',3884);
-INSERT INTO Kwalifikacje VALUES (1400,'Kurs specjalistyczny - Szczepienia ochronne','4-3-94','Studia doktoranckie','San Juan Capistrano',4905);
-INSERT INTO Kwalifikacje VALUES (1401,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-26-13','Studia pielęgniarskie','Grand Forks',4949);
-INSERT INTO Kwalifikacje VALUES (1402,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-22-88','Studia pielęgniarskie','Fort Dodge',2737);
-INSERT INTO Kwalifikacje VALUES (1403,'Kurs specjalistyczny – Terapia bólu','9-15-15','Specjalizacja','Cairo',4831);
-INSERT INTO Kwalifikacje VALUES (1404,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-9-85','Kurs kwalifikacyjny','Moreno Valley',2533);
-INSERT INTO Kwalifikacje VALUES (1405,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-26-15','Szkolenie','Northampton',4586);
-INSERT INTO Kwalifikacje VALUES (1406,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-8-02','Kurs kwalifikacyjny','Janesville',3255);
-INSERT INTO Kwalifikacje VALUES (1407,'Studia wyższe licencjackie','6-12-01','Kurs specjalistyczny','Moline',2664);
-INSERT INTO Kwalifikacje VALUES (1408,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-25-88','Studia wyższe licencjackie','Easthampton',4207);
-INSERT INTO Kwalifikacje VALUES (1409,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-26-04','Studia pielęgniarskie','New Kensington',2932);
-INSERT INTO Kwalifikacje VALUES (1410,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-17-15','Kurs kwalifikacyjny','Wilmington',3832);
-INSERT INTO Kwalifikacje VALUES (1411,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-20-05','Studia doktoranckie','Anderson',4106);
-INSERT INTO Kwalifikacje VALUES (1412,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-8-80','Kurs specjalistyczny','West Memphis',3880);
-INSERT INTO Kwalifikacje VALUES (1413,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-1-99','Studia doktoranckie','Somersworth',3081);
-INSERT INTO Kwalifikacje VALUES (1414,'Studia mające zastosowanie w działalności podstawowej','12-17-08','Studia wyższe licencjackie','Aliquippa',4655);
-INSERT INTO Kwalifikacje VALUES (1415,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-7-94','Kurs dokształcający','Gettysburg',2519);
-INSERT INTO Kwalifikacje VALUES (1416,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-18-11','Szkolenie','Portsmouth',4392);
-INSERT INTO Kwalifikacje VALUES (1417,'Kurs specjalistyczny – Terapia bólu','4-25-08','Studia pielęgniarskie','Layton',2978);
-INSERT INTO Kwalifikacje VALUES (1418,'Kurs specjalistyczny – Terapia bólu','2-21-86','Studia pielęgniarskie','Fairfield',3547);
-INSERT INTO Kwalifikacje VALUES (1419,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-14-97','Kurs kwalifikacyjny','Olympia',3089);
-INSERT INTO Kwalifikacje VALUES (1420,'Kurs specjalistyczny - Szczepienia ochronne','9-6-99','Studia wyższe licencjackie','Mechanicville',2601);
-INSERT INTO Kwalifikacje VALUES (1421,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-4-86','Kurs kwalifikacyjny','San Francisco',3565);
-INSERT INTO Kwalifikacje VALUES (1422,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-30-00','Studia wyższe licencjackie','Charleston',3140);
-INSERT INTO Kwalifikacje VALUES (1423,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-16-88','Szkolenie','Warwick',4217);
-INSERT INTO Kwalifikacje VALUES (1424,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-26-90','Studia wyższe licencjackie','Shawnee',3989);
-INSERT INTO Kwalifikacje VALUES (1425,'Specjalizacja zawodowa','8-17-12','Studia doktoranckie','Mankato',4256);
-INSERT INTO Kwalifikacje VALUES (1426,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-10-07','Kurs specjalistyczny','DeKalb',3833);
-INSERT INTO Kwalifikacje VALUES (1427,'Kurs specjalistyczny - Szczepienia ochronne','7-10-87','Studia doktoranckie','Indianapolis',2690);
-INSERT INTO Kwalifikacje VALUES (1428,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-30-89','Kurs specjalistyczny','Franklin',3815);
-INSERT INTO Kwalifikacje VALUES (1429,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-16-93','Studia wyższe licencjackie','Santa Cruz',3801);
-INSERT INTO Kwalifikacje VALUES (1430,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-22-96','Studia doktoranckie','Calumet City',2915);
-INSERT INTO Kwalifikacje VALUES (1431,'Studia mające zastosowanie w działalności podstawowej','9-1-80','Studia pielęgniarskie','Rocky Mount',3962);
-INSERT INTO Kwalifikacje VALUES (1432,'Studia mające zastosowanie w działalności podstawowej','7-26-82','Kurs kwalifikacyjny','Berlin',4277);
-INSERT INTO Kwalifikacje VALUES (1433,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-25-96','Szkolenie','Gadsden',3195);
-INSERT INTO Kwalifikacje VALUES (1434,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-7-86','Studia doktoranckie','Lowell',2666);
-INSERT INTO Kwalifikacje VALUES (1435,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-23-03','Studia pielęgniarskie','Cedar Falls',3611);
-INSERT INTO Kwalifikacje VALUES (1436,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-13-03','Szkolenie','Champaign',2900);
-INSERT INTO Kwalifikacje VALUES (1437,'Studia doktoranckie','1-22-89','Kurs kwalifikacyjny','Fontana',4559);
-INSERT INTO Kwalifikacje VALUES (1438,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-11-89','Specjalizacja','Franklin',4715);
-INSERT INTO Kwalifikacje VALUES (1439,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-17-15','Szkolenie','Moline',4366);
-INSERT INTO Kwalifikacje VALUES (1440,'Studia doktoranckie','11-10-06','Studia wyższe licencjackie','New Rochelle',4315);
-INSERT INTO Kwalifikacje VALUES (1441,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-21-02','Kurs kwalifikacyjny','Lahaina',3783);
-INSERT INTO Kwalifikacje VALUES (1442,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-29-80','Specjalizacja','Tucson',4050);
-INSERT INTO Kwalifikacje VALUES (1443,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-9-93','Szkolenie','Savannah',4791);
-INSERT INTO Kwalifikacje VALUES (1444,'Kurs specjalistyczny - Szczepienia ochronne','1-3-08','Kurs kwalifikacyjny','Buena Park',4198);
-INSERT INTO Kwalifikacje VALUES (1445,'Studia wyższe licencjackie','7-7-13','Kurs kwalifikacyjny','East Hartford',4729);
-INSERT INTO Kwalifikacje VALUES (1446,'Studia wyższe licencjackie','6-14-84','Specjalizacja','Bell Gardens',4471);
-INSERT INTO Kwalifikacje VALUES (1447,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-29-91','Specjalizacja','San Bernardino',3311);
-INSERT INTO Kwalifikacje VALUES (1448,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-26-04','Studia pielęgniarskie','Lawrenceville',3910);
-INSERT INTO Kwalifikacje VALUES (1449,'Specjalizacja zawodowa','6-1-12','Kurs dokształcający','Winnemucca',2609);
-INSERT INTO Kwalifikacje VALUES (1450,'Studia wyższe licencjackie','3-11-07','Studia pielęgniarskie','Olympia',3542);
-INSERT INTO Kwalifikacje VALUES (1451,'Kurs specjalistyczny - Szczepienia ochronne','4-23-14','Studia wyższe licencjackie','West Springfield',2595);
-INSERT INTO Kwalifikacje VALUES (1452,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-5-14','Kurs dokształcający','Monongahela',3940);
-INSERT INTO Kwalifikacje VALUES (1453,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-8-80','Studia doktoranckie','Charlottesville',2702);
-INSERT INTO Kwalifikacje VALUES (1454,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-12-95','Studia doktoranckie','Plantation',4273);
-INSERT INTO Kwalifikacje VALUES (1455,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-21-10','Szkolenie','Cicero',3609);
-INSERT INTO Kwalifikacje VALUES (1456,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-11-01','Szkolenie','Riverton',4541);
-INSERT INTO Kwalifikacje VALUES (1457,'Studia mające zastosowanie w działalności podstawowej','9-9-89','Specjalizacja','Sunnyvale',4692);
-INSERT INTO Kwalifikacje VALUES (1458,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-5-98','Szkolenie','Little Rock',4453);
-INSERT INTO Kwalifikacje VALUES (1459,'Studia wyższe licencjackie','3-4-14','Studia pielęgniarskie','Vernon',2523);
-INSERT INTO Kwalifikacje VALUES (1460,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-2-06','Kurs kwalifikacyjny','Urbana',4312);
-INSERT INTO Kwalifikacje VALUES (1461,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-27-15','Studia wyższe licencjackie','Powell',3815);
-INSERT INTO Kwalifikacje VALUES (1462,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-5-91','Studia pielęgniarskie','Malibu',4812);
-INSERT INTO Kwalifikacje VALUES (1463,'Studia doktoranckie','5-25-05','Szkolenie','Forest Lake',4090);
-INSERT INTO Kwalifikacje VALUES (1464,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-16-83','Studia pielęgniarskie','Atwater',4985);
-INSERT INTO Kwalifikacje VALUES (1465,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-11-96','Specjalizacja','Leominster',3889);
-INSERT INTO Kwalifikacje VALUES (1466,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-1-82','Kurs dokształcający','Manitowoc',4207);
-INSERT INTO Kwalifikacje VALUES (1467,'Studia pielęgniarskie','5-15-02','Studia wyższe licencjackie','Eau Claire',3942);
-INSERT INTO Kwalifikacje VALUES (1468,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-28-91','Studia wyższe licencjackie','La Puente',2521);
-INSERT INTO Kwalifikacje VALUES (1469,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-8-07','Kurs specjalistyczny','Greensburg',3659);
-INSERT INTO Kwalifikacje VALUES (1470,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-25-95','Szkolenie','Binghamton',4360);
-INSERT INTO Kwalifikacje VALUES (1471,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-5-04','Kurs dokształcający','Aurora',2538);
-INSERT INTO Kwalifikacje VALUES (1472,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-27-85','Studia wyższe licencjackie','Williamsport',3729);
-INSERT INTO Kwalifikacje VALUES (1473,'Kurs specjalistyczny - Szczepienia ochronne','12-29-92','Specjalizacja','Calumet City',2644);
-INSERT INTO Kwalifikacje VALUES (1474,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-10-92','Szkolenie','Phoenix',5000);
-INSERT INTO Kwalifikacje VALUES (1475,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-20-80','Studia wyższe licencjackie','Clairton',2902);
-INSERT INTO Kwalifikacje VALUES (1476,'Studia doktoranckie','9-22-87','Szkolenie','Aguadilla',4507);
-INSERT INTO Kwalifikacje VALUES (1477,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-22-15','Kurs specjalistyczny','New Albany',4833);
-INSERT INTO Kwalifikacje VALUES (1478,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-14-94','Studia pielęgniarskie','Lowell',4307);
-INSERT INTO Kwalifikacje VALUES (1479,'Kurs specjalistyczny - Szczepienia ochronne','2-21-98','Specjalizacja','Auburn',3928);
-INSERT INTO Kwalifikacje VALUES (1480,'Kurs specjalistyczny – Terapia bólu','12-7-96','Studia pielęgniarskie','Bentonville',4550);
-INSERT INTO Kwalifikacje VALUES (1481,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-19-84','Specjalizacja','Ogdensburg',3990);
-INSERT INTO Kwalifikacje VALUES (1482,'Kurs specjalistyczny – Terapia bólu','12-15-06','Studia pielęgniarskie','Annapolis',4028);
-INSERT INTO Kwalifikacje VALUES (1483,'Studia mające zastosowanie w działalności podstawowej','2-2-10','Studia pielęgniarskie','Cape Girardeau',3246);
-INSERT INTO Kwalifikacje VALUES (1484,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-26-95','Specjalizacja','Las Cruces',2638);
-INSERT INTO Kwalifikacje VALUES (1485,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-25-92','Specjalizacja','Blythe',4771);
-INSERT INTO Kwalifikacje VALUES (1486,'Studia mające zastosowanie w działalności podstawowej','1-10-00','Studia pielęgniarskie','Galesburg',2879);
-INSERT INTO Kwalifikacje VALUES (1487,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-9-13','Kurs specjalistyczny','Cranston',4959);
-INSERT INTO Kwalifikacje VALUES (1488,'Kurs dokształcający - Żywienie niemowląt i dzieci','9-19-87','Specjalizacja','Eufaula',2834);
-INSERT INTO Kwalifikacje VALUES (1489,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-20-90','Kurs kwalifikacyjny','Chino Hills',3951);
-INSERT INTO Kwalifikacje VALUES (1490,'Specjalizacja zawodowa','4-19-95','Specjalizacja','El Cerrito',4538);
-INSERT INTO Kwalifikacje VALUES (1491,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-14-85','Kurs specjalistyczny','Staunton',4087);
-INSERT INTO Kwalifikacje VALUES (1492,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-26-85','Kurs kwalifikacyjny','Knoxville',4969);
-INSERT INTO Kwalifikacje VALUES (1493,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-24-95','Kurs kwalifikacyjny','West Hollywood',3848);
-INSERT INTO Kwalifikacje VALUES (1494,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-4-02','Kurs specjalistyczny','Johnson City',3695);
-INSERT INTO Kwalifikacje VALUES (1495,'Studia mające zastosowanie w działalności podstawowej','2-24-91','Kurs kwalifikacyjny','East Hartford',4885);
-INSERT INTO Kwalifikacje VALUES (1496,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-10-88','Specjalizacja','Sandy Springs',2998);
-INSERT INTO Kwalifikacje VALUES (1497,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-1-15','Studia wyższe licencjackie','Sugar Land',4666);
-INSERT INTO Kwalifikacje VALUES (1498,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-27-98','Studia doktoranckie','Berkeley',4860);
-INSERT INTO Kwalifikacje VALUES (1499,'Specjalizacja zawodowa','8-9-04','Szkolenie','York',3468);
-INSERT INTO Kwalifikacje VALUES (1500,'Kurs specjalistyczny – Terapia bólu','2-12-06','Szkolenie','Fall River',4589);
-INSERT INTO Kwalifikacje VALUES (1501,'Specjalizacja zawodowa','3-1-97','Studia pielęgniarskie','International Falls',2886);
-INSERT INTO Kwalifikacje VALUES (1502,'Studia mające zastosowanie w działalności podstawowej','8-26-90','Studia pielęgniarskie','Manhattan',3616);
-INSERT INTO Kwalifikacje VALUES (1503,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-3-92','Kurs kwalifikacyjny','Utica',4501);
-INSERT INTO Kwalifikacje VALUES (1504,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-17-11','Studia wyższe licencjackie','Ventura',4637);
-INSERT INTO Kwalifikacje VALUES (1505,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-6-99','Studia doktoranckie','Areceibo',4395);
-INSERT INTO Kwalifikacje VALUES (1506,'Studia wyższe licencjackie','9-21-04','Specjalizacja','Lubbock',2765);
-INSERT INTO Kwalifikacje VALUES (1507,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-2-84','Studia doktoranckie','Fort Dodge',4535);
-INSERT INTO Kwalifikacje VALUES (1508,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-28-87','Studia wyższe licencjackie','Passaic',2973);
-INSERT INTO Kwalifikacje VALUES (1509,'Kurs specjalistyczny – Terapia bólu','12-6-13','Studia doktoranckie','Jackson',3614);
-INSERT INTO Kwalifikacje VALUES (1510,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-22-01','Studia pielęgniarskie','Shreveport',3958);
-INSERT INTO Kwalifikacje VALUES (1511,'Studia pielęgniarskie','1-1-97','Kurs dokształcający','Charleston',2789);
-INSERT INTO Kwalifikacje VALUES (1512,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-24-08','Kurs dokształcający','Portsmouth',4690);
-INSERT INTO Kwalifikacje VALUES (1513,'Studia pielęgniarskie','7-22-05','Specjalizacja','Davis',3287);
-INSERT INTO Kwalifikacje VALUES (1514,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-3-94','Kurs specjalistyczny','Agoura Hills',3894);
-INSERT INTO Kwalifikacje VALUES (1515,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-5-95','Specjalizacja','Pittsfield',4726);
-INSERT INTO Kwalifikacje VALUES (1516,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-8-09','Studia pielęgniarskie','Kingsport',4884);
-INSERT INTO Kwalifikacje VALUES (1517,'Specjalizacja zawodowa','6-23-87','Specjalizacja','Sugar Land',3035);
-INSERT INTO Kwalifikacje VALUES (1518,'Kurs specjalistyczny - Szczepienia ochronne','1-24-12','Kurs dokształcający','Glendale',3011);
-INSERT INTO Kwalifikacje VALUES (1519,'Kurs specjalistyczny – Terapia bólu','9-21-06','Studia pielęgniarskie','Sandy',3427);
-INSERT INTO Kwalifikacje VALUES (1520,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-23-96','Szkolenie','Peoria',3186);
-INSERT INTO Kwalifikacje VALUES (1521,'Studia pielęgniarskie','7-27-95','Specjalizacja','Bend',2958);
-INSERT INTO Kwalifikacje VALUES (1522,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-4-04','Specjalizacja','Aurora',3699);
-INSERT INTO Kwalifikacje VALUES (1523,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-16-96','Specjalizacja','Irwindale',3087);
-INSERT INTO Kwalifikacje VALUES (1524,'Studia pielęgniarskie','11-20-04','Specjalizacja','Danville',4670);
-INSERT INTO Kwalifikacje VALUES (1525,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-21-12','Studia doktoranckie','Newcastle',4583);
-INSERT INTO Kwalifikacje VALUES (1526,'Kurs specjalistyczny - Szczepienia ochronne','4-14-84','Specjalizacja','Kemmerer',2547);
-INSERT INTO Kwalifikacje VALUES (1527,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-2-01','Studia doktoranckie','Council Bluffs',2593);
-INSERT INTO Kwalifikacje VALUES (1528,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-6-80','Specjalizacja','Yonkers',3152);
-INSERT INTO Kwalifikacje VALUES (1529,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-8-98','Kurs dokształcający','San Juan',3898);
-INSERT INTO Kwalifikacje VALUES (1530,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-1-92','Studia doktoranckie','Frisco',4934);
-INSERT INTO Kwalifikacje VALUES (1531,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-21-85','Kurs kwalifikacyjny','Dickinson',4444);
-INSERT INTO Kwalifikacje VALUES (1532,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-15-92','Szkolenie','West Bend',4816);
-INSERT INTO Kwalifikacje VALUES (1533,'Kurs specjalistyczny - Szczepienia ochronne','4-25-98','Studia doktoranckie','Eugene',4516);
-INSERT INTO Kwalifikacje VALUES (1534,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-15-88','Studia pielęgniarskie','Palos Verdes Estates',2633);
-INSERT INTO Kwalifikacje VALUES (1535,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-9-06','Kurs specjalistyczny','Sturgis',4778);
-INSERT INTO Kwalifikacje VALUES (1536,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-6-86','Studia doktoranckie','Madison',2908);
-INSERT INTO Kwalifikacje VALUES (1537,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-18-95','Szkolenie','Springfield',2806);
-INSERT INTO Kwalifikacje VALUES (1538,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-24-88','Studia doktoranckie','Frederick',2953);
-INSERT INTO Kwalifikacje VALUES (1539,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-10-99','Kurs dokształcający','Princeton',2615);
-INSERT INTO Kwalifikacje VALUES (1540,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-30-06','Kurs kwalifikacyjny','Sutter Creek',3533);
-INSERT INTO Kwalifikacje VALUES (1541,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-12-12','Kurs specjalistyczny','Minneapolis',4169);
-INSERT INTO Kwalifikacje VALUES (1542,'Studia pielęgniarskie','3-19-94','Studia pielęgniarskie','Philadelphia',4678);
-INSERT INTO Kwalifikacje VALUES (1543,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-14-04','Studia pielęgniarskie','Montebello',3271);
-INSERT INTO Kwalifikacje VALUES (1544,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-18-09','Kurs specjalistyczny','Frisco',4354);
-INSERT INTO Kwalifikacje VALUES (1545,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-30-91','Kurs dokształcający','Decatur',3209);
-INSERT INTO Kwalifikacje VALUES (1546,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','2-12-16','Kurs dokształcający','East Hartford',2882);
-INSERT INTO Kwalifikacje VALUES (1547,'Kurs specjalistyczny - Szczepienia ochronne','11-16-83','Kurs specjalistyczny','Nashville',4530);
-INSERT INTO Kwalifikacje VALUES (1548,'Studia mające zastosowanie w działalności podstawowej','11-19-15','Kurs dokształcający','Port Arthur',3877);
-INSERT INTO Kwalifikacje VALUES (1549,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-15-92','Kurs specjalistyczny','Lancaster',2808);
-INSERT INTO Kwalifikacje VALUES (1550,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-4-14','Szkolenie','Davenport',2834);
-INSERT INTO Kwalifikacje VALUES (1551,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-8-83','Kurs kwalifikacyjny','Lufkin',3560);
-INSERT INTO Kwalifikacje VALUES (1552,'Studia doktoranckie','3-13-89','Szkolenie','Natchitoches',4178);
-INSERT INTO Kwalifikacje VALUES (1553,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-19-10','Kurs specjalistyczny','Walla Walla',4992);
-INSERT INTO Kwalifikacje VALUES (1554,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-16-07','Szkolenie','Santa Monica',4318);
-INSERT INTO Kwalifikacje VALUES (1555,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-27-02','Studia doktoranckie','Davis',4469);
-INSERT INTO Kwalifikacje VALUES (1556,'Studia pielęgniarskie','11-22-88','Studia doktoranckie','DuBois',4652);
-INSERT INTO Kwalifikacje VALUES (1557,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-14-11','Szkolenie','Denver',3784);
-INSERT INTO Kwalifikacje VALUES (1558,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-23-81','Studia doktoranckie','Santa Clarita',4970);
-INSERT INTO Kwalifikacje VALUES (1559,'Studia wyższe licencjackie','8-27-96','Szkolenie','Rhinelander',4056);
-INSERT INTO Kwalifikacje VALUES (1560,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-20-01','Studia wyższe licencjackie','Revere',2644);
-INSERT INTO Kwalifikacje VALUES (1561,'Kurs specjalistyczny – Terapia bólu','6-26-03','Studia doktoranckie','Commerce',4633);
-INSERT INTO Kwalifikacje VALUES (1562,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-31-90','Kurs kwalifikacyjny','Richmond',4003);
-INSERT INTO Kwalifikacje VALUES (1563,'Studia doktoranckie','2-10-13','Specjalizacja','Biloxi',3495);
-INSERT INTO Kwalifikacje VALUES (1564,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-27-01','Kurs specjalistyczny','Anaconda',4339);
-INSERT INTO Kwalifikacje VALUES (1565,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-22-02','Studia wyższe licencjackie','Sun Valley',3237);
-INSERT INTO Kwalifikacje VALUES (1566,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-13-84','Studia wyższe licencjackie','Bloomington',3112);
-INSERT INTO Kwalifikacje VALUES (1567,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-8-86','Kurs dokształcający','Birmingham',3179);
-INSERT INTO Kwalifikacje VALUES (1568,'Studia mające zastosowanie w działalności podstawowej','5-26-10','Studia pielęgniarskie','Vacaville',3039);
-INSERT INTO Kwalifikacje VALUES (1569,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-6-86','Studia wyższe licencjackie','Indianapolis',4441);
-INSERT INTO Kwalifikacje VALUES (1570,'Studia doktoranckie','2-17-97','Kurs kwalifikacyjny','Topeka',2582);
-INSERT INTO Kwalifikacje VALUES (1571,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-27-82','Kurs dokształcający','Farmington',2758);
-INSERT INTO Kwalifikacje VALUES (1572,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-9-87','Kurs dokształcający','Gainesville',3302);
-INSERT INTO Kwalifikacje VALUES (1573,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-21-03','Kurs dokształcający','Suffolk',4961);
-INSERT INTO Kwalifikacje VALUES (1574,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-23-97','Kurs specjalistyczny','Watertown',2702);
-INSERT INTO Kwalifikacje VALUES (1575,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-7-98','Szkolenie','Thibodaux',2718);
-INSERT INTO Kwalifikacje VALUES (1576,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-4-08','Studia wyższe licencjackie','New Orleans',3931);
-INSERT INTO Kwalifikacje VALUES (1577,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-12-96','Studia pielęgniarskie','Boulder City',4640);
-INSERT INTO Kwalifikacje VALUES (1578,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-7-93','Szkolenie','Truth or Consequences',2556);
-INSERT INTO Kwalifikacje VALUES (1579,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-20-86','Studia pielęgniarskie','Houston',2868);
-INSERT INTO Kwalifikacje VALUES (1580,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-24-93','Studia wyższe licencjackie','New Bedford',4837);
-INSERT INTO Kwalifikacje VALUES (1581,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-1-13','Specjalizacja','Corry',2751);
-INSERT INTO Kwalifikacje VALUES (1582,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-14-91','Szkolenie','Palm Springs',2832);
-INSERT INTO Kwalifikacje VALUES (1583,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-24-08','Szkolenie','Wilson',3845);
-INSERT INTO Kwalifikacje VALUES (1584,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-27-14','Kurs specjalistyczny','West Valley City',4847);
-INSERT INTO Kwalifikacje VALUES (1585,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-30-86','Specjalizacja','Lander',4460);
-INSERT INTO Kwalifikacje VALUES (1586,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-7-14','Specjalizacja','Greensburg',2716);
-INSERT INTO Kwalifikacje VALUES (1587,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-3-11','Kurs specjalistyczny','Goose Creek',3779);
-INSERT INTO Kwalifikacje VALUES (1588,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-31-12','Kurs dokształcający','Lawndale',4736);
-INSERT INTO Kwalifikacje VALUES (1589,'Studia wyższe licencjackie','4-24-87','Studia doktoranckie','Brookfield',3522);
-INSERT INTO Kwalifikacje VALUES (1590,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-28-95','Studia pielęgniarskie','Rapid City',3577);
-INSERT INTO Kwalifikacje VALUES (1591,'Studia wyższe licencjackie','1-10-00','Specjalizacja','Alamogordo',4888);
-INSERT INTO Kwalifikacje VALUES (1592,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-5-95','Kurs kwalifikacyjny','Forest Lake',4601);
-INSERT INTO Kwalifikacje VALUES (1593,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-14-80','Szkolenie','Pembroke Pines',4640);
-INSERT INTO Kwalifikacje VALUES (1594,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-21-16','Kurs kwalifikacyjny','Bay St. Louis',4180);
-INSERT INTO Kwalifikacje VALUES (1595,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-4-15','Studia wyższe licencjackie','Somerville',2690);
-INSERT INTO Kwalifikacje VALUES (1596,'Studia doktoranckie','11-10-95','Szkolenie','Nashville',4947);
-INSERT INTO Kwalifikacje VALUES (1597,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-12-83','Kurs dokształcający','Youngstown',2975);
-INSERT INTO Kwalifikacje VALUES (1598,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-21-02','Kurs specjalistyczny','Wausau',4291);
-INSERT INTO Kwalifikacje VALUES (1599,'Kurs specjalistyczny - Szczepienia ochronne','10-19-99','Specjalizacja','Butte',3593);
-INSERT INTO Kwalifikacje VALUES (1600,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-1-16','Specjalizacja','Bowie',4431);
-INSERT INTO Kwalifikacje VALUES (1601,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-18-04','Szkolenie','Kearney',4311);
-INSERT INTO Kwalifikacje VALUES (1602,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-30-01','Studia wyższe licencjackie','Twin Falls',3000);
-INSERT INTO Kwalifikacje VALUES (1603,'Specjalizacja zawodowa','12-25-08','Specjalizacja','Laramie',4763);
-INSERT INTO Kwalifikacje VALUES (1604,'Studia pielęgniarskie','3-10-13','Studia doktoranckie','Lima',2965);
-INSERT INTO Kwalifikacje VALUES (1605,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-29-14','Kurs kwalifikacyjny','Tustin',3983);
-INSERT INTO Kwalifikacje VALUES (1606,'Studia mające zastosowanie w działalności podstawowej','10-9-13','Studia doktoranckie','Danbury',4310);
-INSERT INTO Kwalifikacje VALUES (1607,'Studia wyższe licencjackie','11-14-01','Szkolenie','San Juan Capistrano',4072);
-INSERT INTO Kwalifikacje VALUES (1608,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-7-97','Kurs kwalifikacyjny','Westminster',3249);
-INSERT INTO Kwalifikacje VALUES (1609,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-4-90','Studia doktoranckie','Sioux City',4223);
-INSERT INTO Kwalifikacje VALUES (1610,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-8-85','Kurs specjalistyczny','Poughkeepsie',3529);
-INSERT INTO Kwalifikacje VALUES (1611,'Kurs specjalistyczny – Terapia bólu','7-11-81','Kurs specjalistyczny','Ithaca',3381);
-INSERT INTO Kwalifikacje VALUES (1612,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-22-07','Specjalizacja','Torrance',4937);
-INSERT INTO Kwalifikacje VALUES (1613,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-12-06','Kurs kwalifikacyjny','Midland',4908);
-INSERT INTO Kwalifikacje VALUES (1614,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-23-03','Kurs dokształcający','Astoria',2608);
-INSERT INTO Kwalifikacje VALUES (1615,'Kurs specjalistyczny – Terapia bólu','5-12-06','Szkolenie','Fairmont',3634);
-INSERT INTO Kwalifikacje VALUES (1616,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-3-13','Kurs kwalifikacyjny','Superior',3380);
-INSERT INTO Kwalifikacje VALUES (1617,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-27-10','Studia wyższe licencjackie','Cedar City',3037);
-INSERT INTO Kwalifikacje VALUES (1618,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-18-89','Studia doktoranckie','Olympia',4092);
-INSERT INTO Kwalifikacje VALUES (1619,'Kurs specjalistyczny – Terapia bólu','1-24-87','Studia pielęgniarskie','Sun Valley',4577);
-INSERT INTO Kwalifikacje VALUES (1620,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-25-86','Kurs specjalistyczny','La Puente',3284);
-INSERT INTO Kwalifikacje VALUES (1621,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-16-12','Studia wyższe licencjackie','South Burlington',3289);
-INSERT INTO Kwalifikacje VALUES (1622,'Studia wyższe licencjackie','11-18-09','Szkolenie','Marietta',4216);
-INSERT INTO Kwalifikacje VALUES (1623,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-27-95','Kurs dokształcający','Monroe',3751);
-INSERT INTO Kwalifikacje VALUES (1624,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-24-98','Kurs specjalistyczny','Lebanon',3746);
-INSERT INTO Kwalifikacje VALUES (1625,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-15-05','Specjalizacja','Blacksburg',3778);
-INSERT INTO Kwalifikacje VALUES (1626,'Kurs specjalistyczny – Terapia bólu','4-23-05','Studia doktoranckie','Canandaigua',3236);
-INSERT INTO Kwalifikacje VALUES (1627,'Studia wyższe licencjackie','11-13-15','Kurs specjalistyczny','Falls Church',3952);
-INSERT INTO Kwalifikacje VALUES (1628,'Specjalizacja zawodowa','5-2-93','Studia pielęgniarskie','Salem',4594);
-INSERT INTO Kwalifikacje VALUES (1629,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-30-88','Kurs dokształcający','Farrell',2547);
-INSERT INTO Kwalifikacje VALUES (1630,'Kurs specjalistyczny – Terapia bólu','5-9-93','Studia pielęgniarskie','Kenosha',4405);
-INSERT INTO Kwalifikacje VALUES (1631,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-4-85','Studia pielęgniarskie','Laredo',3603);
-INSERT INTO Kwalifikacje VALUES (1632,'Studia pielęgniarskie','4-4-98','Studia pielęgniarskie','Twin Falls',3122);
-INSERT INTO Kwalifikacje VALUES (1633,'Studia wyższe licencjackie','5-5-04','Kurs specjalistyczny','Manhattan',3848);
-INSERT INTO Kwalifikacje VALUES (1634,'Studia mające zastosowanie w działalności podstawowej','8-10-14','Kurs dokształcający','Bandon',2515);
-INSERT INTO Kwalifikacje VALUES (1635,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-17-94','Studia wyższe licencjackie','Pascagoula',4275);
-INSERT INTO Kwalifikacje VALUES (1636,'Kurs specjalistyczny - Szczepienia ochronne','8-28-98','Studia pielęgniarskie','Ponce',4046);
-INSERT INTO Kwalifikacje VALUES (1637,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-19-82','Kurs dokształcający','Brigham City',3335);
-INSERT INTO Kwalifikacje VALUES (1638,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-21-10','Kurs specjalistyczny','Reading',4784);
-INSERT INTO Kwalifikacje VALUES (1639,'Specjalizacja zawodowa','2-2-00','Studia pielęgniarskie','Palmdale',4153);
-INSERT INTO Kwalifikacje VALUES (1640,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-10-82','Kurs kwalifikacyjny','Denver',4646);
-INSERT INTO Kwalifikacje VALUES (1641,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-5-88','Szkolenie','Truth or Consequences',2755);
-INSERT INTO Kwalifikacje VALUES (1642,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-15-83','Szkolenie','Weirton',3339);
-INSERT INTO Kwalifikacje VALUES (1643,'Studia pielęgniarskie','9-19-81','Kurs specjalistyczny','Fond du Lac',4062);
-INSERT INTO Kwalifikacje VALUES (1644,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-16-11','Szkolenie','Princeton',3218);
-INSERT INTO Kwalifikacje VALUES (1645,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-18-88','Specjalizacja','Macomb',2984);
-INSERT INTO Kwalifikacje VALUES (1646,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-28-08','Szkolenie','New Madrid',4819);
-INSERT INTO Kwalifikacje VALUES (1647,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-30-81','Specjalizacja','Meadville',4436);
-INSERT INTO Kwalifikacje VALUES (1648,'Specjalizacja zawodowa','10-13-06','Kurs specjalistyczny','Plymouth',4703);
-INSERT INTO Kwalifikacje VALUES (1649,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-29-91','Szkolenie','Rosemead',3880);
-INSERT INTO Kwalifikacje VALUES (1650,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-24-15','Kurs dokształcający','Truth or Consequences',4493);
-INSERT INTO Kwalifikacje VALUES (1651,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-27-85','Studia doktoranckie','Astoria',3249);
-INSERT INTO Kwalifikacje VALUES (1652,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-2-00','Studia pielęgniarskie','Connellsville',3889);
-INSERT INTO Kwalifikacje VALUES (1653,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-15-93','Specjalizacja','Coatesville',2859);
-INSERT INTO Kwalifikacje VALUES (1654,'Kurs specjalistyczny – Terapia bólu','12-15-03','Kurs specjalistyczny','Jeffersonville',3839);
-INSERT INTO Kwalifikacje VALUES (1655,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-12-04','Specjalizacja','McAlester',3179);
-INSERT INTO Kwalifikacje VALUES (1656,'Studia pielęgniarskie','1-31-84','Studia wyższe licencjackie','West Valley City',4677);
-INSERT INTO Kwalifikacje VALUES (1657,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-18-98','Kurs specjalistyczny','Alameda',2635);
-INSERT INTO Kwalifikacje VALUES (1658,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-3-14','Studia doktoranckie','Falls Church',4912);
-INSERT INTO Kwalifikacje VALUES (1659,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-2-93','Studia pielęgniarskie','Rock Island',3732);
-INSERT INTO Kwalifikacje VALUES (1660,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-8-96','Kurs kwalifikacyjny','Duluth',4389);
-INSERT INTO Kwalifikacje VALUES (1661,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-11-09','Studia doktoranckie','Huntington Beach',3964);
-INSERT INTO Kwalifikacje VALUES (1662,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-9-07','Studia doktoranckie','Mount Vernon',4295);
-INSERT INTO Kwalifikacje VALUES (1663,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-17-83','Studia pielęgniarskie','Agawam',4963);
-INSERT INTO Kwalifikacje VALUES (1664,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-25-04','Szkolenie','Baltimore',2877);
-INSERT INTO Kwalifikacje VALUES (1665,'Studia mające zastosowanie w działalności podstawowej','10-3-94','Kurs kwalifikacyjny','Brigham City',3283);
-INSERT INTO Kwalifikacje VALUES (1666,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-18-84','Szkolenie','Mount Vernon',4916);
-INSERT INTO Kwalifikacje VALUES (1667,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-28-15','Studia pielęgniarskie','Weymouth',4907);
-INSERT INTO Kwalifikacje VALUES (1668,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-19-09','Kurs kwalifikacyjny','Rohnert Park',3883);
-INSERT INTO Kwalifikacje VALUES (1669,'Studia wyższe licencjackie','1-24-87','Kurs kwalifikacyjny','Davenport',4167);
-INSERT INTO Kwalifikacje VALUES (1670,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-5-05','Studia wyższe licencjackie','Stockton',3913);
-INSERT INTO Kwalifikacje VALUES (1671,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-25-97','Kurs kwalifikacyjny','Sacramento',3433);
-INSERT INTO Kwalifikacje VALUES (1672,'Studia mające zastosowanie w działalności podstawowej','6-9-84','Studia wyższe licencjackie','Norton',4121);
-INSERT INTO Kwalifikacje VALUES (1673,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-25-82','Studia doktoranckie','Ogdensburg',4819);
-INSERT INTO Kwalifikacje VALUES (1674,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-2-13','Szkolenie','Salt Lake City',3930);
-INSERT INTO Kwalifikacje VALUES (1675,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-10-87','Kurs dokształcający','Fallon',4188);
-INSERT INTO Kwalifikacje VALUES (1676,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-3-08','Studia doktoranckie','Corinth',3901);
-INSERT INTO Kwalifikacje VALUES (1677,'Kurs specjalistyczny - Szczepienia ochronne','3-2-00','Kurs kwalifikacyjny','Niagara Falls',4925);
-INSERT INTO Kwalifikacje VALUES (1678,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-20-00','Kurs kwalifikacyjny','Chino Hills',4500);
-INSERT INTO Kwalifikacje VALUES (1679,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-10-07','Studia doktoranckie','Tuscaloosa',3509);
-INSERT INTO Kwalifikacje VALUES (1680,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-23-95','Specjalizacja','San Dimas',4503);
-INSERT INTO Kwalifikacje VALUES (1681,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-5-90','Specjalizacja','Mechanicville',4349);
-INSERT INTO Kwalifikacje VALUES (1682,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-8-83','Kurs dokształcający','Barrow',3643);
-INSERT INTO Kwalifikacje VALUES (1683,'Kurs specjalistyczny - Szczepienia ochronne','9-19-06','Szkolenie','Hawthorne',3628);
-INSERT INTO Kwalifikacje VALUES (1684,'Studia wyższe licencjackie','3-6-05','Studia pielęgniarskie','Christiansted',4828);
-INSERT INTO Kwalifikacje VALUES (1685,'Studia mające zastosowanie w działalności podstawowej','12-9-04','Studia pielęgniarskie','Warwick',4031);
-INSERT INTO Kwalifikacje VALUES (1686,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-13-94','Studia doktoranckie','Lake Charles',2696);
-INSERT INTO Kwalifikacje VALUES (1687,'Specjalizacja zawodowa','6-13-86','Kurs kwalifikacyjny','Independence',4480);
-INSERT INTO Kwalifikacje VALUES (1688,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-20-99','Kurs dokształcający','High Point',3085);
-INSERT INTO Kwalifikacje VALUES (1689,'Specjalizacja zawodowa','8-21-04','Kurs kwalifikacyjny','Villa Park',3110);
-INSERT INTO Kwalifikacje VALUES (1690,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-27-00','Studia pielęgniarskie','Lexington',3434);
-INSERT INTO Kwalifikacje VALUES (1691,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-10-94','Kurs kwalifikacyjny','Biddeford',4028);
-INSERT INTO Kwalifikacje VALUES (1692,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-16-83','Studia wyższe licencjackie','Port Arthur',3672);
-INSERT INTO Kwalifikacje VALUES (1693,'Kurs specjalistyczny - Szczepienia ochronne','4-7-91','Kurs kwalifikacyjny','Nacogdoches',4624);
-INSERT INTO Kwalifikacje VALUES (1694,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-9-97','Studia pielęgniarskie','Macon',4642);
-INSERT INTO Kwalifikacje VALUES (1695,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-17-96','Kurs kwalifikacyjny','Olympia',2831);
-INSERT INTO Kwalifikacje VALUES (1696,'Studia wyższe licencjackie','2-1-84','Specjalizacja','Albuquerque',3960);
-INSERT INTO Kwalifikacje VALUES (1697,'Specjalizacja zawodowa','8-4-10','Kurs specjalistyczny','Erie',2940);
-INSERT INTO Kwalifikacje VALUES (1698,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-1-08','Kurs kwalifikacyjny','Brigham City',3843);
-INSERT INTO Kwalifikacje VALUES (1699,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-14-04','Studia wyższe licencjackie','Hanahan',4073);
-INSERT INTO Kwalifikacje VALUES (1700,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-10-10','Specjalizacja','Altoona',4594);
-INSERT INTO Kwalifikacje VALUES (1701,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-22-86','Szkolenie','Frankfort',4912);
-INSERT INTO Kwalifikacje VALUES (1702,'Studia mające zastosowanie w działalności podstawowej','3-19-93','Kurs kwalifikacyjny','Ansonia',3376);
-INSERT INTO Kwalifikacje VALUES (1703,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-13-14','Kurs specjalistyczny','Manassas Park',2716);
-INSERT INTO Kwalifikacje VALUES (1704,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-14-06','Studia pielęgniarskie','McAlester',3266);
-INSERT INTO Kwalifikacje VALUES (1705,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-23-82','Specjalizacja','Saint Paul',4662);
-INSERT INTO Kwalifikacje VALUES (1706,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-7-00','Studia doktoranckie','Omaha',2970);
-INSERT INTO Kwalifikacje VALUES (1707,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-17-89','Specjalizacja','Egg Harbor',2971);
-INSERT INTO Kwalifikacje VALUES (1708,'Kurs specjalistyczny – Terapia bólu','3-19-99','Kurs specjalistyczny','West Hartford',3153);
-INSERT INTO Kwalifikacje VALUES (1709,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-11-82','Specjalizacja','Oak Ridge',3410);
-INSERT INTO Kwalifikacje VALUES (1710,'Kurs specjalistyczny - Szczepienia ochronne','3-13-03','Studia wyższe licencjackie','Williamsburg',4306);
-INSERT INTO Kwalifikacje VALUES (1711,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-11-06','Specjalizacja','Fort Worth',4450);
-INSERT INTO Kwalifikacje VALUES (1712,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-28-13','Kurs dokształcający','Saint Joseph',4252);
-INSERT INTO Kwalifikacje VALUES (1713,'Kurs specjalistyczny – Terapia bólu','11-2-13','Studia wyższe licencjackie','El Segundo',4085);
-INSERT INTO Kwalifikacje VALUES (1714,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-20-09','Studia pielęgniarskie','Ventura',3343);
-INSERT INTO Kwalifikacje VALUES (1715,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-3-96','Studia pielęgniarskie','Martinsburg',3738);
-INSERT INTO Kwalifikacje VALUES (1716,'Kurs specjalistyczny – Terapia bólu','7-3-01','Studia pielęgniarskie','Loudon',3163);
-INSERT INTO Kwalifikacje VALUES (1717,'Kurs specjalistyczny – Terapia bólu','6-21-08','Studia pielęgniarskie','Rohnert Park',3844);
-INSERT INTO Kwalifikacje VALUES (1718,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-23-15','Specjalizacja','Hoboken',3512);
-INSERT INTO Kwalifikacje VALUES (1719,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-7-82','Kurs dokształcający','La Puente',3546);
-INSERT INTO Kwalifikacje VALUES (1720,'Studia mające zastosowanie w działalności podstawowej','10-28-97','Kurs dokształcający','Alameda',2595);
-INSERT INTO Kwalifikacje VALUES (1721,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-26-06','Studia pielęgniarskie','Hawaiian Gardens',3781);
-INSERT INTO Kwalifikacje VALUES (1722,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-30-95','Specjalizacja','La Cañada Flintridge',4161);
-INSERT INTO Kwalifikacje VALUES (1723,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-10-05','Studia doktoranckie','Eugene',4693);
-INSERT INTO Kwalifikacje VALUES (1724,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-12-03','Studia pielęgniarskie','Saratoga Springs',2917);
-INSERT INTO Kwalifikacje VALUES (1725,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-29-97','Kurs specjalistyczny','Sierra Vista',4374);
-INSERT INTO Kwalifikacje VALUES (1726,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-5-96','Studia wyższe licencjackie','Oro Valley',3361);
-INSERT INTO Kwalifikacje VALUES (1727,'Kurs specjalistyczny - Szczepienia ochronne','4-1-03','Specjalizacja','San Diego',3860);
-INSERT INTO Kwalifikacje VALUES (1728,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-13-14','Kurs dokształcający','Kennesaw',3454);
-INSERT INTO Kwalifikacje VALUES (1729,'Studia doktoranckie','8-24-80','Studia wyższe licencjackie','Pulaski',4718);
-INSERT INTO Kwalifikacje VALUES (1730,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-5-84','Kurs dokształcający','Merced',3073);
-INSERT INTO Kwalifikacje VALUES (1731,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-15-13','Studia wyższe licencjackie','Hayward',2642);
-INSERT INTO Kwalifikacje VALUES (1732,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-22-89','Studia doktoranckie','Irvine',4737);
-INSERT INTO Kwalifikacje VALUES (1733,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-25-91','Kurs specjalistyczny','Northampton',4771);
-INSERT INTO Kwalifikacje VALUES (1734,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-17-07','Kurs kwalifikacyjny','Alameda',4440);
-INSERT INTO Kwalifikacje VALUES (1735,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-1-88','Kurs dokształcający','Hackensack',3941);
-INSERT INTO Kwalifikacje VALUES (1736,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-16-11','Szkolenie','Memphis',2941);
-INSERT INTO Kwalifikacje VALUES (1737,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-7-14','Studia wyższe licencjackie','Monroe',2837);
-INSERT INTO Kwalifikacje VALUES (1738,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-7-84','Studia doktoranckie','Menomonee Falls',3366);
-INSERT INTO Kwalifikacje VALUES (1739,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-25-07','Szkolenie','Vallejo',4377);
-INSERT INTO Kwalifikacje VALUES (1740,'Kurs specjalistyczny – Terapia bólu','12-16-03','Studia wyższe licencjackie','Texas City',2691);
-INSERT INTO Kwalifikacje VALUES (1741,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-24-96','Studia pielęgniarskie','Rock Springs',4318);
-INSERT INTO Kwalifikacje VALUES (1742,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-19-85','Kurs specjalistyczny','Vail',4072);
-INSERT INTO Kwalifikacje VALUES (1743,'Studia pielęgniarskie','5-30-92','Studia wyższe licencjackie','Cortland',2914);
-INSERT INTO Kwalifikacje VALUES (1744,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-3-16','Studia wyższe licencjackie','Normal',3457);
-INSERT INTO Kwalifikacje VALUES (1745,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-24-82','Kurs specjalistyczny','Houston',4197);
-INSERT INTO Kwalifikacje VALUES (1746,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-17-02','Specjalizacja','Columbia',3041);
-INSERT INTO Kwalifikacje VALUES (1747,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-4-16','Studia doktoranckie','Brookings',3101);
-INSERT INTO Kwalifikacje VALUES (1748,'Specjalizacja zawodowa','11-25-89','Specjalizacja','Dallas',4974);
-INSERT INTO Kwalifikacje VALUES (1749,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-8-06','Kurs specjalistyczny','Stevens Point',4650);
-INSERT INTO Kwalifikacje VALUES (1750,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-4-87','Szkolenie','Hopkinsville',4549);
-INSERT INTO Kwalifikacje VALUES (1751,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-30-07','Specjalizacja','Biddeford',2699);
-INSERT INTO Kwalifikacje VALUES (1752,'Studia doktoranckie','11-18-85','Studia wyższe licencjackie','Whittier',3876);
-INSERT INTO Kwalifikacje VALUES (1753,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-3-16','Specjalizacja','Taylorsville',3690);
-INSERT INTO Kwalifikacje VALUES (1754,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-19-07','Studia wyższe licencjackie','Oil City',2835);
-INSERT INTO Kwalifikacje VALUES (1755,'Specjalizacja zawodowa','12-15-12','Kurs specjalistyczny','Waycross',3726);
-INSERT INTO Kwalifikacje VALUES (1756,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-4-05','Kurs dokształcający','Davenport',3791);
-INSERT INTO Kwalifikacje VALUES (1757,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-3-03','Kurs kwalifikacyjny','Poughkeepsie',4549);
-INSERT INTO Kwalifikacje VALUES (1758,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-20-97','Kurs dokształcający','Honolulu',3199);
-INSERT INTO Kwalifikacje VALUES (1759,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-8-00','Studia doktoranckie','Trenton',4385);
-INSERT INTO Kwalifikacje VALUES (1760,'Specjalizacja zawodowa','2-4-05','Kurs kwalifikacyjny','Natchez',4411);
-INSERT INTO Kwalifikacje VALUES (1761,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-6-84','Kurs dokształcający','Danville',2700);
-INSERT INTO Kwalifikacje VALUES (1762,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-18-84','Studia pielęgniarskie','Frankfort',2911);
-INSERT INTO Kwalifikacje VALUES (1763,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-14-12','Kurs kwalifikacyjny','Alexandria',3577);
-INSERT INTO Kwalifikacje VALUES (1764,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-2-82','Specjalizacja','San Gabriel',3365);
-INSERT INTO Kwalifikacje VALUES (1765,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-22-13','Kurs kwalifikacyjny','Flagstaff',4706);
-INSERT INTO Kwalifikacje VALUES (1766,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-1-89','Kurs specjalistyczny','Fallon',3522);
-INSERT INTO Kwalifikacje VALUES (1767,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-31-11','Studia wyższe licencjackie','Lima',2732);
-INSERT INTO Kwalifikacje VALUES (1768,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-10-06','Studia doktoranckie','Norman',4648);
-INSERT INTO Kwalifikacje VALUES (1769,'Studia doktoranckie','12-14-81','Kurs dokształcający','Tuscaloosa',2804);
-INSERT INTO Kwalifikacje VALUES (1770,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-29-84','Kurs dokształcający','Haverhill',3952);
-INSERT INTO Kwalifikacje VALUES (1771,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-27-92','Studia doktoranckie','Jamestown',3283);
-INSERT INTO Kwalifikacje VALUES (1772,'Kurs specjalistyczny - Szczepienia ochronne','4-26-96','Studia pielęgniarskie','Scottsdale',3533);
-INSERT INTO Kwalifikacje VALUES (1773,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-20-10','Specjalizacja','Orlando',3787);
-INSERT INTO Kwalifikacje VALUES (1774,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-22-85','Studia doktoranckie','Kearns',2622);
-INSERT INTO Kwalifikacje VALUES (1775,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-21-93','Kurs specjalistyczny','Dixon',4204);
-INSERT INTO Kwalifikacje VALUES (1776,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-10-90','Kurs kwalifikacyjny','Port Jervis',3702);
-INSERT INTO Kwalifikacje VALUES (1777,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-22-88','Szkolenie','North Chicago',3051);
-INSERT INTO Kwalifikacje VALUES (1778,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-11-14','Kurs specjalistyczny','Winnemucca',4646);
-INSERT INTO Kwalifikacje VALUES (1779,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-23-13','Szkolenie','Camden',3792);
-INSERT INTO Kwalifikacje VALUES (1780,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-14-09','Szkolenie','Eureka',3964);
-INSERT INTO Kwalifikacje VALUES (1781,'Studia doktoranckie','12-15-00','Studia pielęgniarskie','Broken Arrow',4228);
-INSERT INTO Kwalifikacje VALUES (1782,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-3-91','Kurs specjalistyczny','Hot Springs',4759);
-INSERT INTO Kwalifikacje VALUES (1783,'Studia doktoranckie','8-30-09','Kurs dokształcający','Sierra Vista',4513);
-INSERT INTO Kwalifikacje VALUES (1784,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-8-92','Kurs specjalistyczny','Salem',3601);
-INSERT INTO Kwalifikacje VALUES (1785,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-5-06','Specjalizacja','Las Vegas',3240);
-INSERT INTO Kwalifikacje VALUES (1786,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-30-87','Studia wyższe licencjackie','Ashland',3567);
-INSERT INTO Kwalifikacje VALUES (1787,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-27-12','Kurs kwalifikacyjny','Bloomington',3160);
-INSERT INTO Kwalifikacje VALUES (1788,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-22-89','Studia pielęgniarskie','Fort Collins',4549);
-INSERT INTO Kwalifikacje VALUES (1789,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-23-14','Specjalizacja','Newcastle',4301);
-INSERT INTO Kwalifikacje VALUES (1790,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-5-92','Studia doktoranckie','Chino',4793);
-INSERT INTO Kwalifikacje VALUES (1791,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-17-10','Kurs specjalistyczny','Johnson City',3805);
-INSERT INTO Kwalifikacje VALUES (1792,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-11-05','Specjalizacja','Kona',3619);
-INSERT INTO Kwalifikacje VALUES (1793,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-23-11','Specjalizacja','Trenton',4745);
-INSERT INTO Kwalifikacje VALUES (1794,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-23-09','Specjalizacja','Houston',2975);
-INSERT INTO Kwalifikacje VALUES (1795,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-12-91','Kurs specjalistyczny','Scranton',4456);
-INSERT INTO Kwalifikacje VALUES (1796,'Specjalizacja zawodowa','4-5-99','Studia wyższe licencjackie','Schaumburg',4055);
-INSERT INTO Kwalifikacje VALUES (1797,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-2-14','Specjalizacja','Nashville',4301);
-INSERT INTO Kwalifikacje VALUES (1798,'Studia mające zastosowanie w działalności podstawowej','4-5-91','Kurs specjalistyczny','Akron',3502);
-INSERT INTO Kwalifikacje VALUES (1799,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-15-83','Studia wyższe licencjackie','Tok',2660);
-INSERT INTO Kwalifikacje VALUES (1800,'Specjalizacja zawodowa','8-17-90','Kurs dokształcający','Buffalo',4347);
-INSERT INTO Kwalifikacje VALUES (1801,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-10-81','Kurs kwalifikacyjny','Bentonville',3997);
-INSERT INTO Kwalifikacje VALUES (1802,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-8-93','Kurs specjalistyczny','Saint Cloud',4173);
-INSERT INTO Kwalifikacje VALUES (1803,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-27-83','Studia doktoranckie','San Dimas',3196);
-INSERT INTO Kwalifikacje VALUES (1804,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-24-91','Szkolenie','Baton Rouge',4022);
-INSERT INTO Kwalifikacje VALUES (1805,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-17-84','Kurs kwalifikacyjny','Azusa',3351);
-INSERT INTO Kwalifikacje VALUES (1806,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-12-06','Specjalizacja','Portland',4764);
-INSERT INTO Kwalifikacje VALUES (1807,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-30-07','Studia doktoranckie','Yukon',4705);
-INSERT INTO Kwalifikacje VALUES (1808,'Kurs specjalistyczny – Terapia bólu','2-23-15','Specjalizacja','Rawlins',3623);
-INSERT INTO Kwalifikacje VALUES (1809,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-12-83','Kurs kwalifikacyjny','Indio',2531);
-INSERT INTO Kwalifikacje VALUES (1810,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-16-82','Kurs dokształcający','Vineland',4778);
-INSERT INTO Kwalifikacje VALUES (1811,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-14-96','Kurs kwalifikacyjny','Wheaton',3638);
-INSERT INTO Kwalifikacje VALUES (1812,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-11-11','Studia doktoranckie','Hialeah',3947);
-INSERT INTO Kwalifikacje VALUES (1813,'Studia doktoranckie','1-20-16','Kurs kwalifikacyjny','Murfreesboro',4247);
-INSERT INTO Kwalifikacje VALUES (1814,'Kurs specjalistyczny - Szczepienia ochronne','5-7-83','Kurs kwalifikacyjny','Rochester',3288);
-INSERT INTO Kwalifikacje VALUES (1815,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-21-12','Kurs dokształcający','Mechanicville',3417);
-INSERT INTO Kwalifikacje VALUES (1816,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-2-86','Kurs specjalistyczny','Waycross',3402);
-INSERT INTO Kwalifikacje VALUES (1817,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-9-93','Studia wyższe licencjackie','Corvallis',3584);
-INSERT INTO Kwalifikacje VALUES (1818,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-5-00','Studia wyższe licencjackie','Natchitoches',3652);
-INSERT INTO Kwalifikacje VALUES (1819,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-4-13','Kurs specjalistyczny','Rialto',2864);
-INSERT INTO Kwalifikacje VALUES (1820,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-3-08','Szkolenie','Salem',4076);
-INSERT INTO Kwalifikacje VALUES (1821,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-1-14','Kurs kwalifikacyjny','DeKalb',4247);
-INSERT INTO Kwalifikacje VALUES (1822,'Kurs specjalistyczny – Terapia bólu','4-19-08','Kurs specjalistyczny','Garland',2751);
-INSERT INTO Kwalifikacje VALUES (1823,'Studia pielęgniarskie','11-9-97','Kurs kwalifikacyjny','Guayama',3003);
-INSERT INTO Kwalifikacje VALUES (1824,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-7-99','Studia doktoranckie','Joplin',2752);
-INSERT INTO Kwalifikacje VALUES (1825,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-2-80','Studia pielęgniarskie','Bartlesville',2844);
-INSERT INTO Kwalifikacje VALUES (1826,'Kurs specjalistyczny – Terapia bólu','2-22-02','Studia wyższe licencjackie','Fairfield',2677);
-INSERT INTO Kwalifikacje VALUES (1827,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-7-04','Szkolenie','Flagstaff',4160);
-INSERT INTO Kwalifikacje VALUES (1828,'Kurs specjalistyczny - Szczepienia ochronne','11-2-12','Specjalizacja','San Francisco',4572);
-INSERT INTO Kwalifikacje VALUES (1829,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-25-16','Kurs specjalistyczny','Odessa',3482);
-INSERT INTO Kwalifikacje VALUES (1830,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-19-92','Szkolenie','Superior',4329);
-INSERT INTO Kwalifikacje VALUES (1831,'Kurs specjalistyczny - Szczepienia ochronne','3-2-82','Kurs specjalistyczny','Little Falls',2627);
-INSERT INTO Kwalifikacje VALUES (1832,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-27-88','Studia doktoranckie','Houston',3078);
-INSERT INTO Kwalifikacje VALUES (1833,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','11-8-93','Kurs dokształcający','Monongahela',2564);
-INSERT INTO Kwalifikacje VALUES (1834,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','9-8-90','Specjalizacja','Rock Island',3916);
-INSERT INTO Kwalifikacje VALUES (1835,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-8-99','Kurs specjalistyczny','Buffalo',2707);
-INSERT INTO Kwalifikacje VALUES (1836,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-16-06','Szkolenie','Council Bluffs',2538);
-INSERT INTO Kwalifikacje VALUES (1837,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-15-12','Studia doktoranckie','Texarkana',2782);
-INSERT INTO Kwalifikacje VALUES (1838,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-7-97','Specjalizacja','Chandler',4493);
-INSERT INTO Kwalifikacje VALUES (1839,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-10-15','Szkolenie','Gardner',4732);
-INSERT INTO Kwalifikacje VALUES (1840,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-9-99','Studia pielęgniarskie','Jordan Valley',3595);
-INSERT INTO Kwalifikacje VALUES (1841,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-8-83','Kurs kwalifikacyjny','Chino',3040);
-INSERT INTO Kwalifikacje VALUES (1842,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-17-02','Studia wyższe licencjackie','Frederick',3661);
-INSERT INTO Kwalifikacje VALUES (1843,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-18-16','Studia pielęgniarskie','Grafton',4570);
-INSERT INTO Kwalifikacje VALUES (1844,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-1-95','Studia pielęgniarskie','Rockford',3857);
-INSERT INTO Kwalifikacje VALUES (1845,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-25-13','Studia wyższe licencjackie','Washington',3659);
-INSERT INTO Kwalifikacje VALUES (1846,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-25-16','Kurs dokształcający','Kearns',2793);
-INSERT INTO Kwalifikacje VALUES (1847,'Studia mające zastosowanie w działalności podstawowej','2-17-04','Studia doktoranckie','Weirton',2972);
-INSERT INTO Kwalifikacje VALUES (1848,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-13-92','Studia pielęgniarskie','Sonoma',2630);
-INSERT INTO Kwalifikacje VALUES (1849,'Studia pielęgniarskie','7-28-13','Kurs dokształcający','Des Moines',2626);
-INSERT INTO Kwalifikacje VALUES (1850,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','3-4-12','Kurs dokształcający','Rolla',3973);
-INSERT INTO Kwalifikacje VALUES (1851,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-13-96','Kurs kwalifikacyjny','Inglewood',3466);
-INSERT INTO Kwalifikacje VALUES (1852,'Kurs specjalistyczny – Terapia bólu','11-7-03','Studia pielęgniarskie','Guayama',4193);
-INSERT INTO Kwalifikacje VALUES (1853,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-11-02','Studia pielęgniarskie','Ruston',2900);
-INSERT INTO Kwalifikacje VALUES (1854,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-17-83','Studia pielęgniarskie','West Covina',4088);
-INSERT INTO Kwalifikacje VALUES (1855,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-28-80','Studia doktoranckie','Overland Park',4057);
-INSERT INTO Kwalifikacje VALUES (1856,'Studia doktoranckie','12-7-99','Kurs dokształcający','Ada',2746);
-INSERT INTO Kwalifikacje VALUES (1857,'Studia pielęgniarskie','10-21-82','Studia doktoranckie','Bangor',3516);
-INSERT INTO Kwalifikacje VALUES (1858,'Kurs specjalistyczny – Terapia bólu','3-10-95','Specjalizacja','Seward',2676);
-INSERT INTO Kwalifikacje VALUES (1859,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-4-11','Szkolenie','Oneonta',3020);
-INSERT INTO Kwalifikacje VALUES (1860,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-29-83','Studia wyższe licencjackie','Albuquerque',4572);
-INSERT INTO Kwalifikacje VALUES (1861,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-22-85','Studia doktoranckie','Normal',4593);
-INSERT INTO Kwalifikacje VALUES (1862,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-25-97','Studia pielęgniarskie','Joplin',3871);
-INSERT INTO Kwalifikacje VALUES (1863,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-17-89','Kurs specjalistyczny','Sioux Falls',3106);
-INSERT INTO Kwalifikacje VALUES (1864,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-9-80','Kurs dokształcający','San Diego',3021);
-INSERT INTO Kwalifikacje VALUES (1865,'Kurs specjalistyczny - Szczepienia ochronne','10-1-07','Studia wyższe licencjackie','Lahaina',3286);
-INSERT INTO Kwalifikacje VALUES (1866,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-21-88','Studia pielęgniarskie','Dana Point',4604);
-INSERT INTO Kwalifikacje VALUES (1867,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-20-82','Studia wyższe licencjackie','Madison',4822);
-INSERT INTO Kwalifikacje VALUES (1868,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-17-95','Kurs specjalistyczny','Manchester',2973);
-INSERT INTO Kwalifikacje VALUES (1869,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-29-03','Szkolenie','Lake Forest',4924);
-INSERT INTO Kwalifikacje VALUES (1870,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-15-11','Studia doktoranckie','Sioux Falls',3292);
-INSERT INTO Kwalifikacje VALUES (1871,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-10-98','Studia pielęgniarskie','New Bedford',2724);
-INSERT INTO Kwalifikacje VALUES (1872,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-10-11','Szkolenie','Pierre',2849);
-INSERT INTO Kwalifikacje VALUES (1873,'Kurs specjalistyczny - Szczepienia ochronne','9-8-05','Kurs dokształcający','Richland',4280);
-INSERT INTO Kwalifikacje VALUES (1874,'Studia mające zastosowanie w działalności podstawowej','11-13-04','Studia wyższe licencjackie','Douglas',4795);
-INSERT INTO Kwalifikacje VALUES (1875,'Kurs specjalistyczny - Szczepienia ochronne','7-7-88','Studia pielęgniarskie','Beaumont',4010);
-INSERT INTO Kwalifikacje VALUES (1876,'Studia pielęgniarskie','10-10-82','Studia wyższe licencjackie','Miami',3158);
-INSERT INTO Kwalifikacje VALUES (1877,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-21-93','Specjalizacja','Enfield',4001);
-INSERT INTO Kwalifikacje VALUES (1878,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-6-02','Kurs specjalistyczny','Phoenix',4497);
-INSERT INTO Kwalifikacje VALUES (1879,'Studia doktoranckie','1-30-97','Studia pielęgniarskie','Rialto',3877);
-INSERT INTO Kwalifikacje VALUES (1880,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-28-07','Specjalizacja','Daly City',2942);
-INSERT INTO Kwalifikacje VALUES (1881,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-1-91','Kurs kwalifikacyjny','Del Rio',4852);
-INSERT INTO Kwalifikacje VALUES (1882,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-7-97','Studia wyższe licencjackie','San Luis Obispo',3398);
-INSERT INTO Kwalifikacje VALUES (1883,'Studia doktoranckie','12-3-85','Kurs kwalifikacyjny','Geneva',3928);
-INSERT INTO Kwalifikacje VALUES (1884,'Kurs specjalistyczny - Szczepienia ochronne','9-23-88','Studia wyższe licencjackie','Saint Joseph',4961);
-INSERT INTO Kwalifikacje VALUES (1885,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-21-84','Studia doktoranckie','Peru',4873);
-INSERT INTO Kwalifikacje VALUES (1886,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-31-05','Kurs kwalifikacyjny','Stafford',3930);
-INSERT INTO Kwalifikacje VALUES (1887,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-24-94','Szkolenie','Coatesville',3888);
-INSERT INTO Kwalifikacje VALUES (1888,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-28-89','Kurs kwalifikacyjny','Clarksville',2668);
-INSERT INTO Kwalifikacje VALUES (1889,'Specjalizacja zawodowa','8-30-06','Studia wyższe licencjackie','Rancho Palos Verdes',4458);
-INSERT INTO Kwalifikacje VALUES (1890,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-6-06','Studia wyższe licencjackie','West Springfield',2852);
-INSERT INTO Kwalifikacje VALUES (1891,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-10-10','Szkolenie','Natchez',3463);
-INSERT INTO Kwalifikacje VALUES (1892,'Studia pielęgniarskie','11-23-90','Specjalizacja','La Habra Heights',4786);
-INSERT INTO Kwalifikacje VALUES (1893,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-29-99','Studia pielęgniarskie','Falls Church',2793);
-INSERT INTO Kwalifikacje VALUES (1894,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-7-98','Studia wyższe licencjackie','Kennesaw',2532);
-INSERT INTO Kwalifikacje VALUES (1895,'Studia mające zastosowanie w działalności podstawowej','4-28-95','Szkolenie','Fresno',4906);
-INSERT INTO Kwalifikacje VALUES (1896,'Studia pielęgniarskie','9-12-86','Kurs dokształcający','Lynn',3671);
-INSERT INTO Kwalifikacje VALUES (1897,'Studia wyższe licencjackie','8-15-06','Szkolenie','Utica',4069);
-INSERT INTO Kwalifikacje VALUES (1898,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-21-90','Studia pielęgniarskie','Champaign',4969);
-INSERT INTO Kwalifikacje VALUES (1899,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-12-00','Specjalizacja','Cudahy',3006);
-INSERT INTO Kwalifikacje VALUES (1900,'Specjalizacja zawodowa','7-17-93','Kurs dokształcający','Staunton',2654);
-INSERT INTO Kwalifikacje VALUES (1901,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-18-84','Studia doktoranckie','Eureka',2868);
-INSERT INTO Kwalifikacje VALUES (1902,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-19-90','Studia wyższe licencjackie','Charlotte Amalie',3143);
-INSERT INTO Kwalifikacje VALUES (1903,'Studia mające zastosowanie w działalności podstawowej','1-22-87','Specjalizacja','Atlanta',2963);
-INSERT INTO Kwalifikacje VALUES (1904,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-1-14','Kurs specjalistyczny','Baltimore',4783);
-INSERT INTO Kwalifikacje VALUES (1905,'Kurs specjalistyczny – Terapia bólu','1-4-07','Studia wyższe licencjackie','Newburyport',3536);
-INSERT INTO Kwalifikacje VALUES (1906,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-13-98','Kurs specjalistyczny','Boise',3473);
-INSERT INTO Kwalifikacje VALUES (1907,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-5-16','Specjalizacja','San Juan',3341);
-INSERT INTO Kwalifikacje VALUES (1908,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-6-95','Studia wyższe licencjackie','Greenville',4747);
-INSERT INTO Kwalifikacje VALUES (1909,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-21-01','Studia pielęgniarskie','Lincoln',3880);
-INSERT INTO Kwalifikacje VALUES (1910,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-23-95','Studia pielęgniarskie','Sugar Land',2985);
-INSERT INTO Kwalifikacje VALUES (1911,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-2-86','Studia doktoranckie','Whittier',4295);
-INSERT INTO Kwalifikacje VALUES (1912,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-21-95','Kurs dokształcający','Corpus Christi',3135);
-INSERT INTO Kwalifikacje VALUES (1913,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-26-00','Szkolenie','Nogales',3702);
-INSERT INTO Kwalifikacje VALUES (1914,'Kurs specjalistyczny - Szczepienia ochronne','8-21-98','Kurs specjalistyczny','Rialto',2687);
-INSERT INTO Kwalifikacje VALUES (1915,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-25-98','Kurs dokształcający','Latrobe',3747);
-INSERT INTO Kwalifikacje VALUES (1916,'Studia mające zastosowanie w działalności podstawowej','2-28-01','Studia wyższe licencjackie','Mequon',3558);
-INSERT INTO Kwalifikacje VALUES (1917,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-13-15','Specjalizacja','Green River',4982);
-INSERT INTO Kwalifikacje VALUES (1918,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-29-99','Studia doktoranckie','Morgantown',4879);
-INSERT INTO Kwalifikacje VALUES (1919,'Kurs specjalistyczny - Szczepienia ochronne','6-11-85','Specjalizacja','Elizabeth City',3748);
-INSERT INTO Kwalifikacje VALUES (1920,'Kurs specjalistyczny – Terapia bólu','7-26-02','Studia wyższe licencjackie','Murray',4631);
-INSERT INTO Kwalifikacje VALUES (1921,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-9-96','Kurs specjalistyczny','Trenton',3565);
-INSERT INTO Kwalifikacje VALUES (1922,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-11-04','Szkolenie','Nashville',2618);
-INSERT INTO Kwalifikacje VALUES (1923,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-7-06','Kurs kwalifikacyjny','Peru',3129);
-INSERT INTO Kwalifikacje VALUES (1924,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-24-80','Specjalizacja','San Luis Obispo',3119);
-INSERT INTO Kwalifikacje VALUES (1925,'Studia wyższe licencjackie','9-9-02','Specjalizacja','Rancho Cordova',4502);
-INSERT INTO Kwalifikacje VALUES (1926,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-23-13','Kurs dokształcający','Eau Claire',4878);
-INSERT INTO Kwalifikacje VALUES (1927,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-16-05','Kurs kwalifikacyjny','Williamsport',4877);
-INSERT INTO Kwalifikacje VALUES (1928,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-12-83','Szkolenie','Vail',2746);
-INSERT INTO Kwalifikacje VALUES (1929,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-4-90','Szkolenie','Laguna Woods',2709);
-INSERT INTO Kwalifikacje VALUES (1930,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-20-88','Kurs kwalifikacyjny','Frederick',3685);
-INSERT INTO Kwalifikacje VALUES (1931,'Kurs specjalistyczny – Terapia bólu','11-23-95','Studia doktoranckie','Reno',4956);
-INSERT INTO Kwalifikacje VALUES (1932,'Studia pielęgniarskie','4-26-96','Kurs specjalistyczny','Glendale',4108);
-INSERT INTO Kwalifikacje VALUES (1933,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-20-12','Szkolenie','Downey',4056);
-INSERT INTO Kwalifikacje VALUES (1934,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-3-05','Studia doktoranckie','Little Rock',4191);
-INSERT INTO Kwalifikacje VALUES (1935,'Kurs specjalistyczny – Terapia bólu','11-25-02','Studia wyższe licencjackie','Rosemead',4272);
-INSERT INTO Kwalifikacje VALUES (1936,'Specjalizacja zawodowa','4-1-08','Specjalizacja','Cumberland',2846);
-INSERT INTO Kwalifikacje VALUES (1937,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-22-80','Specjalizacja','Beaver Falls',2919);
-INSERT INTO Kwalifikacje VALUES (1938,'Kurs specjalistyczny – Terapia bólu','7-6-15','Kurs kwalifikacyjny','Phoenix',4559);
-INSERT INTO Kwalifikacje VALUES (1939,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-15-83','Studia wyższe licencjackie','Diamond Bar',3195);
-INSERT INTO Kwalifikacje VALUES (1940,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-27-97','Kurs kwalifikacyjny','Harrisburg',4156);
-INSERT INTO Kwalifikacje VALUES (1941,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-14-94','Specjalizacja','East St. Louis',4522);
-INSERT INTO Kwalifikacje VALUES (1942,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-9-82','Kurs dokształcający','Daly City',4812);
-INSERT INTO Kwalifikacje VALUES (1943,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-12-88','Studia wyższe licencjackie','Falls Church',4636);
-INSERT INTO Kwalifikacje VALUES (1944,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-9-93','Kurs dokształcający','McKeesport',4549);
-INSERT INTO Kwalifikacje VALUES (1945,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-11-07','Studia wyższe licencjackie','Vacaville',3874);
-INSERT INTO Kwalifikacje VALUES (1946,'Studia doktoranckie','3-16-14','Kurs kwalifikacyjny','Murray',4178);
-INSERT INTO Kwalifikacje VALUES (1947,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-11-02','Szkolenie','Avalon',4149);
-INSERT INTO Kwalifikacje VALUES (1948,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-19-07','Kurs specjalistyczny','Brockton',3771);
-INSERT INTO Kwalifikacje VALUES (1949,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-1-04','Kurs specjalistyczny','Newburyport',4871);
-INSERT INTO Kwalifikacje VALUES (1950,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-14-95','Kurs dokształcający','Malden',4917);
-INSERT INTO Kwalifikacje VALUES (1951,'Specjalizacja zawodowa','10-24-82','Studia wyższe licencjackie','Simi Valley',3147);
-INSERT INTO Kwalifikacje VALUES (1952,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-10-02','Studia doktoranckie','Brookings',4268);
-INSERT INTO Kwalifikacje VALUES (1953,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-30-86','Studia wyższe licencjackie','Boulder City',4206);
-INSERT INTO Kwalifikacje VALUES (1954,'Kurs specjalistyczny - Szczepienia ochronne','10-17-89','Kurs specjalistyczny','Sandpoint',4049);
-INSERT INTO Kwalifikacje VALUES (1955,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-21-12','Specjalizacja','Atlanta',4552);
-INSERT INTO Kwalifikacje VALUES (1956,'Studia wyższe licencjackie','9-17-83','Studia doktoranckie','New Rochelle',2904);
-INSERT INTO Kwalifikacje VALUES (1957,'Studia wyższe licencjackie','7-24-03','Kurs specjalistyczny','Batavia',2805);
-INSERT INTO Kwalifikacje VALUES (1958,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-18-01','Kurs kwalifikacyjny','Yonkers',4956);
-INSERT INTO Kwalifikacje VALUES (1959,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-3-92','Kurs dokształcający','Forest Lake',2594);
-INSERT INTO Kwalifikacje VALUES (1960,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-28-82','Kurs specjalistyczny','Sierra Madre',4590);
-INSERT INTO Kwalifikacje VALUES (1961,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-27-05','Studia doktoranckie','West Haven',4447);
-INSERT INTO Kwalifikacje VALUES (1962,'Specjalizacja zawodowa','8-5-96','Studia wyższe licencjackie','Overland Park',2792);
-INSERT INTO Kwalifikacje VALUES (1963,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-12-91','Studia wyższe licencjackie','Cedar Falls',3850);
-INSERT INTO Kwalifikacje VALUES (1964,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-2-10','Studia wyższe licencjackie','Quincy',4248);
-INSERT INTO Kwalifikacje VALUES (1965,'Specjalizacja zawodowa','9-29-05','Kurs dokształcający','Watervliet',4967);
-INSERT INTO Kwalifikacje VALUES (1966,'Studia doktoranckie','4-18-96','Studia wyższe licencjackie','St. George',4358);
-INSERT INTO Kwalifikacje VALUES (1967,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-25-90','Szkolenie','Charlotte',2767);
-INSERT INTO Kwalifikacje VALUES (1968,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-12-15','Specjalizacja','Biloxi',4831);
-INSERT INTO Kwalifikacje VALUES (1969,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-20-02','Kurs specjalistyczny','Nanticoke',2955);
-INSERT INTO Kwalifikacje VALUES (1970,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-24-15','Szkolenie','Yuma',3061);
-INSERT INTO Kwalifikacje VALUES (1971,'Studia wyższe licencjackie','5-7-13','Kurs specjalistyczny','Worland',3523);
-INSERT INTO Kwalifikacje VALUES (1972,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-29-95','Kurs kwalifikacyjny','Truth or Consequences',3941);
-INSERT INTO Kwalifikacje VALUES (1973,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-26-83','Kurs kwalifikacyjny','Benton Harbor',2725);
-INSERT INTO Kwalifikacje VALUES (1974,'Kurs specjalistyczny – Terapia bólu','8-13-80','Szkolenie','Covina',3699);
-INSERT INTO Kwalifikacje VALUES (1975,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-8-05','Studia wyższe licencjackie','Wichita',3809);
-INSERT INTO Kwalifikacje VALUES (1976,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-14-00','Kurs kwalifikacyjny','Peekskill',4805);
-INSERT INTO Kwalifikacje VALUES (1977,'Kurs specjalistyczny - Szczepienia ochronne','4-25-87','Specjalizacja','Laguna Beach',3424);
-INSERT INTO Kwalifikacje VALUES (1978,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-12-84','Kurs specjalistyczny','Saipan',2966);
-INSERT INTO Kwalifikacje VALUES (1979,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-6-98','Studia doktoranckie','Aurora',3085);
-INSERT INTO Kwalifikacje VALUES (1980,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-26-87','Kurs specjalistyczny','Anaheim',3942);
-INSERT INTO Kwalifikacje VALUES (1981,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-14-15','Studia pielęgniarskie','Ponce',2514);
-INSERT INTO Kwalifikacje VALUES (1982,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-30-02','Kurs specjalistyczny','Auburn',4992);
-INSERT INTO Kwalifikacje VALUES (1983,'Studia pielęgniarskie','3-13-09','Specjalizacja','Rosemead',4598);
-INSERT INTO Kwalifikacje VALUES (1984,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-11-94','Studia doktoranckie','Hannibal',3499);
-INSERT INTO Kwalifikacje VALUES (1985,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-3-90','Specjalizacja','Dana Point',4277);
-INSERT INTO Kwalifikacje VALUES (1986,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-12-83','Kurs specjalistyczny','Inglewood',2714);
-INSERT INTO Kwalifikacje VALUES (1987,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-27-81','Szkolenie','Rocky Mount',4459);
-INSERT INTO Kwalifikacje VALUES (1988,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-5-04','Kurs kwalifikacyjny','Cerritos',3278);
-INSERT INTO Kwalifikacje VALUES (1989,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-11-89','Szkolenie','Saginaw',3795);
-INSERT INTO Kwalifikacje VALUES (1990,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-22-03','Szkolenie','Healdsburg',3166);
-INSERT INTO Kwalifikacje VALUES (1991,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-23-84','Studia pielęgniarskie','Irvine',3856);
-INSERT INTO Kwalifikacje VALUES (1992,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-30-14','Szkolenie','Corinth',3168);
-INSERT INTO Kwalifikacje VALUES (1993,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-4-87','Studia wyższe licencjackie','Malden',4055);
-INSERT INTO Kwalifikacje VALUES (1994,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-16-93','Kurs dokształcający','Sault Ste. Marie',4444);
-INSERT INTO Kwalifikacje VALUES (1995,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-8-04','Kurs dokształcający','Pittsfield',4680);
-INSERT INTO Kwalifikacje VALUES (1996,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-29-98','Szkolenie','Saginaw',3015);
-INSERT INTO Kwalifikacje VALUES (1997,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-15-98','Kurs kwalifikacyjny','Battle Creek',4637);
-INSERT INTO Kwalifikacje VALUES (1998,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-22-01','Kurs dokształcający','Biddeford',2748);
-INSERT INTO Kwalifikacje VALUES (1999,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-20-94','Studia doktoranckie','Laughlin',2704);
-INSERT INTO Kwalifikacje VALUES (2000,'Specjalizacja zawodowa','11-25-04','Szkolenie','Bell Gardens',3996);
-INSERT INTO Kwalifikacje VALUES (2001,'Kurs specjalistyczny – Terapia bólu','7-25-97','Kurs dokształcający','Ypsilanti',3724);
-INSERT INTO Kwalifikacje VALUES (2002,'Kurs specjalistyczny - Szczepienia ochronne','12-29-03','Specjalizacja','West Valley City',4581);
-INSERT INTO Kwalifikacje VALUES (2003,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-26-90','Specjalizacja','Utica',2959);
-INSERT INTO Kwalifikacje VALUES (2004,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-28-10','Kurs kwalifikacyjny','Grand Rapids',3640);
-INSERT INTO Kwalifikacje VALUES (2005,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-24-06','Studia doktoranckie','Idabel',4010);
-INSERT INTO Kwalifikacje VALUES (2006,'Studia mające zastosowanie w działalności podstawowej','3-27-01','Studia doktoranckie','Pine Bluff',2606);
-INSERT INTO Kwalifikacje VALUES (2007,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-20-93','Kurs specjalistyczny','White Plains',3349);
-INSERT INTO Kwalifikacje VALUES (2008,'Studia wyższe licencjackie','2-9-95','Studia wyższe licencjackie','Walla Walla',3887);
-INSERT INTO Kwalifikacje VALUES (2009,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-8-94','Studia wyższe licencjackie','Santa Clara',3755);
-INSERT INTO Kwalifikacje VALUES (2010,'Studia pielęgniarskie','3-2-98','Specjalizacja','Valdez',3469);
-INSERT INTO Kwalifikacje VALUES (2011,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-28-13','Studia doktoranckie','Nenana',3769);
-INSERT INTO Kwalifikacje VALUES (2012,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-5-00','Kurs specjalistyczny','Henderson',3936);
-INSERT INTO Kwalifikacje VALUES (2013,'Studia wyższe licencjackie','4-5-08','Studia doktoranckie','Shawnee',4225);
-INSERT INTO Kwalifikacje VALUES (2014,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-1-85','Kurs kwalifikacyjny','Tallahassee',4081);
-INSERT INTO Kwalifikacje VALUES (2015,'Studia pielęgniarskie','8-19-87','Kurs kwalifikacyjny','Brunswick',4315);
-INSERT INTO Kwalifikacje VALUES (2016,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-28-11','Studia pielęgniarskie','Moore',4555);
-INSERT INTO Kwalifikacje VALUES (2017,'Studia wyższe licencjackie','7-5-11','Specjalizacja','Logan',3855);
-INSERT INTO Kwalifikacje VALUES (2018,'Studia pielęgniarskie','10-28-95','Studia wyższe licencjackie','Longview',3235);
-INSERT INTO Kwalifikacje VALUES (2019,'Kurs specjalistyczny - Szczepienia ochronne','7-9-86','Specjalizacja','Moscow',3898);
-INSERT INTO Kwalifikacje VALUES (2020,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-17-92','Specjalizacja','Irving',4050);
-INSERT INTO Kwalifikacje VALUES (2021,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-13-06','Kurs specjalistyczny','Ypsilanti',3376);
-INSERT INTO Kwalifikacje VALUES (2022,'Kurs specjalistyczny – Terapia bólu','6-7-93','Kurs specjalistyczny','Cairo',4736);
-INSERT INTO Kwalifikacje VALUES (2023,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-19-96','Specjalizacja','Atlantic City',3747);
-INSERT INTO Kwalifikacje VALUES (2024,'Kurs specjalistyczny - Szczepienia ochronne','11-26-93','Studia doktoranckie','Christiansted',2875);
-INSERT INTO Kwalifikacje VALUES (2025,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-1-84','Kurs specjalistyczny','Rock Springs',4017);
-INSERT INTO Kwalifikacje VALUES (2026,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-29-01','Kurs specjalistyczny','Cohoes',2984);
-INSERT INTO Kwalifikacje VALUES (2027,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-16-94','Kurs kwalifikacyjny','Douglas',3679);
-INSERT INTO Kwalifikacje VALUES (2028,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-14-16','Specjalizacja','Memphis',3613);
-INSERT INTO Kwalifikacje VALUES (2029,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-18-00','Kurs dokształcający','Midland',3443);
-INSERT INTO Kwalifikacje VALUES (2030,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-30-85','Studia pielęgniarskie','Kalamazoo',3336);
-INSERT INTO Kwalifikacje VALUES (2031,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-10-14','Studia doktoranckie','Torrance',3959);
-INSERT INTO Kwalifikacje VALUES (2032,'Studia pielęgniarskie','12-10-98','Szkolenie','Villa Park',4483);
-INSERT INTO Kwalifikacje VALUES (2033,'Kurs specjalistyczny - Szczepienia ochronne','1-12-03','Specjalizacja','Rochester',2681);
-INSERT INTO Kwalifikacje VALUES (2034,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-29-95','Studia wyższe licencjackie','Calumet City',2759);
-INSERT INTO Kwalifikacje VALUES (2035,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-25-98','Kurs dokształcający','North Little Rock',3498);
-INSERT INTO Kwalifikacje VALUES (2036,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-15-99','Studia doktoranckie','Florence',3833);
-INSERT INTO Kwalifikacje VALUES (2037,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-22-87','Studia doktoranckie','Vacaville',3409);
-INSERT INTO Kwalifikacje VALUES (2038,'Studia doktoranckie','2-22-88','Kurs kwalifikacyjny','Cumberland',2964);
-INSERT INTO Kwalifikacje VALUES (2039,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-16-06','Specjalizacja','Bellflower',4203);
-INSERT INTO Kwalifikacje VALUES (2040,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-22-01','Studia doktoranckie','Provo',2907);
-INSERT INTO Kwalifikacje VALUES (2041,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-21-94','Kurs specjalistyczny','Dodge City',4230);
-INSERT INTO Kwalifikacje VALUES (2042,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-26-88','Studia doktoranckie','Santa Rosa',3166);
-INSERT INTO Kwalifikacje VALUES (2043,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-21-11','Specjalizacja','Scranton',2662);
-INSERT INTO Kwalifikacje VALUES (2044,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-2-94','Kurs dokształcający','Agoura Hills',3498);
-INSERT INTO Kwalifikacje VALUES (2045,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-8-95','Kurs specjalistyczny','Ruston',3072);
-INSERT INTO Kwalifikacje VALUES (2046,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-19-97','Szkolenie','Orlando',2590);
-INSERT INTO Kwalifikacje VALUES (2047,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-16-88','Studia doktoranckie','Jackson',4157);
-INSERT INTO Kwalifikacje VALUES (2048,'Studia pielęgniarskie','12-6-88','Specjalizacja','Carson City',4732);
-INSERT INTO Kwalifikacje VALUES (2049,'Specjalizacja zawodowa','11-13-02','Kurs dokształcający','New Iberia',4386);
-INSERT INTO Kwalifikacje VALUES (2050,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-19-91','Kurs specjalistyczny','Moline',2919);
-INSERT INTO Kwalifikacje VALUES (2051,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-25-00','Kurs kwalifikacyjny','Newcastle',3593);
-INSERT INTO Kwalifikacje VALUES (2052,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-27-14','Kurs kwalifikacyjny','Rutland',3222);
-INSERT INTO Kwalifikacje VALUES (2053,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-8-10','Specjalizacja','La Jolla',3850);
-INSERT INTO Kwalifikacje VALUES (2054,'Kurs specjalistyczny - Szczepienia ochronne','8-29-85','Kurs kwalifikacyjny','Dallas',4268);
-INSERT INTO Kwalifikacje VALUES (2055,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-21-01','Kurs dokształcający','Bandera',3536);
-INSERT INTO Kwalifikacje VALUES (2056,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-9-87','Specjalizacja','San Antonio',3105);
-INSERT INTO Kwalifikacje VALUES (2057,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-27-15','Specjalizacja','Pass Christian',3589);
-INSERT INTO Kwalifikacje VALUES (2058,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-26-82','Studia doktoranckie','Cedar Falls',3799);
-INSERT INTO Kwalifikacje VALUES (2059,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-8-88','Szkolenie','Fontana',3897);
-INSERT INTO Kwalifikacje VALUES (2060,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-19-06','Specjalizacja','Clairton',3895);
-INSERT INTO Kwalifikacje VALUES (2061,'Specjalizacja zawodowa','5-28-00','Studia wyższe licencjackie','San Mateo',3162);
-INSERT INTO Kwalifikacje VALUES (2062,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-18-12','Studia pielęgniarskie','Slidell',3794);
-INSERT INTO Kwalifikacje VALUES (2063,'Kurs specjalistyczny – Terapia bólu','3-1-08','Specjalizacja','Cudahy',4368);
-INSERT INTO Kwalifikacje VALUES (2064,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-4-06','Kurs dokształcający','Lexington',3485);
-INSERT INTO Kwalifikacje VALUES (2065,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-28-93','Szkolenie','Clairton',3138);
-INSERT INTO Kwalifikacje VALUES (2066,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-1-86','Kurs dokształcający','Gilbert',4763);
-INSERT INTO Kwalifikacje VALUES (2067,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-12-82','Studia wyższe licencjackie','Waltham',4487);
-INSERT INTO Kwalifikacje VALUES (2068,'Kurs specjalistyczny - Szczepienia ochronne','11-28-13','Studia doktoranckie','Valparaiso',3127);
-INSERT INTO Kwalifikacje VALUES (2069,'Studia mające zastosowanie w działalności podstawowej','8-31-98','Studia doktoranckie','Glens Falls',3141);
-INSERT INTO Kwalifikacje VALUES (2070,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-23-09','Kurs specjalistyczny','Bentonville',3605);
-INSERT INTO Kwalifikacje VALUES (2071,'Studia pielęgniarskie','9-25-99','Studia wyższe licencjackie','Villa Park',3981);
-INSERT INTO Kwalifikacje VALUES (2072,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-1-01','Kurs kwalifikacyjny','Gilette',4864);
-INSERT INTO Kwalifikacje VALUES (2073,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-18-96','Studia pielęgniarskie','Chickasha',4947);
-INSERT INTO Kwalifikacje VALUES (2074,'Kurs specjalistyczny – Terapia bólu','6-9-88','Studia wyższe licencjackie','Decatur',4429);
-INSERT INTO Kwalifikacje VALUES (2075,'Studia doktoranckie','11-18-93','Kurs dokształcający','Belpre',4730);
-INSERT INTO Kwalifikacje VALUES (2076,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-30-88','Kurs specjalistyczny','Pullman',3511);
-INSERT INTO Kwalifikacje VALUES (2077,'Kurs specjalistyczny - Szczepienia ochronne','9-10-99','Kurs specjalistyczny','Elsmere',4672);
-INSERT INTO Kwalifikacje VALUES (2078,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-13-98','Studia doktoranckie','Glendale',2607);
-INSERT INTO Kwalifikacje VALUES (2079,'Studia doktoranckie','11-29-87','Kurs specjalistyczny','Waukegan',4559);
-INSERT INTO Kwalifikacje VALUES (2080,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-15-83','Studia pielęgniarskie','Cape Girardeau',4568);
-INSERT INTO Kwalifikacje VALUES (2081,'Kurs specjalistyczny – Terapia bólu','11-5-11','Szkolenie','Gadsden',4200);
-INSERT INTO Kwalifikacje VALUES (2082,'Studia mające zastosowanie w działalności podstawowej','9-19-96','Kurs kwalifikacyjny','Scranton',4394);
-INSERT INTO Kwalifikacje VALUES (2083,'Kurs specjalistyczny – Terapia bólu','8-23-06','Kurs specjalistyczny','Hot Springs',3230);
-INSERT INTO Kwalifikacje VALUES (2084,'Studia wyższe licencjackie','9-17-10','Kurs dokształcający','Irwindale',3210);
-INSERT INTO Kwalifikacje VALUES (2085,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-6-08','Specjalizacja','Powell',3407);
-INSERT INTO Kwalifikacje VALUES (2086,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-16-02','Kurs dokształcający','Fulton',3535);
-INSERT INTO Kwalifikacje VALUES (2087,'Studia mające zastosowanie w działalności podstawowej','11-3-15','Szkolenie','Houma',3895);
-INSERT INTO Kwalifikacje VALUES (2088,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-30-11','Specjalizacja','Lexington',4239);
-INSERT INTO Kwalifikacje VALUES (2089,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-9-85','Studia pielęgniarskie','Camden',4746);
-INSERT INTO Kwalifikacje VALUES (2090,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-12-05','Studia pielęgniarskie','Enid',4475);
-INSERT INTO Kwalifikacje VALUES (2091,'Kurs specjalistyczny – Terapia bólu','3-8-86','Studia doktoranckie','North Platte',3301);
-INSERT INTO Kwalifikacje VALUES (2092,'Studia pielęgniarskie','8-13-84','Specjalizacja','Perth Amboy',3021);
-INSERT INTO Kwalifikacje VALUES (2093,'Kurs specjalistyczny - Szczepienia ochronne','7-31-10','Szkolenie','Ogdensburg',3594);
-INSERT INTO Kwalifikacje VALUES (2094,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-31-10','Studia doktoranckie','Opelousas',4381);
-INSERT INTO Kwalifikacje VALUES (2095,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-21-85','Specjalizacja','Manhattan Beach',4286);
-INSERT INTO Kwalifikacje VALUES (2096,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-28-97','Kurs kwalifikacyjny','Needham',2911);
-INSERT INTO Kwalifikacje VALUES (2097,'Studia mające zastosowanie w działalności podstawowej','3-28-81','Specjalizacja','Laguna Hills',2948);
-INSERT INTO Kwalifikacje VALUES (2098,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-26-83','Studia wyższe licencjackie','Ansonia',3291);
-INSERT INTO Kwalifikacje VALUES (2099,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-16-86','Studia doktoranckie','Westfield',4868);
-INSERT INTO Kwalifikacje VALUES (2100,'Kurs specjalistyczny – Terapia bólu','7-28-82','Specjalizacja','Egg Harbor',4712);
-INSERT INTO Kwalifikacje VALUES (2101,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-4-16','Studia doktoranckie','Franklin',4996);
-INSERT INTO Kwalifikacje VALUES (2102,'Studia wyższe licencjackie','5-12-94','Studia pielęgniarskie','Cohoes',4228);
-INSERT INTO Kwalifikacje VALUES (2103,'Specjalizacja zawodowa','8-9-08','Kurs dokształcający','Wisconsin Rapids',4539);
-INSERT INTO Kwalifikacje VALUES (2104,'Kurs specjalistyczny - Szczepienia ochronne','12-8-98','Specjalizacja','Thibodaux',3024);
-INSERT INTO Kwalifikacje VALUES (2105,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-26-00','Kurs kwalifikacyjny','Cudahy',4373);
-INSERT INTO Kwalifikacje VALUES (2106,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-29-05','Specjalizacja','Aberdeen',4206);
-INSERT INTO Kwalifikacje VALUES (2107,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-15-92','Studia doktoranckie','Independence',3689);
-INSERT INTO Kwalifikacje VALUES (2108,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-27-14','Kurs dokształcający','Vallejo',4323);
-INSERT INTO Kwalifikacje VALUES (2109,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-13-93','Studia pielęgniarskie','Sacramento',3888);
-INSERT INTO Kwalifikacje VALUES (2110,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-5-84','Szkolenie','Coatesville',2672);
-INSERT INTO Kwalifikacje VALUES (2111,'Studia doktoranckie','5-11-14','Studia doktoranckie','Caguas',4345);
-INSERT INTO Kwalifikacje VALUES (2112,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-23-05','Specjalizacja','Camden',4022);
-INSERT INTO Kwalifikacje VALUES (2113,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-9-97','Kurs specjalistyczny','Oswego',2776);
-INSERT INTO Kwalifikacje VALUES (2114,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-31-96','Specjalizacja','Natchez',3466);
-INSERT INTO Kwalifikacje VALUES (2115,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-12-08','Studia doktoranckie','Rawlins',3333);
-INSERT INTO Kwalifikacje VALUES (2116,'Studia doktoranckie','3-19-14','Szkolenie','Bowling Green',2941);
-INSERT INTO Kwalifikacje VALUES (2117,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-16-03','Kurs kwalifikacyjny','Auburn',4245);
-INSERT INTO Kwalifikacje VALUES (2118,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-4-94','Kurs specjalistyczny','South Portland',3776);
-INSERT INTO Kwalifikacje VALUES (2119,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-14-14','Szkolenie','Cudahy',2882);
-INSERT INTO Kwalifikacje VALUES (2120,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-26-89','Szkolenie','Oswego',4411);
-INSERT INTO Kwalifikacje VALUES (2121,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-21-16','Kurs kwalifikacyjny','Hamilton',4705);
-INSERT INTO Kwalifikacje VALUES (2122,'Studia wyższe licencjackie','12-10-13','Studia wyższe licencjackie','Glen Cove',4654);
-INSERT INTO Kwalifikacje VALUES (2123,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-26-81','Specjalizacja','El Paso',4654);
-INSERT INTO Kwalifikacje VALUES (2124,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-5-00','Szkolenie','Easthampton',3665);
-INSERT INTO Kwalifikacje VALUES (2125,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-14-84','Specjalizacja','Palo Alto',2654);
-INSERT INTO Kwalifikacje VALUES (2126,'Kurs specjalistyczny - Szczepienia ochronne','10-26-89','Studia doktoranckie','Layton',3156);
-INSERT INTO Kwalifikacje VALUES (2127,'Kurs specjalistyczny - Szczepienia ochronne','8-28-97','Studia wyższe licencjackie','Wilkes-Barre',3419);
-INSERT INTO Kwalifikacje VALUES (2128,'Studia doktoranckie','4-18-83','Studia pielęgniarskie','Plattsburgh',2626);
-INSERT INTO Kwalifikacje VALUES (2129,'Kurs specjalistyczny – Terapia bólu','10-18-01','Studia wyższe licencjackie','Sutter Creek',4083);
-INSERT INTO Kwalifikacje VALUES (2130,'Studia pielęgniarskie','1-7-91','Kurs kwalifikacyjny','Glendora',3819);
-INSERT INTO Kwalifikacje VALUES (2131,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-7-08','Studia doktoranckie','Lawrenceville',3393);
-INSERT INTO Kwalifikacje VALUES (2132,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-3-87','Kurs dokształcający','Elmira',4203);
-INSERT INTO Kwalifikacje VALUES (2133,'Kurs specjalistyczny – Terapia bólu','8-5-96','Kurs specjalistyczny','Riverside',4248);
-INSERT INTO Kwalifikacje VALUES (2134,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-8-92','Szkolenie','Sonoma',4790);
-INSERT INTO Kwalifikacje VALUES (2135,'Studia wyższe licencjackie','12-8-94','Specjalizacja','Compton',3464);
-INSERT INTO Kwalifikacje VALUES (2136,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-2-93','Kurs specjalistyczny','Leominster',4173);
-INSERT INTO Kwalifikacje VALUES (2137,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-25-90','Szkolenie','Rocky Mount',4971);
-INSERT INTO Kwalifikacje VALUES (2138,'Studia wyższe licencjackie','9-27-92','Kurs kwalifikacyjny','Las Vegas',4393);
-INSERT INTO Kwalifikacje VALUES (2139,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-24-12','Studia doktoranckie','Oro Valley',3834);
-INSERT INTO Kwalifikacje VALUES (2140,'Kurs specjalistyczny – Terapia bólu','5-22-93','Studia wyższe licencjackie','Lawton',2978);
-INSERT INTO Kwalifikacje VALUES (2141,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-24-93','Studia pielęgniarskie','Tamuning',2972);
-INSERT INTO Kwalifikacje VALUES (2142,'Studia pielęgniarskie','5-2-98','Specjalizacja','Macomb',4223);
-INSERT INTO Kwalifikacje VALUES (2143,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-16-05','Studia pielęgniarskie','Sedalia',2753);
-INSERT INTO Kwalifikacje VALUES (2144,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-1-06','Specjalizacja','Oneonta',3209);
-INSERT INTO Kwalifikacje VALUES (2145,'Kurs specjalistyczny – Terapia bólu','10-31-98','Szkolenie','Stockton',3848);
-INSERT INTO Kwalifikacje VALUES (2146,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-28-93','Studia wyższe licencjackie','Fountain Valley',4439);
-INSERT INTO Kwalifikacje VALUES (2147,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-8-81','Kurs specjalistyczny','Saginaw',2621);
-INSERT INTO Kwalifikacje VALUES (2148,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-11-83','Studia pielęgniarskie','Eugene',3410);
-INSERT INTO Kwalifikacje VALUES (2149,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-22-12','Specjalizacja','Covina',4130);
-INSERT INTO Kwalifikacje VALUES (2150,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-25-05','Specjalizacja','Jamestown',3275);
-INSERT INTO Kwalifikacje VALUES (2151,'Studia doktoranckie','7-11-97','Kurs dokształcający','Parker',3250);
-INSERT INTO Kwalifikacje VALUES (2152,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-18-01','Studia wyższe licencjackie','Enid',3500);
-INSERT INTO Kwalifikacje VALUES (2153,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-5-06','Szkolenie','Beacon',2755);
-INSERT INTO Kwalifikacje VALUES (2154,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-23-12','Kurs specjalistyczny','Plymouth',3734);
-INSERT INTO Kwalifikacje VALUES (2155,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-2-13','Szkolenie','Fontana',2934);
-INSERT INTO Kwalifikacje VALUES (2156,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-31-03','Kurs specjalistyczny','Rolla',4551);
-INSERT INTO Kwalifikacje VALUES (2157,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-13-08','Szkolenie','Falls Church',4208);
-INSERT INTO Kwalifikacje VALUES (2158,'Kurs specjalistyczny - Szczepienia ochronne','5-30-05','Specjalizacja','Saint Albans',4485);
-INSERT INTO Kwalifikacje VALUES (2159,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-6-13','Szkolenie','Blythe',4883);
-INSERT INTO Kwalifikacje VALUES (2160,'Studia wyższe licencjackie','11-25-10','Studia wyższe licencjackie','Palmdale',4686);
-INSERT INTO Kwalifikacje VALUES (2161,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-30-03','Kurs dokształcający','Clarksburg',4362);
-INSERT INTO Kwalifikacje VALUES (2162,'Kurs specjalistyczny - Szczepienia ochronne','8-15-82','Kurs kwalifikacyjny','Martinsburg',3165);
-INSERT INTO Kwalifikacje VALUES (2163,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-7-90','Studia wyższe licencjackie','Saint Louis',4295);
-INSERT INTO Kwalifikacje VALUES (2164,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-22-85','Specjalizacja','Valparaiso',3680);
-INSERT INTO Kwalifikacje VALUES (2165,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-15-95','Specjalizacja','Hilo',4007);
-INSERT INTO Kwalifikacje VALUES (2166,'Kurs specjalistyczny – Terapia bólu','10-28-00','Specjalizacja','Aberdeen',3257);
-INSERT INTO Kwalifikacje VALUES (2167,'Studia pielęgniarskie','2-18-08','Szkolenie','Chelsea',4114);
-INSERT INTO Kwalifikacje VALUES (2168,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-6-03','Kurs dokształcający','Hanahan',4744);
-INSERT INTO Kwalifikacje VALUES (2169,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-8-03','Specjalizacja','Cedar Falls',3704);
-INSERT INTO Kwalifikacje VALUES (2170,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-28-91','Kurs kwalifikacyjny','Natchitoches',4857);
-INSERT INTO Kwalifikacje VALUES (2171,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-15-12','Kurs dokształcający','Idaho Springs',4691);
-INSERT INTO Kwalifikacje VALUES (2172,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-27-85','Kurs kwalifikacyjny','Kenosha',3512);
-INSERT INTO Kwalifikacje VALUES (2173,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-7-97','Studia wyższe licencjackie','Winston-Salem',2959);
-INSERT INTO Kwalifikacje VALUES (2174,'Studia wyższe licencjackie','1-18-05','Kurs kwalifikacyjny','Alhambra',3542);
-INSERT INTO Kwalifikacje VALUES (2175,'Kurs specjalistyczny - Szczepienia ochronne','11-1-03','Szkolenie','International Falls',4025);
-INSERT INTO Kwalifikacje VALUES (2176,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-10-94','Szkolenie','Joliet',2735);
-INSERT INTO Kwalifikacje VALUES (2177,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-20-13','Studia wyższe licencjackie','South El Monte',4669);
-INSERT INTO Kwalifikacje VALUES (2178,'Kurs specjalistyczny – Terapia bólu','2-24-92','Kurs kwalifikacyjny','City of Industry',2984);
-INSERT INTO Kwalifikacje VALUES (2179,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-16-84','Kurs kwalifikacyjny','Plantation',2986);
-INSERT INTO Kwalifikacje VALUES (2180,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-31-07','Studia wyższe licencjackie','Fairfax',2999);
-INSERT INTO Kwalifikacje VALUES (2181,'Studia doktoranckie','1-27-04','Kurs specjalistyczny','Rancho Santa Margarita',4935);
-INSERT INTO Kwalifikacje VALUES (2182,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-17-89','Szkolenie','West Valley City',3068);
-INSERT INTO Kwalifikacje VALUES (2183,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-29-08','Studia pielęgniarskie','The Dalles',3005);
-INSERT INTO Kwalifikacje VALUES (2184,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-11-94','Specjalizacja','Savannah',3018);
-INSERT INTO Kwalifikacje VALUES (2185,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-28-98','Szkolenie','Waltham',3164);
-INSERT INTO Kwalifikacje VALUES (2186,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-15-06','Studia wyższe licencjackie','Riverton',3320);
-INSERT INTO Kwalifikacje VALUES (2187,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-3-97','Szkolenie','Clovis',4645);
-INSERT INTO Kwalifikacje VALUES (2188,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-31-88','Kurs dokształcający','Yonkers',4757);
-INSERT INTO Kwalifikacje VALUES (2189,'Studia pielęgniarskie','9-27-85','Kurs kwalifikacyjny','Sioux City',3466);
-INSERT INTO Kwalifikacje VALUES (2190,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-5-87','Specjalizacja','Waco',4356);
-INSERT INTO Kwalifikacje VALUES (2191,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-17-85','Specjalizacja','Gold Beach',2573);
-INSERT INTO Kwalifikacje VALUES (2192,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-17-89','Studia wyższe licencjackie','Macomb',3814);
-INSERT INTO Kwalifikacje VALUES (2193,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-10-90','Studia pielęgniarskie','Guánica',3458);
-INSERT INTO Kwalifikacje VALUES (2194,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-7-94','Studia doktoranckie','Middletown',4321);
-INSERT INTO Kwalifikacje VALUES (2195,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-22-07','Studia doktoranckie','Lander',3008);
-INSERT INTO Kwalifikacje VALUES (2196,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-13-15','Studia wyższe licencjackie','La Cañada Flintridge',4257);
-INSERT INTO Kwalifikacje VALUES (2197,'Kurs specjalistyczny – Terapia bólu','3-29-82','Studia wyższe licencjackie','Enfield',3082);
-INSERT INTO Kwalifikacje VALUES (2198,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-7-01','Studia wyższe licencjackie','McAllen',4729);
-INSERT INTO Kwalifikacje VALUES (2199,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-7-09','Studia wyższe licencjackie','Green River',2605);
-INSERT INTO Kwalifikacje VALUES (2200,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-9-93','Kurs kwalifikacyjny','Waukegan',4420);
-INSERT INTO Kwalifikacje VALUES (2201,'Studia wyższe licencjackie','12-2-01','Studia pielęgniarskie','Methuen',3932);
-INSERT INTO Kwalifikacje VALUES (2202,'Studia doktoranckie','4-9-08','Kurs dokształcający','Titusville',4655);
-INSERT INTO Kwalifikacje VALUES (2203,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-9-90','Studia wyższe licencjackie','South El Monte',4828);
-INSERT INTO Kwalifikacje VALUES (2204,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-5-99','Studia wyższe licencjackie','Beckley',4829);
-INSERT INTO Kwalifikacje VALUES (2205,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-3-97','Studia wyższe licencjackie','Texas City',3797);
-INSERT INTO Kwalifikacje VALUES (2206,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-18-10','Specjalizacja','Hollister',3496);
-INSERT INTO Kwalifikacje VALUES (2207,'Kurs specjalistyczny – Terapia bólu','12-29-84','Kurs specjalistyczny','Oklahoma City',2839);
-INSERT INTO Kwalifikacje VALUES (2208,'Studia pielęgniarskie','3-28-91','Szkolenie','Decatur',4493);
-INSERT INTO Kwalifikacje VALUES (2209,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-11-86','Kurs dokształcający','Columbia',4445);
-INSERT INTO Kwalifikacje VALUES (2210,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-3-03','Kurs dokształcający','Davis',3002);
-INSERT INTO Kwalifikacje VALUES (2211,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-16-16','Studia wyższe licencjackie','Cape May',4150);
-INSERT INTO Kwalifikacje VALUES (2212,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-17-01','Kurs specjalistyczny','Yukon',3001);
-INSERT INTO Kwalifikacje VALUES (2213,'Specjalizacja zawodowa','8-9-92','Kurs specjalistyczny','Bowling Green',3355);
-INSERT INTO Kwalifikacje VALUES (2214,'Studia doktoranckie','3-29-12','Kurs dokształcający','Bloomington',3042);
-INSERT INTO Kwalifikacje VALUES (2215,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-19-01','Kurs dokształcający','Galveston',4490);
-INSERT INTO Kwalifikacje VALUES (2216,'Studia pielęgniarskie','8-16-93','Szkolenie','Chicopee',2754);
-INSERT INTO Kwalifikacje VALUES (2217,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-7-11','Kurs dokształcający','Frankfort',3556);
-INSERT INTO Kwalifikacje VALUES (2218,'Studia pielęgniarskie','7-26-91','Kurs specjalistyczny','Valdez',4751);
-INSERT INTO Kwalifikacje VALUES (2219,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-30-97','Kurs kwalifikacyjny','Compton',3545);
-INSERT INTO Kwalifikacje VALUES (2220,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-26-94','Specjalizacja','Marietta',4383);
-INSERT INTO Kwalifikacje VALUES (2221,'Specjalizacja zawodowa','9-19-81','Specjalizacja','Stamford',3509);
-INSERT INTO Kwalifikacje VALUES (2222,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-4-90','Studia wyższe licencjackie','Chula Vista',3942);
-INSERT INTO Kwalifikacje VALUES (2223,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-5-00','Studia pielęgniarskie','New Albany',3352);
-INSERT INTO Kwalifikacje VALUES (2224,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-10-98','Studia doktoranckie','Hickory',2791);
-INSERT INTO Kwalifikacje VALUES (2225,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-16-87','Studia pielęgniarskie','Menomonee Falls',2536);
-INSERT INTO Kwalifikacje VALUES (2226,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-26-15','Kurs dokształcający','Columbus',4321);
-INSERT INTO Kwalifikacje VALUES (2227,'Specjalizacja zawodowa','9-16-86','Studia pielęgniarskie','Spokane',4319);
-INSERT INTO Kwalifikacje VALUES (2228,'Studia pielęgniarskie','1-7-15','Kurs dokształcający','Salinas',2735);
-INSERT INTO Kwalifikacje VALUES (2229,'Kurs specjalistyczny – Terapia bólu','3-15-89','Kurs dokształcający','The Dalles',4480);
-INSERT INTO Kwalifikacje VALUES (2230,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-12-88','Specjalizacja','Corry',4393);
-INSERT INTO Kwalifikacje VALUES (2231,'Studia pielęgniarskie','7-20-94','Studia wyższe licencjackie','Miami',4507);
-INSERT INTO Kwalifikacje VALUES (2232,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-18-92','Specjalizacja','Elizabeth City',3806);
-INSERT INTO Kwalifikacje VALUES (2233,'Studia wyższe licencjackie','2-4-81','Studia wyższe licencjackie','Corry',3760);
-INSERT INTO Kwalifikacje VALUES (2234,'Studia pielęgniarskie','11-7-87','Studia pielęgniarskie','Glen Cove',3259);
-INSERT INTO Kwalifikacje VALUES (2235,'Studia doktoranckie','11-3-04','Studia wyższe licencjackie','Mandan',4890);
-INSERT INTO Kwalifikacje VALUES (2236,'Kurs specjalistyczny – Terapia bólu','6-22-03','Kurs specjalistyczny','Scottsbluff',2909);
-INSERT INTO Kwalifikacje VALUES (2237,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-6-95','Kurs kwalifikacyjny','Temecula',3796);
-INSERT INTO Kwalifikacje VALUES (2238,'Kurs specjalistyczny – Terapia bólu','4-6-91','Szkolenie','Galveston',2784);
-INSERT INTO Kwalifikacje VALUES (2239,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-6-92','Specjalizacja','Wisconsin Rapids',3116);
-INSERT INTO Kwalifikacje VALUES (2240,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-17-06','Studia doktoranckie','Lakewood',3049);
-INSERT INTO Kwalifikacje VALUES (2241,'Studia mające zastosowanie w działalności podstawowej','4-11-15','Szkolenie','Hermosa Beach',4490);
-INSERT INTO Kwalifikacje VALUES (2242,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-24-03','Studia pielęgniarskie','Suffolk',3054);
-INSERT INTO Kwalifikacje VALUES (2243,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-2-90','Kurs dokształcający','Plainfield',2536);
-INSERT INTO Kwalifikacje VALUES (2244,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-16-80','Studia doktoranckie','Duarte',3346);
-INSERT INTO Kwalifikacje VALUES (2245,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-30-08','Studia pielęgniarskie','Eatontown',4814);
-INSERT INTO Kwalifikacje VALUES (2246,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-17-98','Kurs specjalistyczny','Sharon',4597);
-INSERT INTO Kwalifikacje VALUES (2247,'Studia pielęgniarskie','2-7-83','Studia pielęgniarskie','Moorhead',3710);
-INSERT INTO Kwalifikacje VALUES (2248,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-5-92','Specjalizacja','Altoona',2767);
-INSERT INTO Kwalifikacje VALUES (2249,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-11-84','Specjalizacja','Benton Harbor',3824);
-INSERT INTO Kwalifikacje VALUES (2250,'Studia doktoranckie','9-3-99','Studia doktoranckie','Indianapolis',4558);
-INSERT INTO Kwalifikacje VALUES (2251,'Kurs specjalistyczny – Terapia bólu','7-9-88','Studia pielęgniarskie','Plainfield',3817);
-INSERT INTO Kwalifikacje VALUES (2252,'Studia pielęgniarskie','9-11-04','Specjalizacja','Pulaski',3083);
-INSERT INTO Kwalifikacje VALUES (2253,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-14-83','Kurs specjalistyczny','Wilkes-Barre',3651);
-INSERT INTO Kwalifikacje VALUES (2254,'Kurs specjalistyczny – Terapia bólu','2-13-89','Kurs dokształcający','Bowie',4420);
-INSERT INTO Kwalifikacje VALUES (2255,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-25-09','Studia wyższe licencjackie','Cody',3323);
-INSERT INTO Kwalifikacje VALUES (2256,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-13-83','Specjalizacja','Utica',3059);
-INSERT INTO Kwalifikacje VALUES (2257,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-27-86','Studia doktoranckie','Davenport',3432);
-INSERT INTO Kwalifikacje VALUES (2258,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-12-89','Kurs specjalistyczny','Meridian',3847);
-INSERT INTO Kwalifikacje VALUES (2259,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-12-14','Studia wyższe licencjackie','Lodi',3118);
-INSERT INTO Kwalifikacje VALUES (2260,'Studia pielęgniarskie','4-15-88','Studia pielęgniarskie','New Castle',4437);
-INSERT INTO Kwalifikacje VALUES (2261,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-11-02','Kurs specjalistyczny','Wheaton',3611);
-INSERT INTO Kwalifikacje VALUES (2262,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-3-03','Kurs specjalistyczny','Easthampton',3137);
-INSERT INTO Kwalifikacje VALUES (2263,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-10-85','Szkolenie','Council Bluffs',2700);
-INSERT INTO Kwalifikacje VALUES (2264,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-7-96','Kurs kwalifikacyjny','Cairo',4009);
-INSERT INTO Kwalifikacje VALUES (2265,'Kurs specjalistyczny – Terapia bólu','6-26-13','Studia doktoranckie','Manassas Park',2607);
-INSERT INTO Kwalifikacje VALUES (2266,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-10-88','Szkolenie','Baltimore',4081);
-INSERT INTO Kwalifikacje VALUES (2267,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-11-12','Kurs kwalifikacyjny','Rocky Mount',2548);
-INSERT INTO Kwalifikacje VALUES (2268,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-4-02','Studia wyższe licencjackie','Pittston',3996);
-INSERT INTO Kwalifikacje VALUES (2269,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-14-97','Studia pielęgniarskie','Crown Point',2555);
-INSERT INTO Kwalifikacje VALUES (2270,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-20-11','Kurs kwalifikacyjny','Beaumont',2704);
-INSERT INTO Kwalifikacje VALUES (2271,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-21-82','Studia doktoranckie','Murray',3279);
-INSERT INTO Kwalifikacje VALUES (2272,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-9-12','Studia wyższe licencjackie','Batavia',4547);
-INSERT INTO Kwalifikacje VALUES (2273,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-24-98','Kurs specjalistyczny','Carrollton',4221);
-INSERT INTO Kwalifikacje VALUES (2274,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-25-96','Studia doktoranckie','Huntington Beach',2810);
-INSERT INTO Kwalifikacje VALUES (2275,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-27-88','Specjalizacja','Lock Haven',2983);
-INSERT INTO Kwalifikacje VALUES (2276,'Studia wyższe licencjackie','10-17-00','Specjalizacja','Holyoke',3540);
-INSERT INTO Kwalifikacje VALUES (2277,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-21-98','Studia pielęgniarskie','Sonoma',4672);
-INSERT INTO Kwalifikacje VALUES (2278,'Studia wyższe licencjackie','11-28-82','Specjalizacja','Newton',3865);
-INSERT INTO Kwalifikacje VALUES (2279,'Studia doktoranckie','12-2-13','Studia doktoranckie','Nogales',3766);
-INSERT INTO Kwalifikacje VALUES (2280,'Studia mające zastosowanie w działalności podstawowej','3-19-06','Kurs specjalistyczny','Trenton',3600);
-INSERT INTO Kwalifikacje VALUES (2281,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-10-15','Specjalizacja','Burlingame',4135);
-INSERT INTO Kwalifikacje VALUES (2282,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-6-95','Kurs specjalistyczny','Atlanta',4965);
-INSERT INTO Kwalifikacje VALUES (2283,'Studia pielęgniarskie','4-15-82','Studia wyższe licencjackie','Aberdeen',2954);
-INSERT INTO Kwalifikacje VALUES (2284,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-20-04','Specjalizacja','Phenix City',2652);
-INSERT INTO Kwalifikacje VALUES (2285,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-23-93','Specjalizacja','Racine',4127);
-INSERT INTO Kwalifikacje VALUES (2286,'Studia mające zastosowanie w działalności podstawowej','1-10-06','Kurs kwalifikacyjny','Chino Hills',3094);
-INSERT INTO Kwalifikacje VALUES (2287,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-9-97','Kurs dokształcający','Signal Hill',3947);
-INSERT INTO Kwalifikacje VALUES (2288,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-30-98','Studia pielęgniarskie','Abilene',2637);
-INSERT INTO Kwalifikacje VALUES (2289,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-7-11','Szkolenie','Houma',3227);
-INSERT INTO Kwalifikacje VALUES (2290,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-5-86','Studia doktoranckie','Needham',2896);
-INSERT INTO Kwalifikacje VALUES (2291,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-9-84','Kurs kwalifikacyjny','Merizo',2741);
-INSERT INTO Kwalifikacje VALUES (2292,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-17-09','Studia pielęgniarskie','City of Industry',4889);
-INSERT INTO Kwalifikacje VALUES (2293,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-11-15','Szkolenie','Kankakee',3344);
-INSERT INTO Kwalifikacje VALUES (2294,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-5-81','Studia pielęgniarskie','Monterey Park',4650);
-INSERT INTO Kwalifikacje VALUES (2295,'Specjalizacja zawodowa','1-21-07','Studia pielęgniarskie','Compton',4697);
-INSERT INTO Kwalifikacje VALUES (2296,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-2-04','Kurs specjalistyczny','Corinth',3105);
-INSERT INTO Kwalifikacje VALUES (2297,'Studia wyższe licencjackie','7-19-80','Szkolenie','Lawrence',2767);
-INSERT INTO Kwalifikacje VALUES (2298,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-21-83','Szkolenie','Lewiston',2520);
-INSERT INTO Kwalifikacje VALUES (2299,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-22-88','Studia wyższe licencjackie','Azusa',4328);
-INSERT INTO Kwalifikacje VALUES (2300,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-14-05','Specjalizacja','Annapolis',4015);
-INSERT INTO Kwalifikacje VALUES (2301,'Studia pielęgniarskie','9-22-80','Studia wyższe licencjackie','Grand Island',3035);
-INSERT INTO Kwalifikacje VALUES (2302,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-27-99','Specjalizacja','Brea',2531);
-INSERT INTO Kwalifikacje VALUES (2303,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-14-95','Szkolenie','Columbus',4127);
-INSERT INTO Kwalifikacje VALUES (2304,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-7-13','Kurs dokształcający','Pendleton',3278);
-INSERT INTO Kwalifikacje VALUES (2305,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-20-98','Kurs specjalistyczny','Ithaca',4810);
-INSERT INTO Kwalifikacje VALUES (2306,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-18-81','Studia doktoranckie','Merizo',4338);
-INSERT INTO Kwalifikacje VALUES (2307,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-27-97','Studia wyższe licencjackie','Brown Deer',4179);
-INSERT INTO Kwalifikacje VALUES (2308,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-16-93','Kurs dokształcający','McKeesport',2699);
-INSERT INTO Kwalifikacje VALUES (2309,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-22-84','Studia wyższe licencjackie','Nashua',4436);
-INSERT INTO Kwalifikacje VALUES (2310,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-22-97','Kurs specjalistyczny','Fort Dodge',4552);
-INSERT INTO Kwalifikacje VALUES (2311,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-24-89','Kurs specjalistyczny','Carson City',4363);
-INSERT INTO Kwalifikacje VALUES (2312,'Studia wyższe licencjackie','8-7-90','Studia pielęgniarskie','Loudon',3105);
-INSERT INTO Kwalifikacje VALUES (2313,'Studia mające zastosowanie w działalności podstawowej','11-17-03','Kurs dokształcający','Cedar Rapids',4655);
-INSERT INTO Kwalifikacje VALUES (2314,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-9-88','Kurs kwalifikacyjny','South Bend',2573);
-INSERT INTO Kwalifikacje VALUES (2315,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-2-10','Specjalizacja','Middletown',3300);
-INSERT INTO Kwalifikacje VALUES (2316,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-14-94','Studia pielęgniarskie','Waco',3792);
-INSERT INTO Kwalifikacje VALUES (2317,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-9-97','Kurs kwalifikacyjny','Starkville',2816);
-INSERT INTO Kwalifikacje VALUES (2318,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-22-03','Kurs dokształcający','Muskogee',3792);
-INSERT INTO Kwalifikacje VALUES (2319,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-12-83','Specjalizacja','Springdale',3920);
-INSERT INTO Kwalifikacje VALUES (2320,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-14-05','Szkolenie','Pocatello',4429);
-INSERT INTO Kwalifikacje VALUES (2321,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','7-8-00','Kurs specjalistyczny','Martinsburg',4648);
-INSERT INTO Kwalifikacje VALUES (2322,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-1-11','Studia pielęgniarskie','Cody',2892);
-INSERT INTO Kwalifikacje VALUES (2323,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-16-00','Kurs specjalistyczny','Port Jervis',4400);
-INSERT INTO Kwalifikacje VALUES (2324,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-24-02','Szkolenie','Kearns',3490);
-INSERT INTO Kwalifikacje VALUES (2325,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-20-11','Studia doktoranckie','Lahaina',3694);
-INSERT INTO Kwalifikacje VALUES (2326,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-23-10','Kurs dokształcający','Chickasha',3297);
-INSERT INTO Kwalifikacje VALUES (2327,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-18-96','Szkolenie','Annapolis',3401);
-INSERT INTO Kwalifikacje VALUES (2328,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-5-15','Specjalizacja','Pomona',3596);
-INSERT INTO Kwalifikacje VALUES (2329,'Studia wyższe licencjackie','7-14-82','Studia pielęgniarskie','Williston',3249);
-INSERT INTO Kwalifikacje VALUES (2330,'Specjalizacja zawodowa','12-31-80','Kurs kwalifikacyjny','Biddeford',4925);
-INSERT INTO Kwalifikacje VALUES (2331,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-17-96','Szkolenie','Union City',4827);
-INSERT INTO Kwalifikacje VALUES (2332,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-9-03','Studia wyższe licencjackie','Huntington Park',3734);
-INSERT INTO Kwalifikacje VALUES (2333,'Studia pielęgniarskie','11-25-96','Kurs specjalistyczny','Hot Springs',2543);
-INSERT INTO Kwalifikacje VALUES (2334,'Specjalizacja zawodowa','7-22-87','Studia doktoranckie','Erie',4529);
-INSERT INTO Kwalifikacje VALUES (2335,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-12-15','Szkolenie','Valdez',4380);
-INSERT INTO Kwalifikacje VALUES (2336,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-16-13','Studia pielęgniarskie','Jefferson City',2629);
-INSERT INTO Kwalifikacje VALUES (2337,'Specjalizacja zawodowa','6-14-05','Kurs specjalistyczny','Santa Clarita',4895);
-INSERT INTO Kwalifikacje VALUES (2338,'Studia pielęgniarskie','8-10-83','Kurs dokształcający','Newport Beach',4204);
-INSERT INTO Kwalifikacje VALUES (2339,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-29-04','Kurs kwalifikacyjny','Falls Church',4210);
-INSERT INTO Kwalifikacje VALUES (2340,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-27-03','Szkolenie','Princeton',4522);
-INSERT INTO Kwalifikacje VALUES (2341,'Studia doktoranckie','2-14-08','Specjalizacja','Bloomington',4659);
-INSERT INTO Kwalifikacje VALUES (2342,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-10-83','Kurs specjalistyczny','Little Rock',2774);
-INSERT INTO Kwalifikacje VALUES (2343,'Studia mające zastosowanie w działalności podstawowej','8-13-91','Studia pielęgniarskie','New Kensington',3788);
-INSERT INTO Kwalifikacje VALUES (2344,'Studia pielęgniarskie','10-6-90','Studia pielęgniarskie','Elkhart',3121);
-INSERT INTO Kwalifikacje VALUES (2345,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-9-80','Specjalizacja','Brown Deer',4290);
-INSERT INTO Kwalifikacje VALUES (2346,'Studia wyższe licencjackie','1-7-86','Kurs specjalistyczny','Springfield',3392);
-INSERT INTO Kwalifikacje VALUES (2347,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-27-00','Studia wyższe licencjackie','Chicopee',2976);
-INSERT INTO Kwalifikacje VALUES (2348,'Studia doktoranckie','12-4-06','Studia wyższe licencjackie','La Habra',3182);
-INSERT INTO Kwalifikacje VALUES (2349,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-7-02','Specjalizacja','Moraga',2512);
-INSERT INTO Kwalifikacje VALUES (2350,'Studia pielęgniarskie','4-27-82','Kurs kwalifikacyjny','Columbus',3671);
-INSERT INTO Kwalifikacje VALUES (2351,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','2-11-89','Studia doktoranckie','Jordan Valley',3702);
-INSERT INTO Kwalifikacje VALUES (2352,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-17-96','Studia pielęgniarskie','Warner Robins',4865);
-INSERT INTO Kwalifikacje VALUES (2353,'Studia pielęgniarskie','4-22-93','Studia doktoranckie','Philadelphia',3203);
-INSERT INTO Kwalifikacje VALUES (2354,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-21-10','Kurs dokształcający','Scranton',2904);
-INSERT INTO Kwalifikacje VALUES (2355,'Specjalizacja zawodowa','6-18-86','Studia wyższe licencjackie','Canton',4194);
-INSERT INTO Kwalifikacje VALUES (2356,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-16-95','Kurs dokształcający','Mankato',3076);
-INSERT INTO Kwalifikacje VALUES (2357,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-10-90','Kurs kwalifikacyjny','Chicopee',4925);
-INSERT INTO Kwalifikacje VALUES (2358,'Studia mające zastosowanie w działalności podstawowej','8-27-06','Studia doktoranckie','El Segundo',3286);
-INSERT INTO Kwalifikacje VALUES (2359,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-16-81','Studia doktoranckie','Cerritos',4212);
-INSERT INTO Kwalifikacje VALUES (2360,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-20-11','Szkolenie','Mayagüez',2764);
-INSERT INTO Kwalifikacje VALUES (2361,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-22-07','Specjalizacja','Cicero',4508);
-INSERT INTO Kwalifikacje VALUES (2362,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-13-85','Kurs specjalistyczny','San Angelo',2805);
-INSERT INTO Kwalifikacje VALUES (2363,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-2-14','Kurs specjalistyczny','Carson City',4005);
-INSERT INTO Kwalifikacje VALUES (2364,'Studia pielęgniarskie','3-8-11','Kurs kwalifikacyjny','Midland',4254);
-INSERT INTO Kwalifikacje VALUES (2365,'Specjalizacja zawodowa','4-1-88','Studia wyższe licencjackie','West Haven',3780);
-INSERT INTO Kwalifikacje VALUES (2366,'Studia doktoranckie','3-23-96','Studia pielęgniarskie','San Mateo',4989);
-INSERT INTO Kwalifikacje VALUES (2367,'Studia wyższe licencjackie','9-12-87','Kurs specjalistyczny','Bismarck',4559);
-INSERT INTO Kwalifikacje VALUES (2368,'Studia wyższe licencjackie','8-13-90','Specjalizacja','San Rafael',4133);
-INSERT INTO Kwalifikacje VALUES (2369,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-3-91','Kurs kwalifikacyjny','Avalon',2630);
-INSERT INTO Kwalifikacje VALUES (2370,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-10-83','Kurs specjalistyczny','Altoona',2882);
-INSERT INTO Kwalifikacje VALUES (2371,'Studia wyższe licencjackie','4-9-81','Studia pielęgniarskie','Aguadilla',4078);
-INSERT INTO Kwalifikacje VALUES (2372,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-4-12','Kurs dokształcający','Camden',2781);
-INSERT INTO Kwalifikacje VALUES (2373,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-8-10','Kurs kwalifikacyjny','Greenfield',3355);
-INSERT INTO Kwalifikacje VALUES (2374,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-6-03','Szkolenie','La Crosse',4972);
-INSERT INTO Kwalifikacje VALUES (2375,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-9-97','Specjalizacja','West Memphis',2946);
-INSERT INTO Kwalifikacje VALUES (2376,'Specjalizacja zawodowa','1-10-09','Szkolenie','Medford',3518);
-INSERT INTO Kwalifikacje VALUES (2377,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-28-12','Studia pielęgniarskie','Beacon',2642);
-INSERT INTO Kwalifikacje VALUES (2378,'Studia doktoranckie','4-4-86','Studia wyższe licencjackie','Jackson',3928);
-INSERT INTO Kwalifikacje VALUES (2379,'Studia pielęgniarskie','5-23-88','Specjalizacja','Seward',4997);
-INSERT INTO Kwalifikacje VALUES (2380,'Studia mające zastosowanie w działalności podstawowej','12-6-81','Kurs kwalifikacyjny','Decatur',3821);
-INSERT INTO Kwalifikacje VALUES (2381,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-5-96','Studia doktoranckie','Redondo Beach',4751);
-INSERT INTO Kwalifikacje VALUES (2382,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-13-81','Studia doktoranckie','Alpharetta',3130);
-INSERT INTO Kwalifikacje VALUES (2383,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-22-81','Kurs specjalistyczny','Starkville',3229);
-INSERT INTO Kwalifikacje VALUES (2384,'Kurs specjalistyczny - Szczepienia ochronne','4-19-00','Studia wyższe licencjackie','Battle Creek',3370);
-INSERT INTO Kwalifikacje VALUES (2385,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-11-05','Specjalizacja','Port Huron',4899);
-INSERT INTO Kwalifikacje VALUES (2386,'Studia wyższe licencjackie','10-16-80','Szkolenie','Barre',2742);
-INSERT INTO Kwalifikacje VALUES (2387,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-21-13','Kurs kwalifikacyjny','Cape Coral',4424);
-INSERT INTO Kwalifikacje VALUES (2388,'Studia doktoranckie','4-13-15','Kurs specjalistyczny','Cincinnati',4208);
-INSERT INTO Kwalifikacje VALUES (2389,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-9-06','Kurs specjalistyczny','Pass Christian',3761);
-INSERT INTO Kwalifikacje VALUES (2390,'Specjalizacja zawodowa','12-11-83','Studia doktoranckie','Janesville',3254);
-INSERT INTO Kwalifikacje VALUES (2391,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-13-15','Kurs kwalifikacyjny','Cranston',2714);
-INSERT INTO Kwalifikacje VALUES (2392,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','3-11-10','Studia pielęgniarskie','Rock Island',3386);
-INSERT INTO Kwalifikacje VALUES (2393,'Studia doktoranckie','3-25-87','Specjalizacja','Asheville',2507);
-INSERT INTO Kwalifikacje VALUES (2394,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-22-86','Studia doktoranckie','Chino',4900);
-INSERT INTO Kwalifikacje VALUES (2395,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-1-16','Szkolenie','Morgan City',4320);
-INSERT INTO Kwalifikacje VALUES (2396,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-31-05','Kurs specjalistyczny','Hackensack',2588);
-INSERT INTO Kwalifikacje VALUES (2397,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-30-08','Studia pielęgniarskie','West Memphis',3441);
-INSERT INTO Kwalifikacje VALUES (2398,'Studia doktoranckie','1-12-93','Kurs kwalifikacyjny','New Madrid',2982);
-INSERT INTO Kwalifikacje VALUES (2399,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-28-96','Studia pielęgniarskie','Moraga',3432);
-INSERT INTO Kwalifikacje VALUES (2400,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-1-85','Studia wyższe licencjackie','Bowling Green',3331);
-INSERT INTO Kwalifikacje VALUES (2401,'Kurs specjalistyczny – Terapia bólu','12-24-08','Studia doktoranckie','Irwindale',3983);
-INSERT INTO Kwalifikacje VALUES (2402,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-24-08','Kurs specjalistyczny','Kennesaw',3279);
-INSERT INTO Kwalifikacje VALUES (2403,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-10-84','Kurs specjalistyczny','Wichita',2887);
-INSERT INTO Kwalifikacje VALUES (2404,'Studia pielęgniarskie','10-7-13','Kurs kwalifikacyjny','Gardena',3104);
-INSERT INTO Kwalifikacje VALUES (2405,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-26-04','Kurs dokształcający','New Rochelle',3669);
-INSERT INTO Kwalifikacje VALUES (2406,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-3-15','Studia doktoranckie','South Gate',2909);
-INSERT INTO Kwalifikacje VALUES (2407,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-31-94','Szkolenie','Marshall',4899);
-INSERT INTO Kwalifikacje VALUES (2408,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-4-80','Studia pielęgniarskie','Baton Rouge',4443);
-INSERT INTO Kwalifikacje VALUES (2409,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-13-84','Studia doktoranckie','Cedar City',2741);
-INSERT INTO Kwalifikacje VALUES (2410,'Specjalizacja zawodowa','10-19-92','Kurs dokształcający','Champaign',4754);
-INSERT INTO Kwalifikacje VALUES (2411,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-26-14','Specjalizacja','Wisconsin Dells',2666);
-INSERT INTO Kwalifikacje VALUES (2412,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-22-83','Szkolenie','Truth or Consequences',3351);
-INSERT INTO Kwalifikacje VALUES (2413,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-11-00','Studia wyższe licencjackie','Westlake Village',4363);
-INSERT INTO Kwalifikacje VALUES (2414,'Kurs specjalistyczny – Terapia bólu','9-10-07','Studia wyższe licencjackie','Roseville',3236);
-INSERT INTO Kwalifikacje VALUES (2415,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-25-14','Szkolenie','Schaumburg',3148);
-INSERT INTO Kwalifikacje VALUES (2416,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-11-04','Szkolenie','Riverton',4529);
-INSERT INTO Kwalifikacje VALUES (2417,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-3-01','Studia wyższe licencjackie','Davis',4477);
-INSERT INTO Kwalifikacje VALUES (2418,'Studia wyższe licencjackie','9-26-93','Studia wyższe licencjackie','Kona',4440);
-INSERT INTO Kwalifikacje VALUES (2419,'Studia mające zastosowanie w działalności podstawowej','12-7-88','Szkolenie','Fulton',2513);
-INSERT INTO Kwalifikacje VALUES (2420,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-17-86','Szkolenie','Lubbock',2640);
-INSERT INTO Kwalifikacje VALUES (2421,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-26-01','Studia pielęgniarskie','Guthrie',3026);
-INSERT INTO Kwalifikacje VALUES (2422,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-11-88','Kurs dokształcający','Stanton',4507);
-INSERT INTO Kwalifikacje VALUES (2423,'Kurs specjalistyczny – Terapia bólu','7-31-83','Studia pielęgniarskie','Durango',2793);
-INSERT INTO Kwalifikacje VALUES (2424,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-11-07','Studia doktoranckie','Los Alamitos',4587);
-INSERT INTO Kwalifikacje VALUES (2425,'Studia doktoranckie','8-15-83','Studia wyższe licencjackie','Arcadia',3355);
-INSERT INTO Kwalifikacje VALUES (2426,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-19-98','Kurs dokształcający','Murfreesboro',4604);
-INSERT INTO Kwalifikacje VALUES (2427,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-11-98','Studia pielęgniarskie','Bangor',4677);
-INSERT INTO Kwalifikacje VALUES (2428,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-22-89','Studia wyższe licencjackie','Niagara Falls',4089);
-INSERT INTO Kwalifikacje VALUES (2429,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-17-95','Studia pielęgniarskie','Kemmerer',3939);
-INSERT INTO Kwalifikacje VALUES (2430,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-28-04','Kurs specjalistyczny','Maywood',2696);
-INSERT INTO Kwalifikacje VALUES (2431,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-25-91','Kurs dokształcający','Aberdeen',3204);
-INSERT INTO Kwalifikacje VALUES (2432,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-22-94','Studia pielęgniarskie','Phenix City',4536);
-INSERT INTO Kwalifikacje VALUES (2433,'Studia mające zastosowanie w działalności podstawowej','5-24-93','Kurs kwalifikacyjny','Jackson',2893);
-INSERT INTO Kwalifikacje VALUES (2434,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-18-84','Kurs kwalifikacyjny','Bridgeport',4445);
-INSERT INTO Kwalifikacje VALUES (2435,'Studia doktoranckie','11-23-00','Szkolenie','Beaumont',3938);
-INSERT INTO Kwalifikacje VALUES (2436,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-25-06','Studia pielęgniarskie','Mount Vernon',4585);
-INSERT INTO Kwalifikacje VALUES (2437,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-10-01','Studia wyższe licencjackie','Nashua',3760);
-INSERT INTO Kwalifikacje VALUES (2438,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-19-08','Szkolenie','Florence',2639);
-INSERT INTO Kwalifikacje VALUES (2439,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-6-81','Kurs dokształcający','Stevens Point',4907);
-INSERT INTO Kwalifikacje VALUES (2440,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-12-01','Studia pielęgniarskie','Chico',2723);
-INSERT INTO Kwalifikacje VALUES (2441,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-30-87','Specjalizacja','Farmer City',2791);
-INSERT INTO Kwalifikacje VALUES (2442,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-7-11','Specjalizacja','Seward',2695);
-INSERT INTO Kwalifikacje VALUES (2443,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-30-91','Studia pielęgniarskie','Allentown',2528);
-INSERT INTO Kwalifikacje VALUES (2444,'Kurs specjalistyczny – Terapia bólu','4-1-96','Studia doktoranckie','West Lafayette',3349);
-INSERT INTO Kwalifikacje VALUES (2445,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-18-06','Studia pielęgniarskie','Nenana',3285);
-INSERT INTO Kwalifikacje VALUES (2446,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-4-09','Szkolenie','Bay St. Louis',4830);
-INSERT INTO Kwalifikacje VALUES (2447,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-9-91','Studia pielęgniarskie','Fremont',3322);
-INSERT INTO Kwalifikacje VALUES (2448,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-14-07','Kurs specjalistyczny','Pine Bluff',3070);
-INSERT INTO Kwalifikacje VALUES (2449,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-23-95','Studia wyższe licencjackie','Placentia',3683);
-INSERT INTO Kwalifikacje VALUES (2450,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-9-12','Szkolenie','Niagara Falls',3876);
-INSERT INTO Kwalifikacje VALUES (2451,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-8-85','Studia doktoranckie','Hudson',4792);
-INSERT INTO Kwalifikacje VALUES (2452,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-25-06','Studia doktoranckie','Calabasas',3250);
-INSERT INTO Kwalifikacje VALUES (2453,'Studia mające zastosowanie w działalności podstawowej','3-29-14','Kurs kwalifikacyjny','Biloxi',3422);
-INSERT INTO Kwalifikacje VALUES (2454,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-28-15','Specjalizacja','Duluth',3076);
-INSERT INTO Kwalifikacje VALUES (2455,'Studia pielęgniarskie','6-4-98','Studia pielęgniarskie','Newburyport',3899);
-INSERT INTO Kwalifikacje VALUES (2456,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-31-80','Kurs specjalistyczny','Bellingham',4408);
-INSERT INTO Kwalifikacje VALUES (2457,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-20-10','Kurs kwalifikacyjny','Camden',3116);
-INSERT INTO Kwalifikacje VALUES (2458,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-26-05','Kurs dokształcający','Oneonta',4512);
-INSERT INTO Kwalifikacje VALUES (2459,'Kurs specjalistyczny – Terapia bólu','10-11-07','Studia doktoranckie','Evansville',4320);
-INSERT INTO Kwalifikacje VALUES (2460,'Studia mające zastosowanie w działalności podstawowej','3-8-13','Specjalizacja','Latrobe',3474);
-INSERT INTO Kwalifikacje VALUES (2461,'Kurs specjalistyczny – Terapia bólu','5-26-00','Kurs kwalifikacyjny','Louisville',3462);
-INSERT INTO Kwalifikacje VALUES (2462,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-15-80','Specjalizacja','Belpre',3191);
-INSERT INTO Kwalifikacje VALUES (2463,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-15-12','Szkolenie','La Puente',3342);
-INSERT INTO Kwalifikacje VALUES (2464,'Kurs specjalistyczny – Terapia bólu','7-28-11','Kurs kwalifikacyjny','Harrisburg',4095);
-INSERT INTO Kwalifikacje VALUES (2465,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-23-07','Studia doktoranckie','Darlington',3024);
-INSERT INTO Kwalifikacje VALUES (2466,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-31-83','Studia doktoranckie','Truth or Consequences',2524);
-INSERT INTO Kwalifikacje VALUES (2467,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-31-83','Kurs specjalistyczny','Lodi',4230);
-INSERT INTO Kwalifikacje VALUES (2468,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-10-89','Kurs specjalistyczny','Jeffersontown',4435);
-INSERT INTO Kwalifikacje VALUES (2469,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-14-06','Studia pielęgniarskie','Carolina',3830);
-INSERT INTO Kwalifikacje VALUES (2470,'Kurs specjalistyczny – Terapia bólu','8-20-81','Specjalizacja','Hattiesburg',4005);
-INSERT INTO Kwalifikacje VALUES (2471,'Kurs specjalistyczny – Terapia bólu','3-9-13','Studia doktoranckie','College Park',3116);
-INSERT INTO Kwalifikacje VALUES (2472,'Specjalizacja zawodowa','7-6-01','Specjalizacja','Monroe',2935);
-INSERT INTO Kwalifikacje VALUES (2473,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-12-11','Studia doktoranckie','Helena',2582);
-INSERT INTO Kwalifikacje VALUES (2474,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-3-14','Studia wyższe licencjackie','Galveston',4132);
-INSERT INTO Kwalifikacje VALUES (2475,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-18-90','Kurs specjalistyczny','Broken Arrow',2652);
-INSERT INTO Kwalifikacje VALUES (2476,'Studia pielęgniarskie','11-21-98','Kurs kwalifikacyjny','Great Falls',3649);
-INSERT INTO Kwalifikacje VALUES (2477,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-11-98','Kurs dokształcający','Orlando',3324);
-INSERT INTO Kwalifikacje VALUES (2478,'Studia doktoranckie','2-26-93','Specjalizacja','Charlotte Amalie',3923);
-INSERT INTO Kwalifikacje VALUES (2479,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-30-14','Studia wyższe licencjackie','Springdale',3396);
-INSERT INTO Kwalifikacje VALUES (2480,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-15-85','Studia pielęgniarskie','Richland',2758);
-INSERT INTO Kwalifikacje VALUES (2481,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-17-98','Studia pielęgniarskie','Monrovia',3352);
-INSERT INTO Kwalifikacje VALUES (2482,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-1-89','Szkolenie','Parkersburg',2911);
-INSERT INTO Kwalifikacje VALUES (2483,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-16-86','Studia doktoranckie','Hidden Hills',4083);
-INSERT INTO Kwalifikacje VALUES (2484,'Studia mające zastosowanie w działalności podstawowej','7-7-90','Studia wyższe licencjackie','Seal Beach',3323);
-INSERT INTO Kwalifikacje VALUES (2485,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-2-87','Kurs dokształcający','Highland Park',4580);
-INSERT INTO Kwalifikacje VALUES (2486,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-30-95','Studia doktoranckie','Richland',3915);
-INSERT INTO Kwalifikacje VALUES (2487,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-5-91','Studia pielęgniarskie','Reedsport',3857);
-INSERT INTO Kwalifikacje VALUES (2488,'Specjalizacja zawodowa','6-8-15','Specjalizacja','Binghamton',4006);
-INSERT INTO Kwalifikacje VALUES (2489,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-17-85','Specjalizacja','San Gabriel',4951);
-INSERT INTO Kwalifikacje VALUES (2490,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-29-03','Specjalizacja','Worcester',3084);
-INSERT INTO Kwalifikacje VALUES (2491,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-5-95','Kurs dokształcający','Burbank',4651);
-INSERT INTO Kwalifikacje VALUES (2492,'Specjalizacja zawodowa','10-26-10','Kurs kwalifikacyjny','Hot Springs',4169);
-INSERT INTO Kwalifikacje VALUES (2493,'Specjalizacja zawodowa','8-30-95','Kurs kwalifikacyjny','Pasadena',3545);
-INSERT INTO Kwalifikacje VALUES (2494,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-28-95','Studia doktoranckie','Burlington',4083);
-INSERT INTO Kwalifikacje VALUES (2495,'Studia doktoranckie','4-9-06','Kurs kwalifikacyjny','Nichols Hills',4448);
-INSERT INTO Kwalifikacje VALUES (2496,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-5-04','Kurs dokształcający','Mechanicville',3477);
-INSERT INTO Kwalifikacje VALUES (2497,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-22-07','Kurs kwalifikacyjny','Boulder',3530);
-INSERT INTO Kwalifikacje VALUES (2498,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-6-84','Kurs dokształcający','Wheeling',3745);
-INSERT INTO Kwalifikacje VALUES (2499,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-3-02','Studia wyższe licencjackie','Dalton',4633);
-INSERT INTO Kwalifikacje VALUES (2500,'Kurs specjalistyczny - Szczepienia ochronne','5-14-88','Studia pielęgniarskie','Kent',3061);
-INSERT INTO Kwalifikacje VALUES (2501,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-8-09','Studia wyższe licencjackie','Jackson',4148);
-INSERT INTO Kwalifikacje VALUES (2502,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-21-97','Kurs kwalifikacyjny','Peoria',4421);
-INSERT INTO Kwalifikacje VALUES (2503,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-24-92','Studia wyższe licencjackie','Woodruff',4299);
-INSERT INTO Kwalifikacje VALUES (2504,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-14-87','Studia pielęgniarskie','Blacksburg',2820);
-INSERT INTO Kwalifikacje VALUES (2505,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-1-01','Specjalizacja','Vallejo',4069);
-INSERT INTO Kwalifikacje VALUES (2506,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-22-94','Specjalizacja','Derby',4179);
-INSERT INTO Kwalifikacje VALUES (2507,'Studia wyższe licencjackie','5-28-86','Szkolenie','Chino Hills',4667);
-INSERT INTO Kwalifikacje VALUES (2508,'Studia pielęgniarskie','12-24-13','Studia wyższe licencjackie','Vancouver',3576);
-INSERT INTO Kwalifikacje VALUES (2509,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-28-02','Kurs kwalifikacyjny','West Bend',3047);
-INSERT INTO Kwalifikacje VALUES (2510,'Studia wyższe licencjackie','2-26-86','Kurs kwalifikacyjny','Pawtucket',3692);
-INSERT INTO Kwalifikacje VALUES (2511,'Kurs specjalistyczny – Terapia bólu','8-24-95','Studia wyższe licencjackie','Montebello',2842);
-INSERT INTO Kwalifikacje VALUES (2512,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-20-89','Kurs kwalifikacyjny','Cedar Rapids',3491);
-INSERT INTO Kwalifikacje VALUES (2513,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-24-86','Specjalizacja','Newburyport',4844);
-INSERT INTO Kwalifikacje VALUES (2514,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-3-00','Studia wyższe licencjackie','East Hartford',4112);
-INSERT INTO Kwalifikacje VALUES (2515,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-4-98','Studia doktoranckie','Fontana',4739);
-INSERT INTO Kwalifikacje VALUES (2516,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-10-16','Szkolenie','Lowell',4125);
-INSERT INTO Kwalifikacje VALUES (2517,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-9-81','Szkolenie','Baldwin Park',3468);
-INSERT INTO Kwalifikacje VALUES (2518,'Kurs specjalistyczny – Terapia bólu','3-18-82','Studia pielęgniarskie','Port Washington',3672);
-INSERT INTO Kwalifikacje VALUES (2519,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-22-14','Szkolenie','Houma',3834);
-INSERT INTO Kwalifikacje VALUES (2520,'Studia pielęgniarskie','11-17-06','Kurs specjalistyczny','La Crosse',4625);
-INSERT INTO Kwalifikacje VALUES (2521,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-15-81','Kurs kwalifikacyjny','Torrington',3541);
-INSERT INTO Kwalifikacje VALUES (2522,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-19-07','Kurs dokształcający','Bangor',3853);
-INSERT INTO Kwalifikacje VALUES (2523,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-13-87','Kurs dokształcający','Chino Hills',3605);
-INSERT INTO Kwalifikacje VALUES (2524,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-27-09','Studia pielęgniarskie','Pasco',3577);
-INSERT INTO Kwalifikacje VALUES (2525,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-16-13','Szkolenie','Leominster',4902);
-INSERT INTO Kwalifikacje VALUES (2526,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-14-15','Studia doktoranckie','Eugene',3125);
-INSERT INTO Kwalifikacje VALUES (2527,'Specjalizacja zawodowa','10-11-92','Kurs dokształcający','Laramie',4012);
-INSERT INTO Kwalifikacje VALUES (2528,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-31-06','Studia doktoranckie','Peekskill',4431);
-INSERT INTO Kwalifikacje VALUES (2529,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-5-96','Studia wyższe licencjackie','Roanoke',4880);
-INSERT INTO Kwalifikacje VALUES (2530,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','9-6-83','Studia pielęgniarskie','Watertown',3538);
-INSERT INTO Kwalifikacje VALUES (2531,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-6-11','Szkolenie','Grand Rapids',4422);
-INSERT INTO Kwalifikacje VALUES (2532,'Specjalizacja zawodowa','7-31-91','Kurs specjalistyczny','Utica',3191);
-INSERT INTO Kwalifikacje VALUES (2533,'Kurs specjalistyczny – Terapia bólu','11-21-82','Studia wyższe licencjackie','Cape Coral',3653);
-INSERT INTO Kwalifikacje VALUES (2534,'Studia pielęgniarskie','11-27-04','Specjalizacja','Augusta',4194);
-INSERT INTO Kwalifikacje VALUES (2535,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-1-90','Studia wyższe licencjackie','Plattsburgh',4177);
-INSERT INTO Kwalifikacje VALUES (2536,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-20-81','Kurs kwalifikacyjny','Bristol',4991);
-INSERT INTO Kwalifikacje VALUES (2537,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-4-88','Kurs kwalifikacyjny','Fort Smith',3165);
-INSERT INTO Kwalifikacje VALUES (2538,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-29-91','Studia pielęgniarskie','Nichols Hills',3677);
-INSERT INTO Kwalifikacje VALUES (2539,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-26-00','Kurs kwalifikacyjny','Williamsburg',3132);
-INSERT INTO Kwalifikacje VALUES (2540,'Kurs specjalistyczny - Szczepienia ochronne','5-22-01','Studia wyższe licencjackie','Westlake Village',3634);
-INSERT INTO Kwalifikacje VALUES (2541,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-4-84','Studia doktoranckie','Thiensville',4979);
-INSERT INTO Kwalifikacje VALUES (2542,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-14-83','Specjalizacja','Winnemucca',4986);
-INSERT INTO Kwalifikacje VALUES (2543,'Specjalizacja zawodowa','10-14-00','Studia wyższe licencjackie','New Orleans',4554);
-INSERT INTO Kwalifikacje VALUES (2544,'Kurs specjalistyczny - Szczepienia ochronne','5-21-08','Studia wyższe licencjackie','Gary',4657);
-INSERT INTO Kwalifikacje VALUES (2545,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-2-11','Kurs specjalistyczny','New Kensington',4734);
-INSERT INTO Kwalifikacje VALUES (2546,'Studia pielęgniarskie','8-28-85','Studia pielęgniarskie','Pullman',4479);
-INSERT INTO Kwalifikacje VALUES (2547,'Kurs specjalistyczny – Terapia bólu','11-16-93','Specjalizacja','Boulder City',4494);
-INSERT INTO Kwalifikacje VALUES (2548,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-19-90','Studia doktoranckie','Cerritos',4698);
-INSERT INTO Kwalifikacje VALUES (2549,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-21-10','Kurs kwalifikacyjny','Laughlin',2654);
-INSERT INTO Kwalifikacje VALUES (2550,'Studia pielęgniarskie','4-7-04','Kurs specjalistyczny','Elkhart',4737);
-INSERT INTO Kwalifikacje VALUES (2551,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-3-96','Kurs kwalifikacyjny','Azusa',3097);
-INSERT INTO Kwalifikacje VALUES (2552,'Specjalizacja zawodowa','4-4-93','Szkolenie','Dana Point',4591);
-INSERT INTO Kwalifikacje VALUES (2553,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-7-82','Szkolenie','Salem',3449);
-INSERT INTO Kwalifikacje VALUES (2554,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-11-07','Studia doktoranckie','Fontana',3252);
-INSERT INTO Kwalifikacje VALUES (2555,'Studia wyższe licencjackie','3-26-92','Studia pielęgniarskie','West Allis',2555);
-INSERT INTO Kwalifikacje VALUES (2556,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-24-12','Specjalizacja','Alameda',4999);
-INSERT INTO Kwalifikacje VALUES (2557,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-28-15','Szkolenie','Lockport',4890);
-INSERT INTO Kwalifikacje VALUES (2558,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-7-02','Kurs specjalistyczny','Oxford',3326);
-INSERT INTO Kwalifikacje VALUES (2559,'Studia doktoranckie','5-27-95','Szkolenie','Idabel',3996);
-INSERT INTO Kwalifikacje VALUES (2560,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-11-99','Kurs dokształcający','Montgomery',4744);
-INSERT INTO Kwalifikacje VALUES (2561,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-3-89','Kurs dokształcający','La Palma',4137);
-INSERT INTO Kwalifikacje VALUES (2562,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-24-07','Studia pielęgniarskie','Benton Harbor',3418);
-INSERT INTO Kwalifikacje VALUES (2563,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-22-94','Szkolenie','Riverton',4000);
-INSERT INTO Kwalifikacje VALUES (2564,'Studia wyższe licencjackie','3-20-83','Specjalizacja','Torrington',4953);
-INSERT INTO Kwalifikacje VALUES (2565,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-29-10','Kurs kwalifikacyjny','Waltham',2958);
-INSERT INTO Kwalifikacje VALUES (2566,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-15-86','Kurs dokształcający','Baton Rouge',3968);
-INSERT INTO Kwalifikacje VALUES (2567,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-13-88','Kurs dokształcający','Stafford',2646);
-INSERT INTO Kwalifikacje VALUES (2568,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-16-96','Kurs dokształcający','Charleston',2506);
-INSERT INTO Kwalifikacje VALUES (2569,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-27-13','Kurs specjalistyczny','Mission Viejo',2706);
-INSERT INTO Kwalifikacje VALUES (2570,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-4-10','Studia pielęgniarskie','Hudson',4133);
-INSERT INTO Kwalifikacje VALUES (2571,'Studia wyższe licencjackie','3-5-15','Szkolenie','Sonoma',3672);
-INSERT INTO Kwalifikacje VALUES (2572,'Studia wyższe licencjackie','2-19-02','Kurs dokształcający','Yakima',3549);
-INSERT INTO Kwalifikacje VALUES (2573,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-27-09','Kurs kwalifikacyjny','Iowa City',4150);
-INSERT INTO Kwalifikacje VALUES (2574,'Specjalizacja zawodowa','8-1-08','Studia pielęgniarskie','Monterey Park',4151);
-INSERT INTO Kwalifikacje VALUES (2575,'Studia pielęgniarskie','9-17-98','Kurs kwalifikacyjny','Yorba Linda',3276);
-INSERT INTO Kwalifikacje VALUES (2576,'Studia pielęgniarskie','6-16-92','Kurs specjalistyczny','Alameda',4486);
-INSERT INTO Kwalifikacje VALUES (2577,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-6-84','Kurs kwalifikacyjny','Farmer City',3145);
-INSERT INTO Kwalifikacje VALUES (2578,'Studia pielęgniarskie','8-9-85','Szkolenie','Whittier',3164);
-INSERT INTO Kwalifikacje VALUES (2579,'Kurs specjalistyczny – Terapia bólu','6-18-88','Specjalizacja','Wausau',2703);
-INSERT INTO Kwalifikacje VALUES (2580,'Studia pielęgniarskie','9-9-88','Szkolenie','Bellingham',3167);
-INSERT INTO Kwalifikacje VALUES (2581,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-17-89','Kurs kwalifikacyjny','Eugene',2547);
-INSERT INTO Kwalifikacje VALUES (2582,'Specjalizacja zawodowa','11-8-96','Kurs kwalifikacyjny','Asbury Park',4649);
-INSERT INTO Kwalifikacje VALUES (2583,'Studia pielęgniarskie','5-7-16','Specjalizacja','Overland Park',2744);
-INSERT INTO Kwalifikacje VALUES (2584,'Studia doktoranckie','3-5-86','Szkolenie','Provo',4154);
-INSERT INTO Kwalifikacje VALUES (2585,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-18-11','Studia pielęgniarskie','Joplin',2506);
-INSERT INTO Kwalifikacje VALUES (2586,'Studia mające zastosowanie w działalności podstawowej','5-26-90','Szkolenie','Santa Clarita',2704);
-INSERT INTO Kwalifikacje VALUES (2587,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-9-93','Specjalizacja','Fairmont',3708);
-INSERT INTO Kwalifikacje VALUES (2588,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-16-07','Specjalizacja','Derby',3516);
-INSERT INTO Kwalifikacje VALUES (2589,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-3-13','Kurs dokształcający','Bend',3448);
-INSERT INTO Kwalifikacje VALUES (2590,'Kurs specjalistyczny - Szczepienia ochronne','12-27-13','Studia doktoranckie','Beverly Hills',2547);
-INSERT INTO Kwalifikacje VALUES (2591,'Studia wyższe licencjackie','1-22-06','Kurs specjalistyczny','Inglewood',4662);
-INSERT INTO Kwalifikacje VALUES (2592,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-20-97','Specjalizacja','Rancho Cordova',3361);
-INSERT INTO Kwalifikacje VALUES (2593,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-6-81','Kurs dokształcający','Rye',4180);
-INSERT INTO Kwalifikacje VALUES (2594,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-29-15','Kurs specjalistyczny','Ocean City',2953);
-INSERT INTO Kwalifikacje VALUES (2595,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-12-84','Kurs specjalistyczny','Caguas',4049);
-INSERT INTO Kwalifikacje VALUES (2596,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-8-81','Studia wyższe licencjackie','Stamford',3112);
-INSERT INTO Kwalifikacje VALUES (2597,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-20-15','Studia wyższe licencjackie','Santa Ana',3553);
-INSERT INTO Kwalifikacje VALUES (2598,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-18-03','Studia wyższe licencjackie','Clairton',4025);
-INSERT INTO Kwalifikacje VALUES (2599,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-11-93','Kurs kwalifikacyjny','Sherrill',4373);
-INSERT INTO Kwalifikacje VALUES (2600,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-11-93','Studia pielęgniarskie','Pottsville',3090);
-INSERT INTO Kwalifikacje VALUES (2601,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-10-81','Studia wyższe licencjackie','Fairfax',4728);
-INSERT INTO Kwalifikacje VALUES (2602,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-24-98','Studia pielęgniarskie','Avalon',3418);
-INSERT INTO Kwalifikacje VALUES (2603,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-23-15','Studia doktoranckie','Deadwood',3412);
-INSERT INTO Kwalifikacje VALUES (2604,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-10-13','Kurs dokształcający','Beverly Hills',4775);
-INSERT INTO Kwalifikacje VALUES (2605,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-7-16','Specjalizacja','Jersey City',4472);
-INSERT INTO Kwalifikacje VALUES (2606,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-10-02','Studia pielęgniarskie','West Hollywood',4360);
-INSERT INTO Kwalifikacje VALUES (2607,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-26-14','Specjalizacja','Bandon',3068);
-INSERT INTO Kwalifikacje VALUES (2608,'Specjalizacja zawodowa','8-23-94','Studia doktoranckie','Frederiksted',3910);
-INSERT INTO Kwalifikacje VALUES (2609,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-8-02','Szkolenie','Sitka',4226);
-INSERT INTO Kwalifikacje VALUES (2610,'Studia mające zastosowanie w działalności podstawowej','2-26-81','Studia pielęgniarskie','Haverhill',3650);
-INSERT INTO Kwalifikacje VALUES (2611,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-1-08','Kurs specjalistyczny','Klamath Falls',2966);
-INSERT INTO Kwalifikacje VALUES (2612,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-29-87','Kurs specjalistyczny','Council Bluffs',2539);
-INSERT INTO Kwalifikacje VALUES (2613,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-15-85','Studia pielęgniarskie','South El Monte',3286);
-INSERT INTO Kwalifikacje VALUES (2614,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-14-03','Szkolenie','Dayton',3471);
-INSERT INTO Kwalifikacje VALUES (2615,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-5-95','Kurs specjalistyczny','Hastings',3520);
-INSERT INTO Kwalifikacje VALUES (2616,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-15-14','Specjalizacja','Loudon',4722);
-INSERT INTO Kwalifikacje VALUES (2617,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-3-99','Studia pielęgniarskie','Colorado Springs',4909);
-INSERT INTO Kwalifikacje VALUES (2618,'Studia doktoranckie','4-17-94','Specjalizacja','Temple City',2880);
-INSERT INTO Kwalifikacje VALUES (2619,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-1-83','Kurs kwalifikacyjny','Cohoes',2547);
-INSERT INTO Kwalifikacje VALUES (2620,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-25-91','Kurs dokształcający','Isle of Palms',3674);
-INSERT INTO Kwalifikacje VALUES (2621,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-19-11','Szkolenie','Scottsbluff',4395);
-INSERT INTO Kwalifikacje VALUES (2622,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-29-95','Studia doktoranckie','Geneva',4390);
-INSERT INTO Kwalifikacje VALUES (2623,'Studia doktoranckie','8-27-86','Kurs kwalifikacyjny','Warren',4291);
-INSERT INTO Kwalifikacje VALUES (2624,'Studia mające zastosowanie w działalności podstawowej','6-15-99','Studia doktoranckie','Belleville',3253);
-INSERT INTO Kwalifikacje VALUES (2625,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-6-11','Studia doktoranckie','Waterbury',3416);
-INSERT INTO Kwalifikacje VALUES (2626,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-23-97','Kurs kwalifikacyjny','Walnut',3307);
-INSERT INTO Kwalifikacje VALUES (2627,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-27-05','Szkolenie','Clarksville',3038);
-INSERT INTO Kwalifikacje VALUES (2628,'Studia doktoranckie','7-13-81','Szkolenie','Vincennes',3343);
-INSERT INTO Kwalifikacje VALUES (2629,'Studia mające zastosowanie w działalności podstawowej','11-1-87','Studia doktoranckie','Newton',4279);
-INSERT INTO Kwalifikacje VALUES (2630,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-23-13','Kurs kwalifikacyjny','Newport News',4162);
-INSERT INTO Kwalifikacje VALUES (2631,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-15-10','Kurs dokształcający','Norwich',3845);
-INSERT INTO Kwalifikacje VALUES (2632,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-26-13','Studia pielęgniarskie','Butte',4851);
-INSERT INTO Kwalifikacje VALUES (2633,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-27-85','Szkolenie','Malden',2981);
-INSERT INTO Kwalifikacje VALUES (2634,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-15-15','Specjalizacja','Eau Claire',4763);
-INSERT INTO Kwalifikacje VALUES (2635,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-7-82','Studia wyższe licencjackie','Kalispell',2616);
-INSERT INTO Kwalifikacje VALUES (2636,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-28-92','Kurs dokształcający','Signal Hill',2622);
-INSERT INTO Kwalifikacje VALUES (2637,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-26-87','Szkolenie','Virginia Beach',2571);
-INSERT INTO Kwalifikacje VALUES (2638,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-6-98','Kurs kwalifikacyjny','Natchez',3343);
-INSERT INTO Kwalifikacje VALUES (2639,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-23-06','Kurs specjalistyczny','Fayetteville',3838);
-INSERT INTO Kwalifikacje VALUES (2640,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-12-02','Kurs specjalistyczny','Menomonee Falls',4285);
-INSERT INTO Kwalifikacje VALUES (2641,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-14-10','Kurs specjalistyczny','Lexington',3595);
-INSERT INTO Kwalifikacje VALUES (2642,'Studia wyższe licencjackie','11-21-85','Kurs dokształcający','Tucson',3728);
-INSERT INTO Kwalifikacje VALUES (2643,'Studia doktoranckie','1-2-89','Specjalizacja','Hilo',2929);
-INSERT INTO Kwalifikacje VALUES (2644,'Studia mające zastosowanie w działalności podstawowej','4-5-93','Kurs dokształcający','Norwalk',3431);
-INSERT INTO Kwalifikacje VALUES (2645,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-22-05','Kurs kwalifikacyjny','Avalon',3285);
-INSERT INTO Kwalifikacje VALUES (2646,'Kurs specjalistyczny – Terapia bólu','12-1-08','Szkolenie','Chicago Heights',4875);
-INSERT INTO Kwalifikacje VALUES (2647,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-11-00','Studia pielęgniarskie','Lawrenceville',2914);
-INSERT INTO Kwalifikacje VALUES (2648,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-24-98','Studia pielęgniarskie','Chula Vista',4764);
-INSERT INTO Kwalifikacje VALUES (2649,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-22-81','Specjalizacja','Anaheim',4983);
-INSERT INTO Kwalifikacje VALUES (2650,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-28-06','Kurs kwalifikacyjny','Anaheim',4883);
-INSERT INTO Kwalifikacje VALUES (2651,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-22-91','Kurs specjalistyczny','Melrose',3145);
-INSERT INTO Kwalifikacje VALUES (2652,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-18-90','Studia wyższe licencjackie','Reading',4045);
-INSERT INTO Kwalifikacje VALUES (2653,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-1-98','Studia pielęgniarskie','Hollister',3484);
-INSERT INTO Kwalifikacje VALUES (2654,'Studia pielęgniarskie','9-5-85','Kurs dokształcający','Rolling Hills',3740);
-INSERT INTO Kwalifikacje VALUES (2655,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-19-95','Studia wyższe licencjackie','Peekskill',3421);
-INSERT INTO Kwalifikacje VALUES (2656,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-10-84','Specjalizacja','Vincennes',2844);
-INSERT INTO Kwalifikacje VALUES (2657,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-30-82','Kurs dokształcający','Kemmerer',4731);
-INSERT INTO Kwalifikacje VALUES (2658,'Kurs specjalistyczny – Terapia bólu','7-15-89','Studia doktoranckie','Shawnee',3532);
-INSERT INTO Kwalifikacje VALUES (2659,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-22-95','Kurs specjalistyczny','Green River',3622);
-INSERT INTO Kwalifikacje VALUES (2660,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-2-05','Kurs kwalifikacyjny','Farrell',3081);
-INSERT INTO Kwalifikacje VALUES (2661,'Studia pielęgniarskie','3-26-09','Kurs kwalifikacyjny','Asbury Park',4774);
-INSERT INTO Kwalifikacje VALUES (2662,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-26-90','Kurs kwalifikacyjny','Bandon',3838);
-INSERT INTO Kwalifikacje VALUES (2663,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-7-88','Kurs specjalistyczny','Las Cruces',3174);
-INSERT INTO Kwalifikacje VALUES (2664,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-14-00','Studia wyższe licencjackie','Naperville',4375);
-INSERT INTO Kwalifikacje VALUES (2665,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-23-92','Kurs kwalifikacyjny','Louisville',4485);
-INSERT INTO Kwalifikacje VALUES (2666,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-12-02','Studia doktoranckie','Chino',3604);
-INSERT INTO Kwalifikacje VALUES (2667,'Specjalizacja zawodowa','3-10-86','Studia doktoranckie','Biddeford',4880);
-INSERT INTO Kwalifikacje VALUES (2668,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-29-85','Specjalizacja','Pico Rivera',3134);
-INSERT INTO Kwalifikacje VALUES (2669,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-4-16','Specjalizacja','Johnson City',3015);
-INSERT INTO Kwalifikacje VALUES (2670,'Specjalizacja zawodowa','3-22-93','Studia doktoranckie','Walla Walla',2860);
-INSERT INTO Kwalifikacje VALUES (2671,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-2-14','Kurs dokształcający','Cape May',4865);
-INSERT INTO Kwalifikacje VALUES (2672,'Studia mające zastosowanie w działalności podstawowej','4-18-15','Studia pielęgniarskie','Hope',2624);
-INSERT INTO Kwalifikacje VALUES (2673,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-19-95','Szkolenie','San Francisco',3131);
-INSERT INTO Kwalifikacje VALUES (2674,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-17-15','Szkolenie','Houma',2821);
-INSERT INTO Kwalifikacje VALUES (2675,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-27-92','Specjalizacja','Lake Charles',3063);
-INSERT INTO Kwalifikacje VALUES (2676,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-18-86','Kurs kwalifikacyjny','Mayagüez',3220);
-INSERT INTO Kwalifikacje VALUES (2677,'Studia mające zastosowanie w działalności podstawowej','7-14-81','Specjalizacja','Council Bluffs',2648);
-INSERT INTO Kwalifikacje VALUES (2678,'Studia pielęgniarskie','12-31-82','Studia doktoranckie','Pembroke Pines',3577);
-INSERT INTO Kwalifikacje VALUES (2679,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-24-92','Specjalizacja','Poughkeepsie',4577);
-INSERT INTO Kwalifikacje VALUES (2680,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-31-91','Studia doktoranckie','Farrell',4604);
-INSERT INTO Kwalifikacje VALUES (2681,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-6-03','Studia wyższe licencjackie','Pass Christian',4856);
-INSERT INTO Kwalifikacje VALUES (2682,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-16-09','Kurs specjalistyczny','Schaumburg',3909);
-INSERT INTO Kwalifikacje VALUES (2683,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-4-91','Kurs dokształcający','Stamford',4058);
-INSERT INTO Kwalifikacje VALUES (2684,'Studia doktoranckie','9-8-04','Specjalizacja','Flint',3451);
-INSERT INTO Kwalifikacje VALUES (2685,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-5-86','Kurs dokształcający','Cranston',2623);
-INSERT INTO Kwalifikacje VALUES (2686,'Kurs specjalistyczny – Terapia bólu','5-30-83','Kurs dokształcający','Tamuning',3201);
-INSERT INTO Kwalifikacje VALUES (2687,'Kurs specjalistyczny – Terapia bólu','5-22-15','Studia doktoranckie','Greenfield',3589);
-INSERT INTO Kwalifikacje VALUES (2688,'Specjalizacja zawodowa','6-4-99','Kurs dokształcający','Eufaula',4568);
-INSERT INTO Kwalifikacje VALUES (2689,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-3-11','Studia doktoranckie','Chesapeake',2747);
-INSERT INTO Kwalifikacje VALUES (2690,'Kurs specjalistyczny – Terapia bólu','1-16-09','Studia doktoranckie','Falls Church',3375);
-INSERT INTO Kwalifikacje VALUES (2691,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-18-16','Kurs kwalifikacyjny','Madison',2575);
-INSERT INTO Kwalifikacje VALUES (2692,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-5-86','Kurs specjalistyczny','West Valley City',2962);
-INSERT INTO Kwalifikacje VALUES (2693,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-29-02','Szkolenie','Costa Mesa',4084);
-INSERT INTO Kwalifikacje VALUES (2694,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-23-90','Specjalizacja','Greenfield',4018);
-INSERT INTO Kwalifikacje VALUES (2695,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-2-93','Kurs kwalifikacyjny','Benton Harbor',2579);
-INSERT INTO Kwalifikacje VALUES (2696,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-21-03','Studia pielęgniarskie','Sugar Land',3729);
-INSERT INTO Kwalifikacje VALUES (2697,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-26-88','Kurs dokształcający','Salem',4009);
-INSERT INTO Kwalifikacje VALUES (2698,'Specjalizacja zawodowa','2-1-13','Studia wyższe licencjackie','Mesa',4741);
-INSERT INTO Kwalifikacje VALUES (2699,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-21-07','Studia pielęgniarskie','Ruston',3761);
-INSERT INTO Kwalifikacje VALUES (2700,'Studia pielęgniarskie','9-29-11','Studia pielęgniarskie','Gold Beach',2534);
-INSERT INTO Kwalifikacje VALUES (2701,'Studia doktoranckie','12-14-83','Studia pielęgniarskie','Glen Cove',4050);
-INSERT INTO Kwalifikacje VALUES (2702,'Specjalizacja zawodowa','1-24-83','Kurs kwalifikacyjny','Calabasas',4708);
-INSERT INTO Kwalifikacje VALUES (2703,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-21-05','Studia doktoranckie','Saipan',2603);
-INSERT INTO Kwalifikacje VALUES (2704,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-16-00','Studia doktoranckie','Beckley',3518);
-INSERT INTO Kwalifikacje VALUES (2705,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-6-99','Studia doktoranckie','Salt Lake City',3101);
-INSERT INTO Kwalifikacje VALUES (2706,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-20-98','Kurs dokształcający','Dalton',4927);
-INSERT INTO Kwalifikacje VALUES (2707,'Kurs specjalistyczny - Szczepienia ochronne','1-5-05','Kurs kwalifikacyjny','Fort Smith',2864);
-INSERT INTO Kwalifikacje VALUES (2708,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-5-03','Studia wyższe licencjackie','Watertown',3498);
-INSERT INTO Kwalifikacje VALUES (2709,'Studia mające zastosowanie w działalności podstawowej','11-12-04','Studia pielęgniarskie','Newport',4743);
-INSERT INTO Kwalifikacje VALUES (2710,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-20-00','Specjalizacja','West Springfield',2596);
-INSERT INTO Kwalifikacje VALUES (2711,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-12-09','Kurs dokształcający','Perth Amboy',4813);
-INSERT INTO Kwalifikacje VALUES (2712,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-20-13','Studia doktoranckie','West Haven',4392);
-INSERT INTO Kwalifikacje VALUES (2713,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-14-83','Studia doktoranckie','Gainesville',2977);
-INSERT INTO Kwalifikacje VALUES (2714,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-23-81','Kurs dokształcający','Eureka',4369);
-INSERT INTO Kwalifikacje VALUES (2715,'Specjalizacja zawodowa','9-24-09','Specjalizacja','Monterey Park',3865);
-INSERT INTO Kwalifikacje VALUES (2716,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-25-02','Kurs specjalistyczny','Butte',2867);
-INSERT INTO Kwalifikacje VALUES (2717,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-4-02','Studia doktoranckie','Lawrence',4431);
-INSERT INTO Kwalifikacje VALUES (2718,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-2-90','Szkolenie','Oxford',3944);
-INSERT INTO Kwalifikacje VALUES (2719,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-21-14','Kurs dokształcający','Saipan',4360);
-INSERT INTO Kwalifikacje VALUES (2720,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-4-93','Kurs kwalifikacyjny','Rock Springs',3019);
-INSERT INTO Kwalifikacje VALUES (2721,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-2-97','Studia pielęgniarskie','Allentown',3080);
-INSERT INTO Kwalifikacje VALUES (2722,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-19-02','Studia doktoranckie','Augusta',4482);
-INSERT INTO Kwalifikacje VALUES (2723,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-28-85','Kurs dokształcający','Providence',4820);
-INSERT INTO Kwalifikacje VALUES (2724,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-15-07','Kurs specjalistyczny','Peru',2615);
-INSERT INTO Kwalifikacje VALUES (2725,'Specjalizacja zawodowa','2-23-86','Studia wyższe licencjackie','West Hollywood',2585);
-INSERT INTO Kwalifikacje VALUES (2726,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-12-00','Studia wyższe licencjackie','Sheridan',3660);
-INSERT INTO Kwalifikacje VALUES (2727,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-7-05','Studia wyższe licencjackie','Baton Rouge',3645);
-INSERT INTO Kwalifikacje VALUES (2728,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-9-82','Studia wyższe licencjackie','Raleigh',3399);
-INSERT INTO Kwalifikacje VALUES (2729,'Studia pielęgniarskie','1-18-14','Kurs dokształcający','Mankato',4843);
-INSERT INTO Kwalifikacje VALUES (2730,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-14-08','Kurs specjalistyczny','Sugar Land',4391);
-INSERT INTO Kwalifikacje VALUES (2731,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-27-94','Szkolenie','Rolling Hills Estates',2991);
-INSERT INTO Kwalifikacje VALUES (2732,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-3-04','Szkolenie','Waycross',2614);
-INSERT INTO Kwalifikacje VALUES (2733,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-7-09','Szkolenie','San Bernardino',3035);
-INSERT INTO Kwalifikacje VALUES (2734,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-5-95','Szkolenie','San Antonio',3202);
-INSERT INTO Kwalifikacje VALUES (2735,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-21-85','Szkolenie','Daly City',4304);
-INSERT INTO Kwalifikacje VALUES (2736,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-3-07','Kurs kwalifikacyjny','Walla Walla',3907);
-INSERT INTO Kwalifikacje VALUES (2737,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-12-81','Szkolenie','Great Falls',3469);
-INSERT INTO Kwalifikacje VALUES (2738,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-29-94','Specjalizacja','West Haven',3554);
-INSERT INTO Kwalifikacje VALUES (2739,'Studia wyższe licencjackie','11-18-89','Kurs kwalifikacyjny','Parma',4725);
-INSERT INTO Kwalifikacje VALUES (2740,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-7-90','Specjalizacja','Marshall',4984);
-INSERT INTO Kwalifikacje VALUES (2741,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-18-94','Kurs specjalistyczny','Athens',3784);
-INSERT INTO Kwalifikacje VALUES (2742,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-23-13','Studia wyższe licencjackie','Saratoga Springs',2562);
-INSERT INTO Kwalifikacje VALUES (2743,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-21-07','Kurs kwalifikacyjny','Slidell',4352);
-INSERT INTO Kwalifikacje VALUES (2744,'Specjalizacja zawodowa','11-14-83','Studia wyższe licencjackie','Orlando',2978);
-INSERT INTO Kwalifikacje VALUES (2745,'Specjalizacja zawodowa','8-22-94','Kurs specjalistyczny','Port Jervis',2837);
-INSERT INTO Kwalifikacje VALUES (2746,'Studia doktoranckie','10-18-88','Kurs specjalistyczny','Owensboro',4428);
-INSERT INTO Kwalifikacje VALUES (2747,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-11-92','Specjalizacja','Starkville',3112);
-INSERT INTO Kwalifikacje VALUES (2748,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-21-08','Studia wyższe licencjackie','Carson City',3498);
-INSERT INTO Kwalifikacje VALUES (2749,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-23-89','Kurs kwalifikacyjny','Fulton',3819);
-INSERT INTO Kwalifikacje VALUES (2750,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-30-08','Studia wyższe licencjackie','Appleton',4663);
-INSERT INTO Kwalifikacje VALUES (2751,'Kurs specjalistyczny – Terapia bólu','8-20-01','Studia pielęgniarskie','Little Rock',4300);
-INSERT INTO Kwalifikacje VALUES (2752,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-11-08','Studia pielęgniarskie','Moreno Valley',2872);
-INSERT INTO Kwalifikacje VALUES (2753,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-19-05','Studia doktoranckie','Chicago',3913);
-INSERT INTO Kwalifikacje VALUES (2754,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-2-97','Specjalizacja','Sault Ste. Marie',2774);
-INSERT INTO Kwalifikacje VALUES (2755,'Specjalizacja zawodowa','6-12-80','Studia wyższe licencjackie','Mount Pleasant',3439);
-INSERT INTO Kwalifikacje VALUES (2756,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-1-95','Kurs specjalistyczny','Enfield',4949);
-INSERT INTO Kwalifikacje VALUES (2757,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-16-97','Studia doktoranckie','Parker',4673);
-INSERT INTO Kwalifikacje VALUES (2758,'Studia doktoranckie','1-4-06','Kurs dokształcający','Weirton',2816);
-INSERT INTO Kwalifikacje VALUES (2759,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-7-97','Studia doktoranckie','Rochester',2940);
-INSERT INTO Kwalifikacje VALUES (2760,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-10-04','Studia pielęgniarskie','Peabody',4684);
-INSERT INTO Kwalifikacje VALUES (2761,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-4-89','Szkolenie','Mankato',4779);
-INSERT INTO Kwalifikacje VALUES (2762,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-20-06','Szkolenie','Owensboro',4101);
-INSERT INTO Kwalifikacje VALUES (2763,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-22-95','Studia doktoranckie','Dothan',4840);
-INSERT INTO Kwalifikacje VALUES (2764,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-7-85','Studia pielęgniarskie','Tucson',4962);
-INSERT INTO Kwalifikacje VALUES (2765,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-26-98','Szkolenie','Elko',3744);
-INSERT INTO Kwalifikacje VALUES (2766,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-23-98','Specjalizacja','Chicago',2842);
-INSERT INTO Kwalifikacje VALUES (2767,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-31-11','Kurs specjalistyczny','Idaho Springs',2759);
-INSERT INTO Kwalifikacje VALUES (2768,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-21-82','Kurs specjalistyczny','Idaho Springs',4920);
-INSERT INTO Kwalifikacje VALUES (2769,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-11-91','Kurs specjalistyczny','Rye',4454);
-INSERT INTO Kwalifikacje VALUES (2770,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-17-02','Studia wyższe licencjackie','East Lansing',3161);
-INSERT INTO Kwalifikacje VALUES (2771,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-22-87','Szkolenie','Berlin',3066);
-INSERT INTO Kwalifikacje VALUES (2772,'Specjalizacja zawodowa','2-22-06','Studia wyższe licencjackie','Bloomington',2989);
-INSERT INTO Kwalifikacje VALUES (2773,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-25-02','Szkolenie','West Jordan',4401);
-INSERT INTO Kwalifikacje VALUES (2774,'Studia doktoranckie','9-29-13','Kurs dokształcający','Cypress',3652);
-INSERT INTO Kwalifikacje VALUES (2775,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-24-05','Studia pielęgniarskie','Dallas',4878);
-INSERT INTO Kwalifikacje VALUES (2776,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-21-08','Specjalizacja','Altoona',4951);
-INSERT INTO Kwalifikacje VALUES (2777,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-29-15','Studia pielęgniarskie','Dalton',2588);
-INSERT INTO Kwalifikacje VALUES (2778,'Studia wyższe licencjackie','4-30-99','Specjalizacja','Costa Mesa',3761);
-INSERT INTO Kwalifikacje VALUES (2779,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-16-03','Kurs dokształcający','Mesquite',3715);
-INSERT INTO Kwalifikacje VALUES (2780,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-18-95','Kurs dokształcający','Starkville',4550);
-INSERT INTO Kwalifikacje VALUES (2781,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-13-89','Kurs dokształcający','Seaford',4946);
-INSERT INTO Kwalifikacje VALUES (2782,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-7-87','Studia pielęgniarskie','Durango',2718);
-INSERT INTO Kwalifikacje VALUES (2783,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-30-15','Kurs dokształcający','Areceibo',2743);
-INSERT INTO Kwalifikacje VALUES (2784,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-7-06','Specjalizacja','Muskegon',4097);
-INSERT INTO Kwalifikacje VALUES (2785,'Kurs specjalistyczny - Szczepienia ochronne','12-22-91','Studia pielęgniarskie','Waco',4315);
-INSERT INTO Kwalifikacje VALUES (2786,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-18-01','Kurs specjalistyczny','Littleton',4362);
-INSERT INTO Kwalifikacje VALUES (2787,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-27-91','Studia pielęgniarskie','Cruz Bay',4825);
-INSERT INTO Kwalifikacje VALUES (2788,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-1-83','Kurs kwalifikacyjny','Miami',2994);
-INSERT INTO Kwalifikacje VALUES (2789,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-10-02','Kurs dokształcający','Alexandria',3751);
-INSERT INTO Kwalifikacje VALUES (2790,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-15-10','Kurs dokształcający','Akron',3137);
-INSERT INTO Kwalifikacje VALUES (2791,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-12-14','Studia pielęgniarskie','Danville',3846);
-INSERT INTO Kwalifikacje VALUES (2792,'Kurs specjalistyczny - Szczepienia ochronne','2-20-15','Studia pielęgniarskie','Edmond',4064);
-INSERT INTO Kwalifikacje VALUES (2793,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-14-02','Kurs dokształcający','Davis',2666);
-INSERT INTO Kwalifikacje VALUES (2794,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-4-01','Studia doktoranckie','Coos Bay',3747);
-INSERT INTO Kwalifikacje VALUES (2795,'Studia mające zastosowanie w działalności podstawowej','2-13-95','Specjalizacja','Augusta',4165);
-INSERT INTO Kwalifikacje VALUES (2796,'Kurs specjalistyczny - Szczepienia ochronne','11-2-06','Studia wyższe licencjackie','Monroe',4508);
-INSERT INTO Kwalifikacje VALUES (2797,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-10-06','Studia pielęgniarskie','Huntington Park',3440);
-INSERT INTO Kwalifikacje VALUES (2798,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-20-00','Studia wyższe licencjackie','Huntsville',3829);
-INSERT INTO Kwalifikacje VALUES (2799,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-2-88','Kurs specjalistyczny','Elsmere',3906);
-INSERT INTO Kwalifikacje VALUES (2800,'Kurs specjalistyczny - Szczepienia ochronne','4-25-01','Studia pielęgniarskie','Kalamazoo',4601);
-INSERT INTO Kwalifikacje VALUES (2801,'Studia mające zastosowanie w działalności podstawowej','9-29-08','Kurs kwalifikacyjny','Naperville',3926);
-INSERT INTO Kwalifikacje VALUES (2802,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-2-02','Studia doktoranckie','Healdsburg',3191);
-INSERT INTO Kwalifikacje VALUES (2803,'Studia doktoranckie','10-17-08','Kurs dokształcający','New Castle',3470);
-INSERT INTO Kwalifikacje VALUES (2804,'Studia pielęgniarskie','1-21-08','Kurs kwalifikacyjny','Sheboygan',4528);
-INSERT INTO Kwalifikacje VALUES (2805,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-30-92','Kurs kwalifikacyjny','Woodward',3147);
-INSERT INTO Kwalifikacje VALUES (2806,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-23-93','Studia pielęgniarskie','Saratoga Springs',2772);
-INSERT INTO Kwalifikacje VALUES (2807,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-17-04','Kurs kwalifikacyjny','Casper',2673);
-INSERT INTO Kwalifikacje VALUES (2808,'Studia doktoranckie','3-11-83','Kurs dokształcający','Ponce',2634);
-INSERT INTO Kwalifikacje VALUES (2809,'Kurs specjalistyczny - Szczepienia ochronne','3-13-98','Kurs specjalistyczny','Plainfield',3275);
-INSERT INTO Kwalifikacje VALUES (2810,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-7-94','Kurs dokształcający','Toledo',3999);
-INSERT INTO Kwalifikacje VALUES (2811,'Specjalizacja zawodowa','4-14-02','Studia pielęgniarskie','Bandon',2961);
-INSERT INTO Kwalifikacje VALUES (2812,'Studia pielęgniarskie','12-15-02','Kurs dokształcający','Marlborough',4817);
-INSERT INTO Kwalifikacje VALUES (2813,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-30-02','Kurs kwalifikacyjny','Augusta',4338);
-INSERT INTO Kwalifikacje VALUES (2814,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-22-89','Studia doktoranckie','Irwindale',3687);
-INSERT INTO Kwalifikacje VALUES (2815,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-12-97','Studia pielęgniarskie','Tuscaloosa',3778);
-INSERT INTO Kwalifikacje VALUES (2816,'Specjalizacja zawodowa','4-21-87','Kurs kwalifikacyjny','Westlake Village',3301);
-INSERT INTO Kwalifikacje VALUES (2817,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-17-84','Studia doktoranckie','Jackson',3140);
-INSERT INTO Kwalifikacje VALUES (2818,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-3-03','Kurs kwalifikacyjny','Riverton',3762);
-INSERT INTO Kwalifikacje VALUES (2819,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-6-10','Specjalizacja','Lansing',3746);
-INSERT INTO Kwalifikacje VALUES (2820,'Studia mające zastosowanie w działalności podstawowej','8-28-01','Kurs dokształcający','Bay City',2946);
-INSERT INTO Kwalifikacje VALUES (2821,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-16-85','Studia wyższe licencjackie','La Cañada Flintridge',3825);
-INSERT INTO Kwalifikacje VALUES (2822,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-2-10','Kurs dokształcający','Rockford',3183);
-INSERT INTO Kwalifikacje VALUES (2823,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-13-99','Studia doktoranckie','Allentown',3419);
-INSERT INTO Kwalifikacje VALUES (2824,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-2-02','Studia wyższe licencjackie','Mayagüez',3358);
-INSERT INTO Kwalifikacje VALUES (2825,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-5-99','Kurs kwalifikacyjny','Egg Harbor',3374);
-INSERT INTO Kwalifikacje VALUES (2826,'Specjalizacja zawodowa','1-25-81','Studia pielęgniarskie','LaGrange',3014);
-INSERT INTO Kwalifikacje VALUES (2827,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-19-83','Specjalizacja','Redding',3878);
-INSERT INTO Kwalifikacje VALUES (2828,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-2-12','Szkolenie','Frederiksted',3434);
-INSERT INTO Kwalifikacje VALUES (2829,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-24-95','Kurs specjalistyczny','Boston',3167);
-INSERT INTO Kwalifikacje VALUES (2830,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-30-04','Kurs dokształcający','La Crosse',4610);
-INSERT INTO Kwalifikacje VALUES (2831,'Studia doktoranckie','4-8-06','Studia pielęgniarskie','Garland',4653);
-INSERT INTO Kwalifikacje VALUES (2832,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-22-13','Specjalizacja','Spokane',3760);
-INSERT INTO Kwalifikacje VALUES (2833,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-11-08','Studia pielęgniarskie','Monrovia',2877);
-INSERT INTO Kwalifikacje VALUES (2834,'Studia pielęgniarskie','10-13-13','Studia wyższe licencjackie','Meriden',4858);
-INSERT INTO Kwalifikacje VALUES (2835,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-29-13','Szkolenie','Latrobe',4925);
-INSERT INTO Kwalifikacje VALUES (2836,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-12-91','Studia pielęgniarskie','West Haven',3659);
-INSERT INTO Kwalifikacje VALUES (2837,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-19-01','Kurs dokształcający','Clarksville',4332);
-INSERT INTO Kwalifikacje VALUES (2838,'Studia wyższe licencjackie','10-5-88','Studia wyższe licencjackie','Bentonville',4356);
-INSERT INTO Kwalifikacje VALUES (2839,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-25-10','Szkolenie','Bessemer',4647);
-INSERT INTO Kwalifikacje VALUES (2840,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-28-88','Studia doktoranckie','Littleton',3447);
-INSERT INTO Kwalifikacje VALUES (2841,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-4-11','Kurs kwalifikacyjny','La Crosse',4869);
-INSERT INTO Kwalifikacje VALUES (2842,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-7-94','Specjalizacja','Hawthorne',2855);
-INSERT INTO Kwalifikacje VALUES (2843,'Studia doktoranckie','3-20-86','Kurs specjalistyczny','Oro Valley',4107);
-INSERT INTO Kwalifikacje VALUES (2844,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-24-09','Studia pielęgniarskie','Kennesaw',3966);
-INSERT INTO Kwalifikacje VALUES (2845,'Studia pielęgniarskie','11-8-81','Specjalizacja','Chester',3671);
-INSERT INTO Kwalifikacje VALUES (2846,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-23-85','Studia wyższe licencjackie','Kokomo',2820);
-INSERT INTO Kwalifikacje VALUES (2847,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-31-10','Specjalizacja','New Castle',4510);
-INSERT INTO Kwalifikacje VALUES (2848,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-12-96','Studia pielęgniarskie','Riverton',4425);
-INSERT INTO Kwalifikacje VALUES (2849,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-9-11','Studia doktoranckie','Irving',3870);
-INSERT INTO Kwalifikacje VALUES (2850,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-21-86','Kurs dokształcający','Arcadia',3120);
-INSERT INTO Kwalifikacje VALUES (2851,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-9-06','Studia pielęgniarskie','Connellsville',2770);
-INSERT INTO Kwalifikacje VALUES (2852,'Kurs specjalistyczny – Terapia bólu','7-15-00','Kurs specjalistyczny','Fairfield',4967);
-INSERT INTO Kwalifikacje VALUES (2853,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-29-83','Studia pielęgniarskie','Monterey Park',4202);
-INSERT INTO Kwalifikacje VALUES (2854,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-7-04','Kurs specjalistyczny','Diamond Bar',4837);
-INSERT INTO Kwalifikacje VALUES (2855,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-14-86','Kurs specjalistyczny','Newcastle',2570);
-INSERT INTO Kwalifikacje VALUES (2856,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-26-10','Specjalizacja','Tallahassee',2620);
-INSERT INTO Kwalifikacje VALUES (2857,'Studia pielęgniarskie','4-17-81','Studia wyższe licencjackie','Brigham City',3866);
-INSERT INTO Kwalifikacje VALUES (2858,'Kurs specjalistyczny - Szczepienia ochronne','8-6-15','Studia wyższe licencjackie','Hattiesburg',4797);
-INSERT INTO Kwalifikacje VALUES (2859,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-22-05','Kurs specjalistyczny','Sister Bay',3857);
-INSERT INTO Kwalifikacje VALUES (2860,'Studia doktoranckie','8-9-82','Kurs specjalistyczny','Middlebury',4571);
-INSERT INTO Kwalifikacje VALUES (2861,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-13-06','Kurs specjalistyczny','Fitchburg',3077);
-INSERT INTO Kwalifikacje VALUES (2862,'Studia doktoranckie','8-4-10','Szkolenie','Monterey Park',3065);
-INSERT INTO Kwalifikacje VALUES (2863,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-28-06','Szkolenie','Pasco',3224);
-INSERT INTO Kwalifikacje VALUES (2864,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-7-03','Kurs dokształcający','Provo',4678);
-INSERT INTO Kwalifikacje VALUES (2865,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-29-89','Kurs dokształcający','Beverly',4065);
-INSERT INTO Kwalifikacje VALUES (2866,'Studia mające zastosowanie w działalności podstawowej','10-20-12','Studia wyższe licencjackie','Rancho Cucamonga',2762);
-INSERT INTO Kwalifikacje VALUES (2867,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-20-90','Studia pielęgniarskie','Montpelier',3514);
-INSERT INTO Kwalifikacje VALUES (2868,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-14-04','Studia wyższe licencjackie','Lynwood',4232);
-INSERT INTO Kwalifikacje VALUES (2869,'Studia wyższe licencjackie','4-5-98','Kurs specjalistyczny','Irvine',4595);
-INSERT INTO Kwalifikacje VALUES (2870,'Studia wyższe licencjackie','7-2-00','Studia pielęgniarskie','Manassas',4607);
-INSERT INTO Kwalifikacje VALUES (2871,'Kurs specjalistyczny – Terapia bólu','7-7-82','Studia doktoranckie','Norman',4810);
-INSERT INTO Kwalifikacje VALUES (2872,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-28-93','Kurs kwalifikacyjny','Danville',4809);
-INSERT INTO Kwalifikacje VALUES (2873,'Kurs specjalistyczny - Szczepienia ochronne','8-19-08','Kurs dokształcający','Galveston',4371);
-INSERT INTO Kwalifikacje VALUES (2874,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-27-05','Kurs specjalistyczny','Idaho Falls',4846);
-INSERT INTO Kwalifikacje VALUES (2875,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-15-90','Szkolenie','Iowa City',3169);
-INSERT INTO Kwalifikacje VALUES (2876,'Studia doktoranckie','3-24-98','Szkolenie','Weirton',4973);
-INSERT INTO Kwalifikacje VALUES (2877,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-5-88','Kurs kwalifikacyjny','Kenosha',4701);
-INSERT INTO Kwalifikacje VALUES (2878,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-19-94','Kurs dokształcający','Apple Valley',3955);
-INSERT INTO Kwalifikacje VALUES (2879,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-8-92','Studia wyższe licencjackie','Sunbury',2671);
-INSERT INTO Kwalifikacje VALUES (2880,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-27-91','Studia wyższe licencjackie','Houston',2574);
-INSERT INTO Kwalifikacje VALUES (2881,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-27-84','Kurs specjalistyczny','Missoula',3427);
-INSERT INTO Kwalifikacje VALUES (2882,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-10-83','Szkolenie','Santa Cruz',3684);
-INSERT INTO Kwalifikacje VALUES (2883,'Studia wyższe licencjackie','7-24-01','Studia doktoranckie','Sturgis',4912);
-INSERT INTO Kwalifikacje VALUES (2884,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-18-81','Szkolenie','Corpus Christi',4941);
-INSERT INTO Kwalifikacje VALUES (2885,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-8-06','Kurs dokształcający','Westfield',4385);
-INSERT INTO Kwalifikacje VALUES (2886,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-28-87','Studia doktoranckie','Hopkinsville',4704);
-INSERT INTO Kwalifikacje VALUES (2887,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-13-93','Studia wyższe licencjackie','Pulaski',4710);
-INSERT INTO Kwalifikacje VALUES (2888,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-8-05','Kurs dokształcający','Huntsville',2782);
-INSERT INTO Kwalifikacje VALUES (2889,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-21-80','Szkolenie','Hoover',2636);
-INSERT INTO Kwalifikacje VALUES (2890,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-7-83','Studia doktoranckie','Pocatello',2670);
-INSERT INTO Kwalifikacje VALUES (2891,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-28-98','Studia doktoranckie','Lodi',2892);
-INSERT INTO Kwalifikacje VALUES (2892,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-27-84','Kurs specjalistyczny','Grafton',4872);
-INSERT INTO Kwalifikacje VALUES (2893,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-18-86','Szkolenie','Clarksburg',4843);
-INSERT INTO Kwalifikacje VALUES (2894,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-19-93','Kurs specjalistyczny','Monterey',4238);
-INSERT INTO Kwalifikacje VALUES (2895,'Studia wyższe licencjackie','10-2-03','Kurs specjalistyczny','Coatesville',3184);
-INSERT INTO Kwalifikacje VALUES (2896,'Specjalizacja zawodowa','11-7-06','Szkolenie','Wynne',3602);
-INSERT INTO Kwalifikacje VALUES (2897,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-17-87','Studia wyższe licencjackie','Sandpoint',3301);
-INSERT INTO Kwalifikacje VALUES (2898,'Kurs specjalistyczny – Terapia bólu','2-18-01','Studia doktoranckie','Ansonia',2636);
-INSERT INTO Kwalifikacje VALUES (2899,'Studia pielęgniarskie','5-10-89','Specjalizacja','Hornell',2528);
-INSERT INTO Kwalifikacje VALUES (2900,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-23-13','Specjalizacja','Tampa',4794);
-INSERT INTO Kwalifikacje VALUES (2901,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-19-85','Studia wyższe licencjackie','Zanesville',2906);
-INSERT INTO Kwalifikacje VALUES (2902,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','7-24-93','Studia wyższe licencjackie','Kokomo',3250);
-INSERT INTO Kwalifikacje VALUES (2903,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-25-15','Kurs specjalistyczny','Scranton',3696);
-INSERT INTO Kwalifikacje VALUES (2904,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-26-83','Studia doktoranckie','Los Alamitos',4789);
-INSERT INTO Kwalifikacje VALUES (2905,'Kurs specjalistyczny - Szczepienia ochronne','3-26-06','Studia doktoranckie','Sitka',3139);
-INSERT INTO Kwalifikacje VALUES (2906,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-27-00','Szkolenie','Norton',2936);
-INSERT INTO Kwalifikacje VALUES (2907,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-2-15','Studia pielęgniarskie','Sun Valley',3388);
-INSERT INTO Kwalifikacje VALUES (2908,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-23-92','Specjalizacja','Bismarck',3311);
-INSERT INTO Kwalifikacje VALUES (2909,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-17-83','Kurs dokształcający','Alameda',3443);
-INSERT INTO Kwalifikacje VALUES (2910,'Studia mające zastosowanie w działalności podstawowej','11-3-95','Studia pielęgniarskie','Salt Lake City',2577);
-INSERT INTO Kwalifikacje VALUES (2911,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-27-94','Studia doktoranckie','Pass Christian',3952);
-INSERT INTO Kwalifikacje VALUES (2912,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-15-85','Kurs kwalifikacyjny','Annapolis',2934);
-INSERT INTO Kwalifikacje VALUES (2913,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-5-01','Kurs specjalistyczny','Laguna Niguel',4455);
-INSERT INTO Kwalifikacje VALUES (2914,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-22-05','Specjalizacja','Macomb',3316);
-INSERT INTO Kwalifikacje VALUES (2915,'Kurs specjalistyczny – Terapia bólu','8-10-01','Studia doktoranckie','Corvallis',4462);
-INSERT INTO Kwalifikacje VALUES (2916,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-7-12','Kurs kwalifikacyjny','Chula Vista',2883);
-INSERT INTO Kwalifikacje VALUES (2917,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-14-98','Szkolenie','Culver City',3110);
-INSERT INTO Kwalifikacje VALUES (2918,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-14-15','Szkolenie','Connellsville',3555);
-INSERT INTO Kwalifikacje VALUES (2919,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-7-14','Studia doktoranckie','Redding',3865);
-INSERT INTO Kwalifikacje VALUES (2920,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-5-83','Kurs specjalistyczny','Baltimore',3304);
-INSERT INTO Kwalifikacje VALUES (2921,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-12-01','Kurs specjalistyczny','Brunswick',2554);
-INSERT INTO Kwalifikacje VALUES (2922,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-1-87','Kurs dokształcający','Gastonia',3803);
-INSERT INTO Kwalifikacje VALUES (2923,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-6-13','Kurs dokształcający','Coral Springs',4453);
-INSERT INTO Kwalifikacje VALUES (2924,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-6-05','Studia pielęgniarskie','Oklahoma City',3126);
-INSERT INTO Kwalifikacje VALUES (2925,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-27-13','Studia pielęgniarskie','Bowling Green',4662);
-INSERT INTO Kwalifikacje VALUES (2926,'Studia wyższe licencjackie','12-24-80','Szkolenie','McAllen',3166);
-INSERT INTO Kwalifikacje VALUES (2927,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-25-07','Kurs specjalistyczny','Calabasas',4716);
-INSERT INTO Kwalifikacje VALUES (2928,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-9-83','Studia wyższe licencjackie','Garden Grove',3698);
-INSERT INTO Kwalifikacje VALUES (2929,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-29-85','Studia pielęgniarskie','Pascagoula',4545);
-INSERT INTO Kwalifikacje VALUES (2930,'Kurs specjalistyczny - Szczepienia ochronne','2-19-97','Studia wyższe licencjackie','Christiansted',4681);
-INSERT INTO Kwalifikacje VALUES (2931,'Studia mające zastosowanie w działalności podstawowej','9-25-09','Kurs specjalistyczny','Bessemer',3099);
-INSERT INTO Kwalifikacje VALUES (2932,'Studia doktoranckie','11-26-83','Studia wyższe licencjackie','Villa Park',3496);
-INSERT INTO Kwalifikacje VALUES (2933,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-3-85','Studia pielęgniarskie','Selma',4915);
-INSERT INTO Kwalifikacje VALUES (2934,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-4-86','Kurs kwalifikacyjny','Mesa',3137);
-INSERT INTO Kwalifikacje VALUES (2935,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-12-94','Studia wyższe licencjackie','Waycross',4276);
-INSERT INTO Kwalifikacje VALUES (2936,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-3-85','Kurs specjalistyczny','Hawthorne',3756);
-INSERT INTO Kwalifikacje VALUES (2937,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-2-05','Szkolenie','Irwindale',3333);
-INSERT INTO Kwalifikacje VALUES (2938,'Kurs specjalistyczny – Terapia bólu','12-2-86','Specjalizacja','Leominster',3800);
-INSERT INTO Kwalifikacje VALUES (2939,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-21-96','Kurs specjalistyczny','Tyler',4362);
-INSERT INTO Kwalifikacje VALUES (2940,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-26-12','Kurs kwalifikacyjny','Yonkers',3306);
-INSERT INTO Kwalifikacje VALUES (2941,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-27-00','Specjalizacja','Casper',2596);
-INSERT INTO Kwalifikacje VALUES (2942,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-28-85','Kurs kwalifikacyjny','Asbury Park',3759);
-INSERT INTO Kwalifikacje VALUES (2943,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-28-11','Szkolenie','Shamokin',2878);
-INSERT INTO Kwalifikacje VALUES (2944,'Kurs specjalistyczny - Szczepienia ochronne','5-30-84','Studia wyższe licencjackie','Barrow',4398);
-INSERT INTO Kwalifikacje VALUES (2945,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-28-89','Kurs specjalistyczny','Tempe',2918);
-INSERT INTO Kwalifikacje VALUES (2946,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-31-08','Studia pielęgniarskie','Saukville',2669);
-INSERT INTO Kwalifikacje VALUES (2947,'Kurs specjalistyczny – Terapia bólu','3-5-88','Studia wyższe licencjackie','Thiensville',2775);
-INSERT INTO Kwalifikacje VALUES (2948,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-13-97','Kurs specjalistyczny','Orem',4162);
-INSERT INTO Kwalifikacje VALUES (2949,'Kurs specjalistyczny – Terapia bólu','6-17-09','Kurs specjalistyczny','Moraga',3424);
-INSERT INTO Kwalifikacje VALUES (2950,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-2-90','Studia pielęgniarskie','Scottsdale',2544);
-INSERT INTO Kwalifikacje VALUES (2951,'Studia wyższe licencjackie','9-25-04','Kurs dokształcający','Ketchikan',3451);
-INSERT INTO Kwalifikacje VALUES (2952,'Studia pielęgniarskie','8-27-92','Specjalizacja','Batavia',3637);
-INSERT INTO Kwalifikacje VALUES (2953,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-8-12','Specjalizacja','Bay City',2613);
-INSERT INTO Kwalifikacje VALUES (2954,'Specjalizacja zawodowa','7-17-86','Szkolenie','Des Moines',4430);
-INSERT INTO Kwalifikacje VALUES (2955,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-7-87','Specjalizacja','Phenix City',4424);
-INSERT INTO Kwalifikacje VALUES (2956,'Studia mające zastosowanie w działalności podstawowej','1-20-91','Studia pielęgniarskie','Florence',3580);
-INSERT INTO Kwalifikacje VALUES (2957,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-12-16','Studia wyższe licencjackie','Arvada',4190);
-INSERT INTO Kwalifikacje VALUES (2958,'Studia doktoranckie','11-4-08','Kurs specjalistyczny','New Brunswick',3442);
-INSERT INTO Kwalifikacje VALUES (2959,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-17-96','Szkolenie','Alhambra',3563);
-INSERT INTO Kwalifikacje VALUES (2960,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-19-88','Szkolenie','Walla Walla',2812);
-INSERT INTO Kwalifikacje VALUES (2961,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-27-14','Studia pielęgniarskie','Greensburg',4364);
-INSERT INTO Kwalifikacje VALUES (2962,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-11-11','Studia pielęgniarskie','Concord',3845);
-INSERT INTO Kwalifikacje VALUES (2963,'Studia pielęgniarskie','8-3-88','Studia wyższe licencjackie','Tyler',4795);
-INSERT INTO Kwalifikacje VALUES (2964,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-1-85','Studia pielęgniarskie','Livonia',3764);
-INSERT INTO Kwalifikacje VALUES (2965,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-12-84','Kurs dokształcający','Villa Park',3855);
-INSERT INTO Kwalifikacje VALUES (2966,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-25-87','Szkolenie','Pascagoula',4834);
-INSERT INTO Kwalifikacje VALUES (2967,'Studia pielęgniarskie','9-21-86','Specjalizacja','North Pole',3387);
-INSERT INTO Kwalifikacje VALUES (2968,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-21-88','Kurs dokształcający','New York',4975);
-INSERT INTO Kwalifikacje VALUES (2969,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-12-04','Specjalizacja','Seattle',3920);
-INSERT INTO Kwalifikacje VALUES (2970,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-10-06','Studia wyższe licencjackie','Walnut',4836);
-INSERT INTO Kwalifikacje VALUES (2971,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-7-15','Studia doktoranckie','Basin',4738);
-INSERT INTO Kwalifikacje VALUES (2972,'Studia mające zastosowanie w działalności podstawowej','5-25-85','Studia wyższe licencjackie','Half Moon Bay',3397);
-INSERT INTO Kwalifikacje VALUES (2973,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-15-95','Kurs kwalifikacyjny','Caguas',3580);
-INSERT INTO Kwalifikacje VALUES (2974,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-18-96','Kurs dokształcający','Signal Hill',4620);
-INSERT INTO Kwalifikacje VALUES (2975,'Studia doktoranckie','12-30-90','Kurs specjalistyczny','San Juan',3553);
-INSERT INTO Kwalifikacje VALUES (2976,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-24-84','Studia wyższe licencjackie','New Orleans',3789);
-INSERT INTO Kwalifikacje VALUES (2977,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-21-83','Studia wyższe licencjackie','Peabody',4200);
-INSERT INTO Kwalifikacje VALUES (2978,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-13-83','Studia wyższe licencjackie','Blythe',4006);
-INSERT INTO Kwalifikacje VALUES (2979,'Specjalizacja zawodowa','7-24-82','Kurs kwalifikacyjny','Slidell',4624);
-INSERT INTO Kwalifikacje VALUES (2980,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-4-08','Kurs kwalifikacyjny','Bozeman',3187);
-INSERT INTO Kwalifikacje VALUES (2981,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-2-97','Szkolenie','Natchez',4801);
-INSERT INTO Kwalifikacje VALUES (2982,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-17-95','Specjalizacja','Davis',4273);
-INSERT INTO Kwalifikacje VALUES (2983,'Kurs specjalistyczny – Terapia bólu','9-2-15','Szkolenie','Fall River',2548);
-INSERT INTO Kwalifikacje VALUES (2984,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-26-03','Studia wyższe licencjackie','Liberal',2705);
-INSERT INTO Kwalifikacje VALUES (2985,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-17-06','Studia doktoranckie','New Iberia',3368);
-INSERT INTO Kwalifikacje VALUES (2986,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-27-91','Kurs specjalistyczny','Albany',3268);
-INSERT INTO Kwalifikacje VALUES (2987,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-15-04','Kurs dokształcający','Rhinelander',3338);
-INSERT INTO Kwalifikacje VALUES (2988,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-19-87','Kurs dokształcający','Burbank',3231);
-INSERT INTO Kwalifikacje VALUES (2989,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-4-99','Kurs dokształcający','Georgetown',3239);
-INSERT INTO Kwalifikacje VALUES (2990,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-23-11','Kurs specjalistyczny','South Pasadena',2863);
-INSERT INTO Kwalifikacje VALUES (2991,'Specjalizacja zawodowa','11-9-13','Kurs dokształcający','Midland',2781);
-INSERT INTO Kwalifikacje VALUES (2992,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-7-13','Kurs specjalistyczny','Fajardo',2949);
-INSERT INTO Kwalifikacje VALUES (2993,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-12-98','Studia doktoranckie','Meriden',2947);
-INSERT INTO Kwalifikacje VALUES (2994,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-28-11','Studia doktoranckie','Ithaca',2615);
-INSERT INTO Kwalifikacje VALUES (2995,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-18-03','Studia wyższe licencjackie','Placentia',2889);
-INSERT INTO Kwalifikacje VALUES (2996,'Specjalizacja zawodowa','4-24-93','Kurs specjalistyczny','New Britain',3524);
-INSERT INTO Kwalifikacje VALUES (2997,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-12-10','Studia doktoranckie','New Albany',3313);
-INSERT INTO Kwalifikacje VALUES (2998,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-9-08','Kurs dokształcający','Clarksburg',2775);
-INSERT INTO Kwalifikacje VALUES (2999,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-6-05','Kurs specjalistyczny','El Monte',2730);
-INSERT INTO Kwalifikacje VALUES (3000,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-14-11','Studia wyższe licencjackie','Pueblo',4496);
-INSERT INTO Kwalifikacje VALUES (3001,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-18-92','Szkolenie','Pomona',3748);
-INSERT INTO Kwalifikacje VALUES (3002,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-31-83','Studia wyższe licencjackie','Edina',4839);
-INSERT INTO Kwalifikacje VALUES (3003,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-29-83','Studia wyższe licencjackie','Corona',3855);
-INSERT INTO Kwalifikacje VALUES (3004,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-13-88','Kurs kwalifikacyjny','Torrance',4277);
-INSERT INTO Kwalifikacje VALUES (3005,'Specjalizacja zawodowa','11-1-15','Specjalizacja','Wheaton',2967);
-INSERT INTO Kwalifikacje VALUES (3006,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-2-12','Studia wyższe licencjackie','Suffolk',4236);
-INSERT INTO Kwalifikacje VALUES (3007,'Kurs specjalistyczny – Terapia bólu','10-9-80','Studia doktoranckie','Pueblo',3792);
-INSERT INTO Kwalifikacje VALUES (3008,'Specjalizacja zawodowa','11-8-87','Studia wyższe licencjackie','Brookings',4798);
-INSERT INTO Kwalifikacje VALUES (3009,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-18-84','Kurs dokształcający','Dana Point',4574);
-INSERT INTO Kwalifikacje VALUES (3010,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-24-01','Studia pielęgniarskie','Brookfield',2826);
-INSERT INTO Kwalifikacje VALUES (3011,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-15-94','Specjalizacja','San Dimas',4839);
-INSERT INTO Kwalifikacje VALUES (3012,'Specjalizacja zawodowa','6-23-00','Studia wyższe licencjackie','Ketchikan',4930);
-INSERT INTO Kwalifikacje VALUES (3013,'Specjalizacja zawodowa','11-21-11','Studia pielęgniarskie','Elkhart',2631);
-INSERT INTO Kwalifikacje VALUES (3014,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-8-11','Studia doktoranckie','Grass Valley',4761);
-INSERT INTO Kwalifikacje VALUES (3015,'Kurs specjalistyczny - Szczepienia ochronne','4-5-84','Specjalizacja','Sheboygan',2980);
-INSERT INTO Kwalifikacje VALUES (3016,'Studia mające zastosowanie w działalności podstawowej','5-27-89','Studia pielęgniarskie','Opelousas',2589);
-INSERT INTO Kwalifikacje VALUES (3017,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-18-07','Kurs dokształcający','Escondido',3786);
-INSERT INTO Kwalifikacje VALUES (3018,'Studia wyższe licencjackie','12-13-00','Kurs kwalifikacyjny','Mentor',4351);
-INSERT INTO Kwalifikacje VALUES (3019,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-21-02','Specjalizacja','Lubbock',2508);
-INSERT INTO Kwalifikacje VALUES (3020,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-18-09','Studia doktoranckie','Fajardo',2697);
-INSERT INTO Kwalifikacje VALUES (3021,'Studia mające zastosowanie w działalności podstawowej','4-22-12','Studia doktoranckie','Norfolk',4169);
-INSERT INTO Kwalifikacje VALUES (3022,'Studia pielęgniarskie','5-11-82','Kurs dokształcający','Redding',4463);
-INSERT INTO Kwalifikacje VALUES (3023,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-1-97','Studia doktoranckie','Philadelphia',3134);
-INSERT INTO Kwalifikacje VALUES (3024,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-6-12','Studia pielęgniarskie','Dodge City',4266);
-INSERT INTO Kwalifikacje VALUES (3025,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-22-90','Kurs specjalistyczny','Elkhart',4709);
-INSERT INTO Kwalifikacje VALUES (3026,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-12-95','Kurs specjalistyczny','San Jose',2593);
-INSERT INTO Kwalifikacje VALUES (3027,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-23-02','Kurs kwalifikacyjny','Woburn',2572);
-INSERT INTO Kwalifikacje VALUES (3028,'Studia wyższe licencjackie','5-20-98','Kurs specjalistyczny','Sunbury',3809);
-INSERT INTO Kwalifikacje VALUES (3029,'Kurs specjalistyczny - Szczepienia ochronne','10-15-96','Kurs dokształcający','Modesto',3093);
-INSERT INTO Kwalifikacje VALUES (3030,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-21-15','Kurs kwalifikacyjny','Savannah',2503);
-INSERT INTO Kwalifikacje VALUES (3031,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-27-15','Szkolenie','Kenosha',3817);
-INSERT INTO Kwalifikacje VALUES (3032,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-25-95','Specjalizacja','Rolling Hills Estates',3627);
-INSERT INTO Kwalifikacje VALUES (3033,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-30-10','Szkolenie','Lake Charles',2542);
-INSERT INTO Kwalifikacje VALUES (3034,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-24-08','Studia doktoranckie','Manassas Park',4173);
-INSERT INTO Kwalifikacje VALUES (3035,'Kurs specjalistyczny – Terapia bólu','10-28-94','Studia pielęgniarskie','Forest Lake',4487);
-INSERT INTO Kwalifikacje VALUES (3036,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-26-07','Studia wyższe licencjackie','Bethlehem',2841);
-INSERT INTO Kwalifikacje VALUES (3037,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-3-11','Kurs dokształcający','Wichita Falls',3294);
-INSERT INTO Kwalifikacje VALUES (3038,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-23-95','Szkolenie','Bristol',4962);
-INSERT INTO Kwalifikacje VALUES (3039,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-20-08','Kurs specjalistyczny','Chino Hills',3979);
-INSERT INTO Kwalifikacje VALUES (3040,'Studia doktoranckie','7-13-98','Studia wyższe licencjackie','Rocky Mount',2917);
-INSERT INTO Kwalifikacje VALUES (3041,'Studia wyższe licencjackie','2-6-09','Kurs dokształcający','Oakland',2628);
-INSERT INTO Kwalifikacje VALUES (3042,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-4-81','Kurs specjalistyczny','Jeffersontown',3383);
-INSERT INTO Kwalifikacje VALUES (3043,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-29-92','Kurs kwalifikacyjny','Placentia',2702);
-INSERT INTO Kwalifikacje VALUES (3044,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-8-95','Specjalizacja','Missoula',4510);
-INSERT INTO Kwalifikacje VALUES (3045,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-23-99','Kurs kwalifikacyjny','Waco',3266);
-INSERT INTO Kwalifikacje VALUES (3046,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-26-04','Szkolenie','Paramount',2573);
-INSERT INTO Kwalifikacje VALUES (3047,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-27-04','Specjalizacja','McAlester',2770);
-INSERT INTO Kwalifikacje VALUES (3048,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-22-01','Kurs kwalifikacyjny','Edina',3465);
-INSERT INTO Kwalifikacje VALUES (3049,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-12-95','Kurs dokształcający','Schenectady',3445);
-INSERT INTO Kwalifikacje VALUES (3050,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-12-15','Kurs dokształcający','Maywood',2560);
-INSERT INTO Kwalifikacje VALUES (3051,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-10-90','Studia pielęgniarskie','Macon',3285);
-INSERT INTO Kwalifikacje VALUES (3052,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-18-96','Kurs specjalistyczny','Burbank',2899);
-INSERT INTO Kwalifikacje VALUES (3053,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-29-14','Szkolenie','Tucson',3044);
-INSERT INTO Kwalifikacje VALUES (3054,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-16-06','Szkolenie','Torrance',3570);
-INSERT INTO Kwalifikacje VALUES (3055,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-5-93','Kurs kwalifikacyjny','Waycross',4149);
-INSERT INTO Kwalifikacje VALUES (3056,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-5-82','Kurs kwalifikacyjny','Hagerstown',4648);
-INSERT INTO Kwalifikacje VALUES (3057,'Studia pielęgniarskie','2-1-02','Kurs dokształcający','Palm Springs',4268);
-INSERT INTO Kwalifikacje VALUES (3058,'Kurs specjalistyczny - Szczepienia ochronne','2-4-82','Studia doktoranckie','Clarksville',3147);
-INSERT INTO Kwalifikacje VALUES (3059,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-3-13','Studia pielęgniarskie','Birmingham',4357);
-INSERT INTO Kwalifikacje VALUES (3060,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-10-82','Studia pielęgniarskie','Rochester',4707);
-INSERT INTO Kwalifikacje VALUES (3061,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-1-95','Kurs dokształcający','Lebanon',2586);
-INSERT INTO Kwalifikacje VALUES (3062,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-2-81','Kurs specjalistyczny','East St. Louis',2957);
-INSERT INTO Kwalifikacje VALUES (3063,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-17-82','Kurs specjalistyczny','Healdsburg',4286);
-INSERT INTO Kwalifikacje VALUES (3064,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-1-93','Studia wyższe licencjackie','Berkeley',4524);
-INSERT INTO Kwalifikacje VALUES (3065,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-3-08','Studia wyższe licencjackie','Yonkers',3518);
-INSERT INTO Kwalifikacje VALUES (3066,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-2-15','Kurs kwalifikacyjny','West Hartford',4479);
-INSERT INTO Kwalifikacje VALUES (3067,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-7-91','Kurs dokształcający','Signal Hill',2528);
-INSERT INTO Kwalifikacje VALUES (3068,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-10-98','Studia doktoranckie','Moraga',3441);
-INSERT INTO Kwalifikacje VALUES (3069,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-23-84','Studia wyższe licencjackie','Morgan City',4852);
-INSERT INTO Kwalifikacje VALUES (3070,'Studia mające zastosowanie w działalności podstawowej','2-6-06','Studia wyższe licencjackie','Overland Park',3355);
-INSERT INTO Kwalifikacje VALUES (3071,'Studia doktoranckie','3-4-88','Studia wyższe licencjackie','Hutchinson',4883);
-INSERT INTO Kwalifikacje VALUES (3072,'Studia mające zastosowanie w działalności podstawowej','9-20-04','Studia pielęgniarskie','Reading',3257);
-INSERT INTO Kwalifikacje VALUES (3073,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-8-00','Szkolenie','Claremore',2893);
-INSERT INTO Kwalifikacje VALUES (3074,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-16-83','Kurs specjalistyczny','Slidell',3180);
-INSERT INTO Kwalifikacje VALUES (3075,'Studia mające zastosowanie w działalności podstawowej','3-9-15','Studia wyższe licencjackie','The Dalles',3484);
-INSERT INTO Kwalifikacje VALUES (3076,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-8-13','Szkolenie','Hawthorne',3471);
-INSERT INTO Kwalifikacje VALUES (3077,'Studia pielęgniarskie','5-31-80','Studia doktoranckie','Plantation',4076);
-INSERT INTO Kwalifikacje VALUES (3078,'Studia pielęgniarskie','9-14-15','Kurs specjalistyczny','Nichols Hills',3277);
-INSERT INTO Kwalifikacje VALUES (3079,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-27-05','Studia wyższe licencjackie','Newburgh',3299);
-INSERT INTO Kwalifikacje VALUES (3080,'Studia mające zastosowanie w działalności podstawowej','11-18-96','Specjalizacja','Sierra Vista',3146);
-INSERT INTO Kwalifikacje VALUES (3081,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-8-00','Szkolenie','Agat',4500);
-INSERT INTO Kwalifikacje VALUES (3082,'Studia doktoranckie','4-13-91','Kurs kwalifikacyjny','Dover',3108);
-INSERT INTO Kwalifikacje VALUES (3083,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-3-14','Szkolenie','West Jordan',4918);
-INSERT INTO Kwalifikacje VALUES (3084,'Kurs specjalistyczny - Szczepienia ochronne','8-4-82','Studia doktoranckie','Kokomo',3634);
-INSERT INTO Kwalifikacje VALUES (3085,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-9-04','Kurs kwalifikacyjny','Scottsdale',3642);
-INSERT INTO Kwalifikacje VALUES (3086,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-24-88','Studia doktoranckie','Grand Rapids',3906);
-INSERT INTO Kwalifikacje VALUES (3087,'Specjalizacja zawodowa','11-26-06','Specjalizacja','Hattiesburg',3467);
-INSERT INTO Kwalifikacje VALUES (3088,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-28-92','Specjalizacja','Midwest City',2964);
-INSERT INTO Kwalifikacje VALUES (3089,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-26-97','Kurs kwalifikacyjny','Kansas City',3420);
-INSERT INTO Kwalifikacje VALUES (3090,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-15-99','Szkolenie','New Castle',3813);
-INSERT INTO Kwalifikacje VALUES (3091,'Studia mające zastosowanie w działalności podstawowej','1-10-98','Kurs kwalifikacyjny','Hampton',3913);
-INSERT INTO Kwalifikacje VALUES (3092,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-19-87','Studia wyższe licencjackie','Hollywood',4136);
-INSERT INTO Kwalifikacje VALUES (3093,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-10-93','Szkolenie','Farmer City',2944);
-INSERT INTO Kwalifikacje VALUES (3094,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-28-05','Szkolenie','Dayton',4398);
-INSERT INTO Kwalifikacje VALUES (3095,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-25-97','Studia doktoranckie','San Bernardino',4962);
-INSERT INTO Kwalifikacje VALUES (3096,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-23-08','Specjalizacja','Princeton',4223);
-INSERT INTO Kwalifikacje VALUES (3097,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-21-06','Kurs specjalistyczny','Aliso Viejo',3311);
-INSERT INTO Kwalifikacje VALUES (3098,'Kurs specjalistyczny – Terapia bólu','12-25-85','Studia pielęgniarskie','Aspen',2702);
-INSERT INTO Kwalifikacje VALUES (3099,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-19-01','Kurs dokształcający','The Dalles',3094);
-INSERT INTO Kwalifikacje VALUES (3100,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-6-14','Studia doktoranckie','Pittston',2968);
-INSERT INTO Kwalifikacje VALUES (3101,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-2-93','Studia wyższe licencjackie','Jeffersontown',3633);
-INSERT INTO Kwalifikacje VALUES (3102,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-12-03','Specjalizacja','Mechanicville',4891);
-INSERT INTO Kwalifikacje VALUES (3103,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-25-96','Studia doktoranckie','Nampa',4874);
-INSERT INTO Kwalifikacje VALUES (3104,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-14-88','Studia pielęgniarskie','LaGrange',4346);
-INSERT INTO Kwalifikacje VALUES (3105,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-28-11','Szkolenie','Santa Fe',3748);
-INSERT INTO Kwalifikacje VALUES (3106,'Studia doktoranckie','10-6-85','Kurs kwalifikacyjny','Salem',4732);
-INSERT INTO Kwalifikacje VALUES (3107,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-7-99','Studia pielęgniarskie','Mesa',4954);
-INSERT INTO Kwalifikacje VALUES (3108,'Studia doktoranckie','3-28-06','Kurs specjalistyczny','Hudson',2644);
-INSERT INTO Kwalifikacje VALUES (3109,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-12-00','Kurs kwalifikacyjny','Stamford',3045);
-INSERT INTO Kwalifikacje VALUES (3110,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-6-82','Szkolenie','New London',3082);
-INSERT INTO Kwalifikacje VALUES (3111,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-6-05','Studia wyższe licencjackie','Saint Louis',2906);
-INSERT INTO Kwalifikacje VALUES (3112,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-22-07','Specjalizacja','Cypress',4903);
-INSERT INTO Kwalifikacje VALUES (3113,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-3-87','Studia doktoranckie','San Fernando',3684);
-INSERT INTO Kwalifikacje VALUES (3114,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-6-14','Kurs dokształcający','Salem',3106);
-INSERT INTO Kwalifikacje VALUES (3115,'Studia pielęgniarskie','4-7-96','Kurs kwalifikacyjny','Provo',4765);
-INSERT INTO Kwalifikacje VALUES (3116,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-15-06','Kurs kwalifikacyjny','Gettysburg',2932);
-INSERT INTO Kwalifikacje VALUES (3117,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-17-90','Studia wyższe licencjackie','Dothan',2537);
-INSERT INTO Kwalifikacje VALUES (3118,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-21-14','Kurs specjalistyczny','Worland',3435);
-INSERT INTO Kwalifikacje VALUES (3119,'Kurs specjalistyczny - Szczepienia ochronne','5-8-87','Studia wyższe licencjackie','Sturgis',3287);
-INSERT INTO Kwalifikacje VALUES (3120,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-2-98','Kurs specjalistyczny','Sioux Falls',4105);
-INSERT INTO Kwalifikacje VALUES (3121,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-21-90','Szkolenie','Sun Valley',2773);
-INSERT INTO Kwalifikacje VALUES (3122,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-8-15','Studia wyższe licencjackie','Calumet City',2581);
-INSERT INTO Kwalifikacje VALUES (3123,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-18-87','Studia pielęgniarskie','Overland Park',4048);
-INSERT INTO Kwalifikacje VALUES (3124,'Studia mające zastosowanie w działalności podstawowej','1-28-13','Szkolenie','Malibu',3256);
-INSERT INTO Kwalifikacje VALUES (3125,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-20-82','Studia pielęgniarskie','Helena',4665);
-INSERT INTO Kwalifikacje VALUES (3126,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-19-05','Szkolenie','Cohoes',2753);
-INSERT INTO Kwalifikacje VALUES (3127,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-31-96','Szkolenie','Poughkeepsie',2754);
-INSERT INTO Kwalifikacje VALUES (3128,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-23-92','Kurs kwalifikacyjny','Diamond Bar',3833);
-INSERT INTO Kwalifikacje VALUES (3129,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-3-82','Studia pielęgniarskie','Asbury Park',3731);
-INSERT INTO Kwalifikacje VALUES (3130,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-23-02','Studia pielęgniarskie','Branson',2516);
-INSERT INTO Kwalifikacje VALUES (3131,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-9-13','Studia pielęgniarskie','Homer',3262);
-INSERT INTO Kwalifikacje VALUES (3132,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-23-80','Studia doktoranckie','Duncan',3539);
-INSERT INTO Kwalifikacje VALUES (3133,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-30-12','Kurs specjalistyczny','Vail',3668);
-INSERT INTO Kwalifikacje VALUES (3134,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-15-00','Studia doktoranckie','Binghamton',3302);
-INSERT INTO Kwalifikacje VALUES (3135,'Specjalizacja zawodowa','10-21-88','Szkolenie','Yorba Linda',3607);
-INSERT INTO Kwalifikacje VALUES (3136,'Kurs specjalistyczny – Terapia bólu','2-27-99','Studia pielęgniarskie','Kennewick',4745);
-INSERT INTO Kwalifikacje VALUES (3137,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-15-93','Kurs dokształcający','Blythe',3805);
-INSERT INTO Kwalifikacje VALUES (3138,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-29-94','Studia pielęgniarskie','Bessemer',4563);
-INSERT INTO Kwalifikacje VALUES (3139,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-26-89','Studia pielęgniarskie','Oakland',3558);
-INSERT INTO Kwalifikacje VALUES (3140,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-17-87','Szkolenie','Vernon',3673);
-INSERT INTO Kwalifikacje VALUES (3141,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-2-02','Studia wyższe licencjackie','Malden',4094);
-INSERT INTO Kwalifikacje VALUES (3142,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-5-91','Kurs kwalifikacyjny','Rancho Palos Verdes',3069);
-INSERT INTO Kwalifikacje VALUES (3143,'Specjalizacja zawodowa','4-30-06','Studia pielęgniarskie','Bessemer',4727);
-INSERT INTO Kwalifikacje VALUES (3144,'Studia wyższe licencjackie','12-8-92','Kurs specjalistyczny','Oak Ridge',4797);
-INSERT INTO Kwalifikacje VALUES (3145,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-18-86','Kurs kwalifikacyjny','Easthampton',3158);
-INSERT INTO Kwalifikacje VALUES (3146,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','7-22-94','Studia wyższe licencjackie','Grass Valley',2518);
-INSERT INTO Kwalifikacje VALUES (3147,'Studia pielęgniarskie','12-6-95','Kurs kwalifikacyjny','Abilene',3235);
-INSERT INTO Kwalifikacje VALUES (3148,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-6-09','Szkolenie','Fairfield',2910);
-INSERT INTO Kwalifikacje VALUES (3149,'Studia pielęgniarskie','10-9-95','Studia wyższe licencjackie','Kingston',4882);
-INSERT INTO Kwalifikacje VALUES (3150,'Kurs specjalistyczny – Terapia bólu','4-8-86','Specjalizacja','Owensboro',3796);
-INSERT INTO Kwalifikacje VALUES (3151,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-29-90','Szkolenie','Miami',4288);
-INSERT INTO Kwalifikacje VALUES (3152,'Specjalizacja zawodowa','5-12-06','Studia pielęgniarskie','Fullerton',3196);
-INSERT INTO Kwalifikacje VALUES (3153,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-25-81','Studia doktoranckie','Grand Junction',4412);
-INSERT INTO Kwalifikacje VALUES (3154,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-4-08','Specjalizacja','Murrieta',3164);
-INSERT INTO Kwalifikacje VALUES (3155,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-26-94','Kurs dokształcający','Port Washington',3403);
-INSERT INTO Kwalifikacje VALUES (3156,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-14-87','Specjalizacja','Altoona',3327);
-INSERT INTO Kwalifikacje VALUES (3157,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-18-01','Szkolenie','Santa Fe Springs',3330);
-INSERT INTO Kwalifikacje VALUES (3158,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-1-08','Kurs kwalifikacyjny','International Falls',3458);
-INSERT INTO Kwalifikacje VALUES (3159,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-29-96','Kurs kwalifikacyjny','Phenix City',2673);
-INSERT INTO Kwalifikacje VALUES (3160,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-21-15','Specjalizacja','International Falls',3739);
-INSERT INTO Kwalifikacje VALUES (3161,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-17-01','Kurs specjalistyczny','Visalia',3693);
-INSERT INTO Kwalifikacje VALUES (3162,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-10-98','Kurs dokształcający','Commerce',3882);
-INSERT INTO Kwalifikacje VALUES (3163,'Studia doktoranckie','5-29-04','Studia doktoranckie','Hammond',3551);
-INSERT INTO Kwalifikacje VALUES (3164,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-9-04','Studia doktoranckie','Texas City',3894);
-INSERT INTO Kwalifikacje VALUES (3165,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-9-88','Kurs kwalifikacyjny','Muskegon',2784);
-INSERT INTO Kwalifikacje VALUES (3166,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-14-91','Szkolenie','Vail',4222);
-INSERT INTO Kwalifikacje VALUES (3167,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-14-01','Kurs specjalistyczny','Nashua',4035);
-INSERT INTO Kwalifikacje VALUES (3168,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-4-80','Studia doktoranckie','Rutland',4573);
-INSERT INTO Kwalifikacje VALUES (3169,'Studia wyższe licencjackie','3-22-91','Studia doktoranckie','Hidden Hills',3939);
-INSERT INTO Kwalifikacje VALUES (3170,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-25-07','Specjalizacja','Gary',2747);
-INSERT INTO Kwalifikacje VALUES (3171,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-12-85','Studia pielęgniarskie','Azusa',4250);
-INSERT INTO Kwalifikacje VALUES (3172,'Kurs specjalistyczny - Szczepienia ochronne','12-20-99','Studia pielęgniarskie','Vail',2523);
-INSERT INTO Kwalifikacje VALUES (3173,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-9-09','Studia doktoranckie','Pueblo',3600);
-INSERT INTO Kwalifikacje VALUES (3174,'Specjalizacja zawodowa','1-19-93','Szkolenie','Orem',3173);
-INSERT INTO Kwalifikacje VALUES (3175,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-4-81','Studia pielęgniarskie','Thousand Oaks',3762);
-INSERT INTO Kwalifikacje VALUES (3176,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-21-99','Kurs dokształcający','Glendale',3540);
-INSERT INTO Kwalifikacje VALUES (3177,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-10-15','Studia pielęgniarskie','Dubuque',2908);
-INSERT INTO Kwalifikacje VALUES (3178,'Kurs specjalistyczny - Szczepienia ochronne','8-27-89','Studia pielęgniarskie','Lexington',4819);
-INSERT INTO Kwalifikacje VALUES (3179,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-21-14','Studia wyższe licencjackie','Rohnert Park',3395);
-INSERT INTO Kwalifikacje VALUES (3180,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-16-90','Kurs kwalifikacyjny','West Sacramento',4677);
-INSERT INTO Kwalifikacje VALUES (3181,'Kurs specjalistyczny – Terapia bólu','12-12-94','Szkolenie','Newcastle',4280);
-INSERT INTO Kwalifikacje VALUES (3182,'Kurs specjalistyczny - Szczepienia ochronne','10-2-81','Studia doktoranckie','Douglas',2992);
-INSERT INTO Kwalifikacje VALUES (3183,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-2-13','Specjalizacja','Saint Albans',4097);
-INSERT INTO Kwalifikacje VALUES (3184,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-22-89','Szkolenie','Cortland',4523);
-INSERT INTO Kwalifikacje VALUES (3185,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-31-85','Kurs specjalistyczny','White Plains',4505);
-INSERT INTO Kwalifikacje VALUES (3186,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-25-04','Kurs dokształcający','Sandy Springs',3747);
-INSERT INTO Kwalifikacje VALUES (3187,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-6-02','Kurs kwalifikacyjny','Newark',4297);
-INSERT INTO Kwalifikacje VALUES (3188,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-21-95','Studia doktoranckie','Johnstown',4522);
-INSERT INTO Kwalifikacje VALUES (3189,'Studia pielęgniarskie','8-23-85','Studia wyższe licencjackie','Port Jervis',4377);
-INSERT INTO Kwalifikacje VALUES (3190,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-23-05','Kurs specjalistyczny','Sheboygan',4362);
-INSERT INTO Kwalifikacje VALUES (3191,'Studia wyższe licencjackie','8-16-85','Studia doktoranckie','Anderson',2766);
-INSERT INTO Kwalifikacje VALUES (3192,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-14-09','Kurs kwalifikacyjny','Kingsport',4666);
-INSERT INTO Kwalifikacje VALUES (3193,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-12-12','Kurs dokształcający','Grand Junction',4293);
-INSERT INTO Kwalifikacje VALUES (3194,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-6-12','Studia pielęgniarskie','San Luis Obispo',2930);
-INSERT INTO Kwalifikacje VALUES (3195,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-30-89','Studia doktoranckie','Decatur',3341);
-INSERT INTO Kwalifikacje VALUES (3196,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-16-94','Studia wyższe licencjackie','Meridian',3688);
-INSERT INTO Kwalifikacje VALUES (3197,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-23-91','Szkolenie','Laguna Hills',4516);
-INSERT INTO Kwalifikacje VALUES (3198,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-17-90','Specjalizacja','Bradbury',4808);
-INSERT INTO Kwalifikacje VALUES (3199,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-29-93','Studia wyższe licencjackie','Winnemucca',4213);
-INSERT INTO Kwalifikacje VALUES (3200,'Specjalizacja zawodowa','11-16-97','Kurs kwalifikacyjny','Rome',2690);
-INSERT INTO Kwalifikacje VALUES (3201,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-19-91','Kurs specjalistyczny','Rancho Cucamonga',3553);
-INSERT INTO Kwalifikacje VALUES (3202,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-6-85','Studia wyższe licencjackie','Culver City',4539);
-INSERT INTO Kwalifikacje VALUES (3203,'Specjalizacja zawodowa','7-25-98','Specjalizacja','Aberdeen',3045);
-INSERT INTO Kwalifikacje VALUES (3204,'Studia pielęgniarskie','10-16-14','Studia pielęgniarskie','Amesbury',4283);
-INSERT INTO Kwalifikacje VALUES (3205,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-23-84','Kurs kwalifikacyjny','Cudahy',2790);
-INSERT INTO Kwalifikacje VALUES (3206,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-18-93','Kurs dokształcający','Westfield',4547);
-INSERT INTO Kwalifikacje VALUES (3207,'Studia doktoranckie','10-7-95','Szkolenie','Auburn',4586);
-INSERT INTO Kwalifikacje VALUES (3208,'Studia wyższe licencjackie','2-3-94','Specjalizacja','Cincinnati',4330);
-INSERT INTO Kwalifikacje VALUES (3209,'Kurs specjalistyczny – Terapia bólu','9-4-14','Studia pielęgniarskie','Orem',3867);
-INSERT INTO Kwalifikacje VALUES (3210,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-17-10','Kurs kwalifikacyjny','Grand Junction',2814);
-INSERT INTO Kwalifikacje VALUES (3211,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-19-84','Kurs kwalifikacyjny','Rock Springs',3501);
-INSERT INTO Kwalifikacje VALUES (3212,'Kurs specjalistyczny – Terapia bólu','9-24-98','Kurs dokształcający','Avalon',3354);
-INSERT INTO Kwalifikacje VALUES (3213,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-29-96','Szkolenie','Grand Forks',4006);
-INSERT INTO Kwalifikacje VALUES (3214,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-28-14','Kurs dokształcający','Areceibo',3495);
-INSERT INTO Kwalifikacje VALUES (3215,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-16-94','Kurs dokształcający','Covina',3313);
-INSERT INTO Kwalifikacje VALUES (3216,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-13-89','Kurs dokształcający','Lincoln',4865);
-INSERT INTO Kwalifikacje VALUES (3217,'Kurs specjalistyczny – Terapia bólu','1-14-93','Studia pielęgniarskie','Beaver Falls',4907);
-INSERT INTO Kwalifikacje VALUES (3218,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-22-94','Studia wyższe licencjackie','Richland',3047);
-INSERT INTO Kwalifikacje VALUES (3219,'Studia mające zastosowanie w działalności podstawowej','2-11-81','Studia pielęgniarskie','Annapolis',4810);
-INSERT INTO Kwalifikacje VALUES (3220,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-20-96','Szkolenie','Laguna Woods',4295);
-INSERT INTO Kwalifikacje VALUES (3221,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-19-96','Kurs specjalistyczny','Roswell',4955);
-INSERT INTO Kwalifikacje VALUES (3222,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-13-83','Studia pielęgniarskie','Greenville',4549);
-INSERT INTO Kwalifikacje VALUES (3223,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-23-01','Studia doktoranckie','Easthampton',3623);
-INSERT INTO Kwalifikacje VALUES (3224,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-13-88','Kurs specjalistyczny','Manhattan',2779);
-INSERT INTO Kwalifikacje VALUES (3225,'Studia pielęgniarskie','8-13-01','Studia wyższe licencjackie','Sister Bay',3419);
-INSERT INTO Kwalifikacje VALUES (3226,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-18-81','Studia pielęgniarskie','Aliquippa',3066);
-INSERT INTO Kwalifikacje VALUES (3227,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-14-03','Kurs kwalifikacyjny','Yonkers',3309);
-INSERT INTO Kwalifikacje VALUES (3228,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-19-14','Kurs kwalifikacyjny','Thibodaux',3402);
-INSERT INTO Kwalifikacje VALUES (3229,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-3-84','Kurs specjalistyczny','Crown Point',4192);
-INSERT INTO Kwalifikacje VALUES (3230,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-5-97','Studia wyższe licencjackie','Evanston',3771);
-INSERT INTO Kwalifikacje VALUES (3231,'Specjalizacja zawodowa','5-10-82','Specjalizacja','Charlottesville',4356);
-INSERT INTO Kwalifikacje VALUES (3232,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-27-94','Studia doktoranckie','Paducah',3087);
-INSERT INTO Kwalifikacje VALUES (3233,'Studia wyższe licencjackie','12-21-04','Kurs specjalistyczny','Frisco',3292);
-INSERT INTO Kwalifikacje VALUES (3234,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-26-81','Specjalizacja','Butte',4806);
-INSERT INTO Kwalifikacje VALUES (3235,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-9-80','Studia pielęgniarskie','Attleboro',3241);
-INSERT INTO Kwalifikacje VALUES (3236,'Studia wyższe licencjackie','7-9-92','Szkolenie','Frisco',4001);
-INSERT INTO Kwalifikacje VALUES (3237,'Specjalizacja zawodowa','1-10-98','Studia wyższe licencjackie','Concord',4401);
-INSERT INTO Kwalifikacje VALUES (3238,'Specjalizacja zawodowa','1-25-87','Studia doktoranckie','Saint Paul',2793);
-INSERT INTO Kwalifikacje VALUES (3239,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-8-86','Kurs kwalifikacyjny','Blacksburg',3560);
-INSERT INTO Kwalifikacje VALUES (3240,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-11-88','Kurs kwalifikacyjny','Vallejo',2993);
-INSERT INTO Kwalifikacje VALUES (3241,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-19-86','Studia pielęgniarskie','Battle Creek',3945);
-INSERT INTO Kwalifikacje VALUES (3242,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-13-96','Studia wyższe licencjackie','Boulder',4188);
-INSERT INTO Kwalifikacje VALUES (3243,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-8-95','Studia wyższe licencjackie','Paterson',4401);
-INSERT INTO Kwalifikacje VALUES (3244,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-13-89','Studia wyższe licencjackie','Palo Alto',2901);
-INSERT INTO Kwalifikacje VALUES (3245,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-15-08','Studia pielęgniarskie','Pittston',4933);
-INSERT INTO Kwalifikacje VALUES (3246,'Studia wyższe licencjackie','4-23-87','Studia doktoranckie','Santa Rosa',4871);
-INSERT INTO Kwalifikacje VALUES (3247,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-11-81','Studia wyższe licencjackie','Columbia',3188);
-INSERT INTO Kwalifikacje VALUES (3248,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-25-07','Studia pielęgniarskie','Westfield',2872);
-INSERT INTO Kwalifikacje VALUES (3249,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-5-01','Specjalizacja','Troy',3090);
-INSERT INTO Kwalifikacje VALUES (3250,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-2-97','Studia wyższe licencjackie','Ruston',3960);
-INSERT INTO Kwalifikacje VALUES (3251,'Kurs specjalistyczny - Szczepienia ochronne','9-9-89','Studia wyższe licencjackie','Galesburg',3098);
-INSERT INTO Kwalifikacje VALUES (3252,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-3-88','Kurs kwalifikacyjny','Midland',4125);
-INSERT INTO Kwalifikacje VALUES (3253,'Kurs specjalistyczny – Terapia bólu','2-14-88','Specjalizacja','Tyler',4388);
-INSERT INTO Kwalifikacje VALUES (3254,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-29-08','Studia pielęgniarskie','Laramie',3621);
-INSERT INTO Kwalifikacje VALUES (3255,'Studia doktoranckie','5-6-08','Studia wyższe licencjackie','Johnstown',2710);
-INSERT INTO Kwalifikacje VALUES (3256,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-26-86','Szkolenie','Yorba Linda',3286);
-INSERT INTO Kwalifikacje VALUES (3257,'Specjalizacja zawodowa','4-12-15','Studia pielęgniarskie','Cairo',4676);
-INSERT INTO Kwalifikacje VALUES (3258,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-5-88','Kurs specjalistyczny','New Albany',3575);
-INSERT INTO Kwalifikacje VALUES (3259,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-24-01','Kurs specjalistyczny','East Hartford',3501);
-INSERT INTO Kwalifikacje VALUES (3260,'Studia pielęgniarskie','11-10-00','Kurs dokształcający','San Mateo',3592);
-INSERT INTO Kwalifikacje VALUES (3261,'Studia pielęgniarskie','9-13-08','Studia wyższe licencjackie','Cincinnati',4069);
-INSERT INTO Kwalifikacje VALUES (3262,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-3-93','Szkolenie','Passaic',3211);
-INSERT INTO Kwalifikacje VALUES (3263,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-13-98','Specjalizacja','South Gate',3594);
-INSERT INTO Kwalifikacje VALUES (3264,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-5-89','Studia pielęgniarskie','San Juan',3164);
-INSERT INTO Kwalifikacje VALUES (3265,'Kurs specjalistyczny – Terapia bólu','7-4-00','Kurs kwalifikacyjny','Del Rio',2881);
-INSERT INTO Kwalifikacje VALUES (3266,'Studia doktoranckie','2-7-10','Studia doktoranckie','Mason City',4350);
-INSERT INTO Kwalifikacje VALUES (3267,'Kurs specjalistyczny - Szczepienia ochronne','10-24-08','Studia doktoranckie','Pullman',2755);
-INSERT INTO Kwalifikacje VALUES (3268,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-2-86','Studia wyższe licencjackie','Hampton',4042);
-INSERT INTO Kwalifikacje VALUES (3269,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-16-86','Studia doktoranckie','Little Rock',2632);
-INSERT INTO Kwalifikacje VALUES (3270,'Studia mające zastosowanie w działalności podstawowej','6-9-85','Studia wyższe licencjackie','Kahului',4231);
-INSERT INTO Kwalifikacje VALUES (3271,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-20-04','Studia doktoranckie','New Madrid',4415);
-INSERT INTO Kwalifikacje VALUES (3272,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-14-85','Studia wyższe licencjackie','Dickinson',2657);
-INSERT INTO Kwalifikacje VALUES (3273,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-15-95','Szkolenie','Victoria',3489);
-INSERT INTO Kwalifikacje VALUES (3274,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-6-93','Studia pielęgniarskie','Montgomery',2598);
-INSERT INTO Kwalifikacje VALUES (3275,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','7-27-97','Studia wyższe licencjackie','Kalamazoo',4561);
-INSERT INTO Kwalifikacje VALUES (3276,'Studia doktoranckie','10-12-89','Studia wyższe licencjackie','Deadwood',4027);
-INSERT INTO Kwalifikacje VALUES (3277,'Kurs specjalistyczny - Szczepienia ochronne','7-11-92','Kurs specjalistyczny','Augusta',4012);
-INSERT INTO Kwalifikacje VALUES (3278,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-4-15','Studia doktoranckie','Yonkers',4096);
-INSERT INTO Kwalifikacje VALUES (3279,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-20-91','Kurs kwalifikacyjny','Needham',3020);
-INSERT INTO Kwalifikacje VALUES (3280,'Kurs specjalistyczny – Terapia bólu','3-16-81','Specjalizacja','Woodward',4156);
-INSERT INTO Kwalifikacje VALUES (3281,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-16-06','Kurs dokształcający','Atlanta',4284);
-INSERT INTO Kwalifikacje VALUES (3282,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','2-26-13','Studia pielęgniarskie','Calumet City',4207);
-INSERT INTO Kwalifikacje VALUES (3283,'Specjalizacja zawodowa','2-13-97','Studia wyższe licencjackie','Kemmerer',3824);
-INSERT INTO Kwalifikacje VALUES (3284,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-15-83','Kurs specjalistyczny','Loudon',4829);
-INSERT INTO Kwalifikacje VALUES (3285,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-18-08','Studia doktoranckie','Gardner',3400);
-INSERT INTO Kwalifikacje VALUES (3286,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-10-03','Studia pielęgniarskie','Layton',4936);
-INSERT INTO Kwalifikacje VALUES (3287,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-9-14','Specjalizacja','Dana Point',3232);
-INSERT INTO Kwalifikacje VALUES (3288,'Studia wyższe licencjackie','1-24-05','Studia wyższe licencjackie','Honolulu',4163);
-INSERT INTO Kwalifikacje VALUES (3289,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-20-11','Studia wyższe licencjackie','Cape Coral',3485);
-INSERT INTO Kwalifikacje VALUES (3290,'Studia mające zastosowanie w działalności podstawowej','2-28-10','Kurs kwalifikacyjny','Springfield',2557);
-INSERT INTO Kwalifikacje VALUES (3291,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-25-15','Kurs specjalistyczny','Vacaville',2982);
-INSERT INTO Kwalifikacje VALUES (3292,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-17-14','Specjalizacja','Frederiksted',3563);
-INSERT INTO Kwalifikacje VALUES (3293,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-29-09','Kurs kwalifikacyjny','Fremont',3264);
-INSERT INTO Kwalifikacje VALUES (3294,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-16-06','Kurs dokształcający','Arvada',3991);
-INSERT INTO Kwalifikacje VALUES (3295,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-4-97','Studia wyższe licencjackie','Cohoes',4211);
-INSERT INTO Kwalifikacje VALUES (3296,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-30-83','Studia pielęgniarskie','Roseville',4891);
-INSERT INTO Kwalifikacje VALUES (3297,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-7-05','Szkolenie','Burlingame',2900);
-INSERT INTO Kwalifikacje VALUES (3298,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-7-15','Kurs dokształcający','Schenectady',3922);
-INSERT INTO Kwalifikacje VALUES (3299,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-3-12','Kurs specjalistyczny','Warner Robins',3892);
-INSERT INTO Kwalifikacje VALUES (3300,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-10-05','Kurs specjalistyczny','Ardmore',4154);
-INSERT INTO Kwalifikacje VALUES (3301,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-5-84','Studia wyższe licencjackie','Somerville',4120);
-INSERT INTO Kwalifikacje VALUES (3302,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-4-91','Studia doktoranckie','Baton Rouge',2908);
-INSERT INTO Kwalifikacje VALUES (3303,'Specjalizacja zawodowa','8-3-98','Kurs kwalifikacyjny','Covington',4214);
-INSERT INTO Kwalifikacje VALUES (3304,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-19-92','Kurs dokształcający','Torrance',4950);
-INSERT INTO Kwalifikacje VALUES (3305,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-23-90','Kurs kwalifikacyjny','Murfreesboro',2999);
-INSERT INTO Kwalifikacje VALUES (3306,'Kurs specjalistyczny – Terapia bólu','4-10-03','Studia doktoranckie','Cheyenne',3654);
-INSERT INTO Kwalifikacje VALUES (3307,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-28-13','Studia pielęgniarskie','Alamogordo',4530);
-INSERT INTO Kwalifikacje VALUES (3308,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-15-88','Studia pielęgniarskie','Hayward',2828);
-INSERT INTO Kwalifikacje VALUES (3309,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-11-05','Szkolenie','Latrobe',4625);
-INSERT INTO Kwalifikacje VALUES (3310,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-29-96','Kurs kwalifikacyjny','El Monte',3498);
-INSERT INTO Kwalifikacje VALUES (3311,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-20-12','Szkolenie','Tamuning',2797);
-INSERT INTO Kwalifikacje VALUES (3312,'Kurs specjalistyczny – Terapia bólu','7-2-03','Kurs specjalistyczny','Waco',2968);
-INSERT INTO Kwalifikacje VALUES (3313,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-3-12','Specjalizacja','Inglewood',4040);
-INSERT INTO Kwalifikacje VALUES (3314,'Studia pielęgniarskie','8-31-89','Studia doktoranckie','Yonkers',4582);
-INSERT INTO Kwalifikacje VALUES (3315,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-26-89','Studia wyższe licencjackie','Winnemucca',4524);
-INSERT INTO Kwalifikacje VALUES (3316,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-29-95','Studia doktoranckie','Leominster',4175);
-INSERT INTO Kwalifikacje VALUES (3317,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-9-07','Studia wyższe licencjackie','Appleton',2595);
-INSERT INTO Kwalifikacje VALUES (3318,'Kurs specjalistyczny – Terapia bólu','10-28-90','Studia wyższe licencjackie','Garden Grove',2856);
-INSERT INTO Kwalifikacje VALUES (3319,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-8-11','Studia doktoranckie','Cedar Falls',4113);
-INSERT INTO Kwalifikacje VALUES (3320,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-16-99','Kurs kwalifikacyjny','Avalon',3736);
-INSERT INTO Kwalifikacje VALUES (3321,'Kurs specjalistyczny – Terapia bólu','9-6-98','Studia pielęgniarskie','Paramount',4188);
-INSERT INTO Kwalifikacje VALUES (3322,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-15-84','Kurs specjalistyczny','Cerritos',4970);
-INSERT INTO Kwalifikacje VALUES (3323,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-29-09','Studia wyższe licencjackie','Statesboro',3967);
-INSERT INTO Kwalifikacje VALUES (3324,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-23-05','Specjalizacja','Huntington Park',3624);
-INSERT INTO Kwalifikacje VALUES (3325,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-31-92','Studia wyższe licencjackie','Escondido',4341);
-INSERT INTO Kwalifikacje VALUES (3326,'Kurs specjalistyczny – Terapia bólu','8-23-95','Kurs specjalistyczny','Rochester',2796);
-INSERT INTO Kwalifikacje VALUES (3327,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-7-95','Kurs dokształcający','Farmington',2769);
-INSERT INTO Kwalifikacje VALUES (3328,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-13-95','Studia pielęgniarskie','Passaic',3865);
-INSERT INTO Kwalifikacje VALUES (3329,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-28-10','Studia wyższe licencjackie','Joliet',3129);
-INSERT INTO Kwalifikacje VALUES (3330,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-12-92','Studia pielęgniarskie','Rolla',3339);
-INSERT INTO Kwalifikacje VALUES (3331,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-30-81','Studia pielęgniarskie','Jacksonville',2888);
-INSERT INTO Kwalifikacje VALUES (3332,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-25-94','Kurs kwalifikacyjny','Ypsilanti',4574);
-INSERT INTO Kwalifikacje VALUES (3333,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-15-83','Szkolenie','Saint Louis',2987);
-INSERT INTO Kwalifikacje VALUES (3334,'Specjalizacja zawodowa','6-30-88','Kurs dokształcający','Hackensack',4198);
-INSERT INTO Kwalifikacje VALUES (3335,'Studia pielęgniarskie','2-15-15','Kurs kwalifikacyjny','Charleston',3297);
-INSERT INTO Kwalifikacje VALUES (3336,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-5-98','Studia doktoranckie','San Gabriel',2821);
-INSERT INTO Kwalifikacje VALUES (3337,'Studia doktoranckie','6-29-87','Specjalizacja','Newburyport',4024);
-INSERT INTO Kwalifikacje VALUES (3338,'Studia doktoranckie','1-9-94','Kurs kwalifikacyjny','Longview',3681);
-INSERT INTO Kwalifikacje VALUES (3339,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-13-91','Specjalizacja','Concord',3263);
-INSERT INTO Kwalifikacje VALUES (3340,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-26-07','Kurs dokształcający','Charlotte Amalie',4396);
-INSERT INTO Kwalifikacje VALUES (3341,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-11-88','Studia pielęgniarskie','Dixon',3450);
-INSERT INTO Kwalifikacje VALUES (3342,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-26-06','Kurs kwalifikacyjny','Titusville',3416);
-INSERT INTO Kwalifikacje VALUES (3343,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-12-05','Studia doktoranckie','New Albany',4690);
-INSERT INTO Kwalifikacje VALUES (3344,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-21-92','Kurs specjalistyczny','Vergennes',3770);
-INSERT INTO Kwalifikacje VALUES (3345,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-7-87','Kurs kwalifikacyjny','Mandan',3316);
-INSERT INTO Kwalifikacje VALUES (3346,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-1-12','Studia pielęgniarskie','Connellsville',3291);
-INSERT INTO Kwalifikacje VALUES (3347,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-17-88','Studia wyższe licencjackie','Chino',3753);
-INSERT INTO Kwalifikacje VALUES (3348,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-28-08','Kurs dokształcający','Fairmont',3796);
-INSERT INTO Kwalifikacje VALUES (3349,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-8-85','Kurs specjalistyczny','Goose Creek',2702);
-INSERT INTO Kwalifikacje VALUES (3350,'Specjalizacja zawodowa','5-25-12','Szkolenie','Jackson',2960);
-INSERT INTO Kwalifikacje VALUES (3351,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-28-83','Studia wyższe licencjackie','Salem',4309);
-INSERT INTO Kwalifikacje VALUES (3352,'Studia pielęgniarskie','9-13-80','Kurs dokształcający','Myrtle Beach',2542);
-INSERT INTO Kwalifikacje VALUES (3353,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-25-01','Szkolenie','Chattanooga',3184);
-INSERT INTO Kwalifikacje VALUES (3354,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-8-05','Szkolenie','Maywood',4620);
-INSERT INTO Kwalifikacje VALUES (3355,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-17-95','Kurs dokształcający','Topeka',2808);
-INSERT INTO Kwalifikacje VALUES (3356,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-1-83','Kurs dokształcający','College Park',4541);
-INSERT INTO Kwalifikacje VALUES (3357,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-2-03','Studia doktoranckie','Laguna Niguel',2773);
-INSERT INTO Kwalifikacje VALUES (3358,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-26-94','Kurs specjalistyczny','Derby',3556);
-INSERT INTO Kwalifikacje VALUES (3359,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-21-09','Kurs dokształcający','Ogden',3616);
-INSERT INTO Kwalifikacje VALUES (3360,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-3-00','Kurs kwalifikacyjny','Sonoma',4346);
-INSERT INTO Kwalifikacje VALUES (3361,'Studia mające zastosowanie w działalności podstawowej','9-17-14','Studia wyższe licencjackie','Phenix City',2512);
-INSERT INTO Kwalifikacje VALUES (3362,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-12-00','Szkolenie','Augusta',4531);
-INSERT INTO Kwalifikacje VALUES (3363,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-16-91','Szkolenie','Murray',4062);
-INSERT INTO Kwalifikacje VALUES (3364,'Specjalizacja zawodowa','3-26-02','Kurs dokształcający','Somersworth',4334);
-INSERT INTO Kwalifikacje VALUES (3365,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-5-11','Kurs kwalifikacyjny','Newburyport',4757);
-INSERT INTO Kwalifikacje VALUES (3366,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-31-92','Kurs kwalifikacyjny','Saint Paul',3446);
-INSERT INTO Kwalifikacje VALUES (3367,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-11-96','Studia doktoranckie','Aspen',3398);
-INSERT INTO Kwalifikacje VALUES (3368,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-22-14','Studia wyższe licencjackie','Needham',3837);
-INSERT INTO Kwalifikacje VALUES (3369,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-12-04','Studia doktoranckie','Casper',3822);
-INSERT INTO Kwalifikacje VALUES (3370,'Studia doktoranckie','7-19-99','Kurs kwalifikacyjny','Flagstaff',3595);
-INSERT INTO Kwalifikacje VALUES (3371,'Kurs specjalistyczny – Terapia bólu','10-30-82','Kurs specjalistyczny','Kearns',3488);
-INSERT INTO Kwalifikacje VALUES (3372,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-14-02','Specjalizacja','Rancho Palos Verdes',3444);
-INSERT INTO Kwalifikacje VALUES (3373,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-10-85','Studia wyższe licencjackie','Superior',3556);
-INSERT INTO Kwalifikacje VALUES (3374,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-29-05','Studia pielęgniarskie','Agoura Hills',3774);
-INSERT INTO Kwalifikacje VALUES (3375,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-25-83','Kurs specjalistyczny','Latrobe',3210);
-INSERT INTO Kwalifikacje VALUES (3376,'Kurs specjalistyczny – Terapia bólu','4-9-84','Szkolenie','Maywood',3843);
-INSERT INTO Kwalifikacje VALUES (3377,'Kurs specjalistyczny – Terapia bólu','1-2-04','Studia doktoranckie','Methuen',3872);
-INSERT INTO Kwalifikacje VALUES (3378,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-29-03','Kurs specjalistyczny','Arlington',2902);
-INSERT INTO Kwalifikacje VALUES (3379,'Specjalizacja zawodowa','12-19-99','Specjalizacja','Pueblo',4918);
-INSERT INTO Kwalifikacje VALUES (3380,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-30-96','Kurs specjalistyczny','Marlborough',3510);
-INSERT INTO Kwalifikacje VALUES (3381,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-11-05','Specjalizacja','Lynn',3691);
-INSERT INTO Kwalifikacje VALUES (3382,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','2-10-92','Kurs specjalistyczny','Coos Bay',3894);
-INSERT INTO Kwalifikacje VALUES (3383,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-27-14','Specjalizacja','Laughlin',4420);
-INSERT INTO Kwalifikacje VALUES (3384,'Kurs specjalistyczny – Terapia bólu','4-17-07','Kurs dokształcający','Taylorsville',4370);
-INSERT INTO Kwalifikacje VALUES (3385,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-3-94','Studia pielęgniarskie','Valdosta',4071);
-INSERT INTO Kwalifikacje VALUES (3386,'Studia mające zastosowanie w działalności podstawowej','6-1-83','Studia pielęgniarskie','Webster Groves',2682);
-INSERT INTO Kwalifikacje VALUES (3387,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-5-83','Kurs dokształcający','West Valley City',4536);
-INSERT INTO Kwalifikacje VALUES (3388,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-25-02','Kurs specjalistyczny','New Castle',4074);
-INSERT INTO Kwalifikacje VALUES (3389,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-12-91','Kurs kwalifikacyjny','Vicksburg',4713);
-INSERT INTO Kwalifikacje VALUES (3390,'Kurs specjalistyczny – Terapia bólu','2-17-11','Kurs dokształcający','Laguna Beach',2561);
-INSERT INTO Kwalifikacje VALUES (3391,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-29-85','Kurs specjalistyczny','Suffolk',4016);
-INSERT INTO Kwalifikacje VALUES (3392,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-11-86','Kurs dokształcający','Hialeah',3370);
-INSERT INTO Kwalifikacje VALUES (3393,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-27-99','Kurs dokształcający','East Hartford',3641);
-INSERT INTO Kwalifikacje VALUES (3394,'Studia pielęgniarskie','3-11-96','Kurs specjalistyczny','Hutchinson',4412);
-INSERT INTO Kwalifikacje VALUES (3395,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-18-82','Studia doktoranckie','Aurora',4656);
-INSERT INTO Kwalifikacje VALUES (3396,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-1-13','Kurs specjalistyczny','Nogales',4858);
-INSERT INTO Kwalifikacje VALUES (3397,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-21-14','Kurs specjalistyczny','Laguna Niguel',4780);
-INSERT INTO Kwalifikacje VALUES (3398,'Studia mające zastosowanie w działalności podstawowej','3-18-14','Studia wyższe licencjackie','Derby',4227);
-INSERT INTO Kwalifikacje VALUES (3399,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-1-82','Szkolenie','Rehoboth Beach',3702);
-INSERT INTO Kwalifikacje VALUES (3400,'Studia doktoranckie','10-4-12','Studia wyższe licencjackie','Longview',2770);
-INSERT INTO Kwalifikacje VALUES (3401,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-15-91','Studia pielęgniarskie','Saratoga Springs',4508);
-INSERT INTO Kwalifikacje VALUES (3402,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-6-15','Studia wyższe licencjackie','Beloit',4604);
-INSERT INTO Kwalifikacje VALUES (3403,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-10-88','Studia wyższe licencjackie','Owensboro',4162);
-INSERT INTO Kwalifikacje VALUES (3404,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-26-82','Studia doktoranckie','Franklin',2831);
-INSERT INTO Kwalifikacje VALUES (3405,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-26-02','Studia wyższe licencjackie','Hickory',2734);
-INSERT INTO Kwalifikacje VALUES (3406,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-2-09','Kurs kwalifikacyjny','Meriden',3687);
-INSERT INTO Kwalifikacje VALUES (3407,'Kurs specjalistyczny - Szczepienia ochronne','3-28-16','Specjalizacja','Olean',3816);
-INSERT INTO Kwalifikacje VALUES (3408,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-13-82','Studia wyższe licencjackie','Macomb',3376);
-INSERT INTO Kwalifikacje VALUES (3409,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-11-96','Studia wyższe licencjackie','Norwich',4933);
-INSERT INTO Kwalifikacje VALUES (3410,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-1-15','Kurs kwalifikacyjny','Santa Clara',2716);
-INSERT INTO Kwalifikacje VALUES (3411,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-16-87','Studia pielęgniarskie','Santa Clarita',3575);
-INSERT INTO Kwalifikacje VALUES (3412,'Specjalizacja zawodowa','9-29-13','Kurs dokształcający','Montgomery',4460);
-INSERT INTO Kwalifikacje VALUES (3413,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-28-81','Specjalizacja','Boulder',3085);
-INSERT INTO Kwalifikacje VALUES (3414,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-15-84','Kurs dokształcający','Pittsburgh',4234);
-INSERT INTO Kwalifikacje VALUES (3415,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-2-83','Studia doktoranckie','Greenville',2877);
-INSERT INTO Kwalifikacje VALUES (3416,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-23-04','Kurs dokształcający','Phenix City',2789);
-INSERT INTO Kwalifikacje VALUES (3417,'Studia wyższe licencjackie','1-24-09','Kurs specjalistyczny','Las Vegas',3863);
-INSERT INTO Kwalifikacje VALUES (3418,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-13-98','Kurs kwalifikacyjny','Tupelo',3833);
-INSERT INTO Kwalifikacje VALUES (3419,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-28-09','Studia pielęgniarskie','Amesbury',3790);
-INSERT INTO Kwalifikacje VALUES (3420,'Studia wyższe licencjackie','10-29-05','Studia doktoranckie','Rawlins',3673);
-INSERT INTO Kwalifikacje VALUES (3421,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-4-02','Kurs specjalistyczny','Boulder City',4916);
-INSERT INTO Kwalifikacje VALUES (3422,'Kurs specjalistyczny – Terapia bólu','12-25-97','Specjalizacja','Temecula',2656);
-INSERT INTO Kwalifikacje VALUES (3423,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-26-86','Kurs dokształcający','North Charleston',3158);
-INSERT INTO Kwalifikacje VALUES (3424,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-26-05','Kurs kwalifikacyjny','Naperville',4390);
-INSERT INTO Kwalifikacje VALUES (3425,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-1-94','Studia doktoranckie','Slidell',4435);
-INSERT INTO Kwalifikacje VALUES (3426,'Studia mające zastosowanie w działalności podstawowej','9-17-83','Kurs specjalistyczny','Yuma',4058);
-INSERT INTO Kwalifikacje VALUES (3427,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-18-15','Kurs specjalistyczny','Twin Falls',3411);
-INSERT INTO Kwalifikacje VALUES (3428,'Specjalizacja zawodowa','4-22-12','Studia doktoranckie','Areceibo',3705);
-INSERT INTO Kwalifikacje VALUES (3429,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-3-87','Studia doktoranckie','Parker',4200);
-INSERT INTO Kwalifikacje VALUES (3430,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-27-83','Specjalizacja','Hannibal',2713);
-INSERT INTO Kwalifikacje VALUES (3431,'Kurs specjalistyczny - Szczepienia ochronne','8-8-09','Kurs specjalistyczny','Rialto',3296);
-INSERT INTO Kwalifikacje VALUES (3432,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-12-99','Szkolenie','West Valley City',2957);
-INSERT INTO Kwalifikacje VALUES (3433,'Studia wyższe licencjackie','2-13-85','Studia pielęgniarskie','Signal Hill',3882);
-INSERT INTO Kwalifikacje VALUES (3434,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-18-96','Specjalizacja','Hammond',3375);
-INSERT INTO Kwalifikacje VALUES (3435,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-15-08','Kurs kwalifikacyjny','Chino Hills',2663);
-INSERT INTO Kwalifikacje VALUES (3436,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-1-14','Szkolenie','Hot Springs',4534);
-INSERT INTO Kwalifikacje VALUES (3437,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-19-03','Szkolenie','Tacoma',4391);
-INSERT INTO Kwalifikacje VALUES (3438,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-23-81','Specjalizacja','Placentia',3612);
-INSERT INTO Kwalifikacje VALUES (3439,'Studia doktoranckie','12-31-08','Studia wyższe licencjackie','Gary',3978);
-INSERT INTO Kwalifikacje VALUES (3440,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-7-83','Kurs specjalistyczny','Saratoga Springs',3457);
-INSERT INTO Kwalifikacje VALUES (3441,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-25-86','Szkolenie','Lomita',2585);
-INSERT INTO Kwalifikacje VALUES (3442,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-24-92','Studia pielęgniarskie','Joliet',4885);
-INSERT INTO Kwalifikacje VALUES (3443,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-26-07','Kurs dokształcający','Elmira',3622);
-INSERT INTO Kwalifikacje VALUES (3444,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-11-09','Kurs kwalifikacyjny','Champaign',4508);
-INSERT INTO Kwalifikacje VALUES (3445,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-26-06','Specjalizacja','Wilmington',3548);
-INSERT INTO Kwalifikacje VALUES (3446,'Kurs specjalistyczny – Terapia bólu','2-18-91','Szkolenie','Rancho Palos Verdes',2997);
-INSERT INTO Kwalifikacje VALUES (3447,'Studia pielęgniarskie','12-20-13','Studia pielęgniarskie','Boise',3848);
-INSERT INTO Kwalifikacje VALUES (3448,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-6-97','Kurs dokształcający','Grand Junction',4498);
-INSERT INTO Kwalifikacje VALUES (3449,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-24-12','Studia pielęgniarskie','Elizabeth City',2875);
-INSERT INTO Kwalifikacje VALUES (3450,'Studia wyższe licencjackie','9-8-05','Kurs specjalistyczny','Littleton',2881);
-INSERT INTO Kwalifikacje VALUES (3451,'Studia doktoranckie','10-19-05','Specjalizacja','Simi Valley',3067);
-INSERT INTO Kwalifikacje VALUES (3452,'Specjalizacja zawodowa','11-23-12','Studia doktoranckie','Sault Ste. Marie',4738);
-INSERT INTO Kwalifikacje VALUES (3453,'Studia wyższe licencjackie','6-2-84','Studia doktoranckie','Laguna Hills',2904);
-INSERT INTO Kwalifikacje VALUES (3454,'Studia doktoranckie','11-1-89','Studia wyższe licencjackie','Aberdeen',3138);
-INSERT INTO Kwalifikacje VALUES (3455,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-8-92','Szkolenie','Lomita',4122);
-INSERT INTO Kwalifikacje VALUES (3456,'Studia mające zastosowanie w działalności podstawowej','10-30-02','Specjalizacja','Danville',4278);
-INSERT INTO Kwalifikacje VALUES (3457,'Studia wyższe licencjackie','1-31-12','Studia doktoranckie','Rawlins',2713);
-INSERT INTO Kwalifikacje VALUES (3458,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-11-00','Studia doktoranckie','West Lafayette',3355);
-INSERT INTO Kwalifikacje VALUES (3459,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-2-02','Specjalizacja','Blythe',3629);
-INSERT INTO Kwalifikacje VALUES (3460,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-15-02','Studia doktoranckie','Dover',2858);
-INSERT INTO Kwalifikacje VALUES (3461,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-5-09','Specjalizacja','West Hollywood',3930);
-INSERT INTO Kwalifikacje VALUES (3462,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-27-03','Szkolenie','Hidden Hills',3287);
-INSERT INTO Kwalifikacje VALUES (3463,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-10-83','Kurs kwalifikacyjny','City of Industry',3558);
-INSERT INTO Kwalifikacje VALUES (3464,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-13-15','Studia pielęgniarskie','Ruston',4864);
-INSERT INTO Kwalifikacje VALUES (3465,'Studia pielęgniarskie','12-1-86','Studia wyższe licencjackie','Simi Valley',3918);
-INSERT INTO Kwalifikacje VALUES (3466,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-14-84','Specjalizacja','Sacramento',3198);
-INSERT INTO Kwalifikacje VALUES (3467,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-3-05','Kurs kwalifikacyjny','Fremont',3720);
-INSERT INTO Kwalifikacje VALUES (3468,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-25-05','Studia wyższe licencjackie','Virginia Beach',3414);
-INSERT INTO Kwalifikacje VALUES (3469,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-1-05','Studia wyższe licencjackie','Anchorage',3348);
-INSERT INTO Kwalifikacje VALUES (3470,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-2-84','Kurs specjalistyczny','Dixon',3746);
-INSERT INTO Kwalifikacje VALUES (3471,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-4-85','Kurs dokształcający','Denver',4312);
-INSERT INTO Kwalifikacje VALUES (3472,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-15-11','Szkolenie','Anderson',3041);
-INSERT INTO Kwalifikacje VALUES (3473,'Specjalizacja zawodowa','6-1-98','Studia wyższe licencjackie','Klamath Falls',4701);
-INSERT INTO Kwalifikacje VALUES (3474,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-26-84','Kurs specjalistyczny','Northampton',3867);
-INSERT INTO Kwalifikacje VALUES (3475,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-15-89','Studia wyższe licencjackie','Kalamazoo',3279);
-INSERT INTO Kwalifikacje VALUES (3476,'Kurs specjalistyczny – Terapia bólu','7-16-87','Studia wyższe licencjackie','Tuscaloosa',3641);
-INSERT INTO Kwalifikacje VALUES (3477,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','3-15-05','Specjalizacja','New Orleans',4046);
-INSERT INTO Kwalifikacje VALUES (3478,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-16-97','Kurs kwalifikacyjny','Cape Girardeau',2677);
-INSERT INTO Kwalifikacje VALUES (3479,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-18-96','Kurs kwalifikacyjny','Revere',4888);
-INSERT INTO Kwalifikacje VALUES (3480,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','11-16-11','Szkolenie','Corry',4542);
-INSERT INTO Kwalifikacje VALUES (3481,'Kurs specjalistyczny – Terapia bólu','1-18-05','Specjalizacja','West Palm Beach',4493);
-INSERT INTO Kwalifikacje VALUES (3482,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-11-95','Studia wyższe licencjackie','Worcester',3896);
-INSERT INTO Kwalifikacje VALUES (3483,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-12-00','Kurs specjalistyczny','Winston-Salem',2813);
-INSERT INTO Kwalifikacje VALUES (3484,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-7-14','Kurs specjalistyczny','Eden Prairie',4249);
-INSERT INTO Kwalifikacje VALUES (3485,'Studia doktoranckie','12-27-88','Studia wyższe licencjackie','Arlington',3894);
-INSERT INTO Kwalifikacje VALUES (3486,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-14-07','Kurs specjalistyczny','Nogales',3944);
-INSERT INTO Kwalifikacje VALUES (3487,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-10-87','Kurs dokształcający','Azusa',4923);
-INSERT INTO Kwalifikacje VALUES (3488,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-4-88','Studia wyższe licencjackie','Dallas',3946);
-INSERT INTO Kwalifikacje VALUES (3489,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-10-86','Kurs specjalistyczny','Douglas',4733);
-INSERT INTO Kwalifikacje VALUES (3490,'Studia mające zastosowanie w działalności podstawowej','11-21-00','Szkolenie','Yuma',3843);
-INSERT INTO Kwalifikacje VALUES (3491,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-14-88','Kurs kwalifikacyjny','Gulfport',4464);
-INSERT INTO Kwalifikacje VALUES (3492,'Studia mające zastosowanie w działalności podstawowej','8-31-87','Studia doktoranckie','El Monte',4270);
-INSERT INTO Kwalifikacje VALUES (3493,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-22-95','Studia wyższe licencjackie','Port Washington',4685);
-INSERT INTO Kwalifikacje VALUES (3494,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-5-88','Kurs kwalifikacyjny','Eufaula',4619);
-INSERT INTO Kwalifikacje VALUES (3495,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-23-84','Szkolenie','Westlake Village',4959);
-INSERT INTO Kwalifikacje VALUES (3496,'Studia pielęgniarskie','4-15-99','Szkolenie','Wichita',2935);
-INSERT INTO Kwalifikacje VALUES (3497,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-14-88','Specjalizacja','Nashville',3391);
-INSERT INTO Kwalifikacje VALUES (3498,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-6-99','Szkolenie','Haverhill',2741);
-INSERT INTO Kwalifikacje VALUES (3499,'Kurs specjalistyczny - Szczepienia ochronne','8-2-05','Kurs dokształcający','St. George',2640);
-INSERT INTO Kwalifikacje VALUES (3500,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-18-02','Kurs dokształcający','Prescott',3856);
+INSERT INTO Kwalifikacje VALUES (1,'Studia doktoranckie','12-19-82','Szkolenie','Grambling',2834),
+(2,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-19-96','Studia doktoranckie','Charlotte',2927),
+(3,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-13-86','Studia pielęgniarskie','Reno',2929),
+(4,'Kurs specjalistyczny - Szczepienia ochronne','12-18-82','Studia wyższe licencjackie','Lincoln',3194),
+(5,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-16-88','Studia pielęgniarskie','North Charleston',2862),
+(6,'Kurs specjalistyczny - Szczepienia ochronne','6-24-11','Kurs kwalifikacyjny','Newark',3967),
+(7,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-23-02','Studia pielęgniarskie','Moline',3675),
+(8,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-28-89','Studia wyższe licencjackie','Valparaiso',2849),
+(9,'Specjalizacja zawodowa','2-17-88','Szkolenie','Hoboken',3493),
+(10,'Kurs specjalistyczny - Szczepienia ochronne','3-28-94','Studia wyższe licencjackie','Miami Beach',3590),
+(11,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-4-81','Szkolenie','South Burlington',4315),
+(12,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-5-82','Studia pielęgniarskie','Port St. Lucie',3207),
+(13,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-28-93','Studia pielęgniarskie','Hattiesburg',4583),
+(14,'Specjalizacja zawodowa','11-12-96','Kurs dokształcający','Kankakee',3934),
+(15,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-20-14','Kurs kwalifikacyjny','Nanticoke',2605),
+(16,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-12-83','Szkolenie','Fargo',3562),
+(17,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-22-95','Studia pielęgniarskie','Grand Island',3394),
+(18,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-12-89','Studia pielęgniarskie','Woodward',3935),
+(19,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-9-84','Studia doktoranckie','Rolla',3541),
+(20,'Studia pielęgniarskie','7-21-93','Szkolenie','Lexington',4943),
+(21,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-8-87','Kurs dokształcający','Ontario',3968),
+(22,'Kurs specjalistyczny - Szczepienia ochronne','1-11-02','Kurs specjalistyczny','Carrollton',4301),
+(23,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-12-91','Specjalizacja','Marshfield',4041),
+(24,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-10-80','Kurs kwalifikacyjny','Covington',4112),
+(25,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-18-07','Studia wyższe licencjackie','Walla Walla',4545),
+(26,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-12-04','Szkolenie','Port Jervis',2827),
+(27,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-22-81','Kurs dokształcający','Oro Valley',2901),
+(28,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-11-05','Kurs specjalistyczny','Ann Arbor',3039),
+(29,'Studia wyższe licencjackie','7-10-01','Kurs kwalifikacyjny','Plano',4605),
+(30,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-26-09','Studia doktoranckie','Morrison',3921),
+(31,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-29-81','Kurs specjalistyczny','Saint Cloud',4956),
+(32,'Studia wyższe licencjackie','12-18-95','Studia doktoranckie','Nacogdoches',3157),
+(33,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-13-90','Specjalizacja','Corry',3667),
+(34,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-10-07','Studia pielęgniarskie','Beckley',4445),
+(35,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-1-99','Studia wyższe licencjackie','Scottsbluff',2981),
+(36,'Kurs specjalistyczny - Szczepienia ochronne','1-22-85','Studia wyższe licencjackie','Manassas',4991),
+(37,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-30-95','Kurs dokształcający','Brownsville',3329),
+(38,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-17-09','Kurs dokształcający','Biddeford',2678),
+(39,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-24-90','Studia doktoranckie','Stamford',2739),
+(40,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-14-01','Kurs dokształcający','Isle of Palms',2503),
+(41,'Studia pielęgniarskie','12-10-95','Szkolenie','Lakeland',4220),
+(42,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-7-98','Kurs dokształcający','Tonawanda',3751),
+(43,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-18-92','Kurs dokształcający','Lockport',3397),
+(44,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-2-89','Kurs dokształcający','Independence',4611),
+(45,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-9-16','Specjalizacja','La Habra',4419),
+(46,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-11-80','Studia doktoranckie','Redding',3745),
+(47,'Studia doktoranckie','7-28-92','Studia wyższe licencjackie','Kahului',2960),
+(48,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-26-95','Kurs dokształcający','West Hollywood',4171),
+(49,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-12-96','Studia pielęgniarskie','Iowa City',2923),
+(50,'Studia doktoranckie','3-15-14','Kurs kwalifikacyjny','Vacaville',3558),
+(51,'Studia wyższe licencjackie','1-30-95','Szkolenie','Beacon',3393),
+(52,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-31-85','Szkolenie','La Cañada Flintridge',4725),
+(53,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-30-10','Studia wyższe licencjackie','Long Beach',4900),
+(54,'Studia doktoranckie','10-11-81','Studia doktoranckie','Plantation',4003),
+(55,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-22-05','Kurs specjalistyczny','Johnson City',3479),
+(56,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-7-10','Kurs dokształcający','Sturgis',4655),
+(57,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-20-12','Studia pielęgniarskie','Memphis',4564),
+(58,'Kurs specjalistyczny - Szczepienia ochronne','3-17-00','Szkolenie','Greenville',4660),
+(59,'Studia mające zastosowanie w działalności podstawowej','3-26-09','Kurs specjalistyczny','Riverside',3424),
+(60,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-20-87','Studia wyższe licencjackie','Berlin',4162),
+(61,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-11-83','Studia wyższe licencjackie','North Charleston',4237),
+(62,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-29-14','Specjalizacja','Bremerton',4394),
+(63,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-7-96','Specjalizacja','Basin',3892),
+(64,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-14-11','Kurs kwalifikacyjny','Kansas City',3481),
+(65,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-6-90','Kurs dokształcający','Farrell',4906),
+(66,'Kurs specjalistyczny - Szczepienia ochronne','10-5-07','Studia wyższe licencjackie','Clarksburg',4195),
+(67,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-5-97','Szkolenie','Burlington',3575),
+(68,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-26-92','Studia pielęgniarskie','Los Angeles',2853),
+(69,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-28-84','Kurs dokształcający','Muskegon',4762),
+(70,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-14-81','Studia doktoranckie','West Hollywood',4072),
+(71,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-25-96','Studia wyższe licencjackie','Fairfax',3559),
+(72,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-19-02','Kurs dokształcający','Methuen',3549),
+(73,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-25-99','Szkolenie','San Antonio',4901),
+(74,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-12-87','Studia wyższe licencjackie','Woburn',3993),
+(75,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-23-83','Specjalizacja','East Lansing',3927),
+(76,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-26-94','Specjalizacja','Ogden',4019),
+(77,'Studia pielęgniarskie','12-23-07','Specjalizacja','Duarte',4380),
+(78,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-4-04','Studia doktoranckie','Muskegon',4963),
+(79,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-26-94','Kurs kwalifikacyjny','Lawrenceville',4072),
+(80,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-13-03','Kurs dokształcający','Fremont',4683),
+(81,'Kurs specjalistyczny – Terapia bólu','4-1-99','Szkolenie','Frederick',3009),
+(82,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-26-97','Szkolenie','Titusville',2931),
+(83,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-3-91','Kurs kwalifikacyjny','Duncan',3786),
+(84,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-27-04','Szkolenie','Somersworth',3503),
+(85,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-29-88','Kurs kwalifikacyjny','Harrisburg',3496),
+(86,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-18-12','Studia pielęgniarskie','Lockport',3039),
+(87,'Kurs specjalistyczny – Terapia bólu','5-12-01','Kurs dokształcający','Allentown',4092),
+(88,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-27-01','Specjalizacja','Glendora',4685),
+(89,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-20-09','Szkolenie','Charlotte Amalie',3953),
+(90,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-9-15','Studia doktoranckie','Bakersfield',4890),
+(91,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-10-16','Studia pielęgniarskie','Chicopee',3785),
+(92,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-1-96','Studia doktoranckie','Scottsdale',4466),
+(93,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-26-09','Kurs kwalifikacyjny','West Memphis',4299),
+(94,'Studia wyższe licencjackie','6-9-89','Studia pielęgniarskie','Canandaigua',3471),
+(95,'Kurs specjalistyczny – Terapia bólu','9-18-98','Studia pielęgniarskie','Pascagoula',4847),
+(96,'Studia doktoranckie','1-6-13','Kurs kwalifikacyjny','Farrell',4900),
+(97,'Specjalizacja zawodowa','9-8-98','Studia doktoranckie','Tupelo',4256),
+(98,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-8-87','Studia pielęgniarskie','Clovis',2894),
+(99,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-11-99','Kurs specjalistyczny','Jordan Valley',3773),
+(100,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-24-05','Studia pielęgniarskie','Torrance',3104),
+(101,'Studia doktoranckie','9-26-81','Szkolenie','Duncan',3176),
+(102,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-10-11','Kurs kwalifikacyjny','Fort Dodge',4614),
+(103,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-24-11','Studia pielęgniarskie','Medford',4362),
+(104,'Specjalizacja zawodowa','8-27-03','Kurs kwalifikacyjny','Rockford',3321),
+(105,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-28-13','Kurs specjalistyczny','Merced',4286),
+(106,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-9-09','Specjalizacja','Jeannette',3639),
+(107,'Kurs specjalistyczny – Terapia bólu','2-2-06','Kurs kwalifikacyjny','Bangor',2651),
+(108,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-31-88','Studia doktoranckie','Minot',4342),
+(109,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-9-06','Studia doktoranckie','South Bend',4269),
+(110,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-13-86','Kurs specjalistyczny','Schenectady',4411),
+(111,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-9-87','Szkolenie','Dothan',3070),
+(112,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-2-11','Specjalizacja','Sheridan',4943),
+(113,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-30-14','Kurs dokształcający','Riverton',2646),
+(114,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-23-92','Szkolenie','Union City',3129),
+(115,'Kurs specjalistyczny – Terapia bólu','11-16-15','Studia wyższe licencjackie','Tacoma',2527),
+(116,'Kurs specjalistyczny – Terapia bólu','11-21-86','Specjalizacja','Liberal',4038),
+(117,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-3-91','Szkolenie','Sheridan',4248),
+(118,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-17-15','Kurs specjalistyczny','Westfield',4044),
+(119,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-30-93','Studia pielęgniarskie','McAllen',2843),
+(120,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-27-05','Kurs dokształcający','Centennial',3996),
+(121,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-20-89','Studia pielęgniarskie','Canandaigua',4616),
+(122,'Kurs specjalistyczny - Szczepienia ochronne','4-26-13','Kurs dokształcający','Winnemucca',3470),
+(123,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-6-87','Studia wyższe licencjackie','Gilbert',2801),
+(124,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-4-95','Specjalizacja','Lebanon',3921),
+(125,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-27-09','Kurs specjalistyczny','Palos Verdes Estates',2939),
+(126,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-8-95','Studia wyższe licencjackie','Frederick',4557),
+(127,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-8-02','Szkolenie','Fairbanks',4034),
+(128,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-21-15','Kurs dokształcający','Pasco',2623),
+(129,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-17-88','Specjalizacja','Marietta',3900),
+(130,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-23-96','Studia wyższe licencjackie','Cape Coral',3483),
+(131,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-21-91','Szkolenie','Texas City',3071),
+(132,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-6-06','Kurs kwalifikacyjny','Areceibo',4427),
+(133,'Studia mające zastosowanie w działalności podstawowej','12-26-11','Studia doktoranckie','Hopkinsville',3112),
+(134,'Kurs specjalistyczny – Terapia bólu','11-19-91','Specjalizacja','Aliquippa',4613),
+(135,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-28-94','Kurs specjalistyczny','Saipan',2842),
+(136,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-23-83','Kurs dokształcający','Geneva',3291),
+(137,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-31-07','Studia pielęgniarskie','Ada',4445),
+(138,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-27-07','Kurs dokształcający','Kent',3473),
+(139,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-8-92','Studia wyższe licencjackie','San Marino',4485),
+(140,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-18-84','Studia wyższe licencjackie','Sunnyvale',2570),
+(141,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-11-98','Szkolenie','Arvada',3049),
+(142,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-11-16','Studia doktoranckie','Kennesaw',4851),
+(143,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-19-99','Specjalizacja','Burlingame',3344),
+(144,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-7-16','Studia pielęgniarskie','Richland',4091),
+(145,'Studia doktoranckie','4-4-04','Kurs kwalifikacyjny','White Plains',3245),
+(146,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-24-08','Kurs dokształcający','Poughkeepsie',3305),
+(147,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-16-91','Studia wyższe licencjackie','Mesquite',3245),
+(148,'Studia mające zastosowanie w działalności podstawowej','2-15-84','Specjalizacja','Mission Viejo',3043),
+(149,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-19-12','Specjalizacja','Cape Coral',3812),
+(150,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-19-00','Studia wyższe licencjackie','Phoenix',3645),
+(151,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-1-03','Szkolenie','Bozeman',3644),
+(152,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-16-09','Kurs dokształcający','Jeffersontown',4382),
+(153,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-17-10','Studia pielęgniarskie','Winston-Salem',2945),
+(154,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-30-99','Kurs specjalistyczny','West Hollywood',3129),
+(155,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-3-10','Kurs dokształcający','Aguadilla',2969),
+(156,'Studia wyższe licencjackie','3-4-98','Specjalizacja','North Chicago',4908),
+(157,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-16-84','Szkolenie','Henderson',2723),
+(158,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-30-94','Studia wyższe licencjackie','Greenville',4990),
+(159,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-31-88','Szkolenie','Baldwin Park',2739),
+(160,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-15-03','Szkolenie','Memphis',3954),
+(161,'Specjalizacja zawodowa','11-27-13','Studia pielęgniarskie','Pittston',4847),
+(162,'Kurs specjalistyczny – Terapia bólu','8-26-97','Kurs specjalistyczny','Pendleton',3749),
+(163,'Studia doktoranckie','1-15-92','Kurs kwalifikacyjny','Carolina',3165),
+(164,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-25-81','Kurs specjalistyczny','Rensselaer',4995),
+(165,'Studia pielęgniarskie','5-14-97','Kurs dokształcający','Kingsport',2699),
+(166,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-24-13','Specjalizacja','Gallup',3241),
+(167,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-11-15','Specjalizacja','Forest Lake',3296),
+(168,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-25-90','Studia pielęgniarskie','Plattsburgh',2589),
+(169,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-6-14','Kurs kwalifikacyjny','Bismarck',3638),
+(170,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-25-05','Kurs kwalifikacyjny','Asbury Park',4480),
+(171,'Kurs specjalistyczny - Szczepienia ochronne','11-13-01','Kurs kwalifikacyjny','Rancho Cucamonga',3982),
+(172,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-31-94','Kurs specjalistyczny','Watertown',2835),
+(173,'Kurs specjalistyczny – Terapia bólu','3-22-93','Studia doktoranckie','Beverly',3730),
+(174,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-18-00','Szkolenie','Titusville',3059),
+(175,'Kurs specjalistyczny – Terapia bólu','9-18-98','Studia doktoranckie','Laredo',4507),
+(176,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-6-87','Kurs specjalistyczny','Oklahoma City',2888),
+(177,'Studia wyższe licencjackie','12-17-91','Studia doktoranckie','Garland',3651),
+(178,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-7-06','Kurs dokształcający','Richmond',3393),
+(179,'Studia mające zastosowanie w działalności podstawowej','6-12-03','Kurs kwalifikacyjny','Brookfield',4530),
+(180,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-10-83','Kurs dokształcający','Kokomo',3694),
+(181,'Studia mające zastosowanie w działalności podstawowej','10-24-83','Studia wyższe licencjackie','Gainesville',3661),
+(182,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-27-06','Specjalizacja','Fort Wayne',4320),
+(183,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-7-86','Studia doktoranckie','Medford',3237),
+(184,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-9-13','Kurs specjalistyczny','Waterloo',2793),
+(185,'Kurs specjalistyczny - Szczepienia ochronne','1-8-99','Studia doktoranckie','Lebanon',4230),
+(186,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-5-86','Kurs specjalistyczny','El Monte',2734),
+(187,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-4-82','Szkolenie','Vergennes',3976),
+(188,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-19-83','Szkolenie','Vail',2501),
+(189,'Kurs specjalistyczny - Szczepienia ochronne','8-18-02','Studia doktoranckie','Stafford',3880),
+(190,'Studia wyższe licencjackie','11-12-82','Specjalizacja','Pocatello',4840),
+(191,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-29-98','Szkolenie','San Angelo',4485),
+(192,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-13-02','Studia wyższe licencjackie','Greensburg',3604),
+(193,'Studia mające zastosowanie w działalności podstawowej','2-15-89','Studia wyższe licencjackie','Bossier City',4975),
+(194,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-3-94','Kurs specjalistyczny','Prescott',4428),
+(195,'Studia wyższe licencjackie','7-7-02','Kurs kwalifikacyjny','Whittier',4264),
+(196,'Studia pielęgniarskie','10-12-95','Szkolenie','Needham',3193),
+(197,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-24-91','Kurs specjalistyczny','Council Bluffs',3197),
+(198,'Studia doktoranckie','1-14-90','Studia doktoranckie','Port Arthur',2694),
+(199,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-8-01','Kurs specjalistyczny','Cedarburg',4304),
+(200,'Studia doktoranckie','8-26-98','Studia wyższe licencjackie','Batavia',4351),
+(201,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-2-03','Kurs specjalistyczny','North Platte',3781),
+(202,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-19-91','Szkolenie','Alexandria',3307),
+(203,'Studia wyższe licencjackie','5-16-06','Studia pielęgniarskie','Roanoke',4736),
+(204,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-5-81','Kurs specjalistyczny','Palo Alto',3592),
+(205,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-29-05','Studia wyższe licencjackie','Escondido',3358),
+(206,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-8-98','Studia wyższe licencjackie','Brea',3655),
+(207,'Kurs specjalistyczny – Terapia bólu','5-30-10','Studia wyższe licencjackie','Lockport',4823),
+(208,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-9-89','Szkolenie','Boston',4595),
+(209,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-21-83','Szkolenie','Laconia',4659),
+(210,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-16-95','Kurs specjalistyczny','Fremont',2927),
+(211,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-17-88','Szkolenie','Boulder',4181),
+(212,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-28-98','Specjalizacja','Lansing',4051),
+(213,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-10-89','Kurs kwalifikacyjny','Chicopee',3985),
+(214,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-19-87','Studia doktoranckie','Williamsport',4355),
+(215,'Studia doktoranckie','10-4-06','Studia doktoranckie','Dearborn',4225),
+(216,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-17-98','Kurs dokształcający','Basin',4104),
+(217,'Kurs specjalistyczny - Szczepienia ochronne','2-4-01','Studia doktoranckie','Saint Paul',2825),
+(218,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-19-86','Kurs specjalistyczny','Mesquite',4235),
+(219,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-3-05','Kurs dokształcający','Norman',4414),
+(220,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-19-12','Kurs specjalistyczny','West Valley City',3963),
+(221,'Studia mające zastosowanie w działalności podstawowej','11-9-07','Specjalizacja','Laredo',4747),
+(222,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-5-01','Studia doktoranckie','Lebanon',2671),
+(223,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-5-88','Studia pielęgniarskie','Santa Ana',2738),
+(224,'Specjalizacja zawodowa','11-19-04','Kurs dokształcający','Lafayette',4904),
+(225,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-9-07','Szkolenie','Sherrill',4896),
+(226,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-23-90','Szkolenie','Lander',4878),
+(227,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-20-06','Kurs dokształcający','Memphis',3533),
+(228,'Kurs specjalistyczny - Szczepienia ochronne','7-13-90','Kurs dokształcający','Atlantic City',4053),
+(229,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-18-13','Szkolenie','Somersworth',3561),
+(230,'Specjalizacja zawodowa','3-2-88','Studia pielęgniarskie','Aliquippa',4315),
+(231,'Studia wyższe licencjackie','10-12-13','Specjalizacja','Davenport',2839),
+(232,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-24-88','Szkolenie','West Covina',3808),
+(233,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-9-14','Kurs specjalistyczny','Basin',3505),
+(234,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-4-06','Studia doktoranckie','Vacaville',2559),
+(235,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-14-95','Studia wyższe licencjackie','Tustin',4459),
+(236,'Kurs specjalistyczny - Szczepienia ochronne','8-1-04','Kurs dokształcający','Farmer City',2560),
+(237,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-29-88','Kurs specjalistyczny','Biddeford',3786),
+(238,'Studia mające zastosowanie w działalności podstawowej','1-13-03','Specjalizacja','Fresno',4876),
+(239,'Studia pielęgniarskie','5-27-83','Kurs kwalifikacyjny','Bethany',3535),
+(240,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-4-82','Szkolenie','St. Marys',2966),
+(241,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-7-02','Szkolenie','Webster Groves',3081),
+(242,'Studia mające zastosowanie w działalności podstawowej','6-30-09','Kurs specjalistyczny','Bay City',3375),
+(243,'Studia wyższe licencjackie','2-15-03','Kurs dokształcający','Midland',4432),
+(244,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-19-95','Kurs dokształcający','New Iberia',3817),
+(245,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-6-16','Studia doktoranckie','Harrisburg',3921),
+(246,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-2-14','Studia doktoranckie','Abilene',2567),
+(247,'Studia pielęgniarskie','8-11-09','Szkolenie','McKeesport',3402),
+(248,'Studia pielęgniarskie','2-16-06','Szkolenie','Sheboygan',4298),
+(249,'Studia doktoranckie','5-2-89','Kurs dokształcający','Fresno',4600),
+(250,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-17-04','Kurs kwalifikacyjny','Lowell',4600),
+(251,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-11-84','Kurs kwalifikacyjny','Valparaiso',3609),
+(252,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-14-81','Kurs kwalifikacyjny','DuBois',3778),
+(253,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-25-97','Szkolenie','Hickory',2590),
+(254,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-16-81','Kurs dokształcający','Little Falls',3198),
+(255,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-15-02','Studia pielęgniarskie','Missoula',2785),
+(256,'Kurs specjalistyczny - Szczepienia ochronne','7-19-11','Kurs specjalistyczny','Torrington',4753),
+(257,'Specjalizacja zawodowa','8-10-96','Specjalizacja','Apple Valley',2590),
+(258,'Kurs specjalistyczny - Szczepienia ochronne','12-17-89','Studia wyższe licencjackie','Gettysburg',3205),
+(259,'Studia wyższe licencjackie','9-27-92','Kurs dokształcający','Wausau',2560),
+(260,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-27-07','Szkolenie','Miami Beach',4838),
+(261,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-9-01','Kurs kwalifikacyjny','Opelousas',3388),
+(262,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-10-99','Kurs kwalifikacyjny','Pittston',3087),
+(263,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-27-92','Studia doktoranckie','Opelousas',4855),
+(264,'Kurs specjalistyczny - Szczepienia ochronne','3-21-11','Kurs kwalifikacyjny','Paterson',4072),
+(265,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-31-11','Szkolenie','Port Orford',3017),
+(266,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-1-02','Szkolenie','Oxford',3327),
+(267,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-31-84','Kurs dokształcający','Atlantic City',3710),
+(268,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-5-11','Studia doktoranckie','Starkville',4654),
+(269,'Studia pielęgniarskie','6-7-99','Szkolenie','Hilo',2645),
+(270,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-12-92','Studia wyższe licencjackie','Zanesville',3857),
+(271,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-27-91','Studia doktoranckie','Hoboken',2575),
+(272,'Specjalizacja zawodowa','11-5-82','Studia wyższe licencjackie','Guthrie',4793),
+(273,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-25-84','Kurs specjalistyczny','Everett',4811),
+(274,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-18-80','Kurs specjalistyczny','Guánica',3390),
+(275,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-12-14','Studia wyższe licencjackie','Cheyenne',3907),
+(276,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-7-81','Szkolenie','Batavia',3131),
+(277,'Studia mające zastosowanie w działalności podstawowej','6-12-02','Studia pielęgniarskie','Beckley',2812),
+(278,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-16-14','Kurs dokształcający','Santa Ana',4474),
+(279,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-20-99','Kurs kwalifikacyjny','Laredo',3033),
+(280,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-25-15','Szkolenie','Valdez',3578),
+(281,'Studia wyższe licencjackie','2-22-04','Szkolenie','Flagstaff',4592),
+(282,'Studia pielęgniarskie','11-15-14','Kurs dokształcający','Tallahassee',4897),
+(283,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-30-12','Kurs dokształcający','Dothan',3070),
+(284,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-6-01','Kurs kwalifikacyjny','Fargo',4485),
+(285,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-26-08','Studia doktoranckie','Iowa City',3935),
+(286,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-9-03','Szkolenie','Cudahy',3376),
+(287,'Studia wyższe licencjackie','8-25-08','Studia wyższe licencjackie','Anaconda',3257),
+(288,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-3-11','Studia wyższe licencjackie','Peabody',4478),
+(289,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-16-91','Kurs kwalifikacyjny','Starkville',4368),
+(290,'Studia wyższe licencjackie','3-5-87','Kurs dokształcający','Worland',3632),
+(291,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-18-13','Kurs kwalifikacyjny','Kahului',4154),
+(292,'Studia doktoranckie','2-23-98','Kurs kwalifikacyjny','Cody',3129),
+(293,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-21-85','Szkolenie','Salisbury',4460),
+(294,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-21-87','Studia doktoranckie','La Cañada Flintridge',4739),
+(295,'Kurs specjalistyczny – Terapia bólu','9-3-12','Kurs kwalifikacyjny','Oneonta',3600),
+(296,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-31-86','Specjalizacja','Aspen',2514),
+(297,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-19-84','Studia pielęgniarskie','Yorba Linda',4874),
+(298,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-21-98','Studia wyższe licencjackie','Rutland',4097),
+(299,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-29-85','Specjalizacja','Schaumburg',4325),
+(300,'Studia doktoranckie','2-6-86','Kurs kwalifikacyjny','Laughlin',3940),
+(301,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-15-03','Szkolenie','Yorba Linda',3233),
+(302,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-31-96','Szkolenie','Oneida',3071),
+(303,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','11-3-82','Kurs dokształcający','Compton',3105),
+(304,'Specjalizacja zawodowa','1-17-12','Studia wyższe licencjackie','Mobile',4005),
+(305,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-30-88','Studia wyższe licencjackie','Dubuque',2801),
+(306,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-5-80','Kurs specjalistyczny','West Covina',3876),
+(307,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-27-04','Szkolenie','Titusville',4142),
+(308,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-11-11','Studia doktoranckie','Santa Ana',3267),
+(309,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-28-84','Studia doktoranckie','Whittier',4685),
+(310,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-12-87','Specjalizacja','Eden Prairie',3750),
+(311,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-14-16','Szkolenie','Riverside',4329),
+(312,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-18-14','Studia wyższe licencjackie','Norman',4798),
+(313,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-2-82','Studia wyższe licencjackie','Sierra Madre',4581),
+(314,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-24-11','Szkolenie','Wichita',2580),
+(315,'Studia wyższe licencjackie','12-25-11','Kurs specjalistyczny','West Bend',4274),
+(316,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','2-6-97','Kurs kwalifikacyjny','Chicago Heights',3246),
+(317,'Studia doktoranckie','12-13-10','Kurs dokształcający','Albany',3918),
+(318,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-20-00','Studia doktoranckie','Eden Prairie',3317),
+(319,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-4-15','Studia pielęgniarskie','Coatesville',4653),
+(320,'Studia wyższe licencjackie','12-7-13','Kurs specjalistyczny','Little Falls',2821),
+(321,'Studia doktoranckie','2-4-85','Kurs kwalifikacyjny','Honolulu',4697),
+(322,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-22-06','Studia pielęgniarskie','Oklahoma City',3311),
+(323,'Specjalizacja zawodowa','11-23-80','Kurs dokształcający','Hackensack',4204),
+(324,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-21-16','Kurs kwalifikacyjny','Santa Barbara',2563),
+(325,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-23-01','Studia doktoranckie','Bradbury',2956),
+(326,'Kurs specjalistyczny - Szczepienia ochronne','12-3-82','Studia pielęgniarskie','Covina',3551),
+(327,'Kurs specjalistyczny - Szczepienia ochronne','7-11-87','Studia pielęgniarskie','Eufaula',4257),
+(328,'Studia wyższe licencjackie','11-9-06','Kurs kwalifikacyjny','Nichols Hills',3209),
+(329,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-10-84','Kurs dokształcający','Washington',2810),
+(330,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-25-06','Specjalizacja','Cicero',2560),
+(331,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-9-15','Kurs kwalifikacyjny','Gilbert',4221),
+(332,'Kurs specjalistyczny – Terapia bólu','1-17-97','Studia wyższe licencjackie','White Plains',3448),
+(333,'Kurs specjalistyczny – Terapia bólu','8-23-01','Szkolenie','San Francisco',2581),
+(334,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-21-81','Studia doktoranckie','Gainesville',4680),
+(335,'Specjalizacja zawodowa','3-24-97','Kurs dokształcający','Bossier City',3515),
+(336,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-9-09','Szkolenie','Macon',3070),
+(337,'Specjalizacja zawodowa','3-28-16','Kurs dokształcający','Omaha',4382),
+(338,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-23-09','Szkolenie','South Gate',3052),
+(339,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-29-08','Studia pielęgniarskie','Newport Beach',4273),
+(340,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-17-86','Studia doktoranckie','Durango',4001),
+(341,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-23-98','Kurs specjalistyczny','Easthampton',4764),
+(342,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-25-03','Kurs specjalistyczny','Glens Falls',3395),
+(343,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-22-12','Kurs specjalistyczny','Frederiksted',4252),
+(344,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-20-91','Studia doktoranckie','Lebanon',4703),
+(345,'Studia pielęgniarskie','10-18-14','Studia pielęgniarskie','Los Angeles',4583),
+(346,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-21-01','Studia doktoranckie','Middletown',3999),
+(347,'Studia pielęgniarskie','11-14-99','Studia pielęgniarskie','Nogales',4983),
+(348,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-9-12','Specjalizacja','Inglewood',3623),
+(349,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-6-94','Kurs dokształcający','Torrington',4800),
+(350,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-1-89','Szkolenie','Laguna Hills',4909),
+(351,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-18-14','Szkolenie','Eau Claire',2681),
+(352,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-20-97','Kurs specjalistyczny','Gettysburg',4799),
+(353,'Studia pielęgniarskie','1-31-86','Kurs dokształcający','Homer',3957),
+(354,'Studia doktoranckie','7-17-87','Specjalizacja','Lancaster',3175),
+(355,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-23-84','Studia wyższe licencjackie','Macomb',4575),
+(356,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-8-10','Specjalizacja','Visalia',3571),
+(357,'Kurs specjalistyczny - Szczepienia ochronne','4-27-07','Szkolenie','Kokomo',4726),
+(358,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-19-83','Szkolenie','Rosemead',3108),
+(359,'Studia wyższe licencjackie','1-13-99','Kurs dokształcający','Midwest City',4347),
+(360,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-31-00','Kurs specjalistyczny','Oxford',3821),
+(361,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-30-97','Studia pielęgniarskie','Bay St. Louis',4774),
+(362,'Specjalizacja zawodowa','2-3-82','Kurs kwalifikacyjny','Clarksville',3050),
+(363,'Studia wyższe licencjackie','2-9-90','Kurs kwalifikacyjny','Fountain Valley',3652),
+(364,'Studia wyższe licencjackie','11-3-93','Szkolenie','Berkeley',3709),
+(365,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-15-84','Studia wyższe licencjackie','Columbus',2812),
+(366,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-17-87','Kurs kwalifikacyjny','Cedar Falls',2956),
+(367,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-30-14','Studia doktoranckie','West Lafayette',4297),
+(368,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-27-08','Studia pielęgniarskie','Nichols Hills',2671),
+(369,'Studia wyższe licencjackie','10-20-90','Studia doktoranckie','Fresno',3134),
+(370,'Kurs specjalistyczny – Terapia bólu','9-14-11','Specjalizacja','Beverly',3741),
+(371,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-16-91','Specjalizacja','Thibodaux',4948),
+(372,'Studia mające zastosowanie w działalności podstawowej','12-25-87','Szkolenie','Huntsville',3030),
+(373,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-15-82','Kurs specjalistyczny','North Charleston',3537),
+(374,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-4-89','Kurs dokształcający','Santa Ana',3802),
+(375,'Kurs specjalistyczny – Terapia bólu','12-3-05','Studia pielęgniarskie','Catskill',3867),
+(376,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-15-01','Szkolenie','West Memphis',2635),
+(377,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-23-98','Specjalizacja','Citrus Heights',3412),
+(378,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-10-16','Studia pielęgniarskie','Eugene',3303),
+(379,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-2-94','Specjalizacja','Myrtle Beach',3125),
+(380,'Studia pielęgniarskie','2-20-83','Studia pielęgniarskie','Thousand Oaks',4789),
+(381,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-11-92','Studia wyższe licencjackie','Warwick',4535),
+(382,'Studia pielęgniarskie','2-19-87','Specjalizacja','Pittsburgh',4621),
+(383,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-21-86','Kurs kwalifikacyjny','Port Arthur',4620),
+(384,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-23-07','Szkolenie','Medford',2524),
+(385,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-28-84','Kurs specjalistyczny','Sanford',4997),
+(386,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-15-98','Studia pielęgniarskie','Rolling Hills Estates',3858),
+(387,'Studia doktoranckie','4-24-98','Studia wyższe licencjackie','Pasadena',4791),
+(388,'Kurs specjalistyczny - Szczepienia ochronne','4-17-08','Specjalizacja','Rye',3639),
+(389,'Studia doktoranckie','1-5-03','Specjalizacja','Holyoke',4564),
+(390,'Kurs specjalistyczny - Szczepienia ochronne','8-3-93','Studia wyższe licencjackie','Cincinnati',4371),
+(391,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-11-99','Specjalizacja','Warner Robins',2502),
+(392,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-19-92','Kurs kwalifikacyjny','Bay City',4738),
+(393,'Studia pielęgniarskie','10-8-11','Studia doktoranckie','Kenner',4777),
+(394,'Studia pielęgniarskie','9-30-81','Studia pielęgniarskie','Harrisburg',4714),
+(395,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-20-87','Studia wyższe licencjackie','Muskegon',4389),
+(396,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-15-81','Kurs specjalistyczny','Beaumont',4030),
+(397,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-5-84','Kurs kwalifikacyjny','Ardmore',2881),
+(398,'Kurs specjalistyczny - Szczepienia ochronne','10-13-00','Kurs dokształcający','Rohnert Park',4343),
+(399,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','7-22-85','Studia wyższe licencjackie','Rapid City',2824),
+(400,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-14-91','Studia wyższe licencjackie','Calumet City',2871),
+(401,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-23-87','Kurs specjalistyczny','Worcester',3934),
+(402,'Kurs specjalistyczny - Szczepienia ochronne','5-26-83','Kurs dokształcający','North Platte',3814),
+(403,'Specjalizacja zawodowa','7-29-13','Kurs specjalistyczny','Kona',2546),
+(404,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-29-89','Studia wyższe licencjackie','Bell',4797),
+(405,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-19-11','Kurs dokształcający','Milford',2698),
+(406,'Studia mające zastosowanie w działalności podstawowej','5-16-87','Kurs kwalifikacyjny','Anderson',2823),
+(407,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-11-86','Studia wyższe licencjackie','Lynwood',4609),
+(408,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-3-13','Kurs kwalifikacyjny','Johnson City',4177),
+(409,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-18-11','Studia pielęgniarskie','Anaconda',4436),
+(410,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-24-11','Kurs dokształcający','Omaha',4849),
+(411,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-19-08','Specjalizacja','Columbus',3372),
+(412,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-20-91','Studia pielęgniarskie','Caguas',2843),
+(413,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-24-16','Szkolenie','Atwater',3515),
+(414,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-23-84','Szkolenie','Beloit',3583),
+(415,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-21-08','Studia pielęgniarskie','Belpre',3260),
+(416,'Kurs specjalistyczny – Terapia bólu','8-26-93','Kurs dokształcający','Greenville',3066),
+(417,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-8-06','Specjalizacja','Muskegon',4104),
+(418,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-8-83','Szkolenie','Birmingham',3230),
+(419,'Studia wyższe licencjackie','6-20-03','Studia wyższe licencjackie','Liberal',3397),
+(420,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-8-97','Kurs specjalistyczny','Norfolk',4087),
+(421,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-19-11','Specjalizacja','Fort Lauderdale',2519),
+(422,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-23-06','Szkolenie','Sandy',3101),
+(423,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-26-80','Kurs kwalifikacyjny','Scottsbluff',2617),
+(424,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-29-05','Kurs dokształcający','Grand Island',3654),
+(425,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-22-10','Specjalizacja','Ypsilanti',2555),
+(426,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-11-84','Szkolenie','Gulfport',3681),
+(427,'Studia pielęgniarskie','10-1-14','Studia pielęgniarskie','Moscow',4490),
+(428,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-22-85','Szkolenie','Jackson',3276),
+(429,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-8-02','Specjalizacja','Orem',3871),
+(430,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-13-88','Specjalizacja','Roseville',4494),
+(431,'Kurs specjalistyczny – Terapia bólu','1-10-94','Szkolenie','Uniontown',4809),
+(432,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-24-94','Studia pielęgniarskie','Seattle',2821),
+(433,'Kurs specjalistyczny - Szczepienia ochronne','2-11-84','Specjalizacja','Ketchikan',3090),
+(434,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-17-92','Kurs specjalistyczny','Oklahoma City',3177),
+(435,'Kurs specjalistyczny - Szczepienia ochronne','6-21-98','Kurs dokształcający','Roseville',4131),
+(436,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-4-07','Studia doktoranckie','Gardena',3882),
+(437,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-4-84','Studia doktoranckie','Steubenville',2748),
+(438,'Studia pielęgniarskie','10-10-84','Szkolenie','Davenport',3169),
+(439,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-30-15','Studia pielęgniarskie','Compton',3873),
+(440,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-2-10','Szkolenie','Reading',3095),
+(441,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-24-86','Kurs dokształcający','Cypress',4466),
+(442,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-19-96','Specjalizacja','Georgetown',4159),
+(443,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-3-98','Studia doktoranckie','Coatesville',3311),
+(444,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-19-07','Studia doktoranckie','Yukon',4473),
+(445,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-14-94','Kurs kwalifikacyjny','Vacaville',4167),
+(446,'Studia mające zastosowanie w działalności podstawowej','9-17-02','Studia wyższe licencjackie','Topeka',4731),
+(447,'Studia pielęgniarskie','10-23-07','Specjalizacja','Barre',3861),
+(448,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-4-85','Studia doktoranckie','Bellingham',4501),
+(449,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-11-82','Kurs specjalistyczny','Houma',2563),
+(450,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-19-11','Specjalizacja','Sheridan',2928),
+(451,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-6-08','Kurs specjalistyczny','Appleton',4648),
+(452,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-30-92','Kurs specjalistyczny','Lubbock',3747),
+(453,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-8-88','Studia pielęgniarskie','Fairmont',4815),
+(454,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-19-05','Studia pielęgniarskie','Crown Point',4278),
+(455,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-17-16','Studia wyższe licencjackie','Burlington',3764),
+(456,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-2-89','Kurs dokształcający','Santa Fe Springs',4678),
+(457,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-26-87','Specjalizacja','Jackson',2754),
+(458,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-19-01','Specjalizacja','Rancho Palos Verdes',2712),
+(459,'Kurs specjalistyczny – Terapia bólu','9-10-82','Szkolenie','Union City',4775),
+(460,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-27-88','Studia doktoranckie','Chula Vista',4269),
+(461,'Studia doktoranckie','3-15-00','Kurs specjalistyczny','Enid',4235),
+(462,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-27-83','Studia wyższe licencjackie','Natchitoches',3591),
+(463,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-27-91','Kurs specjalistyczny','Boston',3775),
+(464,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-26-86','Szkolenie','Jeffersonville',4622),
+(465,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-3-08','Kurs dokształcający','Ashland',4961),
+(466,'Kurs specjalistyczny – Terapia bólu','9-7-04','Kurs dokształcający','Hammond',3140),
+(467,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-22-01','Kurs dokształcający','Ypsilanti',3200),
+(468,'Studia wyższe licencjackie','11-12-04','Kurs kwalifikacyjny','Yigo',4664),
+(469,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-20-84','Kurs specjalistyczny','Kahului',3149),
+(470,'Studia pielęgniarskie','9-16-05','Kurs specjalistyczny','Saint Paul',3824),
+(471,'Studia pielęgniarskie','9-15-86','Specjalizacja','Sheboygan',4064),
+(472,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-6-09','Studia doktoranckie','Selma',3941),
+(473,'Studia wyższe licencjackie','11-7-92','Kurs dokształcający','Diamond Bar',4725),
+(474,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-16-91','Studia wyższe licencjackie','Fredericksburg',4209),
+(475,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-23-92','Szkolenie','Irwindale',3713),
+(476,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-5-11','Studia pielęgniarskie','Aliso Viejo',4862),
+(477,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','11-29-09','Kurs kwalifikacyjny','New Rochelle',2683),
+(478,'Kurs specjalistyczny – Terapia bólu','6-3-05','Kurs kwalifikacyjny','Beloit',2944),
+(479,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-3-98','Szkolenie','Hastings',3613),
+(480,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-23-09','Studia doktoranckie','Webster Groves',3601),
+(481,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-3-06','Szkolenie','Seaford',3304),
+(482,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-23-95','Szkolenie','Port Orford',3314),
+(483,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-2-07','Szkolenie','Moore',2990),
+(484,'Specjalizacja zawodowa','6-27-89','Studia wyższe licencjackie','Newcastle',4575),
+(485,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-23-89','Studia doktoranckie','Valencia',3774),
+(486,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-30-81','Specjalizacja','Davis',4134),
+(487,'Studia wyższe licencjackie','4-13-93','Kurs kwalifikacyjny','Vallejo',3743),
+(488,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-16-05','Studia wyższe licencjackie','North Platte',3541),
+(489,'Specjalizacja zawodowa','8-11-11','Studia pielęgniarskie','Morgantown',3376),
+(490,'Studia mające zastosowanie w działalności podstawowej','5-3-85','Szkolenie','Flagstaff',3803),
+(491,'Studia pielęgniarskie','12-7-06','Studia doktoranckie','Rolling Hills',4247),
+(492,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-29-06','Specjalizacja','Laguna Hills',4986),
+(493,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-11-91','Szkolenie','Saginaw',4476),
+(494,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-10-99','Szkolenie','Chandler',4790),
+(495,'Studia wyższe licencjackie','11-25-04','Kurs kwalifikacyjny','Moraga',3313),
+(496,'Specjalizacja zawodowa','4-30-82','Studia wyższe licencjackie','Butler',2529),
+(497,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-9-12','Studia pielęgniarskie','Corry',3213),
+(498,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-7-87','Kurs kwalifikacyjny','Hopkinsville',4381),
+(499,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-7-05','Studia pielęgniarskie','Westfield',3632),
+(500,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-15-83','Studia doktoranckie','Effingham',2585),
+(501,'Studia wyższe licencjackie','8-19-90','Studia pielęgniarskie','Chandler',4987),
+(502,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-4-80','Kurs specjalistyczny','Gilette',4608),
+(503,'Specjalizacja zawodowa','5-25-85','Kurs kwalifikacyjny','Garden Grove',2698),
+(504,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-4-02','Studia doktoranckie','Cheyenne',3838),
+(505,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-1-88','Studia wyższe licencjackie','Hollister',4993),
+(506,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-4-83','Kurs specjalistyczny','Franklin',3731),
+(507,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-13-04','Studia wyższe licencjackie','Ann Arbor',4829),
+(508,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-30-15','Specjalizacja','Walnut',4474),
+(509,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-21-07','Studia pielęgniarskie','Pueblo',4650),
+(510,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-17-92','Studia doktoranckie','Yukon',4880),
+(511,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-21-90','Studia doktoranckie','Allentown',4882),
+(512,'Specjalizacja zawodowa','4-20-07','Studia pielęgniarskie','Alhambra',2835),
+(513,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-17-85','Kurs dokształcający','Pierre',3900),
+(514,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-12-91','Studia wyższe licencjackie','Hope',3798),
+(515,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-30-05','Szkolenie','Bremerton',4051),
+(516,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-2-02','Kurs specjalistyczny','Corpus Christi',4423),
+(517,'Studia wyższe licencjackie','3-16-96','Studia doktoranckie','Farmer City',4801),
+(518,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-12-05','Szkolenie','Richmond',4595),
+(519,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-23-82','Studia pielęgniarskie','Clarksburg',4499),
+(520,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-16-87','Kurs dokształcający','Lima',3000),
+(521,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-26-14','Kurs dokształcający','Clairton',4709),
+(522,'Studia pielęgniarskie','11-26-98','Studia wyższe licencjackie','Kennewick',2748),
+(523,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-12-96','Specjalizacja','Ypsilanti',3526),
+(524,'Kurs specjalistyczny - Szczepienia ochronne','2-14-83','Studia pielęgniarskie','Slidell',4129),
+(525,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-22-94','Studia wyższe licencjackie','Hope',2595),
+(526,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-14-13','Specjalizacja','Spokane Valley',3924),
+(527,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-31-14','Kurs specjalistyczny','Saipan',4580),
+(528,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-1-98','Studia wyższe licencjackie','Thomasville',4170),
+(529,'Studia mające zastosowanie w działalności podstawowej','11-4-99','Kurs dokształcający','Lansing',4795),
+(530,'Studia doktoranckie','11-23-01','Specjalizacja','Auburn',2574),
+(531,'Studia mające zastosowanie w działalności podstawowej','2-29-04','Szkolenie','Alexandria',4352),
+(532,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-3-92','Kurs dokształcający','Worland',4385),
+(533,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-22-80','Kurs specjalistyczny','Grand Rapids',3675),
+(534,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-10-08','Studia pielęgniarskie','Reading',4683),
+(535,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-1-96','Studia wyższe licencjackie','South Burlington',4053),
+(536,'Studia pielęgniarskie','9-7-02','Studia pielęgniarskie','Parma',2518),
+(537,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-21-04','Studia doktoranckie','Waltham',2755),
+(538,'Studia doktoranckie','12-27-98','Kurs kwalifikacyjny','San Jose',4742),
+(539,'Studia mające zastosowanie w działalności podstawowej','5-6-14','Studia pielęgniarskie','Boise',3372),
+(540,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-5-99','Kurs kwalifikacyjny','Goose Creek',3123),
+(541,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-17-92','Szkolenie','Henderson',4579),
+(542,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-16-80','Szkolenie','Sandpoint',4218),
+(543,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-18-91','Studia doktoranckie','Moore',3967),
+(544,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-29-10','Studia wyższe licencjackie','Idabel',3171),
+(545,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-7-91','Kurs dokształcający','Cincinnati',4525),
+(546,'Studia doktoranckie','12-31-84','Specjalizacja','Wilmington',4934),
+(547,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-8-95','Studia pielęgniarskie','Cambridge',2844),
+(548,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-18-09','Kurs kwalifikacyjny','Little Falls',3540),
+(549,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-4-10','Studia doktoranckie','New Iberia',4052),
+(550,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-30-10','Kurs specjalistyczny','Sister Bay',4361),
+(551,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-14-84','Kurs dokształcający','Ruston',3977),
+(552,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-3-80','Specjalizacja','Owensboro',4873),
+(553,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-25-11','Studia wyższe licencjackie','Sun Valley',2709),
+(554,'Studia wyższe licencjackie','10-23-00','Kurs specjalistyczny','North Little Rock',4208),
+(555,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-27-90','Szkolenie','Gloucester',4164),
+(556,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-18-05','Szkolenie','Chelsea',3623),
+(557,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-28-96','Studia doktoranckie','Hartford',4303),
+(558,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-4-92','Studia wyższe licencjackie','Grambling',2723),
+(559,'Kurs specjalistyczny – Terapia bólu','4-21-92','Studia doktoranckie','Wisconsin Dells',3964),
+(560,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-7-04','Specjalizacja','Montgomery',4808),
+(561,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-27-81','Szkolenie','Glen Cove',3328),
+(562,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-21-13','Studia doktoranckie','Mesquite',3257),
+(563,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-5-02','Studia wyższe licencjackie','Homer',3198),
+(564,'Kurs specjalistyczny - Szczepienia ochronne','12-30-00','Studia doktoranckie','Laguna Hills',3931),
+(565,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-21-99','Studia pielęgniarskie','Joplin',3662),
+(566,'Kurs specjalistyczny - Szczepienia ochronne','2-14-01','Studia doktoranckie','Corry',4378),
+(567,'Studia mające zastosowanie w działalności podstawowej','12-23-03','Studia wyższe licencjackie','Lakewood',3374),
+(568,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-10-02','Kurs dokształcający','Lufkin',4844),
+(569,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-18-81','Szkolenie','Hudson',4157),
+(570,'Specjalizacja zawodowa','12-22-93','Kurs specjalistyczny','Kokomo',3186),
+(571,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-31-00','Kurs specjalistyczny','Sherrill',4353),
+(572,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-16-87','Studia doktoranckie','Jefferson City',4579),
+(573,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-10-16','Specjalizacja','Midland',3997),
+(574,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-4-04','Kurs specjalistyczny','Menomonee Falls',4648),
+(575,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-12-01','Studia wyższe licencjackie','Yorba Linda',4072),
+(576,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-7-92','Szkolenie','Medford',4209),
+(577,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-2-98','Szkolenie','Eureka',2933),
+(578,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-11-80','Studia pielęgniarskie','Santa Ana',4343),
+(579,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-23-93','Szkolenie','Murfreesboro',3087),
+(580,'Kurs specjalistyczny - Szczepienia ochronne','12-12-03','Studia doktoranckie','Isle of Palms',3319),
+(581,'Studia pielęgniarskie','9-29-99','Kurs kwalifikacyjny','Arvada',3874),
+(582,'Specjalizacja zawodowa','10-13-98','Specjalizacja','Bandera',2753),
+(583,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-30-14','Szkolenie','Aliquippa',2850),
+(584,'Studia mające zastosowanie w działalności podstawowej','5-10-86','Kurs kwalifikacyjny','Huntington',3817),
+(585,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-21-90','Studia doktoranckie','Weymouth',4070),
+(586,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-20-82','Szkolenie','Boise',4621),
+(587,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-6-98','Studia doktoranckie','Montebello',3445),
+(588,'Studia doktoranckie','5-28-07','Studia doktoranckie','Slidell',2733),
+(589,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-6-90','Szkolenie','Rutland',4419),
+(590,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-1-01','Szkolenie','Plantation',3149),
+(591,'Studia pielęgniarskie','3-7-82','Szkolenie','Delta Junction',4724),
+(592,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-2-96','Kurs dokształcający','Topeka',4365),
+(593,'Studia wyższe licencjackie','7-31-82','Studia pielęgniarskie','Midwest City',4289),
+(594,'Studia doktoranckie','11-16-99','Studia doktoranckie','Clarksburg',4802),
+(595,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-10-82','Studia wyższe licencjackie','Newport',3551),
+(596,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-10-90','Specjalizacja','Grafton',4979),
+(597,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-31-08','Studia pielęgniarskie','Mission Viejo',3973),
+(598,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-11-12','Kurs kwalifikacyjny','Belleville',3473),
+(599,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-18-04','Kurs dokształcający','Riverton',4641),
+(600,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-17-07','Studia doktoranckie','South Gate',4071),
+(601,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','11-6-06','Kurs kwalifikacyjny','Carrollton',3809),
+(602,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-1-05','Kurs specjalistyczny','Lima',3130),
+(603,'Studia pielęgniarskie','11-24-81','Studia doktoranckie','Hialeah',4512),
+(604,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-1-96','Studia doktoranckie','Maywood',4679),
+(605,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-9-11','Kurs kwalifikacyjny','Toledo',3184),
+(606,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-26-94','Studia pielęgniarskie','Rolla',3404),
+(607,'Studia doktoranckie','1-1-14','Kurs dokształcający','McKeesport',4558),
+(608,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-15-06','Studia wyższe licencjackie','Monrovia',2551),
+(609,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-11-10','Studia pielęgniarskie','Statesboro',2825),
+(610,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-16-15','Kurs specjalistyczny','Edmond',3915),
+(611,'Studia mające zastosowanie w działalności podstawowej','9-6-01','Studia wyższe licencjackie','Melrose',2828),
+(612,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-19-81','Kurs dokształcający','North Las Vegas',2577),
+(613,'Studia wyższe licencjackie','3-18-97','Kurs specjalistyczny','Hot Springs',4715),
+(614,'Kurs specjalistyczny – Terapia bólu','12-10-80','Szkolenie','Villa Park',4011),
+(615,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-5-05','Studia doktoranckie','Olympia',4831),
+(616,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-22-82','Studia wyższe licencjackie','Elsmere',4978),
+(617,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-2-99','Kurs dokształcający','Johnstown',3926),
+(618,'Studia pielęgniarskie','6-23-10','Studia pielęgniarskie','Reading',3571),
+(619,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-22-95','Szkolenie','Rehoboth Beach',2839),
+(620,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-27-93','Studia doktoranckie','Rocky Mount',4301),
+(621,'Studia doktoranckie','5-14-09','Studia pielęgniarskie','Mesa',4232),
+(622,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-18-15','Specjalizacja','Savannah',2602),
+(623,'Kurs specjalistyczny – Terapia bólu','2-27-85','Studia wyższe licencjackie','Fallon',4755),
+(624,'Studia mające zastosowanie w działalności podstawowej','11-26-08','Kurs kwalifikacyjny','Mason City',3882),
+(625,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-29-81','Specjalizacja','Hastings',3706),
+(626,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-3-80','Kurs specjalistyczny','Walla Walla',4077),
+(627,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-23-02','Kurs kwalifikacyjny','Morrison',3119),
+(628,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-6-82','Specjalizacja','Sioux City',3948),
+(629,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-20-88','Kurs kwalifikacyjny','Sandy Springs',3755),
+(630,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-10-99','Studia wyższe licencjackie','Vail',2746),
+(631,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-24-80','Szkolenie','Montebello',4903),
+(632,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-26-80','Studia pielęgniarskie','Santa Clara',3097),
+(633,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-8-01','Specjalizacja','Palo Alto',4754),
+(634,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-1-93','Studia doktoranckie','Blacksburg',4160),
+(635,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-27-07','Szkolenie','Tyler',4679),
+(636,'Studia doktoranckie','2-7-96','Szkolenie','Moscow',4817),
+(637,'Studia doktoranckie','3-2-87','Kurs kwalifikacyjny','Fitchburg',4671),
+(638,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-17-96','Szkolenie','Bismarck',3133),
+(639,'Studia pielęgniarskie','1-5-13','Studia wyższe licencjackie','Sharon',4174),
+(640,'Kurs specjalistyczny – Terapia bólu','9-24-05','Kurs dokształcający','Williamsport',3747),
+(641,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-15-00','Kurs kwalifikacyjny','Washington',4161),
+(642,'Specjalizacja zawodowa','7-26-08','Kurs kwalifikacyjny','Belpre',4606),
+(643,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-5-08','Specjalizacja','Vail',4700),
+(644,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-21-09','Studia doktoranckie','Minneapolis',3885),
+(645,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-23-02','Kurs kwalifikacyjny','Pittston',4105),
+(646,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-28-01','Kurs dokształcający','Columbus',3951),
+(647,'Studia pielęgniarskie','2-13-05','Specjalizacja','Rolling Hills Estates',3944),
+(648,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-16-81','Kurs kwalifikacyjny','Staunton',3373),
+(649,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-7-85','Studia pielęgniarskie','Latrobe',2660),
+(650,'Studia doktoranckie','7-3-08','Szkolenie','Taunton',4451),
+(651,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-29-91','Specjalizacja','Lynwood',2834),
+(652,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-20-01','Szkolenie','Ruston',4093),
+(653,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-22-05','Kurs specjalistyczny','Kahului',2839),
+(654,'Studia mające zastosowanie w działalności podstawowej','2-11-15','Kurs specjalistyczny','Dayton',4624),
+(655,'Studia doktoranckie','6-1-92','Szkolenie','Arlington',3934),
+(656,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-10-00','Studia wyższe licencjackie','Chula Vista',3285),
+(657,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-24-87','Kurs kwalifikacyjny','North Chicago',4884),
+(658,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-19-95','Kurs kwalifikacyjny','Meriden',4640),
+(659,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-31-94','Studia pielęgniarskie','Tamuning',4033),
+(660,'Studia pielęgniarskie','12-17-80','Kurs kwalifikacyjny','Monroe',3646),
+(661,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-12-13','Studia wyższe licencjackie','Joplin',3386),
+(662,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-19-85','Studia doktoranckie','Belleville',4562),
+(663,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-18-92','Studia pielęgniarskie','Nashua',2736),
+(664,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-22-91','Kurs specjalistyczny','Kalamazoo',3154),
+(665,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-2-91','Studia doktoranckie','Jeffersontown',2507),
+(666,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-13-89','Studia wyższe licencjackie','Apple Valley',3335),
+(667,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-9-81','Studia pielęgniarskie','Murray',4220),
+(668,'Studia doktoranckie','5-21-05','Szkolenie','Compton',3517),
+(669,'Kurs specjalistyczny - Szczepienia ochronne','9-5-94','Specjalizacja','El Paso',3613),
+(670,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-25-01','Studia doktoranckie','Basin',4193),
+(671,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-20-02','Szkolenie','Atlanta',3696),
+(672,'Kurs specjalistyczny – Terapia bólu','3-1-06','Kurs kwalifikacyjny','Fairfax',3159),
+(673,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-31-05','Specjalizacja','Philadelphia',4369),
+(674,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-24-98','Kurs specjalistyczny','Pittston',2866),
+(675,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-19-10','Szkolenie','Independence',4880),
+(676,'Kurs specjalistyczny – Terapia bólu','3-9-87','Kurs specjalistyczny','Newport Beach',3513),
+(677,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-21-99','Kurs dokształcający','Las Vegas',3716),
+(678,'Studia wyższe licencjackie','4-12-04','Kurs specjalistyczny','Grand Forks',4882),
+(679,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-22-04','Studia pielęgniarskie','Kennesaw',2762),
+(680,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-19-81','Studia doktoranckie','Artesia',3279),
+(681,'Kurs dokształcający - Żywienie niemowląt i dzieci','9-28-86','Kurs dokształcający','Sugar Land',4695),
+(682,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-23-03','Kurs specjalistyczny','Corinth',4993),
+(683,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-10-09','Szkolenie','Rancho Cordova',4069),
+(684,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-1-92','Kurs dokształcający','Norman',2795),
+(685,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-1-82','Specjalizacja','Cruz Bay',3447),
+(686,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-16-00','Studia pielęgniarskie','Sun Valley',3077),
+(687,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-24-10','Studia pielęgniarskie','Ogdensburg',4102),
+(688,'Studia doktoranckie','12-30-93','Kurs dokształcający','Irving',4132),
+(689,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-2-85','Kurs dokształcający','Gilette',4568),
+(690,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-25-81','Kurs dokształcający','Gallup',2652),
+(691,'Kurs specjalistyczny – Terapia bólu','6-17-07','Studia doktoranckie','San Fernando',4196),
+(692,'Studia doktoranckie','1-29-13','Szkolenie','La Mirada',3458),
+(693,'Specjalizacja zawodowa','6-13-05','Specjalizacja','Maywood',2517),
+(694,'Studia wyższe licencjackie','3-31-94','Studia pielęgniarskie','Ponce',2518),
+(695,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-22-95','Studia doktoranckie','Truth or Consequences',2888),
+(696,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-30-99','Studia pielęgniarskie','Murray',2633),
+(697,'Studia mające zastosowanie w działalności podstawowej','1-31-11','Kurs specjalistyczny','Hoover',3523),
+(698,'Kurs specjalistyczny - Szczepienia ochronne','1-10-98','Studia doktoranckie','Perth Amboy',3364),
+(699,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-9-11','Kurs specjalistyczny','Palo Alto',4147),
+(700,'Kurs dokształcający - Żywienie niemowląt i dzieci','9-14-95','Szkolenie','Schaumburg',4130),
+(701,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-10-93','Studia pielęgniarskie','Norwich',4154),
+(702,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-13-86','Studia doktoranckie','Crown Point',4365),
+(703,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-6-87','Szkolenie','Brea',3471),
+(704,'Kurs specjalistyczny – Terapia bólu','4-16-13','Kurs specjalistyczny','Worland',4904),
+(705,'Studia doktoranckie','12-5-92','Szkolenie','Aberdeen',3846),
+(706,'Studia mające zastosowanie w działalności podstawowej','3-7-07','Kurs dokształcający','Baton Rouge',3030),
+(707,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-30-11','Kurs specjalistyczny','Valparaiso',3334),
+(708,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-18-04','Kurs dokształcający','El Paso',3932),
+(709,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-26-09','Kurs dokształcający','Bismarck',4631),
+(710,'Studia doktoranckie','2-11-07','Kurs kwalifikacyjny','Stillwater',4357),
+(711,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-3-89','Szkolenie','Johnson City',2936),
+(712,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-25-16','Kurs specjalistyczny','Savannah',2931),
+(713,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-26-16','Szkolenie','Laguna Hills',2501),
+(714,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-8-08','Studia doktoranckie','Concord',3726),
+(715,'Studia mające zastosowanie w działalności podstawowej','11-11-15','Kurs dokształcający','Elkhart',4362),
+(716,'Kurs specjalistyczny – Terapia bólu','6-26-13','Kurs dokształcający','Kearney',3390),
+(717,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-23-02','Studia pielęgniarskie','Johnson City',2844),
+(718,'Studia doktoranckie','4-20-82','Studia wyższe licencjackie','Middletown',4123),
+(719,'Studia pielęgniarskie','4-29-88','Kurs kwalifikacyjny','Bayamon',4231),
+(720,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-23-88','Specjalizacja','Woburn',3277),
+(721,'Studia doktoranckie','1-27-96','Szkolenie','Barre',4226),
+(722,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-12-82','Studia pielęgniarskie','Statesboro',2694),
+(723,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-12-94','Kurs kwalifikacyjny','Hagerstown',3588),
+(724,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-13-02','Kurs dokształcający','College Park',3290),
+(725,'Studia mające zastosowanie w działalności podstawowej','4-13-94','Kurs specjalistyczny','Worland',3052),
+(726,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-3-89','Szkolenie','Amesbury',4740),
+(727,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-3-91','Specjalizacja','Roanoke',4696),
+(728,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-20-13','Kurs dokształcający','Norwalk',4933),
+(729,'Studia wyższe licencjackie','11-22-09','Szkolenie','Lancaster',4913),
+(730,'Specjalizacja zawodowa','7-1-02','Specjalizacja','Pembroke Pines',2742),
+(731,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-10-04','Kurs specjalistyczny','Pittsfield',3646),
+(732,'Specjalizacja zawodowa','10-21-93','Kurs specjalistyczny','Saukville',2757),
+(733,'Studia pielęgniarskie','11-25-03','Studia wyższe licencjackie','Gallup',3677),
+(734,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-17-82','Kurs dokształcający','Manhattan',4934),
+(735,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-19-97','Specjalizacja','Cambridge',3690),
+(736,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-26-15','Kurs dokształcający','Indianapolis',4839),
+(737,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-28-12','Studia wyższe licencjackie','Lawton',3530),
+(738,'Studia doktoranckie','2-18-85','Studia wyższe licencjackie','Agawam',4306),
+(739,'Studia pielęgniarskie','9-8-13','Studia wyższe licencjackie','Calabasas',3010),
+(740,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-11-11','Studia pielęgniarskie','Idaho Falls',3042),
+(741,'Specjalizacja zawodowa','7-18-92','Szkolenie','Binghamton',4989),
+(742,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-15-12','Studia doktoranckie','Huntington Beach',2840),
+(743,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-8-15','Kurs dokształcający','Missoula',4344),
+(744,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-8-97','Kurs specjalistyczny','Oneonta',4118),
+(745,'Specjalizacja zawodowa','3-3-94','Kurs kwalifikacyjny','Orem',2939),
+(746,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-22-93','Studia wyższe licencjackie','Allentown',4639),
+(747,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-9-15','Specjalizacja','Atlanta',3109),
+(748,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-10-99','Szkolenie','Alexandria',4553),
+(749,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-13-09','Studia wyższe licencjackie','Independence',4000),
+(750,'Kurs specjalistyczny – Terapia bólu','2-26-89','Kurs dokształcający','Visalia',4362),
+(751,'Studia pielęgniarskie','2-19-10','Kurs kwalifikacyjny','Taunton',3088),
+(752,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-16-09','Studia wyższe licencjackie','Rock Springs',4598),
+(753,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-8-05','Kurs specjalistyczny','Hopkinsville',2761),
+(754,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','3-23-97','Studia doktoranckie','Roswell',4685),
+(755,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-16-98','Kurs specjalistyczny','Hackensack',4777),
+(756,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-8-94','Studia doktoranckie','Gallup',4753),
+(757,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-4-05','Kurs specjalistyczny','El Cerrito',4224),
+(758,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-4-02','Szkolenie','Fallon',3599),
+(759,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-9-03','Studia doktoranckie','Nashua',4359),
+(760,'Kurs specjalistyczny – Terapia bólu','9-22-82','Kurs specjalistyczny','Jacksonville',4375),
+(761,'Kurs specjalistyczny – Terapia bólu','4-27-05','Studia wyższe licencjackie','Kalispell',3139),
+(762,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-30-06','Kurs dokształcający','Scottsbluff',3101),
+(763,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-4-84','Kurs kwalifikacyjny','Sunbury',4488),
+(764,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-13-84','Studia pielęgniarskie','Bossier City',4910),
+(765,'Specjalizacja zawodowa','4-28-06','Kurs specjalistyczny','Beaver Falls',4124),
+(766,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-15-99','Kurs specjalistyczny','Jeannette',3069),
+(767,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-6-13','Kurs kwalifikacyjny','Palmdale',3071),
+(768,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-21-15','Kurs kwalifikacyjny','Norwich',2852),
+(769,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-4-13','Studia doktoranckie','Seward',3345),
+(770,'Kurs specjalistyczny - Szczepienia ochronne','11-30-89','Specjalizacja','Idaho Springs',3609),
+(771,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-6-82','Studia pielęgniarskie','Los Alamitos',4518),
+(772,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-23-11','Kurs dokształcający','Grand Forks',3071),
+(773,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-15-08','Kurs specjalistyczny','Costa Mesa',2601),
+(774,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-7-80','Studia doktoranckie','Jeannette',2911),
+(775,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-18-14','Studia pielęgniarskie','International Falls',3006),
+(776,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-10-07','Kurs specjalistyczny','Racine',3936),
+(777,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-11-06','Studia doktoranckie','Reedsport',2909),
+(778,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-18-02','Kurs specjalistyczny','Fort Wayne',4558),
+(779,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-5-11','Specjalizacja','La Mirada',4638),
+(780,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-8-03','Studia pielęgniarskie','Baltimore',3629),
+(781,'Studia pielęgniarskie','7-27-85','Studia pielęgniarskie','Sandpoint',4287),
+(782,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-2-07','Studia pielęgniarskie','Seal Beach',3520),
+(783,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-12-14','Szkolenie','Pittsfield',4932),
+(784,'Studia wyższe licencjackie','5-28-08','Studia pielęgniarskie','Duluth',3793),
+(785,'Studia doktoranckie','7-29-01','Specjalizacja','Hot Springs',2859),
+(786,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-15-82','Studia wyższe licencjackie','Cudahy',4528),
+(787,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-18-92','Szkolenie','Westfield',2548),
+(788,'Studia pielęgniarskie','6-23-00','Studia wyższe licencjackie','Santa Monica',2916),
+(789,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-20-09','Szkolenie','Cohoes',3175),
+(790,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-4-99','Kurs kwalifikacyjny','Gadsden',4916),
+(791,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-20-03','Szkolenie','Ogdensburg',4644),
+(792,'Studia pielęgniarskie','5-2-88','Studia pielęgniarskie','Chesapeake',2815),
+(793,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-10-14','Kurs dokształcający','Rockford',2949),
+(794,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-28-86','Kurs dokształcający','Monongahela',3472),
+(795,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-8-00','Kurs dokształcający','Rohnert Park',4601),
+(796,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-7-84','Studia pielęgniarskie','Hollywood',3488),
+(797,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-27-89','Specjalizacja','Santa Cruz',3434),
+(798,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-23-10','Studia pielęgniarskie','Peoria',4204),
+(799,'Kurs specjalistyczny - Szczepienia ochronne','6-9-07','Kurs dokształcający','Mason City',2561),
+(800,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-12-84','Szkolenie','Taunton',4540),
+(801,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-27-81','Kurs dokształcający','Union City',3400),
+(802,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-28-96','Studia doktoranckie','Paterson',2577),
+(803,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-28-95','Specjalizacja','Clemson',3219),
+(804,'Kurs specjalistyczny - Szczepienia ochronne','4-15-98','Specjalizacja','New Rochelle',4484),
+(805,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-19-93','Kurs dokształcający','Flint',3510),
+(806,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-23-09','Kurs dokształcający','Lake Charles',2691),
+(807,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-12-16','Studia wyższe licencjackie','Saratoga Springs',2593),
+(808,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-21-99','Szkolenie','Pascagoula',4867),
+(809,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-7-15','Kurs specjalistyczny','Farmington',4633),
+(810,'Kurs specjalistyczny – Terapia bólu','5-14-96','Studia wyższe licencjackie','Appleton',3679),
+(811,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-7-98','Kurs dokształcający','Vineland',4892),
+(812,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-1-88','Specjalizacja','Saint Cloud',2549),
+(813,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-10-09','Kurs specjalistyczny','East St. Louis',2504),
+(814,'Kurs specjalistyczny - Szczepienia ochronne','6-23-88','Studia pielęgniarskie','Hopkinsville',4517),
+(815,'Kurs specjalistyczny - Szczepienia ochronne','12-19-06','Kurs specjalistyczny','Scottsdale',2766),
+(816,'Studia doktoranckie','3-21-12','Specjalizacja','Tacoma',3992),
+(817,'Specjalizacja zawodowa','8-19-15','Kurs specjalistyczny','Thomasville',2889),
+(818,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-17-12','Kurs dokształcający','Lahaina',2860),
+(819,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-22-94','Specjalizacja','Tyler',3460),
+(820,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-7-83','Studia pielęgniarskie','Wynne',2957),
+(821,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-14-87','Szkolenie','Lynwood',2609),
+(822,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-17-15','Kurs dokształcający','North Las Vegas',3402),
+(823,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-2-92','Kurs kwalifikacyjny','Sherrill',2923),
+(824,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-19-82','Studia pielęgniarskie','Hayward',3392),
+(825,'Kurs specjalistyczny - Szczepienia ochronne','6-17-95','Kurs kwalifikacyjny','Shelton',4021),
+(826,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-19-98','Studia pielęgniarskie','Carrollton',4427),
+(827,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-20-91','Kurs specjalistyczny','Stafford',2885),
+(828,'Studia pielęgniarskie','1-6-15','Studia wyższe licencjackie','Trenton',2801),
+(829,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-9-06','Kurs kwalifikacyjny','Nacogdoches',3147),
+(830,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-29-81','Kurs kwalifikacyjny','Stanton',3330),
+(831,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-25-90','Kurs specjalistyczny','Wahoo',3514),
+(832,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-9-10','Kurs kwalifikacyjny','Jeffersonville',4390),
+(833,'Studia wyższe licencjackie','6-5-94','Kurs specjalistyczny','Bakersfield',3698),
+(834,'Studia mające zastosowanie w działalności podstawowej','10-13-01','Studia wyższe licencjackie','Scarborough',3687),
+(835,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-2-05','Specjalizacja','York',4124),
+(836,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-1-08','Studia wyższe licencjackie','Salt Lake City',4149),
+(837,'Studia wyższe licencjackie','6-5-13','Studia pielęgniarskie','College Station',4332),
+(838,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-1-96','Studia pielęgniarskie','Appleton',4607),
+(839,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-6-08','Studia doktoranckie','Naperville',4160),
+(840,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-11-07','Studia doktoranckie','Scottsdale',4407),
+(841,'Specjalizacja zawodowa','10-23-83','Szkolenie','West Sacramento',2678),
+(842,'Studia mające zastosowanie w działalności podstawowej','10-19-11','Kurs specjalistyczny','Laughlin',2755),
+(843,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-26-14','Kurs kwalifikacyjny','Brunswick',4772),
+(844,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-20-83','Kurs specjalistyczny','Hoboken',3962),
+(845,'Studia wyższe licencjackie','10-29-90','Studia wyższe licencjackie','Cincinnati',4249),
+(846,'Studia wyższe licencjackie','10-3-98','Studia pielęgniarskie','Woburn',3033),
+(847,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-4-05','Studia wyższe licencjackie','Arlington',4301),
+(848,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-15-91','Kurs dokształcający','Marietta',4679),
+(849,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-2-15','Specjalizacja','Columbia',4430),
+(850,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-25-01','Studia pielęgniarskie','Boston',2906),
+(851,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-28-11','Studia wyższe licencjackie','Pendleton',4408),
+(852,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-26-03','Studia wyższe licencjackie','Nampa',4008),
+(853,'Specjalizacja zawodowa','5-5-09','Szkolenie','Saint Louis',4499),
+(854,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-10-06','Studia pielęgniarskie','Bayamon',3822),
+(855,'Kurs specjalistyczny - Szczepienia ochronne','6-10-94','Studia doktoranckie','Warwick',2759),
+(856,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-22-07','Kurs dokształcający','Toledo',2913),
+(857,'Specjalizacja zawodowa','6-4-94','Specjalizacja','Waltham',3629),
+(858,'Specjalizacja zawodowa','7-19-10','Kurs dokształcający','Hollywood',4278),
+(859,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-29-03','Specjalizacja','Yakima',3263),
+(860,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-12-04','Kurs dokształcający','Helena',2996),
+(861,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-18-02','Kurs dokształcający','Monongahela',3019),
+(862,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-18-96','Kurs dokształcający','St. Petersburg',3787),
+(863,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-30-98','Studia doktoranckie','Sault Ste. Marie',3540),
+(864,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-13-83','Studia doktoranckie','Truth or Consequences',3204),
+(865,'Studia pielęgniarskie','4-10-14','Kurs kwalifikacyjny','Sioux City',4287),
+(866,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-2-02','Studia wyższe licencjackie','Ruston',3316),
+(867,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-28-05','Kurs dokształcający','Fort Lauderdale',3363),
+(868,'Studia doktoranckie','8-25-83','Studia doktoranckie','Prescott',2855),
+(869,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-17-90','Kurs specjalistyczny','Rancho Cucamonga',2513),
+(870,'Kurs specjalistyczny - Szczepienia ochronne','1-3-02','Kurs dokształcający','Des Moines',2710),
+(871,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-26-82','Specjalizacja','Pulaski',2586),
+(872,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-4-97','Studia doktoranckie','Taunton',3240),
+(873,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-25-15','Kurs kwalifikacyjny','Amesbury',4546),
+(874,'Studia doktoranckie','4-13-13','Kurs kwalifikacyjny','Newport News',4603),
+(875,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-5-00','Kurs dokształcający','Saint Paul',3588),
+(876,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-20-85','Studia wyższe licencjackie','Suffolk',3990),
+(877,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-4-87','Szkolenie','Las Vegas',4899),
+(878,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','9-16-11','Szkolenie','West Jordan',4522),
+(879,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-18-10','Specjalizacja','Urbana',4084),
+(880,'Specjalizacja zawodowa','4-9-84','Studia wyższe licencjackie','Pascagoula',4966),
+(881,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-14-83','Kurs dokształcający','Natchitoches',4015),
+(882,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-15-93','Studia wyższe licencjackie','Provo',3189),
+(883,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-14-14','Kurs dokształcający','Santa Clara',4611),
+(884,'Studia doktoranckie','8-24-14','Studia wyższe licencjackie','Lockport',4936),
+(885,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-13-12','Studia pielęgniarskie','Mechanicville',3864),
+(886,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-7-87','Szkolenie','New Rochelle',2835),
+(887,'Kurs specjalistyczny - Szczepienia ochronne','1-7-04','Specjalizacja','Augusta',3115),
+(888,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','9-6-04','Studia pielęgniarskie','Hartford',3659),
+(889,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-18-86','Specjalizacja','Rutland',3432),
+(890,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-4-82','Studia pielęgniarskie','York',3515),
+(891,'Kurs specjalistyczny – Terapia bólu','7-25-86','Specjalizacja','Caguas',4475),
+(892,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-3-87','Kurs kwalifikacyjny','Lakewood',4046),
+(893,'Studia wyższe licencjackie','7-24-97','Studia doktoranckie','Burlingame',4708),
+(894,'Studia mające zastosowanie w działalności podstawowej','4-28-08','Szkolenie','Eden Prairie',4665),
+(895,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-28-00','Studia doktoranckie','Normal',3619),
+(896,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-14-83','Studia wyższe licencjackie','Boulder Junction',4926),
+(897,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-31-08','Studia pielęgniarskie','Covina',2612),
+(898,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-2-12','Kurs dokształcający','Manhattan Beach',2876),
+(899,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-12-13','Studia doktoranckie','Dayton',3918),
+(900,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-27-96','Studia pielęgniarskie','Williamsport',3629),
+(901,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-8-86','Kurs dokształcający','Inglewood',4704),
+(902,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-13-89','Studia pielęgniarskie','Augusta',4119),
+(903,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-10-02','Studia wyższe licencjackie','Dana Point',4690),
+(904,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-15-87','Kurs kwalifikacyjny','Waycross',4620),
+(905,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-13-98','Specjalizacja','Las Cruces',3203),
+(906,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-21-16','Kurs specjalistyczny','DeKalb',3526),
+(907,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-29-06','Specjalizacja','Vincennes',4546),
+(908,'Kurs specjalistyczny – Terapia bólu','1-15-09','Specjalizacja','Bremerton',4819),
+(909,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-2-86','Studia doktoranckie','Sun Valley',2802),
+(910,'Kurs specjalistyczny - Szczepienia ochronne','1-10-01','Kurs kwalifikacyjny','Laramie',4936),
+(911,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-9-05','Studia doktoranckie','Placentia',3881),
+(912,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-27-08','Specjalizacja','Milwaukee',4050),
+(913,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-7-99','Kurs dokształcający','Dodge City',4378),
+(914,'Kurs specjalistyczny – Terapia bólu','11-30-87','Studia doktoranckie','Guayanilla',4207),
+(915,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-28-02','Studia wyższe licencjackie','Healdsburg',4730),
+(916,'Kurs specjalistyczny - Szczepienia ochronne','9-17-95','Szkolenie','Tempe',2643),
+(917,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-26-01','Specjalizacja','Ruston',4499),
+(918,'Studia wyższe licencjackie','4-5-94','Szkolenie','Chesapeake',3900),
+(919,'Studia doktoranckie','9-1-13','Studia pielęgniarskie','Fountain Valley',4103),
+(920,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-16-04','Kurs specjalistyczny','Clearwater',4004),
+(921,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-2-93','Kurs kwalifikacyjny','Lancaster',4597),
+(922,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-6-86','Kurs specjalistyczny','Shreveport',3408),
+(923,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-16-10','Kurs kwalifikacyjny','Stafford',3258),
+(924,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-7-13','Szkolenie','Carrollton',4933),
+(925,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-8-15','Szkolenie','Shawnee',4852),
+(926,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-16-82','Szkolenie','Narragansett',3311),
+(927,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-31-94','Studia doktoranckie','Peru',4735),
+(928,'Studia pielęgniarskie','7-21-03','Studia doktoranckie','Los Alamitos',3619),
+(929,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-18-13','Kurs kwalifikacyjny','Clarksburg',2787),
+(930,'Studia mające zastosowanie w działalności podstawowej','1-15-12','Studia pielęgniarskie','Kemmerer',2683),
+(931,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-27-01','Specjalizacja','La Palma',4073),
+(932,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-23-84','Kurs specjalistyczny','Macomb',4060),
+(933,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-5-04','Studia doktoranckie','Lewiston',3111),
+(934,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-5-87','Szkolenie','Sacramento',2919),
+(935,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-27-94','Szkolenie','Anderson',3793),
+(936,'Studia pielęgniarskie','1-3-91','Kurs specjalistyczny','Westlake Village',4884),
+(937,'Studia doktoranckie','7-30-81','Kurs dokształcający','Oro Valley',3176),
+(938,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-3-08','Kurs specjalistyczny','Azusa',3956),
+(939,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-13-91','Studia wyższe licencjackie','Claremore',3537),
+(940,'Studia wyższe licencjackie','4-18-08','Studia pielęgniarskie','Fargo',3991),
+(941,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-16-02','Kurs dokształcający','Rancho Cucamonga',3176),
+(942,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-14-94','Szkolenie','Miami Beach',4984),
+(943,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-4-96','Kurs dokształcający','Norfolk',4661),
+(944,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-19-07','Studia pielęgniarskie','Brunswick',4321),
+(945,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-19-07','Studia wyższe licencjackie','Richmond',4495),
+(946,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-26-96','Specjalizacja','Cedar Falls',4983),
+(947,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-5-01','Kurs specjalistyczny','Farmington',3267),
+(948,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-15-94','Studia doktoranckie','Meridian',4391),
+(949,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-27-08','Studia wyższe licencjackie','Northampton',4666),
+(950,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-2-06','Szkolenie','Corinth',3350),
+(951,'Studia doktoranckie','9-27-11','Kurs kwalifikacyjny','Sedalia',3925),
+(952,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-21-10','Szkolenie','Evanston',3471),
+(953,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-2-12','Kurs kwalifikacyjny','Auburn',4653),
+(954,'Kurs specjalistyczny – Terapia bólu','1-3-02','Studia doktoranckie','Duarte',3861),
+(955,'Specjalizacja zawodowa','2-25-84','Kurs kwalifikacyjny','Merizo',4015),
+(956,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-17-83','Specjalizacja','Rialto',3170),
+(957,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-25-06','Studia doktoranckie','Miami Gardens',3881),
+(958,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-8-81','Studia wyższe licencjackie','Easton',3568),
+(959,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-31-13','Specjalizacja','Haverhill',4572),
+(960,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-20-94','Studia pielęgniarskie','Wausau',4169),
+(961,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-1-97','Specjalizacja','Escondido',3351),
+(962,'Specjalizacja zawodowa','4-4-93','Kurs dokształcający','Norman',3214),
+(963,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-12-85','Kurs specjalistyczny','New Albany',3239),
+(964,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-28-95','Specjalizacja','Gainesville',4665),
+(965,'Specjalizacja zawodowa','4-15-15','Szkolenie','Diamond Bar',4344),
+(966,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-31-10','Kurs dokształcający','Nichols Hills',4241),
+(967,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-15-03','Kurs dokształcający','Harrisburg',4481),
+(968,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-15-04','Studia doktoranckie','New Brunswick',4190),
+(969,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-23-97','Specjalizacja','Ardmore',4297),
+(970,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-21-91','Szkolenie','Montpelier',4353),
+(971,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-13-02','Specjalizacja','Thibodaux',3030),
+(972,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-22-06','Kurs dokształcający','Rancho Palos Verdes',3925),
+(973,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-25-00','Studia doktoranckie','Plantation',4004),
+(974,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-30-87','Specjalizacja','Douglas',3216),
+(975,'Studia mające zastosowanie w działalności podstawowej','4-7-10','Studia pielęgniarskie','Saipan',4075),
+(976,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-23-96','Kurs kwalifikacyjny','Plattsburgh',4577),
+(977,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-15-04','Kurs specjalistyczny','La Habra',4154),
+(978,'Studia pielęgniarskie','3-27-92','Studia wyższe licencjackie','Jackson',4464),
+(979,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-10-04','Studia doktoranckie','Idaho Springs',4620),
+(980,'Kurs dokształcający - Żywienie niemowląt i dzieci','9-23-12','Kurs dokształcający','Charlotte Amalie',4933),
+(981,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-24-81','Studia doktoranckie','Chico',3464),
+(982,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-30-12','Studia wyższe licencjackie','North Tonawanda',3106),
+(983,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-27-93','Kurs specjalistyczny','Holyoke',3611),
+(984,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-12-12','Studia wyższe licencjackie','Rhinelander',4928),
+(985,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-16-87','Kurs specjalistyczny','Gold Beach',2858),
+(986,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-8-08','Szkolenie','Sandpoint',3767),
+(987,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-27-16','Studia wyższe licencjackie','Moultrie',3112),
+(988,'Studia doktoranckie','1-30-93','Szkolenie','Ardmore',4621),
+(989,'Studia pielęgniarskie','8-9-94','Kurs kwalifikacyjny','Loudon',3280),
+(990,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-3-92','Specjalizacja','Chattanooga',2927),
+(991,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-29-03','Szkolenie','Tamuning',3833),
+(992,'Studia pielęgniarskie','7-21-92','Studia pielęgniarskie','Normal',2775),
+(993,'Kurs specjalistyczny – Terapia bólu','4-12-88','Kurs kwalifikacyjny','Chickasha',3541),
+(994,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-1-96','Kurs kwalifikacyjny','Lewiston',3912),
+(995,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-28-07','Studia wyższe licencjackie','Kingsport',2749),
+(996,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-26-01','Studia doktoranckie','New Britain',2625),
+(997,'Kurs specjalistyczny - Szczepienia ochronne','6-12-00','Kurs dokształcający','Douglas',3656),
+(998,'Kurs specjalistyczny – Terapia bólu','5-31-14','Kurs specjalistyczny','Elsmere',4780),
+(999,'Kurs specjalistyczny - Szczepienia ochronne','6-16-07','Specjalizacja','Minneapolis',3682),
+(1000,'Studia mające zastosowanie w działalności podstawowej','10-27-04','Kurs dokształcający','New York',3087),
+(1001,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-18-04','Specjalizacja','Tampa',3267),
+(1002,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-23-14','Kurs specjalistyczny','St. Petersburg',4820),
+(1003,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-16-04','Studia pielęgniarskie','Houston',2679),
+(1004,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-22-91','Szkolenie','Scranton',2747),
+(1005,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-9-11','Kurs specjalistyczny','Thibodaux',3946),
+(1006,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-25-86','Studia wyższe licencjackie','Biloxi',2501),
+(1007,'Studia wyższe licencjackie','8-3-90','Kurs specjalistyczny','Oxnard',2823),
+(1008,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-1-98','Szkolenie','Eden Prairie',4285),
+(1009,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-15-13','Studia pielęgniarskie','Newton',2687),
+(1010,'Specjalizacja zawodowa','4-21-07','Studia pielęgniarskie','Medford',3412),
+(1011,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-10-15','Studia doktoranckie','Vermillion',4830),
+(1012,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-27-00','Studia pielęgniarskie','Hattiesburg',3552),
+(1013,'Studia wyższe licencjackie','2-5-07','Kurs specjalistyczny','Evansville',4197),
+(1014,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-2-11','Szkolenie','Princeton',3724),
+(1015,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-2-98','Studia wyższe licencjackie','Nashville',3069),
+(1016,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-29-83','Specjalizacja','Eden Prairie',4083),
+(1017,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-26-04','Kurs dokształcający','Laguna Niguel',2895),
+(1018,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-18-08','Szkolenie','Barre',4579),
+(1019,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-21-88','Kurs kwalifikacyjny','Dallas',2985),
+(1020,'Specjalizacja zawodowa','11-13-92','Studia wyższe licencjackie','Peoria',2947),
+(1021,'Studia wyższe licencjackie','9-5-14','Kurs dokształcający','Rialto',4055),
+(1022,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-7-98','Szkolenie','Reading',2597),
+(1023,'Studia wyższe licencjackie','1-9-13','Kurs dokształcający','Rialto',3245),
+(1024,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-30-12','Kurs kwalifikacyjny','Spokane Valley',2601),
+(1025,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-19-95','Kurs specjalistyczny','Saint Joseph',4967),
+(1026,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-27-84','Szkolenie','Agat',3323),
+(1027,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-14-91','Studia doktoranckie','Los Alamitos',3402),
+(1028,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-3-81','Studia doktoranckie','Muskogee',3774),
+(1029,'Kurs specjalistyczny – Terapia bólu','4-5-09','Specjalizacja','Duquesne',2579),
+(1030,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-6-82','Kurs kwalifikacyjny','Catskill',4586),
+(1031,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-3-97','Studia wyższe licencjackie','Pittston',2630),
+(1032,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-7-04','Kurs kwalifikacyjny','Amesbury',4245),
+(1033,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-21-88','Studia wyższe licencjackie','Davis',3051),
+(1034,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-2-96','Studia doktoranckie','Chattanooga',3722),
+(1035,'Studia pielęgniarskie','9-20-95','Kurs kwalifikacyjny','Rancho Palos Verdes',4237),
+(1036,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-10-85','Kurs kwalifikacyjny','Middletown',2712),
+(1037,'Studia doktoranckie','2-18-81','Studia pielęgniarskie','Bismarck',2948),
+(1038,'Kurs specjalistyczny – Terapia bólu','1-22-01','Specjalizacja','Baltimore',3191),
+(1039,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-11-88','Specjalizacja','Calabasas',3276),
+(1040,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-7-95','Szkolenie','Parma',3668),
+(1041,'Studia mające zastosowanie w działalności podstawowej','1-30-01','Szkolenie','Hutchinson',3130),
+(1042,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-25-82','Szkolenie','Johnstown',4514),
+(1043,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-30-92','Szkolenie','Minnetonka',4487),
+(1044,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-24-82','Kurs dokształcający','Baton Rouge',4453),
+(1045,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-3-87','Studia pielęgniarskie','Manhattan Beach',3563),
+(1046,'Kurs specjalistyczny - Szczepienia ochronne','2-6-96','Specjalizacja','Nashua',3074),
+(1047,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-26-94','Studia wyższe licencjackie','South Portland',2502),
+(1048,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-2-09','Kurs specjalistyczny','Areceibo',3261),
+(1049,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-14-08','Specjalizacja','Union City',4723),
+(1050,'Specjalizacja zawodowa','5-27-87','Specjalizacja','Colorado Springs',4524),
+(1051,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-20-04','Studia doktoranckie','South Gate',4640),
+(1052,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-8-86','Szkolenie','Radford',3670),
+(1053,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-20-00','Studia pielęgniarskie','Inglewood',4061),
+(1054,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-10-83','Specjalizacja','Miami Beach',4659),
+(1055,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-18-82','Studia doktoranckie','Wilson',4548),
+(1056,'Studia pielęgniarskie','10-19-84','Studia wyższe licencjackie','North Platte',3495),
+(1057,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-23-88','Studia pielęgniarskie','East St. Louis',3762),
+(1058,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-14-08','Kurs specjalistyczny','Yakima',4595),
+(1059,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-28-92','Specjalizacja','Elkhart',4645),
+(1060,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-31-86','Studia pielęgniarskie','Thousand Oaks',4616),
+(1061,'Studia pielęgniarskie','6-11-80','Studia pielęgniarskie','Tonawanda',3955),
+(1062,'Studia mające zastosowanie w działalności podstawowej','9-15-09','Studia pielęgniarskie','Deadwood',4120),
+(1063,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-17-11','Studia doktoranckie','Charleston',3257),
+(1064,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-16-84','Studia doktoranckie','New Orleans',4774),
+(1065,'Kurs specjalistyczny - Szczepienia ochronne','10-7-06','Kurs dokształcający','San Mateo',3561),
+(1066,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-6-05','Specjalizacja','Costa Mesa',4376),
+(1067,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-19-01','Kurs specjalistyczny','DuBois',2578),
+(1068,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-30-92','Specjalizacja','Jeffersontown',3195),
+(1069,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-12-11','Specjalizacja','Del Rio',3973),
+(1070,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-21-91','Studia wyższe licencjackie','Lowell',4715),
+(1071,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-8-10','Studia pielęgniarskie','Cruz Bay',2925),
+(1072,'Specjalizacja zawodowa','10-30-08','Specjalizacja','Medford',4474),
+(1073,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-2-12','Kurs kwalifikacyjny','Arlington',3030),
+(1074,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-17-90','Kurs kwalifikacyjny','Santa Monica',3997),
+(1075,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-21-88','Kurs dokształcający','West Haven',3203),
+(1076,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-26-92','Specjalizacja','Ephraim',4335),
+(1077,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-6-06','Kurs kwalifikacyjny','Port Arthur',4226),
+(1078,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-23-94','Studia doktoranckie','Fairbanks',4700),
+(1079,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-24-15','Szkolenie','Rolling Hills',4776),
+(1080,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-13-92','Kurs dokształcający','Salem',2808),
+(1081,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-26-80','Kurs dokształcający','Norman',4871),
+(1082,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-27-94','Studia pielęgniarskie','Costa Mesa',4478),
+(1083,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-31-03','Studia doktoranckie','Bay City',3333),
+(1084,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-28-91','Kurs kwalifikacyjny','New Orleans',2899),
+(1085,'Studia mające zastosowanie w działalności podstawowej','8-8-96','Kurs kwalifikacyjny','Manitowoc',3580),
+(1086,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-16-80','Studia doktoranckie','Grand Island',3049),
+(1087,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-5-80','Szkolenie','Bradbury',2571),
+(1088,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-18-11','Specjalizacja','Moline',2760),
+(1089,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-28-81','Studia wyższe licencjackie','Egg Harbor',4921),
+(1090,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-27-03','Studia wyższe licencjackie','Irwindale',3977),
+(1091,'Kurs specjalistyczny – Terapia bólu','10-29-93','Szkolenie','North Charleston',3433),
+(1092,'Studia wyższe licencjackie','11-22-86','Specjalizacja','Green Bay',4644),
+(1093,'Specjalizacja zawodowa','8-12-02','Studia doktoranckie','Artesia',2680),
+(1094,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-12-13','Studia doktoranckie','Rancho Santa Margarita',3434),
+(1095,'Studia pielęgniarskie','2-19-83','Kurs dokształcający','Bellingham',4051),
+(1096,'Kurs specjalistyczny - Szczepienia ochronne','2-22-01','Specjalizacja','Pittsburgh',3371),
+(1097,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-28-80','Specjalizacja','Little Rock',3577),
+(1098,'Studia pielęgniarskie','3-31-85','Kurs kwalifikacyjny','Malibu',3265),
+(1099,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-29-09','Szkolenie','McAlester',2799),
+(1100,'Studia pielęgniarskie','5-9-04','Specjalizacja','Kokomo',4779),
+(1101,'Studia doktoranckie','2-3-14','Kurs specjalistyczny','Baldwin Park',3413),
+(1102,'Studia pielęgniarskie','8-31-04','Studia wyższe licencjackie','Oil City',3511),
+(1103,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-22-81','Studia doktoranckie','Springfield',2610),
+(1104,'Studia wyższe licencjackie','3-27-97','Studia doktoranckie','Muncie',3285),
+(1105,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-5-15','Studia doktoranckie','Casper',2687),
+(1106,'Kurs specjalistyczny – Terapia bólu','7-4-03','Kurs kwalifikacyjny','Greenville',3450),
+(1107,'Kurs specjalistyczny – Terapia bólu','1-12-01','Szkolenie','Greensboro',2743),
+(1108,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-9-84','Kurs specjalistyczny','Omaha',4960),
+(1109,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-14-92','Kurs specjalistyczny','Texas City',3304),
+(1110,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-25-00','Studia doktoranckie','Blythe',3878),
+(1111,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-24-92','Szkolenie','Columbia',3416),
+(1112,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-3-84','Specjalizacja','Attleboro',3601),
+(1113,'Studia wyższe licencjackie','1-29-12','Studia wyższe licencjackie','San Fernando',2672),
+(1114,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-13-04','Kurs dokształcający','Jeannette',3956),
+(1115,'Kurs specjalistyczny – Terapia bólu','7-14-03','Kurs kwalifikacyjny','Parma',4349),
+(1116,'Kurs specjalistyczny – Terapia bólu','9-20-05','Kurs specjalistyczny','Superior',3471),
+(1117,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-15-10','Specjalizacja','College Park',4328),
+(1118,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-17-92','Kurs kwalifikacyjny','Morrison',4394),
+(1119,'Specjalizacja zawodowa','6-4-88','Kurs kwalifikacyjny','Thibodaux',3288),
+(1120,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-27-02','Kurs dokształcający','Stafford',4028),
+(1121,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-22-88','Kurs dokształcający','Saginaw',2826),
+(1122,'Studia wyższe licencjackie','11-27-04','Kurs specjalistyczny','McAllen',3033),
+(1123,'Specjalizacja zawodowa','8-25-97','Studia wyższe licencjackie','Texas City',3608),
+(1124,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-19-08','Kurs dokształcający','Oro Valley',3409),
+(1125,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-22-92','Studia doktoranckie','Cambridge',2531),
+(1126,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-7-81','Kurs kwalifikacyjny','Pullman',4301),
+(1127,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-20-11','Studia pielęgniarskie','Muskegon',3211),
+(1128,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-7-15','Specjalizacja','Basin',3120),
+(1129,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-25-05','Studia wyższe licencjackie','South El Monte',2868),
+(1130,'Studia wyższe licencjackie','11-1-93','Kurs kwalifikacyjny','Nashua',4439),
+(1131,'Studia mające zastosowanie w działalności podstawowej','10-15-81','Kurs specjalistyczny','Westlake Village',4451),
+(1132,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-9-06','Kurs dokształcający','Pittsfield',3807),
+(1133,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-20-03','Szkolenie','West Warwick',3675),
+(1134,'Studia pielęgniarskie','4-15-07','Specjalizacja','Elsmere',3134),
+(1135,'Studia doktoranckie','1-23-90','Szkolenie','Evansville',3788),
+(1136,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-25-06','Kurs kwalifikacyjny','Scottsbluff',4923),
+(1137,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-8-87','Szkolenie','Chicopee',3785),
+(1138,'Specjalizacja zawodowa','5-10-06','Kurs dokształcający','Placentia',3741),
+(1139,'Studia doktoranckie','4-11-95','Kurs dokształcający','North Pole',2697),
+(1140,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-23-93','Studia doktoranckie','Truth or Consequences',3666),
+(1141,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-25-02','Szkolenie','Moore',2997),
+(1142,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-22-80','Studia wyższe licencjackie','Saint Albans',2677),
+(1143,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-24-83','Kurs dokształcający','Wilson',4431),
+(1144,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-19-14','Kurs dokształcający','La Habra Heights',3889),
+(1145,'Kurs specjalistyczny - Szczepienia ochronne','9-9-86','Szkolenie','Kent',4608),
+(1146,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-5-94','Kurs dokształcający','Jersey City',3778),
+(1147,'Studia wyższe licencjackie','8-12-85','Kurs kwalifikacyjny','Gardner',4257),
+(1148,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-4-96','Kurs kwalifikacyjny','Costa Mesa',3611),
+(1149,'Specjalizacja zawodowa','5-30-89','Kurs specjalistyczny','Midland',4731),
+(1150,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-19-96','Specjalizacja','Ocean City',4905),
+(1151,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-19-81','Szkolenie','West Lafayette',4209),
+(1152,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-25-85','Studia doktoranckie','La Puente',4116),
+(1153,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-16-85','Specjalizacja','Ketchikan',4343),
+(1154,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-26-05','Szkolenie','Glen Cove',3542),
+(1155,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-18-84','Studia pielęgniarskie','Chicago Heights',3961),
+(1156,'Studia doktoranckie','8-5-03','Kurs dokształcający','Kokomo',4091),
+(1157,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-20-97','Specjalizacja','Jeffersonville',4838),
+(1158,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-16-91','Szkolenie','Plantation',2926),
+(1159,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-8-95','Studia doktoranckie','Fort Worth',4822),
+(1160,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-24-06','Studia doktoranckie','Franklin',2954),
+(1161,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-30-93','Specjalizacja','Elkhart',4159),
+(1162,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-2-06','Specjalizacja','North Adams',4834),
+(1163,'Studia mające zastosowanie w działalności podstawowej','8-15-00','Specjalizacja','Rye',3289),
+(1164,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-1-99','Studia pielęgniarskie','Eufaula',3156),
+(1165,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-20-96','Szkolenie','Gainesville',4292),
+(1166,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-6-86','Kurs specjalistyczny','Corinth',2620),
+(1167,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-9-10','Kurs kwalifikacyjny','Garland',4497),
+(1168,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-25-02','Kurs dokształcający','Longview',4546),
+(1169,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-24-07','Studia doktoranckie','Mayagüez',3510),
+(1170,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-20-98','Szkolenie','Brigham City',4931),
+(1171,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-26-02','Studia pielęgniarskie','Ogdensburg',2586),
+(1172,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-24-87','Kurs kwalifikacyjny','Gloucester',4695),
+(1173,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-4-99','Kurs dokształcający','Ketchikan',3739),
+(1174,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-6-89','Studia doktoranckie','Montebello',4937),
+(1175,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-16-14','Studia doktoranckie','Branson',2618),
+(1176,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-9-05','Kurs kwalifikacyjny','Deadwood',4861),
+(1177,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-30-95','Kurs kwalifikacyjny','Santa Barbara',2583),
+(1178,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-27-92','Szkolenie','Duquesne',2720),
+(1179,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-15-12','Kurs specjalistyczny','Cape May',4476),
+(1180,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-30-89','Specjalizacja','Palos Verdes Estates',4651),
+(1181,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-17-94','Studia wyższe licencjackie','Covina',2773),
+(1182,'Studia mające zastosowanie w działalności podstawowej','10-21-93','Kurs specjalistyczny','Santa Fe Springs',4040),
+(1183,'Specjalizacja zawodowa','5-21-81','Studia wyższe licencjackie','Hampton',3925),
+(1184,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-30-07','Kurs dokształcający','Belpre',3463),
+(1185,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-15-10','Kurs kwalifikacyjny','Sedalia',4826),
+(1186,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-24-12','Szkolenie','Durango',2942),
+(1187,'Studia mające zastosowanie w działalności podstawowej','1-6-08','Studia doktoranckie','Chicago Heights',3775),
+(1188,'Specjalizacja zawodowa','5-1-06','Szkolenie','Kansas City',3011),
+(1189,'Studia mające zastosowanie w działalności podstawowej','2-1-85','Studia pielęgniarskie','Bessemer',3580),
+(1190,'Kurs specjalistyczny - Szczepienia ochronne','5-4-82','Kurs dokształcający','Jefferson City',3213),
+(1191,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-16-83','Kurs dokształcający','Ponce',3552),
+(1192,'Studia mające zastosowanie w działalności podstawowej','8-21-86','Kurs specjalistyczny','Dover',3080),
+(1193,'Studia doktoranckie','10-23-91','Szkolenie','Kalispell',2526),
+(1194,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-2-85','Kurs specjalistyczny','Thibodaux',3661),
+(1195,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-13-94','Studia pielęgniarskie','Saint Joseph',2631),
+(1196,'Studia pielęgniarskie','4-6-92','Kurs dokształcający','West Hartford',2750),
+(1197,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-19-06','Specjalizacja','Mequon',2898),
+(1198,'Studia pielęgniarskie','1-25-10','Kurs dokształcający','Batavia',4132),
+(1199,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-4-99','Kurs kwalifikacyjny','Pascagoula',2549),
+(1200,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-19-15','Kurs specjalistyczny','West Jordan',3295),
+(1201,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-7-14','Szkolenie','Effingham',4848),
+(1202,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-4-89','Studia doktoranckie','Norfolk',4007),
+(1203,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-24-86','Szkolenie','Union City',4855),
+(1204,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-26-93','Studia doktoranckie','Saginaw',3522),
+(1205,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-5-93','Studia doktoranckie','Hickory',2861),
+(1206,'Kurs specjalistyczny – Terapia bólu','3-27-87','Studia pielęgniarskie','Lake Charles',2746),
+(1207,'Kurs specjalistyczny – Terapia bólu','3-27-81','Studia doktoranckie','Weirton',4830),
+(1208,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-26-96','Kurs specjalistyczny','Belpre',3637),
+(1209,'Kurs specjalistyczny - Szczepienia ochronne','6-7-92','Kurs specjalistyczny','Mequon',3937),
+(1210,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-14-14','Kurs specjalistyczny','Gardner',3316),
+(1211,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-19-92','Kurs kwalifikacyjny','La Palma',4052),
+(1212,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-8-13','Kurs specjalistyczny','Redding',4322),
+(1213,'Kurs specjalistyczny - Szczepienia ochronne','7-27-88','Studia pielęgniarskie','Valdosta',3739),
+(1214,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-9-96','Studia doktoranckie','Alameda',4075),
+(1215,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-1-94','Kurs dokształcający','Irvine',3413),
+(1216,'Studia pielęgniarskie','8-9-92','Szkolenie','Walnut',3249),
+(1217,'Kurs specjalistyczny – Terapia bólu','9-2-84','Specjalizacja','Biddeford',3667),
+(1218,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-20-96','Studia wyższe licencjackie','Stafford',4800),
+(1219,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-23-92','Studia pielęgniarskie','Shawnee',4734),
+(1220,'Kurs specjalistyczny – Terapia bólu','8-25-05','Studia doktoranckie','Rolling Hills Estates',3061),
+(1221,'Kurs specjalistyczny - Szczepienia ochronne','3-7-88','Kurs dokształcający','Tampa',3419),
+(1222,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-29-95','Studia wyższe licencjackie','Provo',3779),
+(1223,'Studia doktoranckie','3-16-93','Specjalizacja','Port Washington',4041),
+(1224,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-16-82','Kurs dokształcający','Cape Coral',2789),
+(1225,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-16-89','Kurs kwalifikacyjny','Cape May',4185),
+(1226,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-6-07','Kurs dokształcający','Washington',3605),
+(1227,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-6-04','Studia doktoranckie','Cedar City',4869),
+(1228,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-15-08','Szkolenie','Saipan',4862),
+(1229,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-28-89','Studia doktoranckie','Claremore',4119),
+(1230,'Studia doktoranckie','2-19-02','Studia wyższe licencjackie','El Segundo',2633),
+(1231,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-19-87','Kurs kwalifikacyjny','Nenana',2815),
+(1232,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-7-11','Kurs kwalifikacyjny','Clarksville',3488),
+(1233,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-22-97','Kurs specjalistyczny','Dearborn',4230),
+(1234,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-8-15','Studia doktoranckie','Zanesville',3348),
+(1235,'Studia pielęgniarskie','4-1-89','Kurs kwalifikacyjny','Cape Girardeau',4534),
+(1236,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-21-95','Kurs kwalifikacyjny','Rolling Hills Estates',2935),
+(1237,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-4-06','Studia doktoranckie','Pasco',3157),
+(1238,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-7-10','Szkolenie','Worcester',4942),
+(1239,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-20-03','Kurs kwalifikacyjny','La Mirada',4687),
+(1240,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-11-01','Studia doktoranckie','Eatontown',2567),
+(1241,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-27-84','Kurs kwalifikacyjny','Easthampton',3723),
+(1242,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-15-08','Specjalizacja','Olean',4062),
+(1243,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-15-10','Kurs dokształcający','Washington',3856),
+(1244,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-3-90','Studia pielęgniarskie','Nampa',3659),
+(1245,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-13-93','Specjalizacja','Grafton',4729),
+(1246,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-1-93','Szkolenie','Springdale',4567),
+(1247,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-19-13','Studia doktoranckie','San Luis Obispo',3937),
+(1248,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-6-07','Kurs kwalifikacyjny','Aspen',3700),
+(1249,'Studia doktoranckie','6-28-86','Specjalizacja','Elsmere',3183),
+(1250,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-6-11','Kurs kwalifikacyjny','Springfield',2820),
+(1251,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-8-08','Studia doktoranckie','Redondo Beach',2829),
+(1252,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-3-03','Kurs specjalistyczny','Marshall',3493),
+(1253,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-31-15','Kurs dokształcający','Melrose',3016),
+(1254,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-4-06','Specjalizacja','Manhattan Beach',4195),
+(1255,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-14-11','Kurs kwalifikacyjny','Huntington',3101),
+(1256,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-2-12','Kurs specjalistyczny','Bridgeport',4379),
+(1257,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-31-12','Kurs kwalifikacyjny','Placentia',4592),
+(1258,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-8-84','Kurs kwalifikacyjny','Tacoma',2665),
+(1259,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-23-13','Kurs kwalifikacyjny','Richmond',2881),
+(1260,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-15-09','Specjalizacja','Leominster',4759),
+(1261,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-19-85','Studia wyższe licencjackie','Coatesville',4394),
+(1262,'Studia doktoranckie','9-19-85','Specjalizacja','Lubbock',3054),
+(1263,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-12-96','Studia doktoranckie','Pembroke Pines',2547),
+(1264,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-7-88','Kurs dokształcający','Half Moon Bay',4929),
+(1265,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-20-13','Kurs specjalistyczny','Manitowoc',3955),
+(1266,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-21-85','Kurs kwalifikacyjny','Somersworth',4065),
+(1267,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-19-86','Kurs specjalistyczny','Rocky Mount',4284),
+(1268,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-25-99','Kurs kwalifikacyjny','Newport News',4701),
+(1269,'Studia doktoranckie','12-29-93','Kurs specjalistyczny','Dickinson',4421),
+(1270,'Specjalizacja zawodowa','9-7-91','Kurs dokształcający','Chula Vista',4269),
+(1271,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-14-07','Studia wyższe licencjackie','Taylorsville',4736),
+(1272,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-6-94','Studia doktoranckie','La Crosse',4332),
+(1273,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-12-89','Studia wyższe licencjackie','Jacksonville',3377),
+(1274,'Studia doktoranckie','7-20-90','Specjalizacja','Clairton',4982),
+(1275,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-23-80','Kurs dokształcający','Hialeah',3076),
+(1276,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-4-08','Studia doktoranckie','Bend',3856),
+(1277,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-20-91','Studia pielęgniarskie','Winooski',2881),
+(1278,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-12-96','Studia pielęgniarskie','Cumberland',4933),
+(1279,'Studia wyższe licencjackie','3-17-84','Studia wyższe licencjackie','Milford',4735),
+(1280,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-9-94','Kurs specjalistyczny','Westlake Village',4295),
+(1281,'Studia doktoranckie','10-19-11','Kurs dokształcający','Dodge City',4980),
+(1282,'Studia pielęgniarskie','3-18-01','Kurs kwalifikacyjny','Cranston',4963),
+(1283,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-12-82','Szkolenie','Glens Falls',4318),
+(1284,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-5-15','Studia wyższe licencjackie','San Angelo',4597),
+(1285,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-6-81','Studia wyższe licencjackie','Alamogordo',3173),
+(1286,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-18-11','Kurs kwalifikacyjny','Santa Barbara',2880),
+(1287,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-8-98','Studia pielęgniarskie','Falls Church',3223),
+(1288,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-29-02','Specjalizacja','Bellflower',2933),
+(1289,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-26-82','Kurs kwalifikacyjny','Muskegon',3301),
+(1290,'Kurs specjalistyczny – Terapia bólu','12-30-80','Studia wyższe licencjackie','Niagara Falls',2876),
+(1291,'Kurs specjalistyczny - Szczepienia ochronne','9-23-02','Specjalizacja','Georgetown',2624),
+(1292,'Kurs dokształcający - Żywienie niemowląt i dzieci','9-4-10','Kurs kwalifikacyjny','Ventura',4510),
+(1293,'Studia wyższe licencjackie','8-20-82','Specjalizacja','Lima',2525),
+(1294,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-25-88','Studia pielęgniarskie','Reading',2568),
+(1295,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-25-00','Specjalizacja','Thiensville',4118),
+(1296,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-20-15','Kurs dokształcający','West Jordan',4134),
+(1297,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-2-03','Szkolenie','Woodruff',3739),
+(1298,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-21-83','Kurs dokształcający','Pendleton',4865),
+(1299,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-3-88','Szkolenie','Spokane Valley',2967),
+(1300,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-30-90','Studia doktoranckie','Glendale',4943),
+(1301,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-11-87','Specjalizacja','Harrisburg',3373),
+(1302,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-22-02','Kurs kwalifikacyjny','Boulder City',4094),
+(1303,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','6-30-95','Kurs dokształcający','Delta Junction',3164),
+(1304,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-17-91','Kurs kwalifikacyjny','Gold Beach',3591),
+(1305,'Studia pielęgniarskie','11-27-92','Specjalizacja','Asbury Park',4468),
+(1306,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-14-99','Studia doktoranckie','Carolina',4372),
+(1307,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-5-10','Szkolenie','Lubbock',3976),
+(1308,'Kurs specjalistyczny – Terapia bólu','1-23-89','Kurs specjalistyczny','Nenana',2510),
+(1309,'Studia wyższe licencjackie','2-7-94','Szkolenie','Salinas',2629),
+(1310,'Studia doktoranckie','2-28-03','Kurs kwalifikacyjny','Milford',4894),
+(1311,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-20-99','Kurs dokształcający','Eau Claire',3812),
+(1312,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-28-14','Kurs dokształcający','Areceibo',2853),
+(1313,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-12-91','Kurs kwalifikacyjny','Vail',2906),
+(1314,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-21-88','Specjalizacja','Salisbury',3510),
+(1315,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-3-15','Szkolenie','San Antonio',2983),
+(1316,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-8-00','Studia doktoranckie','Vallejo',3058),
+(1317,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-13-86','Studia doktoranckie','Orangeburg',4642),
+(1318,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-9-91','Studia doktoranckie','New Haven',3761),
+(1319,'Studia mające zastosowanie w działalności podstawowej','9-12-87','Kurs specjalistyczny','Durham',4986),
+(1320,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-10-04','Specjalizacja','Mobile',3918),
+(1321,'Studia doktoranckie','3-10-94','Studia wyższe licencjackie','Lynn',3930),
+(1322,'Studia doktoranckie','4-8-95','Specjalizacja','Santa Monica',3338),
+(1323,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-14-02','Specjalizacja','Santa Cruz',4344),
+(1324,'Studia mające zastosowanie w działalności podstawowej','6-16-07','Szkolenie','Murfreesboro',4498),
+(1325,'Studia mające zastosowanie w działalności podstawowej','4-4-85','Studia pielęgniarskie','Laguna Niguel',4548),
+(1326,'Studia pielęgniarskie','8-25-02','Studia doktoranckie','Provo',4441),
+(1327,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-9-15','Szkolenie','Lawton',4836),
+(1328,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-1-16','Specjalizacja','Plymouth',2953),
+(1329,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-15-85','Studia pielęgniarskie','Sierra Vista',4513),
+(1330,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-11-09','Studia doktoranckie','Statesboro',4316),
+(1331,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-20-99','Studia doktoranckie','Watervliet',3370),
+(1332,'Studia wyższe licencjackie','4-14-86','Studia doktoranckie','Saginaw',4884),
+(1333,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-22-96','Studia pielęgniarskie','Worcester',4197),
+(1334,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-7-16','Studia doktoranckie','Hawthorne',3027),
+(1335,'Studia wyższe licencjackie','11-18-15','Studia pielęgniarskie','Concord',4307),
+(1336,'Studia mające zastosowanie w działalności podstawowej','5-15-04','Studia doktoranckie','Lakeland',4058),
+(1337,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-28-09','Szkolenie','Aliso Viejo',4806),
+(1338,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-16-91','Studia doktoranckie','Vicksburg',2782),
+(1339,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-28-02','Studia wyższe licencjackie','Branson',3777),
+(1340,'Kurs specjalistyczny - Szczepienia ochronne','11-22-07','Specjalizacja','Murfreesboro',3442),
+(1341,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-11-93','Studia pielęgniarskie','Charlotte Amalie',4818),
+(1342,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-2-16','Studia pielęgniarskie','Santa Clarita',4066),
+(1343,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-1-94','Kurs specjalistyczny','Dixon',2554),
+(1344,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-18-09','Kurs specjalistyczny','Odessa',4288),
+(1345,'Specjalizacja zawodowa','10-18-90','Studia wyższe licencjackie','Gary',4161),
+(1346,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-26-99','Kurs dokształcający','Pullman',2765),
+(1347,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-29-95','Kurs kwalifikacyjny','Astoria',4252),
+(1348,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-4-10','Szkolenie','Valencia',3840),
+(1349,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-14-90','Kurs kwalifikacyjny','Lake Forest',2699),
+(1350,'Kurs specjalistyczny – Terapia bólu','10-11-07','Kurs specjalistyczny','Passaic',3233),
+(1351,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-1-06','Specjalizacja','Fallon',4410),
+(1352,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-29-82','Specjalizacja','Prescott',3849),
+(1353,'Studia pielęgniarskie','8-11-09','Studia doktoranckie','Astoria',3040),
+(1354,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-8-11','Specjalizacja','South Bend',4211),
+(1355,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-11-09','Specjalizacja','Las Vegas',4312),
+(1356,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-6-12','Specjalizacja','Frederick',3117),
+(1357,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-19-16','Szkolenie','Chicopee',3604),
+(1358,'Studia doktoranckie','9-9-84','Kurs specjalistyczny','Blacksburg',4678),
+(1359,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-27-05','Studia doktoranckie','New Castle',3958),
+(1360,'Studia wyższe licencjackie','5-2-86','Studia pielęgniarskie','Walla Walla',4376),
+(1361,'Specjalizacja zawodowa','5-3-12','Kurs kwalifikacyjny','Sierra Vista',2992),
+(1362,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-31-96','Kurs kwalifikacyjny','Corpus Christi',2778),
+(1363,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-28-99','Studia pielęgniarskie','Cudahy',4553),
+(1364,'Kurs specjalistyczny – Terapia bólu','1-12-93','Studia wyższe licencjackie','Elko',3009),
+(1365,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-6-01','Kurs specjalistyczny','Asheville',4138),
+(1366,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-7-98','Kurs dokształcający','Marshall',2980),
+(1367,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-10-96','Kurs specjalistyczny','Vacaville',2782),
+(1368,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-20-13','Studia doktoranckie','Vancouver',4823),
+(1369,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-26-08','Szkolenie','Mayagüez',4405),
+(1370,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-13-94','Szkolenie','Meridian',4248),
+(1371,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-18-00','Studia wyższe licencjackie','Holyoke',3980),
+(1372,'Studia mające zastosowanie w działalności podstawowej','1-28-11','Studia pielęgniarskie','Columbus',3881),
+(1373,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-25-12','Studia doktoranckie','Springfield',4445),
+(1374,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-6-82','Studia doktoranckie','Laurel',3926),
+(1375,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-30-00','Kurs dokształcający','Clarksville',3317),
+(1376,'Studia wyższe licencjackie','8-11-87','Kurs kwalifikacyjny','Green Bay',3226),
+(1377,'Studia pielęgniarskie','11-30-07','Kurs dokształcający','Fallon',3626),
+(1378,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-23-93','Szkolenie','Alpharetta',3606),
+(1379,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-23-09','Kurs specjalistyczny','Easthampton',4387),
+(1380,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-18-02','Studia wyższe licencjackie','Valparaiso',3452),
+(1381,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-17-08','Kurs dokształcający','Roanoke',3988),
+(1382,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-1-95','Kurs specjalistyczny','Menomonee Falls',4028),
+(1383,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-5-08','Kurs kwalifikacyjny','Latrobe',3574),
+(1384,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-7-04','Specjalizacja','Eau Claire',3148),
+(1385,'Kurs specjalistyczny – Terapia bólu','10-26-13','Kurs dokształcający','Bandon',4983),
+(1386,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-30-83','Studia doktoranckie','Dearborn',3905),
+(1387,'Kurs specjalistyczny - Szczepienia ochronne','11-22-01','Studia pielęgniarskie','Murfreesboro',4721),
+(1388,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-9-84','Specjalizacja','Huntington Beach',3997),
+(1389,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-18-02','Kurs specjalistyczny','Newport News',2512),
+(1390,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-8-97','Szkolenie','Hialeah',2612),
+(1391,'Studia mające zastosowanie w działalności podstawowej','12-3-12','Kurs kwalifikacyjny','Eden Prairie',3455),
+(1392,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-30-15','Kurs specjalistyczny','Ithaca',4835),
+(1393,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-19-82','Kurs specjalistyczny','Logan',4752),
+(1394,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-17-02','Studia doktoranckie','Jamestown',4274),
+(1395,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-1-88','Kurs dokształcający','Inglewood',3808),
+(1396,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-29-84','Specjalizacja','Albany',2935),
+(1397,'Studia pielęgniarskie','1-16-96','Studia wyższe licencjackie','Clearwater',3366),
+(1398,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-11-15','Kurs specjalistyczny','Orange',4683),
+(1399,'Kurs specjalistyczny - Szczepienia ochronne','10-19-01','Specjalizacja','Honolulu',3884),
+(1400,'Kurs specjalistyczny - Szczepienia ochronne','4-3-94','Studia doktoranckie','San Juan Capistrano',4905),
+(1401,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-26-13','Studia pielęgniarskie','Grand Forks',4949),
+(1402,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-22-88','Studia pielęgniarskie','Fort Dodge',2737),
+(1403,'Kurs specjalistyczny – Terapia bólu','9-15-15','Specjalizacja','Cairo',4831),
+(1404,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-9-85','Kurs kwalifikacyjny','Moreno Valley',2533),
+(1405,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-26-15','Szkolenie','Northampton',4586),
+(1406,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-8-02','Kurs kwalifikacyjny','Janesville',3255),
+(1407,'Studia wyższe licencjackie','6-12-01','Kurs specjalistyczny','Moline',2664),
+(1408,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-25-88','Studia wyższe licencjackie','Easthampton',4207),
+(1409,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-26-04','Studia pielęgniarskie','New Kensington',2932),
+(1410,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-17-15','Kurs kwalifikacyjny','Wilmington',3832),
+(1411,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-20-05','Studia doktoranckie','Anderson',4106),
+(1412,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-8-80','Kurs specjalistyczny','West Memphis',3880),
+(1413,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-1-99','Studia doktoranckie','Somersworth',3081),
+(1414,'Studia mające zastosowanie w działalności podstawowej','12-17-08','Studia wyższe licencjackie','Aliquippa',4655),
+(1415,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-7-94','Kurs dokształcający','Gettysburg',2519),
+(1416,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-18-11','Szkolenie','Portsmouth',4392),
+(1417,'Kurs specjalistyczny – Terapia bólu','4-25-08','Studia pielęgniarskie','Layton',2978),
+(1418,'Kurs specjalistyczny – Terapia bólu','2-21-86','Studia pielęgniarskie','Fairfield',3547),
+(1419,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-14-97','Kurs kwalifikacyjny','Olympia',3089),
+(1420,'Kurs specjalistyczny - Szczepienia ochronne','9-6-99','Studia wyższe licencjackie','Mechanicville',2601),
+(1421,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-4-86','Kurs kwalifikacyjny','San Francisco',3565),
+(1422,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-30-00','Studia wyższe licencjackie','Charleston',3140),
+(1423,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-16-88','Szkolenie','Warwick',4217),
+(1424,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-26-90','Studia wyższe licencjackie','Shawnee',3989),
+(1425,'Specjalizacja zawodowa','8-17-12','Studia doktoranckie','Mankato',4256),
+(1426,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-10-07','Kurs specjalistyczny','DeKalb',3833),
+(1427,'Kurs specjalistyczny - Szczepienia ochronne','7-10-87','Studia doktoranckie','Indianapolis',2690),
+(1428,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-30-89','Kurs specjalistyczny','Franklin',3815),
+(1429,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-16-93','Studia wyższe licencjackie','Santa Cruz',3801),
+(1430,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-22-96','Studia doktoranckie','Calumet City',2915),
+(1431,'Studia mające zastosowanie w działalności podstawowej','9-1-80','Studia pielęgniarskie','Rocky Mount',3962),
+(1432,'Studia mające zastosowanie w działalności podstawowej','7-26-82','Kurs kwalifikacyjny','Berlin',4277),
+(1433,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-25-96','Szkolenie','Gadsden',3195),
+(1434,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-7-86','Studia doktoranckie','Lowell',2666),
+(1435,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-23-03','Studia pielęgniarskie','Cedar Falls',3611),
+(1436,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-13-03','Szkolenie','Champaign',2900),
+(1437,'Studia doktoranckie','1-22-89','Kurs kwalifikacyjny','Fontana',4559),
+(1438,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-11-89','Specjalizacja','Franklin',4715),
+(1439,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-17-15','Szkolenie','Moline',4366),
+(1440,'Studia doktoranckie','11-10-06','Studia wyższe licencjackie','New Rochelle',4315),
+(1441,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-21-02','Kurs kwalifikacyjny','Lahaina',3783),
+(1442,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-29-80','Specjalizacja','Tucson',4050),
+(1443,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-9-93','Szkolenie','Savannah',4791),
+(1444,'Kurs specjalistyczny - Szczepienia ochronne','1-3-08','Kurs kwalifikacyjny','Buena Park',4198),
+(1445,'Studia wyższe licencjackie','7-7-13','Kurs kwalifikacyjny','East Hartford',4729),
+(1446,'Studia wyższe licencjackie','6-14-84','Specjalizacja','Bell Gardens',4471),
+(1447,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-29-91','Specjalizacja','San Bernardino',3311),
+(1448,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-26-04','Studia pielęgniarskie','Lawrenceville',3910),
+(1449,'Specjalizacja zawodowa','6-1-12','Kurs dokształcający','Winnemucca',2609),
+(1450,'Studia wyższe licencjackie','3-11-07','Studia pielęgniarskie','Olympia',3542),
+(1451,'Kurs specjalistyczny - Szczepienia ochronne','4-23-14','Studia wyższe licencjackie','West Springfield',2595),
+(1452,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-5-14','Kurs dokształcający','Monongahela',3940),
+(1453,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-8-80','Studia doktoranckie','Charlottesville',2702),
+(1454,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-12-95','Studia doktoranckie','Plantation',4273),
+(1455,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-21-10','Szkolenie','Cicero',3609),
+(1456,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-11-01','Szkolenie','Riverton',4541),
+(1457,'Studia mające zastosowanie w działalności podstawowej','9-9-89','Specjalizacja','Sunnyvale',4692),
+(1458,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-5-98','Szkolenie','Little Rock',4453),
+(1459,'Studia wyższe licencjackie','3-4-14','Studia pielęgniarskie','Vernon',2523),
+(1460,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-2-06','Kurs kwalifikacyjny','Urbana',4312),
+(1461,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-27-15','Studia wyższe licencjackie','Powell',3815),
+(1462,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-5-91','Studia pielęgniarskie','Malibu',4812),
+(1463,'Studia doktoranckie','5-25-05','Szkolenie','Forest Lake',4090),
+(1464,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-16-83','Studia pielęgniarskie','Atwater',4985),
+(1465,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-11-96','Specjalizacja','Leominster',3889),
+(1466,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-1-82','Kurs dokształcający','Manitowoc',4207),
+(1467,'Studia pielęgniarskie','5-15-02','Studia wyższe licencjackie','Eau Claire',3942),
+(1468,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-28-91','Studia wyższe licencjackie','La Puente',2521),
+(1469,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-8-07','Kurs specjalistyczny','Greensburg',3659),
+(1470,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-25-95','Szkolenie','Binghamton',4360),
+(1471,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-5-04','Kurs dokształcający','Aurora',2538),
+(1472,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-27-85','Studia wyższe licencjackie','Williamsport',3729),
+(1473,'Kurs specjalistyczny - Szczepienia ochronne','12-29-92','Specjalizacja','Calumet City',2644),
+(1474,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-10-92','Szkolenie','Phoenix',5000),
+(1475,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-20-80','Studia wyższe licencjackie','Clairton',2902),
+(1476,'Studia doktoranckie','9-22-87','Szkolenie','Aguadilla',4507),
+(1477,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-22-15','Kurs specjalistyczny','New Albany',4833),
+(1478,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-14-94','Studia pielęgniarskie','Lowell',4307),
+(1479,'Kurs specjalistyczny - Szczepienia ochronne','2-21-98','Specjalizacja','Auburn',3928),
+(1480,'Kurs specjalistyczny – Terapia bólu','12-7-96','Studia pielęgniarskie','Bentonville',4550),
+(1481,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-19-84','Specjalizacja','Ogdensburg',3990),
+(1482,'Kurs specjalistyczny – Terapia bólu','12-15-06','Studia pielęgniarskie','Annapolis',4028),
+(1483,'Studia mające zastosowanie w działalności podstawowej','2-2-10','Studia pielęgniarskie','Cape Girardeau',3246),
+(1484,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-26-95','Specjalizacja','Las Cruces',2638),
+(1485,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-25-92','Specjalizacja','Blythe',4771),
+(1486,'Studia mające zastosowanie w działalności podstawowej','1-10-00','Studia pielęgniarskie','Galesburg',2879),
+(1487,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-9-13','Kurs specjalistyczny','Cranston',4959),
+(1488,'Kurs dokształcający - Żywienie niemowląt i dzieci','9-19-87','Specjalizacja','Eufaula',2834),
+(1489,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-20-90','Kurs kwalifikacyjny','Chino Hills',3951),
+(1490,'Specjalizacja zawodowa','4-19-95','Specjalizacja','El Cerrito',4538),
+(1491,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-14-85','Kurs specjalistyczny','Staunton',4087),
+(1492,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-26-85','Kurs kwalifikacyjny','Knoxville',4969),
+(1493,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-24-95','Kurs kwalifikacyjny','West Hollywood',3848),
+(1494,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-4-02','Kurs specjalistyczny','Johnson City',3695),
+(1495,'Studia mające zastosowanie w działalności podstawowej','2-24-91','Kurs kwalifikacyjny','East Hartford',4885),
+(1496,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-10-88','Specjalizacja','Sandy Springs',2998),
+(1497,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-1-15','Studia wyższe licencjackie','Sugar Land',4666),
+(1498,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-27-98','Studia doktoranckie','Berkeley',4860),
+(1499,'Specjalizacja zawodowa','8-9-04','Szkolenie','York',3468),
+(1500,'Kurs specjalistyczny – Terapia bólu','2-12-06','Szkolenie','Fall River',4589),
+(1501,'Specjalizacja zawodowa','3-1-97','Studia pielęgniarskie','International Falls',2886),
+(1502,'Studia mające zastosowanie w działalności podstawowej','8-26-90','Studia pielęgniarskie','Manhattan',3616),
+(1503,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-3-92','Kurs kwalifikacyjny','Utica',4501),
+(1504,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-17-11','Studia wyższe licencjackie','Ventura',4637),
+(1505,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-6-99','Studia doktoranckie','Areceibo',4395),
+(1506,'Studia wyższe licencjackie','9-21-04','Specjalizacja','Lubbock',2765),
+(1507,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-2-84','Studia doktoranckie','Fort Dodge',4535),
+(1508,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-28-87','Studia wyższe licencjackie','Passaic',2973),
+(1509,'Kurs specjalistyczny – Terapia bólu','12-6-13','Studia doktoranckie','Jackson',3614),
+(1510,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-22-01','Studia pielęgniarskie','Shreveport',3958),
+(1511,'Studia pielęgniarskie','1-1-97','Kurs dokształcający','Charleston',2789),
+(1512,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-24-08','Kurs dokształcający','Portsmouth',4690),
+(1513,'Studia pielęgniarskie','7-22-05','Specjalizacja','Davis',3287),
+(1514,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-3-94','Kurs specjalistyczny','Agoura Hills',3894),
+(1515,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-5-95','Specjalizacja','Pittsfield',4726),
+(1516,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-8-09','Studia pielęgniarskie','Kingsport',4884),
+(1517,'Specjalizacja zawodowa','6-23-87','Specjalizacja','Sugar Land',3035),
+(1518,'Kurs specjalistyczny - Szczepienia ochronne','1-24-12','Kurs dokształcający','Glendale',3011),
+(1519,'Kurs specjalistyczny – Terapia bólu','9-21-06','Studia pielęgniarskie','Sandy',3427),
+(1520,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-23-96','Szkolenie','Peoria',3186),
+(1521,'Studia pielęgniarskie','7-27-95','Specjalizacja','Bend',2958),
+(1522,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-4-04','Specjalizacja','Aurora',3699),
+(1523,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-16-96','Specjalizacja','Irwindale',3087),
+(1524,'Studia pielęgniarskie','11-20-04','Specjalizacja','Danville',4670),
+(1525,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-21-12','Studia doktoranckie','Newcastle',4583),
+(1526,'Kurs specjalistyczny - Szczepienia ochronne','4-14-84','Specjalizacja','Kemmerer',2547),
+(1527,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-2-01','Studia doktoranckie','Council Bluffs',2593),
+(1528,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-6-80','Specjalizacja','Yonkers',3152),
+(1529,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-8-98','Kurs dokształcający','San Juan',3898),
+(1530,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-1-92','Studia doktoranckie','Frisco',4934),
+(1531,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-21-85','Kurs kwalifikacyjny','Dickinson',4444),
+(1532,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-15-92','Szkolenie','West Bend',4816),
+(1533,'Kurs specjalistyczny - Szczepienia ochronne','4-25-98','Studia doktoranckie','Eugene',4516),
+(1534,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-15-88','Studia pielęgniarskie','Palos Verdes Estates',2633),
+(1535,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-9-06','Kurs specjalistyczny','Sturgis',4778),
+(1536,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-6-86','Studia doktoranckie','Madison',2908),
+(1537,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-18-95','Szkolenie','Springfield',2806),
+(1538,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-24-88','Studia doktoranckie','Frederick',2953),
+(1539,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-10-99','Kurs dokształcający','Princeton',2615),
+(1540,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-30-06','Kurs kwalifikacyjny','Sutter Creek',3533),
+(1541,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-12-12','Kurs specjalistyczny','Minneapolis',4169),
+(1542,'Studia pielęgniarskie','3-19-94','Studia pielęgniarskie','Philadelphia',4678),
+(1543,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-14-04','Studia pielęgniarskie','Montebello',3271),
+(1544,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-18-09','Kurs specjalistyczny','Frisco',4354),
+(1545,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-30-91','Kurs dokształcający','Decatur',3209),
+(1546,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','2-12-16','Kurs dokształcający','East Hartford',2882),
+(1547,'Kurs specjalistyczny - Szczepienia ochronne','11-16-83','Kurs specjalistyczny','Nashville',4530),
+(1548,'Studia mające zastosowanie w działalności podstawowej','11-19-15','Kurs dokształcający','Port Arthur',3877),
+(1549,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-15-92','Kurs specjalistyczny','Lancaster',2808),
+(1550,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-4-14','Szkolenie','Davenport',2834),
+(1551,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-8-83','Kurs kwalifikacyjny','Lufkin',3560),
+(1552,'Studia doktoranckie','3-13-89','Szkolenie','Natchitoches',4178),
+(1553,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-19-10','Kurs specjalistyczny','Walla Walla',4992),
+(1554,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-16-07','Szkolenie','Santa Monica',4318),
+(1555,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-27-02','Studia doktoranckie','Davis',4469),
+(1556,'Studia pielęgniarskie','11-22-88','Studia doktoranckie','DuBois',4652),
+(1557,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-14-11','Szkolenie','Denver',3784),
+(1558,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-23-81','Studia doktoranckie','Santa Clarita',4970),
+(1559,'Studia wyższe licencjackie','8-27-96','Szkolenie','Rhinelander',4056),
+(1560,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-20-01','Studia wyższe licencjackie','Revere',2644),
+(1561,'Kurs specjalistyczny – Terapia bólu','6-26-03','Studia doktoranckie','Commerce',4633),
+(1562,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-31-90','Kurs kwalifikacyjny','Richmond',4003),
+(1563,'Studia doktoranckie','2-10-13','Specjalizacja','Biloxi',3495),
+(1564,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-27-01','Kurs specjalistyczny','Anaconda',4339),
+(1565,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-22-02','Studia wyższe licencjackie','Sun Valley',3237),
+(1566,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-13-84','Studia wyższe licencjackie','Bloomington',3112),
+(1567,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-8-86','Kurs dokształcający','Birmingham',3179),
+(1568,'Studia mające zastosowanie w działalności podstawowej','5-26-10','Studia pielęgniarskie','Vacaville',3039),
+(1569,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-6-86','Studia wyższe licencjackie','Indianapolis',4441),
+(1570,'Studia doktoranckie','2-17-97','Kurs kwalifikacyjny','Topeka',2582),
+(1571,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-27-82','Kurs dokształcający','Farmington',2758),
+(1572,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-9-87','Kurs dokształcający','Gainesville',3302),
+(1573,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-21-03','Kurs dokształcający','Suffolk',4961),
+(1574,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-23-97','Kurs specjalistyczny','Watertown',2702),
+(1575,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-7-98','Szkolenie','Thibodaux',2718),
+(1576,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-4-08','Studia wyższe licencjackie','New Orleans',3931),
+(1577,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-12-96','Studia pielęgniarskie','Boulder City',4640),
+(1578,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-7-93','Szkolenie','Truth or Consequences',2556),
+(1579,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-20-86','Studia pielęgniarskie','Houston',2868),
+(1580,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-24-93','Studia wyższe licencjackie','New Bedford',4837),
+(1581,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-1-13','Specjalizacja','Corry',2751),
+(1582,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-14-91','Szkolenie','Palm Springs',2832),
+(1583,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-24-08','Szkolenie','Wilson',3845),
+(1584,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-27-14','Kurs specjalistyczny','West Valley City',4847),
+(1585,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-30-86','Specjalizacja','Lander',4460),
+(1586,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-7-14','Specjalizacja','Greensburg',2716),
+(1587,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-3-11','Kurs specjalistyczny','Goose Creek',3779),
+(1588,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-31-12','Kurs dokształcający','Lawndale',4736),
+(1589,'Studia wyższe licencjackie','4-24-87','Studia doktoranckie','Brookfield',3522),
+(1590,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-28-95','Studia pielęgniarskie','Rapid City',3577),
+(1591,'Studia wyższe licencjackie','1-10-00','Specjalizacja','Alamogordo',4888),
+(1592,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-5-95','Kurs kwalifikacyjny','Forest Lake',4601),
+(1593,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-14-80','Szkolenie','Pembroke Pines',4640),
+(1594,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-21-16','Kurs kwalifikacyjny','Bay St. Louis',4180),
+(1595,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-4-15','Studia wyższe licencjackie','Somerville',2690),
+(1596,'Studia doktoranckie','11-10-95','Szkolenie','Nashville',4947),
+(1597,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-12-83','Kurs dokształcający','Youngstown',2975),
+(1598,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-21-02','Kurs specjalistyczny','Wausau',4291),
+(1599,'Kurs specjalistyczny - Szczepienia ochronne','10-19-99','Specjalizacja','Butte',3593),
+(1600,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-1-16','Specjalizacja','Bowie',4431),
+(1601,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-18-04','Szkolenie','Kearney',4311),
+(1602,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-30-01','Studia wyższe licencjackie','Twin Falls',3000),
+(1603,'Specjalizacja zawodowa','12-25-08','Specjalizacja','Laramie',4763),
+(1604,'Studia pielęgniarskie','3-10-13','Studia doktoranckie','Lima',2965),
+(1605,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-29-14','Kurs kwalifikacyjny','Tustin',3983),
+(1606,'Studia mające zastosowanie w działalności podstawowej','10-9-13','Studia doktoranckie','Danbury',4310),
+(1607,'Studia wyższe licencjackie','11-14-01','Szkolenie','San Juan Capistrano',4072),
+(1608,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-7-97','Kurs kwalifikacyjny','Westminster',3249),
+(1609,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-4-90','Studia doktoranckie','Sioux City',4223),
+(1610,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-8-85','Kurs specjalistyczny','Poughkeepsie',3529),
+(1611,'Kurs specjalistyczny – Terapia bólu','7-11-81','Kurs specjalistyczny','Ithaca',3381),
+(1612,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-22-07','Specjalizacja','Torrance',4937),
+(1613,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-12-06','Kurs kwalifikacyjny','Midland',4908),
+(1614,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-23-03','Kurs dokształcający','Astoria',2608),
+(1615,'Kurs specjalistyczny – Terapia bólu','5-12-06','Szkolenie','Fairmont',3634),
+(1616,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-3-13','Kurs kwalifikacyjny','Superior',3380),
+(1617,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-27-10','Studia wyższe licencjackie','Cedar City',3037),
+(1618,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-18-89','Studia doktoranckie','Olympia',4092),
+(1619,'Kurs specjalistyczny – Terapia bólu','1-24-87','Studia pielęgniarskie','Sun Valley',4577),
+(1620,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-25-86','Kurs specjalistyczny','La Puente',3284),
+(1621,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-16-12','Studia wyższe licencjackie','South Burlington',3289),
+(1622,'Studia wyższe licencjackie','11-18-09','Szkolenie','Marietta',4216),
+(1623,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-27-95','Kurs dokształcający','Monroe',3751),
+(1624,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-24-98','Kurs specjalistyczny','Lebanon',3746),
+(1625,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-15-05','Specjalizacja','Blacksburg',3778),
+(1626,'Kurs specjalistyczny – Terapia bólu','4-23-05','Studia doktoranckie','Canandaigua',3236),
+(1627,'Studia wyższe licencjackie','11-13-15','Kurs specjalistyczny','Falls Church',3952),
+(1628,'Specjalizacja zawodowa','5-2-93','Studia pielęgniarskie','Salem',4594),
+(1629,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-30-88','Kurs dokształcający','Farrell',2547),
+(1630,'Kurs specjalistyczny – Terapia bólu','5-9-93','Studia pielęgniarskie','Kenosha',4405),
+(1631,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-4-85','Studia pielęgniarskie','Laredo',3603),
+(1632,'Studia pielęgniarskie','4-4-98','Studia pielęgniarskie','Twin Falls',3122),
+(1633,'Studia wyższe licencjackie','5-5-04','Kurs specjalistyczny','Manhattan',3848),
+(1634,'Studia mające zastosowanie w działalności podstawowej','8-10-14','Kurs dokształcający','Bandon',2515),
+(1635,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-17-94','Studia wyższe licencjackie','Pascagoula',4275),
+(1636,'Kurs specjalistyczny - Szczepienia ochronne','8-28-98','Studia pielęgniarskie','Ponce',4046),
+(1637,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-19-82','Kurs dokształcający','Brigham City',3335),
+(1638,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-21-10','Kurs specjalistyczny','Reading',4784),
+(1639,'Specjalizacja zawodowa','2-2-00','Studia pielęgniarskie','Palmdale',4153),
+(1640,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-10-82','Kurs kwalifikacyjny','Denver',4646),
+(1641,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-5-88','Szkolenie','Truth or Consequences',2755),
+(1642,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-15-83','Szkolenie','Weirton',3339),
+(1643,'Studia pielęgniarskie','9-19-81','Kurs specjalistyczny','Fond du Lac',4062),
+(1644,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-16-11','Szkolenie','Princeton',3218),
+(1645,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-18-88','Specjalizacja','Macomb',2984),
+(1646,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-28-08','Szkolenie','New Madrid',4819),
+(1647,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-30-81','Specjalizacja','Meadville',4436),
+(1648,'Specjalizacja zawodowa','10-13-06','Kurs specjalistyczny','Plymouth',4703),
+(1649,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-29-91','Szkolenie','Rosemead',3880),
+(1650,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-24-15','Kurs dokształcający','Truth or Consequences',4493),
+(1651,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-27-85','Studia doktoranckie','Astoria',3249),
+(1652,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-2-00','Studia pielęgniarskie','Connellsville',3889),
+(1653,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-15-93','Specjalizacja','Coatesville',2859),
+(1654,'Kurs specjalistyczny – Terapia bólu','12-15-03','Kurs specjalistyczny','Jeffersonville',3839),
+(1655,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-12-04','Specjalizacja','McAlester',3179),
+(1656,'Studia pielęgniarskie','1-31-84','Studia wyższe licencjackie','West Valley City',4677),
+(1657,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-18-98','Kurs specjalistyczny','Alameda',2635),
+(1658,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-3-14','Studia doktoranckie','Falls Church',4912),
+(1659,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-2-93','Studia pielęgniarskie','Rock Island',3732),
+(1660,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-8-96','Kurs kwalifikacyjny','Duluth',4389),
+(1661,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-11-09','Studia doktoranckie','Huntington Beach',3964),
+(1662,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-9-07','Studia doktoranckie','Mount Vernon',4295),
+(1663,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-17-83','Studia pielęgniarskie','Agawam',4963),
+(1664,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-25-04','Szkolenie','Baltimore',2877),
+(1665,'Studia mające zastosowanie w działalności podstawowej','10-3-94','Kurs kwalifikacyjny','Brigham City',3283),
+(1666,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-18-84','Szkolenie','Mount Vernon',4916),
+(1667,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-28-15','Studia pielęgniarskie','Weymouth',4907),
+(1668,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-19-09','Kurs kwalifikacyjny','Rohnert Park',3883),
+(1669,'Studia wyższe licencjackie','1-24-87','Kurs kwalifikacyjny','Davenport',4167),
+(1670,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-5-05','Studia wyższe licencjackie','Stockton',3913),
+(1671,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-25-97','Kurs kwalifikacyjny','Sacramento',3433),
+(1672,'Studia mające zastosowanie w działalności podstawowej','6-9-84','Studia wyższe licencjackie','Norton',4121),
+(1673,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-25-82','Studia doktoranckie','Ogdensburg',4819),
+(1674,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-2-13','Szkolenie','Salt Lake City',3930),
+(1675,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-10-87','Kurs dokształcający','Fallon',4188),
+(1676,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-3-08','Studia doktoranckie','Corinth',3901),
+(1677,'Kurs specjalistyczny - Szczepienia ochronne','3-2-00','Kurs kwalifikacyjny','Niagara Falls',4925),
+(1678,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-20-00','Kurs kwalifikacyjny','Chino Hills',4500),
+(1679,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-10-07','Studia doktoranckie','Tuscaloosa',3509),
+(1680,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-23-95','Specjalizacja','San Dimas',4503),
+(1681,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-5-90','Specjalizacja','Mechanicville',4349),
+(1682,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-8-83','Kurs dokształcający','Barrow',3643),
+(1683,'Kurs specjalistyczny - Szczepienia ochronne','9-19-06','Szkolenie','Hawthorne',3628),
+(1684,'Studia wyższe licencjackie','3-6-05','Studia pielęgniarskie','Christiansted',4828),
+(1685,'Studia mające zastosowanie w działalności podstawowej','12-9-04','Studia pielęgniarskie','Warwick',4031),
+(1686,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-13-94','Studia doktoranckie','Lake Charles',2696),
+(1687,'Specjalizacja zawodowa','6-13-86','Kurs kwalifikacyjny','Independence',4480),
+(1688,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-20-99','Kurs dokształcający','High Point',3085),
+(1689,'Specjalizacja zawodowa','8-21-04','Kurs kwalifikacyjny','Villa Park',3110),
+(1690,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-27-00','Studia pielęgniarskie','Lexington',3434),
+(1691,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-10-94','Kurs kwalifikacyjny','Biddeford',4028),
+(1692,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-16-83','Studia wyższe licencjackie','Port Arthur',3672),
+(1693,'Kurs specjalistyczny - Szczepienia ochronne','4-7-91','Kurs kwalifikacyjny','Nacogdoches',4624),
+(1694,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-9-97','Studia pielęgniarskie','Macon',4642),
+(1695,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-17-96','Kurs kwalifikacyjny','Olympia',2831),
+(1696,'Studia wyższe licencjackie','2-1-84','Specjalizacja','Albuquerque',3960),
+(1697,'Specjalizacja zawodowa','8-4-10','Kurs specjalistyczny','Erie',2940),
+(1698,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-1-08','Kurs kwalifikacyjny','Brigham City',3843),
+(1699,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-14-04','Studia wyższe licencjackie','Hanahan',4073),
+(1700,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-10-10','Specjalizacja','Altoona',4594),
+(1701,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-22-86','Szkolenie','Frankfort',4912),
+(1702,'Studia mające zastosowanie w działalności podstawowej','3-19-93','Kurs kwalifikacyjny','Ansonia',3376),
+(1703,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-13-14','Kurs specjalistyczny','Manassas Park',2716),
+(1704,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-14-06','Studia pielęgniarskie','McAlester',3266),
+(1705,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-23-82','Specjalizacja','Saint Paul',4662),
+(1706,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-7-00','Studia doktoranckie','Omaha',2970),
+(1707,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-17-89','Specjalizacja','Egg Harbor',2971),
+(1708,'Kurs specjalistyczny – Terapia bólu','3-19-99','Kurs specjalistyczny','West Hartford',3153),
+(1709,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-11-82','Specjalizacja','Oak Ridge',3410),
+(1710,'Kurs specjalistyczny - Szczepienia ochronne','3-13-03','Studia wyższe licencjackie','Williamsburg',4306),
+(1711,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-11-06','Specjalizacja','Fort Worth',4450),
+(1712,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-28-13','Kurs dokształcający','Saint Joseph',4252),
+(1713,'Kurs specjalistyczny – Terapia bólu','11-2-13','Studia wyższe licencjackie','El Segundo',4085),
+(1714,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-20-09','Studia pielęgniarskie','Ventura',3343),
+(1715,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-3-96','Studia pielęgniarskie','Martinsburg',3738),
+(1716,'Kurs specjalistyczny – Terapia bólu','7-3-01','Studia pielęgniarskie','Loudon',3163),
+(1717,'Kurs specjalistyczny – Terapia bólu','6-21-08','Studia pielęgniarskie','Rohnert Park',3844),
+(1718,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-23-15','Specjalizacja','Hoboken',3512),
+(1719,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-7-82','Kurs dokształcający','La Puente',3546),
+(1720,'Studia mające zastosowanie w działalności podstawowej','10-28-97','Kurs dokształcający','Alameda',2595),
+(1721,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-26-06','Studia pielęgniarskie','Hawaiian Gardens',3781),
+(1722,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-30-95','Specjalizacja','La Cañada Flintridge',4161),
+(1723,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-10-05','Studia doktoranckie','Eugene',4693),
+(1724,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-12-03','Studia pielęgniarskie','Saratoga Springs',2917),
+(1725,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-29-97','Kurs specjalistyczny','Sierra Vista',4374),
+(1726,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-5-96','Studia wyższe licencjackie','Oro Valley',3361),
+(1727,'Kurs specjalistyczny - Szczepienia ochronne','4-1-03','Specjalizacja','San Diego',3860),
+(1728,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-13-14','Kurs dokształcający','Kennesaw',3454),
+(1729,'Studia doktoranckie','8-24-80','Studia wyższe licencjackie','Pulaski',4718),
+(1730,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-5-84','Kurs dokształcający','Merced',3073),
+(1731,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-15-13','Studia wyższe licencjackie','Hayward',2642),
+(1732,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-22-89','Studia doktoranckie','Irvine',4737),
+(1733,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-25-91','Kurs specjalistyczny','Northampton',4771),
+(1734,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-17-07','Kurs kwalifikacyjny','Alameda',4440),
+(1735,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-1-88','Kurs dokształcający','Hackensack',3941),
+(1736,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-16-11','Szkolenie','Memphis',2941),
+(1737,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-7-14','Studia wyższe licencjackie','Monroe',2837),
+(1738,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-7-84','Studia doktoranckie','Menomonee Falls',3366),
+(1739,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-25-07','Szkolenie','Vallejo',4377),
+(1740,'Kurs specjalistyczny – Terapia bólu','12-16-03','Studia wyższe licencjackie','Texas City',2691),
+(1741,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-24-96','Studia pielęgniarskie','Rock Springs',4318),
+(1742,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-19-85','Kurs specjalistyczny','Vail',4072),
+(1743,'Studia pielęgniarskie','5-30-92','Studia wyższe licencjackie','Cortland',2914),
+(1744,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-3-16','Studia wyższe licencjackie','Normal',3457),
+(1745,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-24-82','Kurs specjalistyczny','Houston',4197),
+(1746,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-17-02','Specjalizacja','Columbia',3041),
+(1747,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-4-16','Studia doktoranckie','Brookings',3101),
+(1748,'Specjalizacja zawodowa','11-25-89','Specjalizacja','Dallas',4974),
+(1749,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-8-06','Kurs specjalistyczny','Stevens Point',4650),
+(1750,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-4-87','Szkolenie','Hopkinsville',4549),
+(1751,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-30-07','Specjalizacja','Biddeford',2699),
+(1752,'Studia doktoranckie','11-18-85','Studia wyższe licencjackie','Whittier',3876),
+(1753,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-3-16','Specjalizacja','Taylorsville',3690),
+(1754,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-19-07','Studia wyższe licencjackie','Oil City',2835),
+(1755,'Specjalizacja zawodowa','12-15-12','Kurs specjalistyczny','Waycross',3726),
+(1756,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-4-05','Kurs dokształcający','Davenport',3791),
+(1757,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-3-03','Kurs kwalifikacyjny','Poughkeepsie',4549),
+(1758,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-20-97','Kurs dokształcający','Honolulu',3199),
+(1759,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-8-00','Studia doktoranckie','Trenton',4385),
+(1760,'Specjalizacja zawodowa','2-4-05','Kurs kwalifikacyjny','Natchez',4411),
+(1761,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-6-84','Kurs dokształcający','Danville',2700),
+(1762,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-18-84','Studia pielęgniarskie','Frankfort',2911),
+(1763,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-14-12','Kurs kwalifikacyjny','Alexandria',3577),
+(1764,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-2-82','Specjalizacja','San Gabriel',3365),
+(1765,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-22-13','Kurs kwalifikacyjny','Flagstaff',4706),
+(1766,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-1-89','Kurs specjalistyczny','Fallon',3522),
+(1767,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-31-11','Studia wyższe licencjackie','Lima',2732),
+(1768,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-10-06','Studia doktoranckie','Norman',4648),
+(1769,'Studia doktoranckie','12-14-81','Kurs dokształcający','Tuscaloosa',2804),
+(1770,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-29-84','Kurs dokształcający','Haverhill',3952),
+(1771,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-27-92','Studia doktoranckie','Jamestown',3283),
+(1772,'Kurs specjalistyczny - Szczepienia ochronne','4-26-96','Studia pielęgniarskie','Scottsdale',3533),
+(1773,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-20-10','Specjalizacja','Orlando',3787),
+(1774,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-22-85','Studia doktoranckie','Kearns',2622),
+(1775,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-21-93','Kurs specjalistyczny','Dixon',4204),
+(1776,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-10-90','Kurs kwalifikacyjny','Port Jervis',3702),
+(1777,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-22-88','Szkolenie','North Chicago',3051),
+(1778,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-11-14','Kurs specjalistyczny','Winnemucca',4646),
+(1779,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-23-13','Szkolenie','Camden',3792),
+(1780,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-14-09','Szkolenie','Eureka',3964),
+(1781,'Studia doktoranckie','12-15-00','Studia pielęgniarskie','Broken Arrow',4228),
+(1782,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-3-91','Kurs specjalistyczny','Hot Springs',4759),
+(1783,'Studia doktoranckie','8-30-09','Kurs dokształcający','Sierra Vista',4513),
+(1784,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-8-92','Kurs specjalistyczny','Salem',3601),
+(1785,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-5-06','Specjalizacja','Las Vegas',3240),
+(1786,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-30-87','Studia wyższe licencjackie','Ashland',3567),
+(1787,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-27-12','Kurs kwalifikacyjny','Bloomington',3160),
+(1788,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-22-89','Studia pielęgniarskie','Fort Collins',4549),
+(1789,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-23-14','Specjalizacja','Newcastle',4301),
+(1790,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-5-92','Studia doktoranckie','Chino',4793),
+(1791,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-17-10','Kurs specjalistyczny','Johnson City',3805),
+(1792,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-11-05','Specjalizacja','Kona',3619),
+(1793,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-23-11','Specjalizacja','Trenton',4745),
+(1794,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-23-09','Specjalizacja','Houston',2975),
+(1795,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-12-91','Kurs specjalistyczny','Scranton',4456),
+(1796,'Specjalizacja zawodowa','4-5-99','Studia wyższe licencjackie','Schaumburg',4055),
+(1797,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-2-14','Specjalizacja','Nashville',4301),
+(1798,'Studia mające zastosowanie w działalności podstawowej','4-5-91','Kurs specjalistyczny','Akron',3502),
+(1799,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-15-83','Studia wyższe licencjackie','Tok',2660),
+(1800,'Specjalizacja zawodowa','8-17-90','Kurs dokształcający','Buffalo',4347),
+(1801,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-10-81','Kurs kwalifikacyjny','Bentonville',3997),
+(1802,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-8-93','Kurs specjalistyczny','Saint Cloud',4173),
+(1803,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-27-83','Studia doktoranckie','San Dimas',3196),
+(1804,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-24-91','Szkolenie','Baton Rouge',4022),
+(1805,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-17-84','Kurs kwalifikacyjny','Azusa',3351),
+(1806,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-12-06','Specjalizacja','Portland',4764),
+(1807,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-30-07','Studia doktoranckie','Yukon',4705),
+(1808,'Kurs specjalistyczny – Terapia bólu','2-23-15','Specjalizacja','Rawlins',3623),
+(1809,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-12-83','Kurs kwalifikacyjny','Indio',2531),
+(1810,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-16-82','Kurs dokształcający','Vineland',4778),
+(1811,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-14-96','Kurs kwalifikacyjny','Wheaton',3638),
+(1812,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-11-11','Studia doktoranckie','Hialeah',3947),
+(1813,'Studia doktoranckie','1-20-16','Kurs kwalifikacyjny','Murfreesboro',4247),
+(1814,'Kurs specjalistyczny - Szczepienia ochronne','5-7-83','Kurs kwalifikacyjny','Rochester',3288),
+(1815,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-21-12','Kurs dokształcający','Mechanicville',3417),
+(1816,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-2-86','Kurs specjalistyczny','Waycross',3402),
+(1817,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-9-93','Studia wyższe licencjackie','Corvallis',3584),
+(1818,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-5-00','Studia wyższe licencjackie','Natchitoches',3652),
+(1819,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-4-13','Kurs specjalistyczny','Rialto',2864),
+(1820,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-3-08','Szkolenie','Salem',4076),
+(1821,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-1-14','Kurs kwalifikacyjny','DeKalb',4247),
+(1822,'Kurs specjalistyczny – Terapia bólu','4-19-08','Kurs specjalistyczny','Garland',2751),
+(1823,'Studia pielęgniarskie','11-9-97','Kurs kwalifikacyjny','Guayama',3003),
+(1824,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-7-99','Studia doktoranckie','Joplin',2752),
+(1825,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-2-80','Studia pielęgniarskie','Bartlesville',2844),
+(1826,'Kurs specjalistyczny – Terapia bólu','2-22-02','Studia wyższe licencjackie','Fairfield',2677),
+(1827,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-7-04','Szkolenie','Flagstaff',4160),
+(1828,'Kurs specjalistyczny - Szczepienia ochronne','11-2-12','Specjalizacja','San Francisco',4572),
+(1829,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-25-16','Kurs specjalistyczny','Odessa',3482),
+(1830,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-19-92','Szkolenie','Superior',4329),
+(1831,'Kurs specjalistyczny - Szczepienia ochronne','3-2-82','Kurs specjalistyczny','Little Falls',2627),
+(1832,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-27-88','Studia doktoranckie','Houston',3078),
+(1833,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','11-8-93','Kurs dokształcający','Monongahela',2564),
+(1834,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','9-8-90','Specjalizacja','Rock Island',3916),
+(1835,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-8-99','Kurs specjalistyczny','Buffalo',2707),
+(1836,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-16-06','Szkolenie','Council Bluffs',2538),
+(1837,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-15-12','Studia doktoranckie','Texarkana',2782),
+(1838,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-7-97','Specjalizacja','Chandler',4493),
+(1839,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-10-15','Szkolenie','Gardner',4732),
+(1840,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-9-99','Studia pielęgniarskie','Jordan Valley',3595),
+(1841,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-8-83','Kurs kwalifikacyjny','Chino',3040),
+(1842,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-17-02','Studia wyższe licencjackie','Frederick',3661),
+(1843,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-18-16','Studia pielęgniarskie','Grafton',4570),
+(1844,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-1-95','Studia pielęgniarskie','Rockford',3857),
+(1845,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-25-13','Studia wyższe licencjackie','Washington',3659),
+(1846,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-25-16','Kurs dokształcający','Kearns',2793),
+(1847,'Studia mające zastosowanie w działalności podstawowej','2-17-04','Studia doktoranckie','Weirton',2972),
+(1848,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-13-92','Studia pielęgniarskie','Sonoma',2630),
+(1849,'Studia pielęgniarskie','7-28-13','Kurs dokształcający','Des Moines',2626),
+(1850,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','3-4-12','Kurs dokształcający','Rolla',3973),
+(1851,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-13-96','Kurs kwalifikacyjny','Inglewood',3466),
+(1852,'Kurs specjalistyczny – Terapia bólu','11-7-03','Studia pielęgniarskie','Guayama',4193),
+(1853,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-11-02','Studia pielęgniarskie','Ruston',2900),
+(1854,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-17-83','Studia pielęgniarskie','West Covina',4088),
+(1855,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-28-80','Studia doktoranckie','Overland Park',4057),
+(1856,'Studia doktoranckie','12-7-99','Kurs dokształcający','Ada',2746),
+(1857,'Studia pielęgniarskie','10-21-82','Studia doktoranckie','Bangor',3516),
+(1858,'Kurs specjalistyczny – Terapia bólu','3-10-95','Specjalizacja','Seward',2676),
+(1859,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-4-11','Szkolenie','Oneonta',3020),
+(1860,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-29-83','Studia wyższe licencjackie','Albuquerque',4572),
+(1861,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-22-85','Studia doktoranckie','Normal',4593),
+(1862,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-25-97','Studia pielęgniarskie','Joplin',3871),
+(1863,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-17-89','Kurs specjalistyczny','Sioux Falls',3106),
+(1864,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-9-80','Kurs dokształcający','San Diego',3021),
+(1865,'Kurs specjalistyczny - Szczepienia ochronne','10-1-07','Studia wyższe licencjackie','Lahaina',3286),
+(1866,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-21-88','Studia pielęgniarskie','Dana Point',4604),
+(1867,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-20-82','Studia wyższe licencjackie','Madison',4822),
+(1868,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-17-95','Kurs specjalistyczny','Manchester',2973),
+(1869,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-29-03','Szkolenie','Lake Forest',4924),
+(1870,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-15-11','Studia doktoranckie','Sioux Falls',3292),
+(1871,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-10-98','Studia pielęgniarskie','New Bedford',2724),
+(1872,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-10-11','Szkolenie','Pierre',2849),
+(1873,'Kurs specjalistyczny - Szczepienia ochronne','9-8-05','Kurs dokształcający','Richland',4280),
+(1874,'Studia mające zastosowanie w działalności podstawowej','11-13-04','Studia wyższe licencjackie','Douglas',4795),
+(1875,'Kurs specjalistyczny - Szczepienia ochronne','7-7-88','Studia pielęgniarskie','Beaumont',4010),
+(1876,'Studia pielęgniarskie','10-10-82','Studia wyższe licencjackie','Miami',3158),
+(1877,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-21-93','Specjalizacja','Enfield',4001),
+(1878,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-6-02','Kurs specjalistyczny','Phoenix',4497),
+(1879,'Studia doktoranckie','1-30-97','Studia pielęgniarskie','Rialto',3877),
+(1880,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-28-07','Specjalizacja','Daly City',2942),
+(1881,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-1-91','Kurs kwalifikacyjny','Del Rio',4852),
+(1882,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-7-97','Studia wyższe licencjackie','San Luis Obispo',3398),
+(1883,'Studia doktoranckie','12-3-85','Kurs kwalifikacyjny','Geneva',3928),
+(1884,'Kurs specjalistyczny - Szczepienia ochronne','9-23-88','Studia wyższe licencjackie','Saint Joseph',4961),
+(1885,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-21-84','Studia doktoranckie','Peru',4873),
+(1886,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-31-05','Kurs kwalifikacyjny','Stafford',3930),
+(1887,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-24-94','Szkolenie','Coatesville',3888),
+(1888,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-28-89','Kurs kwalifikacyjny','Clarksville',2668),
+(1889,'Specjalizacja zawodowa','8-30-06','Studia wyższe licencjackie','Rancho Palos Verdes',4458),
+(1890,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-6-06','Studia wyższe licencjackie','West Springfield',2852),
+(1891,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-10-10','Szkolenie','Natchez',3463),
+(1892,'Studia pielęgniarskie','11-23-90','Specjalizacja','La Habra Heights',4786),
+(1893,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-29-99','Studia pielęgniarskie','Falls Church',2793),
+(1894,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-7-98','Studia wyższe licencjackie','Kennesaw',2532),
+(1895,'Studia mające zastosowanie w działalności podstawowej','4-28-95','Szkolenie','Fresno',4906),
+(1896,'Studia pielęgniarskie','9-12-86','Kurs dokształcający','Lynn',3671),
+(1897,'Studia wyższe licencjackie','8-15-06','Szkolenie','Utica',4069),
+(1898,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-21-90','Studia pielęgniarskie','Champaign',4969),
+(1899,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-12-00','Specjalizacja','Cudahy',3006),
+(1900,'Specjalizacja zawodowa','7-17-93','Kurs dokształcający','Staunton',2654),
+(1901,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-18-84','Studia doktoranckie','Eureka',2868),
+(1902,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-19-90','Studia wyższe licencjackie','Charlotte Amalie',3143),
+(1903,'Studia mające zastosowanie w działalności podstawowej','1-22-87','Specjalizacja','Atlanta',2963),
+(1904,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-1-14','Kurs specjalistyczny','Baltimore',4783),
+(1905,'Kurs specjalistyczny – Terapia bólu','1-4-07','Studia wyższe licencjackie','Newburyport',3536),
+(1906,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-13-98','Kurs specjalistyczny','Boise',3473),
+(1907,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-5-16','Specjalizacja','San Juan',3341),
+(1908,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-6-95','Studia wyższe licencjackie','Greenville',4747),
+(1909,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-21-01','Studia pielęgniarskie','Lincoln',3880),
+(1910,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-23-95','Studia pielęgniarskie','Sugar Land',2985),
+(1911,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-2-86','Studia doktoranckie','Whittier',4295),
+(1912,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-21-95','Kurs dokształcający','Corpus Christi',3135),
+(1913,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-26-00','Szkolenie','Nogales',3702),
+(1914,'Kurs specjalistyczny - Szczepienia ochronne','8-21-98','Kurs specjalistyczny','Rialto',2687),
+(1915,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-25-98','Kurs dokształcający','Latrobe',3747),
+(1916,'Studia mające zastosowanie w działalności podstawowej','2-28-01','Studia wyższe licencjackie','Mequon',3558),
+(1917,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-13-15','Specjalizacja','Green River',4982),
+(1918,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-29-99','Studia doktoranckie','Morgantown',4879),
+(1919,'Kurs specjalistyczny - Szczepienia ochronne','6-11-85','Specjalizacja','Elizabeth City',3748),
+(1920,'Kurs specjalistyczny – Terapia bólu','7-26-02','Studia wyższe licencjackie','Murray',4631),
+(1921,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-9-96','Kurs specjalistyczny','Trenton',3565),
+(1922,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-11-04','Szkolenie','Nashville',2618),
+(1923,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-7-06','Kurs kwalifikacyjny','Peru',3129),
+(1924,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-24-80','Specjalizacja','San Luis Obispo',3119),
+(1925,'Studia wyższe licencjackie','9-9-02','Specjalizacja','Rancho Cordova',4502),
+(1926,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-23-13','Kurs dokształcający','Eau Claire',4878),
+(1927,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-16-05','Kurs kwalifikacyjny','Williamsport',4877),
+(1928,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-12-83','Szkolenie','Vail',2746),
+(1929,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-4-90','Szkolenie','Laguna Woods',2709),
+(1930,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-20-88','Kurs kwalifikacyjny','Frederick',3685),
+(1931,'Kurs specjalistyczny – Terapia bólu','11-23-95','Studia doktoranckie','Reno',4956),
+(1932,'Studia pielęgniarskie','4-26-96','Kurs specjalistyczny','Glendale',4108),
+(1933,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-20-12','Szkolenie','Downey',4056),
+(1934,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-3-05','Studia doktoranckie','Little Rock',4191),
+(1935,'Kurs specjalistyczny – Terapia bólu','11-25-02','Studia wyższe licencjackie','Rosemead',4272),
+(1936,'Specjalizacja zawodowa','4-1-08','Specjalizacja','Cumberland',2846),
+(1937,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-22-80','Specjalizacja','Beaver Falls',2919),
+(1938,'Kurs specjalistyczny – Terapia bólu','7-6-15','Kurs kwalifikacyjny','Phoenix',4559),
+(1939,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-15-83','Studia wyższe licencjackie','Diamond Bar',3195),
+(1940,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-27-97','Kurs kwalifikacyjny','Harrisburg',4156),
+(1941,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-14-94','Specjalizacja','East St. Louis',4522),
+(1942,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-9-82','Kurs dokształcający','Daly City',4812),
+(1943,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-12-88','Studia wyższe licencjackie','Falls Church',4636),
+(1944,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-9-93','Kurs dokształcający','McKeesport',4549),
+(1945,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-11-07','Studia wyższe licencjackie','Vacaville',3874),
+(1946,'Studia doktoranckie','3-16-14','Kurs kwalifikacyjny','Murray',4178),
+(1947,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-11-02','Szkolenie','Avalon',4149),
+(1948,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-19-07','Kurs specjalistyczny','Brockton',3771),
+(1949,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-1-04','Kurs specjalistyczny','Newburyport',4871),
+(1950,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-14-95','Kurs dokształcający','Malden',4917),
+(1951,'Specjalizacja zawodowa','10-24-82','Studia wyższe licencjackie','Simi Valley',3147),
+(1952,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-10-02','Studia doktoranckie','Brookings',4268),
+(1953,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-30-86','Studia wyższe licencjackie','Boulder City',4206),
+(1954,'Kurs specjalistyczny - Szczepienia ochronne','10-17-89','Kurs specjalistyczny','Sandpoint',4049),
+(1955,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-21-12','Specjalizacja','Atlanta',4552),
+(1956,'Studia wyższe licencjackie','9-17-83','Studia doktoranckie','New Rochelle',2904),
+(1957,'Studia wyższe licencjackie','7-24-03','Kurs specjalistyczny','Batavia',2805),
+(1958,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-18-01','Kurs kwalifikacyjny','Yonkers',4956),
+(1959,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-3-92','Kurs dokształcający','Forest Lake',2594),
+(1960,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-28-82','Kurs specjalistyczny','Sierra Madre',4590),
+(1961,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-27-05','Studia doktoranckie','West Haven',4447),
+(1962,'Specjalizacja zawodowa','8-5-96','Studia wyższe licencjackie','Overland Park',2792),
+(1963,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-12-91','Studia wyższe licencjackie','Cedar Falls',3850),
+(1964,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-2-10','Studia wyższe licencjackie','Quincy',4248),
+(1965,'Specjalizacja zawodowa','9-29-05','Kurs dokształcający','Watervliet',4967),
+(1966,'Studia doktoranckie','4-18-96','Studia wyższe licencjackie','St. George',4358),
+(1967,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-25-90','Szkolenie','Charlotte',2767),
+(1968,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-12-15','Specjalizacja','Biloxi',4831),
+(1969,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-20-02','Kurs specjalistyczny','Nanticoke',2955),
+(1970,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-24-15','Szkolenie','Yuma',3061),
+(1971,'Studia wyższe licencjackie','5-7-13','Kurs specjalistyczny','Worland',3523),
+(1972,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-29-95','Kurs kwalifikacyjny','Truth or Consequences',3941),
+(1973,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-26-83','Kurs kwalifikacyjny','Benton Harbor',2725),
+(1974,'Kurs specjalistyczny – Terapia bólu','8-13-80','Szkolenie','Covina',3699),
+(1975,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-8-05','Studia wyższe licencjackie','Wichita',3809),
+(1976,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-14-00','Kurs kwalifikacyjny','Peekskill',4805),
+(1977,'Kurs specjalistyczny - Szczepienia ochronne','4-25-87','Specjalizacja','Laguna Beach',3424),
+(1978,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-12-84','Kurs specjalistyczny','Saipan',2966),
+(1979,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-6-98','Studia doktoranckie','Aurora',3085),
+(1980,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-26-87','Kurs specjalistyczny','Anaheim',3942),
+(1981,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-14-15','Studia pielęgniarskie','Ponce',2514),
+(1982,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-30-02','Kurs specjalistyczny','Auburn',4992),
+(1983,'Studia pielęgniarskie','3-13-09','Specjalizacja','Rosemead',4598),
+(1984,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-11-94','Studia doktoranckie','Hannibal',3499),
+(1985,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-3-90','Specjalizacja','Dana Point',4277),
+(1986,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-12-83','Kurs specjalistyczny','Inglewood',2714),
+(1987,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-27-81','Szkolenie','Rocky Mount',4459),
+(1988,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-5-04','Kurs kwalifikacyjny','Cerritos',3278),
+(1989,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-11-89','Szkolenie','Saginaw',3795),
+(1990,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-22-03','Szkolenie','Healdsburg',3166),
+(1991,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','9-23-84','Studia pielęgniarskie','Irvine',3856),
+(1992,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-30-14','Szkolenie','Corinth',3168),
+(1993,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-4-87','Studia wyższe licencjackie','Malden',4055),
+(1994,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-16-93','Kurs dokształcający','Sault Ste. Marie',4444),
+(1995,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-8-04','Kurs dokształcający','Pittsfield',4680),
+(1996,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-29-98','Szkolenie','Saginaw',3015),
+(1997,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-15-98','Kurs kwalifikacyjny','Battle Creek',4637),
+(1998,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-22-01','Kurs dokształcający','Biddeford',2748),
+(1999,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-20-94','Studia doktoranckie','Laughlin',2704),
+(2000,'Specjalizacja zawodowa','11-25-04','Szkolenie','Bell Gardens',3996),
+(2001,'Kurs specjalistyczny – Terapia bólu','7-25-97','Kurs dokształcający','Ypsilanti',3724),
+(2002,'Kurs specjalistyczny - Szczepienia ochronne','12-29-03','Specjalizacja','West Valley City',4581),
+(2003,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-26-90','Specjalizacja','Utica',2959),
+(2004,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-28-10','Kurs kwalifikacyjny','Grand Rapids',3640),
+(2005,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-24-06','Studia doktoranckie','Idabel',4010),
+(2006,'Studia mające zastosowanie w działalności podstawowej','3-27-01','Studia doktoranckie','Pine Bluff',2606),
+(2007,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-20-93','Kurs specjalistyczny','White Plains',3349),
+(2008,'Studia wyższe licencjackie','2-9-95','Studia wyższe licencjackie','Walla Walla',3887),
+(2009,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-8-94','Studia wyższe licencjackie','Santa Clara',3755),
+(2010,'Studia pielęgniarskie','3-2-98','Specjalizacja','Valdez',3469),
+(2011,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-28-13','Studia doktoranckie','Nenana',3769),
+(2012,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-5-00','Kurs specjalistyczny','Henderson',3936),
+(2013,'Studia wyższe licencjackie','4-5-08','Studia doktoranckie','Shawnee',4225),
+(2014,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-1-85','Kurs kwalifikacyjny','Tallahassee',4081),
+(2015,'Studia pielęgniarskie','8-19-87','Kurs kwalifikacyjny','Brunswick',4315),
+(2016,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-28-11','Studia pielęgniarskie','Moore',4555),
+(2017,'Studia wyższe licencjackie','7-5-11','Specjalizacja','Logan',3855),
+(2018,'Studia pielęgniarskie','10-28-95','Studia wyższe licencjackie','Longview',3235),
+(2019,'Kurs specjalistyczny - Szczepienia ochronne','7-9-86','Specjalizacja','Moscow',3898),
+(2020,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-17-92','Specjalizacja','Irving',4050),
+(2021,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-13-06','Kurs specjalistyczny','Ypsilanti',3376),
+(2022,'Kurs specjalistyczny – Terapia bólu','6-7-93','Kurs specjalistyczny','Cairo',4736),
+(2023,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-19-96','Specjalizacja','Atlantic City',3747),
+(2024,'Kurs specjalistyczny - Szczepienia ochronne','11-26-93','Studia doktoranckie','Christiansted',2875),
+(2025,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-1-84','Kurs specjalistyczny','Rock Springs',4017),
+(2026,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-29-01','Kurs specjalistyczny','Cohoes',2984),
+(2027,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-16-94','Kurs kwalifikacyjny','Douglas',3679),
+(2028,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-14-16','Specjalizacja','Memphis',3613),
+(2029,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-18-00','Kurs dokształcający','Midland',3443),
+(2030,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-30-85','Studia pielęgniarskie','Kalamazoo',3336),
+(2031,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-10-14','Studia doktoranckie','Torrance',3959),
+(2032,'Studia pielęgniarskie','12-10-98','Szkolenie','Villa Park',4483),
+(2033,'Kurs specjalistyczny - Szczepienia ochronne','1-12-03','Specjalizacja','Rochester',2681),
+(2034,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-29-95','Studia wyższe licencjackie','Calumet City',2759),
+(2035,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-25-98','Kurs dokształcający','North Little Rock',3498),
+(2036,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-15-99','Studia doktoranckie','Florence',3833),
+(2037,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-22-87','Studia doktoranckie','Vacaville',3409),
+(2038,'Studia doktoranckie','2-22-88','Kurs kwalifikacyjny','Cumberland',2964),
+(2039,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-16-06','Specjalizacja','Bellflower',4203),
+(2040,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-22-01','Studia doktoranckie','Provo',2907),
+(2041,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-21-94','Kurs specjalistyczny','Dodge City',4230),
+(2042,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-26-88','Studia doktoranckie','Santa Rosa',3166),
+(2043,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-21-11','Specjalizacja','Scranton',2662),
+(2044,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-2-94','Kurs dokształcający','Agoura Hills',3498),
+(2045,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-8-95','Kurs specjalistyczny','Ruston',3072),
+(2046,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-19-97','Szkolenie','Orlando',2590),
+(2047,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-16-88','Studia doktoranckie','Jackson',4157),
+(2048,'Studia pielęgniarskie','12-6-88','Specjalizacja','Carson City',4732),
+(2049,'Specjalizacja zawodowa','11-13-02','Kurs dokształcający','New Iberia',4386),
+(2050,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-19-91','Kurs specjalistyczny','Moline',2919),
+(2051,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-25-00','Kurs kwalifikacyjny','Newcastle',3593),
+(2052,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-27-14','Kurs kwalifikacyjny','Rutland',3222),
+(2053,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-8-10','Specjalizacja','La Jolla',3850),
+(2054,'Kurs specjalistyczny - Szczepienia ochronne','8-29-85','Kurs kwalifikacyjny','Dallas',4268),
+(2055,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-21-01','Kurs dokształcający','Bandera',3536),
+(2056,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-9-87','Specjalizacja','San Antonio',3105),
+(2057,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-27-15','Specjalizacja','Pass Christian',3589),
+(2058,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-26-82','Studia doktoranckie','Cedar Falls',3799),
+(2059,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-8-88','Szkolenie','Fontana',3897),
+(2060,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-19-06','Specjalizacja','Clairton',3895),
+(2061,'Specjalizacja zawodowa','5-28-00','Studia wyższe licencjackie','San Mateo',3162),
+(2062,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-18-12','Studia pielęgniarskie','Slidell',3794),
+(2063,'Kurs specjalistyczny – Terapia bólu','3-1-08','Specjalizacja','Cudahy',4368),
+(2064,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-4-06','Kurs dokształcający','Lexington',3485),
+(2065,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-28-93','Szkolenie','Clairton',3138),
+(2066,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-1-86','Kurs dokształcający','Gilbert',4763),
+(2067,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-12-82','Studia wyższe licencjackie','Waltham',4487),
+(2068,'Kurs specjalistyczny - Szczepienia ochronne','11-28-13','Studia doktoranckie','Valparaiso',3127),
+(2069,'Studia mające zastosowanie w działalności podstawowej','8-31-98','Studia doktoranckie','Glens Falls',3141),
+(2070,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-23-09','Kurs specjalistyczny','Bentonville',3605),
+(2071,'Studia pielęgniarskie','9-25-99','Studia wyższe licencjackie','Villa Park',3981),
+(2072,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-1-01','Kurs kwalifikacyjny','Gilette',4864),
+(2073,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-18-96','Studia pielęgniarskie','Chickasha',4947),
+(2074,'Kurs specjalistyczny – Terapia bólu','6-9-88','Studia wyższe licencjackie','Decatur',4429),
+(2075,'Studia doktoranckie','11-18-93','Kurs dokształcający','Belpre',4730),
+(2076,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-30-88','Kurs specjalistyczny','Pullman',3511),
+(2077,'Kurs specjalistyczny - Szczepienia ochronne','9-10-99','Kurs specjalistyczny','Elsmere',4672),
+(2078,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-13-98','Studia doktoranckie','Glendale',2607),
+(2079,'Studia doktoranckie','11-29-87','Kurs specjalistyczny','Waukegan',4559),
+(2080,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-15-83','Studia pielęgniarskie','Cape Girardeau',4568),
+(2081,'Kurs specjalistyczny – Terapia bólu','11-5-11','Szkolenie','Gadsden',4200),
+(2082,'Studia mające zastosowanie w działalności podstawowej','9-19-96','Kurs kwalifikacyjny','Scranton',4394),
+(2083,'Kurs specjalistyczny – Terapia bólu','8-23-06','Kurs specjalistyczny','Hot Springs',3230),
+(2084,'Studia wyższe licencjackie','9-17-10','Kurs dokształcający','Irwindale',3210),
+(2085,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-6-08','Specjalizacja','Powell',3407),
+(2086,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-16-02','Kurs dokształcający','Fulton',3535),
+(2087,'Studia mające zastosowanie w działalności podstawowej','11-3-15','Szkolenie','Houma',3895),
+(2088,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-30-11','Specjalizacja','Lexington',4239),
+(2089,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-9-85','Studia pielęgniarskie','Camden',4746),
+(2090,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-12-05','Studia pielęgniarskie','Enid',4475),
+(2091,'Kurs specjalistyczny – Terapia bólu','3-8-86','Studia doktoranckie','North Platte',3301),
+(2092,'Studia pielęgniarskie','8-13-84','Specjalizacja','Perth Amboy',3021),
+(2093,'Kurs specjalistyczny - Szczepienia ochronne','7-31-10','Szkolenie','Ogdensburg',3594),
+(2094,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-31-10','Studia doktoranckie','Opelousas',4381),
+(2095,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-21-85','Specjalizacja','Manhattan Beach',4286),
+(2096,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-28-97','Kurs kwalifikacyjny','Needham',2911),
+(2097,'Studia mające zastosowanie w działalności podstawowej','3-28-81','Specjalizacja','Laguna Hills',2948),
+(2098,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-26-83','Studia wyższe licencjackie','Ansonia',3291),
+(2099,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-16-86','Studia doktoranckie','Westfield',4868),
+(2100,'Kurs specjalistyczny – Terapia bólu','7-28-82','Specjalizacja','Egg Harbor',4712),
+(2101,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-4-16','Studia doktoranckie','Franklin',4996),
+(2102,'Studia wyższe licencjackie','5-12-94','Studia pielęgniarskie','Cohoes',4228),
+(2103,'Specjalizacja zawodowa','8-9-08','Kurs dokształcający','Wisconsin Rapids',4539),
+(2104,'Kurs specjalistyczny - Szczepienia ochronne','12-8-98','Specjalizacja','Thibodaux',3024),
+(2105,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-26-00','Kurs kwalifikacyjny','Cudahy',4373),
+(2106,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-29-05','Specjalizacja','Aberdeen',4206),
+(2107,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-15-92','Studia doktoranckie','Independence',3689),
+(2108,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-27-14','Kurs dokształcający','Vallejo',4323),
+(2109,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-13-93','Studia pielęgniarskie','Sacramento',3888),
+(2110,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-5-84','Szkolenie','Coatesville',2672),
+(2111,'Studia doktoranckie','5-11-14','Studia doktoranckie','Caguas',4345),
+(2112,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-23-05','Specjalizacja','Camden',4022),
+(2113,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-9-97','Kurs specjalistyczny','Oswego',2776),
+(2114,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-31-96','Specjalizacja','Natchez',3466),
+(2115,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-12-08','Studia doktoranckie','Rawlins',3333),
+(2116,'Studia doktoranckie','3-19-14','Szkolenie','Bowling Green',2941),
+(2117,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-16-03','Kurs kwalifikacyjny','Auburn',4245),
+(2118,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-4-94','Kurs specjalistyczny','South Portland',3776),
+(2119,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-14-14','Szkolenie','Cudahy',2882),
+(2120,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-26-89','Szkolenie','Oswego',4411),
+(2121,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-21-16','Kurs kwalifikacyjny','Hamilton',4705),
+(2122,'Studia wyższe licencjackie','12-10-13','Studia wyższe licencjackie','Glen Cove',4654),
+(2123,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-26-81','Specjalizacja','El Paso',4654),
+(2124,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-5-00','Szkolenie','Easthampton',3665),
+(2125,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-14-84','Specjalizacja','Palo Alto',2654),
+(2126,'Kurs specjalistyczny - Szczepienia ochronne','10-26-89','Studia doktoranckie','Layton',3156),
+(2127,'Kurs specjalistyczny - Szczepienia ochronne','8-28-97','Studia wyższe licencjackie','Wilkes-Barre',3419),
+(2128,'Studia doktoranckie','4-18-83','Studia pielęgniarskie','Plattsburgh',2626),
+(2129,'Kurs specjalistyczny – Terapia bólu','10-18-01','Studia wyższe licencjackie','Sutter Creek',4083),
+(2130,'Studia pielęgniarskie','1-7-91','Kurs kwalifikacyjny','Glendora',3819),
+(2131,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-7-08','Studia doktoranckie','Lawrenceville',3393),
+(2132,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-3-87','Kurs dokształcający','Elmira',4203),
+(2133,'Kurs specjalistyczny – Terapia bólu','8-5-96','Kurs specjalistyczny','Riverside',4248),
+(2134,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-8-92','Szkolenie','Sonoma',4790),
+(2135,'Studia wyższe licencjackie','12-8-94','Specjalizacja','Compton',3464),
+(2136,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-2-93','Kurs specjalistyczny','Leominster',4173),
+(2137,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-25-90','Szkolenie','Rocky Mount',4971),
+(2138,'Studia wyższe licencjackie','9-27-92','Kurs kwalifikacyjny','Las Vegas',4393),
+(2139,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-24-12','Studia doktoranckie','Oro Valley',3834),
+(2140,'Kurs specjalistyczny – Terapia bólu','5-22-93','Studia wyższe licencjackie','Lawton',2978),
+(2141,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-24-93','Studia pielęgniarskie','Tamuning',2972),
+(2142,'Studia pielęgniarskie','5-2-98','Specjalizacja','Macomb',4223),
+(2143,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-16-05','Studia pielęgniarskie','Sedalia',2753),
+(2144,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-1-06','Specjalizacja','Oneonta',3209),
+(2145,'Kurs specjalistyczny – Terapia bólu','10-31-98','Szkolenie','Stockton',3848),
+(2146,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-28-93','Studia wyższe licencjackie','Fountain Valley',4439),
+(2147,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-8-81','Kurs specjalistyczny','Saginaw',2621),
+(2148,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-11-83','Studia pielęgniarskie','Eugene',3410),
+(2149,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-22-12','Specjalizacja','Covina',4130),
+(2150,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-25-05','Specjalizacja','Jamestown',3275),
+(2151,'Studia doktoranckie','7-11-97','Kurs dokształcający','Parker',3250),
+(2152,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-18-01','Studia wyższe licencjackie','Enid',3500),
+(2153,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-5-06','Szkolenie','Beacon',2755),
+(2154,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-23-12','Kurs specjalistyczny','Plymouth',3734),
+(2155,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-2-13','Szkolenie','Fontana',2934),
+(2156,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-31-03','Kurs specjalistyczny','Rolla',4551),
+(2157,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-13-08','Szkolenie','Falls Church',4208),
+(2158,'Kurs specjalistyczny - Szczepienia ochronne','5-30-05','Specjalizacja','Saint Albans',4485),
+(2159,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-6-13','Szkolenie','Blythe',4883),
+(2160,'Studia wyższe licencjackie','11-25-10','Studia wyższe licencjackie','Palmdale',4686),
+(2161,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-30-03','Kurs dokształcający','Clarksburg',4362),
+(2162,'Kurs specjalistyczny - Szczepienia ochronne','8-15-82','Kurs kwalifikacyjny','Martinsburg',3165),
+(2163,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-7-90','Studia wyższe licencjackie','Saint Louis',4295),
+(2164,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-22-85','Specjalizacja','Valparaiso',3680),
+(2165,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-15-95','Specjalizacja','Hilo',4007),
+(2166,'Kurs specjalistyczny – Terapia bólu','10-28-00','Specjalizacja','Aberdeen',3257),
+(2167,'Studia pielęgniarskie','2-18-08','Szkolenie','Chelsea',4114),
+(2168,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-6-03','Kurs dokształcający','Hanahan',4744),
+(2169,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-8-03','Specjalizacja','Cedar Falls',3704),
+(2170,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-28-91','Kurs kwalifikacyjny','Natchitoches',4857),
+(2171,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-15-12','Kurs dokształcający','Idaho Springs',4691),
+(2172,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-27-85','Kurs kwalifikacyjny','Kenosha',3512),
+(2173,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-7-97','Studia wyższe licencjackie','Winston-Salem',2959),
+(2174,'Studia wyższe licencjackie','1-18-05','Kurs kwalifikacyjny','Alhambra',3542),
+(2175,'Kurs specjalistyczny - Szczepienia ochronne','11-1-03','Szkolenie','International Falls',4025),
+(2176,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-10-94','Szkolenie','Joliet',2735),
+(2177,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-20-13','Studia wyższe licencjackie','South El Monte',4669),
+(2178,'Kurs specjalistyczny – Terapia bólu','2-24-92','Kurs kwalifikacyjny','City of Industry',2984),
+(2179,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-16-84','Kurs kwalifikacyjny','Plantation',2986),
+(2180,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-31-07','Studia wyższe licencjackie','Fairfax',2999),
+(2181,'Studia doktoranckie','1-27-04','Kurs specjalistyczny','Rancho Santa Margarita',4935),
+(2182,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-17-89','Szkolenie','West Valley City',3068),
+(2183,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-29-08','Studia pielęgniarskie','The Dalles',3005),
+(2184,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-11-94','Specjalizacja','Savannah',3018),
+(2185,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-28-98','Szkolenie','Waltham',3164),
+(2186,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-15-06','Studia wyższe licencjackie','Riverton',3320),
+(2187,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-3-97','Szkolenie','Clovis',4645),
+(2188,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-31-88','Kurs dokształcający','Yonkers',4757),
+(2189,'Studia pielęgniarskie','9-27-85','Kurs kwalifikacyjny','Sioux City',3466),
+(2190,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-5-87','Specjalizacja','Waco',4356),
+(2191,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-17-85','Specjalizacja','Gold Beach',2573),
+(2192,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-17-89','Studia wyższe licencjackie','Macomb',3814),
+(2193,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-10-90','Studia pielęgniarskie','Guánica',3458),
+(2194,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-7-94','Studia doktoranckie','Middletown',4321),
+(2195,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-22-07','Studia doktoranckie','Lander',3008),
+(2196,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-13-15','Studia wyższe licencjackie','La Cañada Flintridge',4257),
+(2197,'Kurs specjalistyczny – Terapia bólu','3-29-82','Studia wyższe licencjackie','Enfield',3082),
+(2198,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-7-01','Studia wyższe licencjackie','McAllen',4729),
+(2199,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-7-09','Studia wyższe licencjackie','Green River',2605),
+(2200,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-9-93','Kurs kwalifikacyjny','Waukegan',4420),
+(2201,'Studia wyższe licencjackie','12-2-01','Studia pielęgniarskie','Methuen',3932),
+(2202,'Studia doktoranckie','4-9-08','Kurs dokształcający','Titusville',4655),
+(2203,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-9-90','Studia wyższe licencjackie','South El Monte',4828),
+(2204,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-5-99','Studia wyższe licencjackie','Beckley',4829),
+(2205,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-3-97','Studia wyższe licencjackie','Texas City',3797),
+(2206,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-18-10','Specjalizacja','Hollister',3496),
+(2207,'Kurs specjalistyczny – Terapia bólu','12-29-84','Kurs specjalistyczny','Oklahoma City',2839),
+(2208,'Studia pielęgniarskie','3-28-91','Szkolenie','Decatur',4493),
+(2209,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-11-86','Kurs dokształcający','Columbia',4445),
+(2210,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-3-03','Kurs dokształcający','Davis',3002),
+(2211,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-16-16','Studia wyższe licencjackie','Cape May',4150),
+(2212,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-17-01','Kurs specjalistyczny','Yukon',3001),
+(2213,'Specjalizacja zawodowa','8-9-92','Kurs specjalistyczny','Bowling Green',3355),
+(2214,'Studia doktoranckie','3-29-12','Kurs dokształcający','Bloomington',3042),
+(2215,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-19-01','Kurs dokształcający','Galveston',4490),
+(2216,'Studia pielęgniarskie','8-16-93','Szkolenie','Chicopee',2754),
+(2217,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-7-11','Kurs dokształcający','Frankfort',3556),
+(2218,'Studia pielęgniarskie','7-26-91','Kurs specjalistyczny','Valdez',4751),
+(2219,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-30-97','Kurs kwalifikacyjny','Compton',3545),
+(2220,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-26-94','Specjalizacja','Marietta',4383),
+(2221,'Specjalizacja zawodowa','9-19-81','Specjalizacja','Stamford',3509),
+(2222,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-4-90','Studia wyższe licencjackie','Chula Vista',3942),
+(2223,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-5-00','Studia pielęgniarskie','New Albany',3352),
+(2224,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-10-98','Studia doktoranckie','Hickory',2791),
+(2225,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-16-87','Studia pielęgniarskie','Menomonee Falls',2536),
+(2226,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-26-15','Kurs dokształcający','Columbus',4321),
+(2227,'Specjalizacja zawodowa','9-16-86','Studia pielęgniarskie','Spokane',4319),
+(2228,'Studia pielęgniarskie','1-7-15','Kurs dokształcający','Salinas',2735),
+(2229,'Kurs specjalistyczny – Terapia bólu','3-15-89','Kurs dokształcający','The Dalles',4480),
+(2230,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-12-88','Specjalizacja','Corry',4393),
+(2231,'Studia pielęgniarskie','7-20-94','Studia wyższe licencjackie','Miami',4507),
+(2232,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-18-92','Specjalizacja','Elizabeth City',3806),
+(2233,'Studia wyższe licencjackie','2-4-81','Studia wyższe licencjackie','Corry',3760),
+(2234,'Studia pielęgniarskie','11-7-87','Studia pielęgniarskie','Glen Cove',3259),
+(2235,'Studia doktoranckie','11-3-04','Studia wyższe licencjackie','Mandan',4890),
+(2236,'Kurs specjalistyczny – Terapia bólu','6-22-03','Kurs specjalistyczny','Scottsbluff',2909),
+(2237,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-6-95','Kurs kwalifikacyjny','Temecula',3796),
+(2238,'Kurs specjalistyczny – Terapia bólu','4-6-91','Szkolenie','Galveston',2784),
+(2239,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-6-92','Specjalizacja','Wisconsin Rapids',3116),
+(2240,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-17-06','Studia doktoranckie','Lakewood',3049),
+(2241,'Studia mające zastosowanie w działalności podstawowej','4-11-15','Szkolenie','Hermosa Beach',4490),
+(2242,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-24-03','Studia pielęgniarskie','Suffolk',3054),
+(2243,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-2-90','Kurs dokształcający','Plainfield',2536),
+(2244,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-16-80','Studia doktoranckie','Duarte',3346),
+(2245,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-30-08','Studia pielęgniarskie','Eatontown',4814),
+(2246,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-17-98','Kurs specjalistyczny','Sharon',4597),
+(2247,'Studia pielęgniarskie','2-7-83','Studia pielęgniarskie','Moorhead',3710),
+(2248,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-5-92','Specjalizacja','Altoona',2767),
+(2249,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-11-84','Specjalizacja','Benton Harbor',3824),
+(2250,'Studia doktoranckie','9-3-99','Studia doktoranckie','Indianapolis',4558),
+(2251,'Kurs specjalistyczny – Terapia bólu','7-9-88','Studia pielęgniarskie','Plainfield',3817),
+(2252,'Studia pielęgniarskie','9-11-04','Specjalizacja','Pulaski',3083),
+(2253,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-14-83','Kurs specjalistyczny','Wilkes-Barre',3651),
+(2254,'Kurs specjalistyczny – Terapia bólu','2-13-89','Kurs dokształcający','Bowie',4420),
+(2255,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-25-09','Studia wyższe licencjackie','Cody',3323),
+(2256,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-13-83','Specjalizacja','Utica',3059),
+(2257,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-27-86','Studia doktoranckie','Davenport',3432),
+(2258,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-12-89','Kurs specjalistyczny','Meridian',3847),
+(2259,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-12-14','Studia wyższe licencjackie','Lodi',3118),
+(2260,'Studia pielęgniarskie','4-15-88','Studia pielęgniarskie','New Castle',4437),
+(2261,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-11-02','Kurs specjalistyczny','Wheaton',3611),
+(2262,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-3-03','Kurs specjalistyczny','Easthampton',3137),
+(2263,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-10-85','Szkolenie','Council Bluffs',2700),
+(2264,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-7-96','Kurs kwalifikacyjny','Cairo',4009),
+(2265,'Kurs specjalistyczny – Terapia bólu','6-26-13','Studia doktoranckie','Manassas Park',2607),
+(2266,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-10-88','Szkolenie','Baltimore',4081),
+(2267,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-11-12','Kurs kwalifikacyjny','Rocky Mount',2548),
+(2268,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-4-02','Studia wyższe licencjackie','Pittston',3996),
+(2269,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-14-97','Studia pielęgniarskie','Crown Point',2555),
+(2270,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-20-11','Kurs kwalifikacyjny','Beaumont',2704),
+(2271,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-21-82','Studia doktoranckie','Murray',3279),
+(2272,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-9-12','Studia wyższe licencjackie','Batavia',4547),
+(2273,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-24-98','Kurs specjalistyczny','Carrollton',4221),
+(2274,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-25-96','Studia doktoranckie','Huntington Beach',2810),
+(2275,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-27-88','Specjalizacja','Lock Haven',2983),
+(2276,'Studia wyższe licencjackie','10-17-00','Specjalizacja','Holyoke',3540),
+(2277,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-21-98','Studia pielęgniarskie','Sonoma',4672),
+(2278,'Studia wyższe licencjackie','11-28-82','Specjalizacja','Newton',3865),
+(2279,'Studia doktoranckie','12-2-13','Studia doktoranckie','Nogales',3766),
+(2280,'Studia mające zastosowanie w działalności podstawowej','3-19-06','Kurs specjalistyczny','Trenton',3600),
+(2281,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-10-15','Specjalizacja','Burlingame',4135),
+(2282,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-6-95','Kurs specjalistyczny','Atlanta',4965),
+(2283,'Studia pielęgniarskie','4-15-82','Studia wyższe licencjackie','Aberdeen',2954),
+(2284,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-20-04','Specjalizacja','Phenix City',2652),
+(2285,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-23-93','Specjalizacja','Racine',4127),
+(2286,'Studia mające zastosowanie w działalności podstawowej','1-10-06','Kurs kwalifikacyjny','Chino Hills',3094),
+(2287,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-9-97','Kurs dokształcający','Signal Hill',3947),
+(2288,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-30-98','Studia pielęgniarskie','Abilene',2637),
+(2289,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-7-11','Szkolenie','Houma',3227),
+(2290,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-5-86','Studia doktoranckie','Needham',2896),
+(2291,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-9-84','Kurs kwalifikacyjny','Merizo',2741),
+(2292,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-17-09','Studia pielęgniarskie','City of Industry',4889),
+(2293,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-11-15','Szkolenie','Kankakee',3344),
+(2294,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-5-81','Studia pielęgniarskie','Monterey Park',4650),
+(2295,'Specjalizacja zawodowa','1-21-07','Studia pielęgniarskie','Compton',4697),
+(2296,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-2-04','Kurs specjalistyczny','Corinth',3105),
+(2297,'Studia wyższe licencjackie','7-19-80','Szkolenie','Lawrence',2767),
+(2298,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-21-83','Szkolenie','Lewiston',2520),
+(2299,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-22-88','Studia wyższe licencjackie','Azusa',4328),
+(2300,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-14-05','Specjalizacja','Annapolis',4015),
+(2301,'Studia pielęgniarskie','9-22-80','Studia wyższe licencjackie','Grand Island',3035),
+(2302,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-27-99','Specjalizacja','Brea',2531),
+(2303,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-14-95','Szkolenie','Columbus',4127),
+(2304,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-7-13','Kurs dokształcający','Pendleton',3278),
+(2305,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-20-98','Kurs specjalistyczny','Ithaca',4810),
+(2306,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-18-81','Studia doktoranckie','Merizo',4338),
+(2307,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-27-97','Studia wyższe licencjackie','Brown Deer',4179),
+(2308,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-16-93','Kurs dokształcający','McKeesport',2699),
+(2309,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-22-84','Studia wyższe licencjackie','Nashua',4436),
+(2310,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-22-97','Kurs specjalistyczny','Fort Dodge',4552),
+(2311,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-24-89','Kurs specjalistyczny','Carson City',4363),
+(2312,'Studia wyższe licencjackie','8-7-90','Studia pielęgniarskie','Loudon',3105),
+(2313,'Studia mające zastosowanie w działalności podstawowej','11-17-03','Kurs dokształcający','Cedar Rapids',4655),
+(2314,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-9-88','Kurs kwalifikacyjny','South Bend',2573),
+(2315,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-2-10','Specjalizacja','Middletown',3300),
+(2316,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-14-94','Studia pielęgniarskie','Waco',3792),
+(2317,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-9-97','Kurs kwalifikacyjny','Starkville',2816),
+(2318,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-22-03','Kurs dokształcający','Muskogee',3792),
+(2319,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-12-83','Specjalizacja','Springdale',3920),
+(2320,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-14-05','Szkolenie','Pocatello',4429),
+(2321,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','7-8-00','Kurs specjalistyczny','Martinsburg',4648),
+(2322,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-1-11','Studia pielęgniarskie','Cody',2892),
+(2323,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-16-00','Kurs specjalistyczny','Port Jervis',4400),
+(2324,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-24-02','Szkolenie','Kearns',3490),
+(2325,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-20-11','Studia doktoranckie','Lahaina',3694),
+(2326,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-23-10','Kurs dokształcający','Chickasha',3297),
+(2327,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-18-96','Szkolenie','Annapolis',3401),
+(2328,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-5-15','Specjalizacja','Pomona',3596),
+(2329,'Studia wyższe licencjackie','7-14-82','Studia pielęgniarskie','Williston',3249),
+(2330,'Specjalizacja zawodowa','12-31-80','Kurs kwalifikacyjny','Biddeford',4925),
+(2331,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-17-96','Szkolenie','Union City',4827),
+(2332,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-9-03','Studia wyższe licencjackie','Huntington Park',3734),
+(2333,'Studia pielęgniarskie','11-25-96','Kurs specjalistyczny','Hot Springs',2543),
+(2334,'Specjalizacja zawodowa','7-22-87','Studia doktoranckie','Erie',4529),
+(2335,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-12-15','Szkolenie','Valdez',4380),
+(2336,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-16-13','Studia pielęgniarskie','Jefferson City',2629),
+(2337,'Specjalizacja zawodowa','6-14-05','Kurs specjalistyczny','Santa Clarita',4895),
+(2338,'Studia pielęgniarskie','8-10-83','Kurs dokształcający','Newport Beach',4204),
+(2339,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-29-04','Kurs kwalifikacyjny','Falls Church',4210),
+(2340,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-27-03','Szkolenie','Princeton',4522),
+(2341,'Studia doktoranckie','2-14-08','Specjalizacja','Bloomington',4659),
+(2342,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-10-83','Kurs specjalistyczny','Little Rock',2774),
+(2343,'Studia mające zastosowanie w działalności podstawowej','8-13-91','Studia pielęgniarskie','New Kensington',3788),
+(2344,'Studia pielęgniarskie','10-6-90','Studia pielęgniarskie','Elkhart',3121),
+(2345,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-9-80','Specjalizacja','Brown Deer',4290),
+(2346,'Studia wyższe licencjackie','1-7-86','Kurs specjalistyczny','Springfield',3392),
+(2347,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-27-00','Studia wyższe licencjackie','Chicopee',2976),
+(2348,'Studia doktoranckie','12-4-06','Studia wyższe licencjackie','La Habra',3182),
+(2349,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-7-02','Specjalizacja','Moraga',2512),
+(2350,'Studia pielęgniarskie','4-27-82','Kurs kwalifikacyjny','Columbus',3671),
+(2351,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','2-11-89','Studia doktoranckie','Jordan Valley',3702),
+(2352,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-17-96','Studia pielęgniarskie','Warner Robins',4865),
+(2353,'Studia pielęgniarskie','4-22-93','Studia doktoranckie','Philadelphia',3203),
+(2354,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-21-10','Kurs dokształcający','Scranton',2904),
+(2355,'Specjalizacja zawodowa','6-18-86','Studia wyższe licencjackie','Canton',4194),
+(2356,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-16-95','Kurs dokształcający','Mankato',3076),
+(2357,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-10-90','Kurs kwalifikacyjny','Chicopee',4925),
+(2358,'Studia mające zastosowanie w działalności podstawowej','8-27-06','Studia doktoranckie','El Segundo',3286),
+(2359,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-16-81','Studia doktoranckie','Cerritos',4212),
+(2360,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-20-11','Szkolenie','Mayagüez',2764),
+(2361,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-22-07','Specjalizacja','Cicero',4508),
+(2362,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-13-85','Kurs specjalistyczny','San Angelo',2805),
+(2363,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-2-14','Kurs specjalistyczny','Carson City',4005),
+(2364,'Studia pielęgniarskie','3-8-11','Kurs kwalifikacyjny','Midland',4254),
+(2365,'Specjalizacja zawodowa','4-1-88','Studia wyższe licencjackie','West Haven',3780),
+(2366,'Studia doktoranckie','3-23-96','Studia pielęgniarskie','San Mateo',4989),
+(2367,'Studia wyższe licencjackie','9-12-87','Kurs specjalistyczny','Bismarck',4559),
+(2368,'Studia wyższe licencjackie','8-13-90','Specjalizacja','San Rafael',4133),
+(2369,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-3-91','Kurs kwalifikacyjny','Avalon',2630),
+(2370,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-10-83','Kurs specjalistyczny','Altoona',2882),
+(2371,'Studia wyższe licencjackie','4-9-81','Studia pielęgniarskie','Aguadilla',4078),
+(2372,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-4-12','Kurs dokształcający','Camden',2781),
+(2373,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-8-10','Kurs kwalifikacyjny','Greenfield',3355),
+(2374,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-6-03','Szkolenie','La Crosse',4972),
+(2375,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-9-97','Specjalizacja','West Memphis',2946),
+(2376,'Specjalizacja zawodowa','1-10-09','Szkolenie','Medford',3518),
+(2377,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-28-12','Studia pielęgniarskie','Beacon',2642),
+(2378,'Studia doktoranckie','4-4-86','Studia wyższe licencjackie','Jackson',3928),
+(2379,'Studia pielęgniarskie','5-23-88','Specjalizacja','Seward',4997),
+(2380,'Studia mające zastosowanie w działalności podstawowej','12-6-81','Kurs kwalifikacyjny','Decatur',3821),
+(2381,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-5-96','Studia doktoranckie','Redondo Beach',4751),
+(2382,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-13-81','Studia doktoranckie','Alpharetta',3130),
+(2383,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-22-81','Kurs specjalistyczny','Starkville',3229),
+(2384,'Kurs specjalistyczny - Szczepienia ochronne','4-19-00','Studia wyższe licencjackie','Battle Creek',3370),
+(2385,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-11-05','Specjalizacja','Port Huron',4899),
+(2386,'Studia wyższe licencjackie','10-16-80','Szkolenie','Barre',2742),
+(2387,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-21-13','Kurs kwalifikacyjny','Cape Coral',4424),
+(2388,'Studia doktoranckie','4-13-15','Kurs specjalistyczny','Cincinnati',4208),
+(2389,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-9-06','Kurs specjalistyczny','Pass Christian',3761),
+(2390,'Specjalizacja zawodowa','12-11-83','Studia doktoranckie','Janesville',3254),
+(2391,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-13-15','Kurs kwalifikacyjny','Cranston',2714),
+(2392,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','3-11-10','Studia pielęgniarskie','Rock Island',3386),
+(2393,'Studia doktoranckie','3-25-87','Specjalizacja','Asheville',2507),
+(2394,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-22-86','Studia doktoranckie','Chino',4900),
+(2395,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-1-16','Szkolenie','Morgan City',4320),
+(2396,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-31-05','Kurs specjalistyczny','Hackensack',2588),
+(2397,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-30-08','Studia pielęgniarskie','West Memphis',3441),
+(2398,'Studia doktoranckie','1-12-93','Kurs kwalifikacyjny','New Madrid',2982),
+(2399,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-28-96','Studia pielęgniarskie','Moraga',3432),
+(2400,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-1-85','Studia wyższe licencjackie','Bowling Green',3331),
+(2401,'Kurs specjalistyczny – Terapia bólu','12-24-08','Studia doktoranckie','Irwindale',3983),
+(2402,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-24-08','Kurs specjalistyczny','Kennesaw',3279),
+(2403,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-10-84','Kurs specjalistyczny','Wichita',2887),
+(2404,'Studia pielęgniarskie','10-7-13','Kurs kwalifikacyjny','Gardena',3104),
+(2405,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-26-04','Kurs dokształcający','New Rochelle',3669),
+(2406,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-3-15','Studia doktoranckie','South Gate',2909),
+(2407,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-31-94','Szkolenie','Marshall',4899),
+(2408,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-4-80','Studia pielęgniarskie','Baton Rouge',4443),
+(2409,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-13-84','Studia doktoranckie','Cedar City',2741),
+(2410,'Specjalizacja zawodowa','10-19-92','Kurs dokształcający','Champaign',4754),
+(2411,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-26-14','Specjalizacja','Wisconsin Dells',2666),
+(2412,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-22-83','Szkolenie','Truth or Consequences',3351),
+(2413,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-11-00','Studia wyższe licencjackie','Westlake Village',4363),
+(2414,'Kurs specjalistyczny – Terapia bólu','9-10-07','Studia wyższe licencjackie','Roseville',3236),
+(2415,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-25-14','Szkolenie','Schaumburg',3148),
+(2416,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-11-04','Szkolenie','Riverton',4529),
+(2417,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-3-01','Studia wyższe licencjackie','Davis',4477),
+(2418,'Studia wyższe licencjackie','9-26-93','Studia wyższe licencjackie','Kona',4440),
+(2419,'Studia mające zastosowanie w działalności podstawowej','12-7-88','Szkolenie','Fulton',2513),
+(2420,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-17-86','Szkolenie','Lubbock',2640),
+(2421,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-26-01','Studia pielęgniarskie','Guthrie',3026),
+(2422,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-11-88','Kurs dokształcający','Stanton',4507),
+(2423,'Kurs specjalistyczny – Terapia bólu','7-31-83','Studia pielęgniarskie','Durango',2793),
+(2424,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-11-07','Studia doktoranckie','Los Alamitos',4587),
+(2425,'Studia doktoranckie','8-15-83','Studia wyższe licencjackie','Arcadia',3355),
+(2426,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-19-98','Kurs dokształcający','Murfreesboro',4604),
+(2427,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-11-98','Studia pielęgniarskie','Bangor',4677),
+(2428,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-22-89','Studia wyższe licencjackie','Niagara Falls',4089),
+(2429,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-17-95','Studia pielęgniarskie','Kemmerer',3939),
+(2430,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-28-04','Kurs specjalistyczny','Maywood',2696),
+(2431,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-25-91','Kurs dokształcający','Aberdeen',3204),
+(2432,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-22-94','Studia pielęgniarskie','Phenix City',4536),
+(2433,'Studia mające zastosowanie w działalności podstawowej','5-24-93','Kurs kwalifikacyjny','Jackson',2893),
+(2434,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-18-84','Kurs kwalifikacyjny','Bridgeport',4445),
+(2435,'Studia doktoranckie','11-23-00','Szkolenie','Beaumont',3938),
+(2436,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-25-06','Studia pielęgniarskie','Mount Vernon',4585),
+(2437,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-10-01','Studia wyższe licencjackie','Nashua',3760),
+(2438,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-19-08','Szkolenie','Florence',2639),
+(2439,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-6-81','Kurs dokształcający','Stevens Point',4907),
+(2440,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-12-01','Studia pielęgniarskie','Chico',2723),
+(2441,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-30-87','Specjalizacja','Farmer City',2791),
+(2442,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-7-11','Specjalizacja','Seward',2695),
+(2443,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-30-91','Studia pielęgniarskie','Allentown',2528),
+(2444,'Kurs specjalistyczny – Terapia bólu','4-1-96','Studia doktoranckie','West Lafayette',3349),
+(2445,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-18-06','Studia pielęgniarskie','Nenana',3285),
+(2446,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-4-09','Szkolenie','Bay St. Louis',4830),
+(2447,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-9-91','Studia pielęgniarskie','Fremont',3322),
+(2448,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-14-07','Kurs specjalistyczny','Pine Bluff',3070),
+(2449,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-23-95','Studia wyższe licencjackie','Placentia',3683),
+(2450,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-9-12','Szkolenie','Niagara Falls',3876),
+(2451,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-8-85','Studia doktoranckie','Hudson',4792),
+(2452,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-25-06','Studia doktoranckie','Calabasas',3250),
+(2453,'Studia mające zastosowanie w działalności podstawowej','3-29-14','Kurs kwalifikacyjny','Biloxi',3422),
+(2454,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-28-15','Specjalizacja','Duluth',3076),
+(2455,'Studia pielęgniarskie','6-4-98','Studia pielęgniarskie','Newburyport',3899),
+(2456,'Kurs dokształcający - Żywienie niemowląt i dzieci','5-31-80','Kurs specjalistyczny','Bellingham',4408),
+(2457,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-20-10','Kurs kwalifikacyjny','Camden',3116),
+(2458,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-26-05','Kurs dokształcający','Oneonta',4512),
+(2459,'Kurs specjalistyczny – Terapia bólu','10-11-07','Studia doktoranckie','Evansville',4320),
+(2460,'Studia mające zastosowanie w działalności podstawowej','3-8-13','Specjalizacja','Latrobe',3474),
+(2461,'Kurs specjalistyczny – Terapia bólu','5-26-00','Kurs kwalifikacyjny','Louisville',3462),
+(2462,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-15-80','Specjalizacja','Belpre',3191),
+(2463,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-15-12','Szkolenie','La Puente',3342),
+(2464,'Kurs specjalistyczny – Terapia bólu','7-28-11','Kurs kwalifikacyjny','Harrisburg',4095),
+(2465,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-23-07','Studia doktoranckie','Darlington',3024),
+(2466,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-31-83','Studia doktoranckie','Truth or Consequences',2524),
+(2467,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-31-83','Kurs specjalistyczny','Lodi',4230),
+(2468,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-10-89','Kurs specjalistyczny','Jeffersontown',4435),
+(2469,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-14-06','Studia pielęgniarskie','Carolina',3830),
+(2470,'Kurs specjalistyczny – Terapia bólu','8-20-81','Specjalizacja','Hattiesburg',4005),
+(2471,'Kurs specjalistyczny – Terapia bólu','3-9-13','Studia doktoranckie','College Park',3116),
+(2472,'Specjalizacja zawodowa','7-6-01','Specjalizacja','Monroe',2935),
+(2473,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-12-11','Studia doktoranckie','Helena',2582),
+(2474,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-3-14','Studia wyższe licencjackie','Galveston',4132),
+(2475,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-18-90','Kurs specjalistyczny','Broken Arrow',2652),
+(2476,'Studia pielęgniarskie','11-21-98','Kurs kwalifikacyjny','Great Falls',3649),
+(2477,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-11-98','Kurs dokształcający','Orlando',3324),
+(2478,'Studia doktoranckie','2-26-93','Specjalizacja','Charlotte Amalie',3923),
+(2479,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-30-14','Studia wyższe licencjackie','Springdale',3396),
+(2480,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-15-85','Studia pielęgniarskie','Richland',2758),
+(2481,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-17-98','Studia pielęgniarskie','Monrovia',3352),
+(2482,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-1-89','Szkolenie','Parkersburg',2911),
+(2483,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-16-86','Studia doktoranckie','Hidden Hills',4083),
+(2484,'Studia mające zastosowanie w działalności podstawowej','7-7-90','Studia wyższe licencjackie','Seal Beach',3323),
+(2485,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-2-87','Kurs dokształcający','Highland Park',4580),
+(2486,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-30-95','Studia doktoranckie','Richland',3915),
+(2487,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-5-91','Studia pielęgniarskie','Reedsport',3857),
+(2488,'Specjalizacja zawodowa','6-8-15','Specjalizacja','Binghamton',4006),
+(2489,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-17-85','Specjalizacja','San Gabriel',4951),
+(2490,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-29-03','Specjalizacja','Worcester',3084),
+(2491,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-5-95','Kurs dokształcający','Burbank',4651),
+(2492,'Specjalizacja zawodowa','10-26-10','Kurs kwalifikacyjny','Hot Springs',4169),
+(2493,'Specjalizacja zawodowa','8-30-95','Kurs kwalifikacyjny','Pasadena',3545),
+(2494,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-28-95','Studia doktoranckie','Burlington',4083),
+(2495,'Studia doktoranckie','4-9-06','Kurs kwalifikacyjny','Nichols Hills',4448),
+(2496,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-5-04','Kurs dokształcający','Mechanicville',3477),
+(2497,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-22-07','Kurs kwalifikacyjny','Boulder',3530),
+(2498,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-6-84','Kurs dokształcający','Wheeling',3745),
+(2499,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-3-02','Studia wyższe licencjackie','Dalton',4633),
+(2500,'Kurs specjalistyczny - Szczepienia ochronne','5-14-88','Studia pielęgniarskie','Kent',3061),
+(2501,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-8-09','Studia wyższe licencjackie','Jackson',4148),
+(2502,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-21-97','Kurs kwalifikacyjny','Peoria',4421),
+(2503,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-24-92','Studia wyższe licencjackie','Woodruff',4299),
+(2504,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-14-87','Studia pielęgniarskie','Blacksburg',2820),
+(2505,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-1-01','Specjalizacja','Vallejo',4069),
+(2506,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','4-22-94','Specjalizacja','Derby',4179),
+(2507,'Studia wyższe licencjackie','5-28-86','Szkolenie','Chino Hills',4667),
+(2508,'Studia pielęgniarskie','12-24-13','Studia wyższe licencjackie','Vancouver',3576),
+(2509,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-28-02','Kurs kwalifikacyjny','West Bend',3047),
+(2510,'Studia wyższe licencjackie','2-26-86','Kurs kwalifikacyjny','Pawtucket',3692),
+(2511,'Kurs specjalistyczny – Terapia bólu','8-24-95','Studia wyższe licencjackie','Montebello',2842),
+(2512,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','6-20-89','Kurs kwalifikacyjny','Cedar Rapids',3491),
+(2513,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-24-86','Specjalizacja','Newburyport',4844),
+(2514,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-3-00','Studia wyższe licencjackie','East Hartford',4112),
+(2515,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-4-98','Studia doktoranckie','Fontana',4739),
+(2516,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-10-16','Szkolenie','Lowell',4125),
+(2517,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-9-81','Szkolenie','Baldwin Park',3468),
+(2518,'Kurs specjalistyczny – Terapia bólu','3-18-82','Studia pielęgniarskie','Port Washington',3672),
+(2519,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-22-14','Szkolenie','Houma',3834),
+(2520,'Studia pielęgniarskie','11-17-06','Kurs specjalistyczny','La Crosse',4625),
+(2521,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-15-81','Kurs kwalifikacyjny','Torrington',3541),
+(2522,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-19-07','Kurs dokształcający','Bangor',3853),
+(2523,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-13-87','Kurs dokształcający','Chino Hills',3605),
+(2524,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-27-09','Studia pielęgniarskie','Pasco',3577),
+(2525,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-16-13','Szkolenie','Leominster',4902),
+(2526,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-14-15','Studia doktoranckie','Eugene',3125),
+(2527,'Specjalizacja zawodowa','10-11-92','Kurs dokształcający','Laramie',4012),
+(2528,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-31-06','Studia doktoranckie','Peekskill',4431),
+(2529,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-5-96','Studia wyższe licencjackie','Roanoke',4880),
+(2530,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','9-6-83','Studia pielęgniarskie','Watertown',3538),
+(2531,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-6-11','Szkolenie','Grand Rapids',4422),
+(2532,'Specjalizacja zawodowa','7-31-91','Kurs specjalistyczny','Utica',3191),
+(2533,'Kurs specjalistyczny – Terapia bólu','11-21-82','Studia wyższe licencjackie','Cape Coral',3653),
+(2534,'Studia pielęgniarskie','11-27-04','Specjalizacja','Augusta',4194),
+(2535,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-1-90','Studia wyższe licencjackie','Plattsburgh',4177),
+(2536,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-20-81','Kurs kwalifikacyjny','Bristol',4991),
+(2537,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-4-88','Kurs kwalifikacyjny','Fort Smith',3165),
+(2538,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-29-91','Studia pielęgniarskie','Nichols Hills',3677),
+(2539,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-26-00','Kurs kwalifikacyjny','Williamsburg',3132),
+(2540,'Kurs specjalistyczny - Szczepienia ochronne','5-22-01','Studia wyższe licencjackie','Westlake Village',3634),
+(2541,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-4-84','Studia doktoranckie','Thiensville',4979),
+(2542,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-14-83','Specjalizacja','Winnemucca',4986),
+(2543,'Specjalizacja zawodowa','10-14-00','Studia wyższe licencjackie','New Orleans',4554),
+(2544,'Kurs specjalistyczny - Szczepienia ochronne','5-21-08','Studia wyższe licencjackie','Gary',4657),
+(2545,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-2-11','Kurs specjalistyczny','New Kensington',4734),
+(2546,'Studia pielęgniarskie','8-28-85','Studia pielęgniarskie','Pullman',4479),
+(2547,'Kurs specjalistyczny – Terapia bólu','11-16-93','Specjalizacja','Boulder City',4494),
+(2548,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-19-90','Studia doktoranckie','Cerritos',4698),
+(2549,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-21-10','Kurs kwalifikacyjny','Laughlin',2654),
+(2550,'Studia pielęgniarskie','4-7-04','Kurs specjalistyczny','Elkhart',4737),
+(2551,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-3-96','Kurs kwalifikacyjny','Azusa',3097),
+(2552,'Specjalizacja zawodowa','4-4-93','Szkolenie','Dana Point',4591),
+(2553,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-7-82','Szkolenie','Salem',3449),
+(2554,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-11-07','Studia doktoranckie','Fontana',3252),
+(2555,'Studia wyższe licencjackie','3-26-92','Studia pielęgniarskie','West Allis',2555),
+(2556,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-24-12','Specjalizacja','Alameda',4999),
+(2557,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-28-15','Szkolenie','Lockport',4890),
+(2558,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-7-02','Kurs specjalistyczny','Oxford',3326),
+(2559,'Studia doktoranckie','5-27-95','Szkolenie','Idabel',3996),
+(2560,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-11-99','Kurs dokształcający','Montgomery',4744),
+(2561,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-3-89','Kurs dokształcający','La Palma',4137),
+(2562,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-24-07','Studia pielęgniarskie','Benton Harbor',3418),
+(2563,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-22-94','Szkolenie','Riverton',4000),
+(2564,'Studia wyższe licencjackie','3-20-83','Specjalizacja','Torrington',4953),
+(2565,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-29-10','Kurs kwalifikacyjny','Waltham',2958),
+(2566,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-15-86','Kurs dokształcający','Baton Rouge',3968),
+(2567,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-13-88','Kurs dokształcający','Stafford',2646),
+(2568,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-16-96','Kurs dokształcający','Charleston',2506),
+(2569,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-27-13','Kurs specjalistyczny','Mission Viejo',2706),
+(2570,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-4-10','Studia pielęgniarskie','Hudson',4133),
+(2571,'Studia wyższe licencjackie','3-5-15','Szkolenie','Sonoma',3672),
+(2572,'Studia wyższe licencjackie','2-19-02','Kurs dokształcający','Yakima',3549),
+(2573,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-27-09','Kurs kwalifikacyjny','Iowa City',4150),
+(2574,'Specjalizacja zawodowa','8-1-08','Studia pielęgniarskie','Monterey Park',4151),
+(2575,'Studia pielęgniarskie','9-17-98','Kurs kwalifikacyjny','Yorba Linda',3276),
+(2576,'Studia pielęgniarskie','6-16-92','Kurs specjalistyczny','Alameda',4486),
+(2577,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-6-84','Kurs kwalifikacyjny','Farmer City',3145),
+(2578,'Studia pielęgniarskie','8-9-85','Szkolenie','Whittier',3164),
+(2579,'Kurs specjalistyczny – Terapia bólu','6-18-88','Specjalizacja','Wausau',2703),
+(2580,'Studia pielęgniarskie','9-9-88','Szkolenie','Bellingham',3167),
+(2581,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-17-89','Kurs kwalifikacyjny','Eugene',2547),
+(2582,'Specjalizacja zawodowa','11-8-96','Kurs kwalifikacyjny','Asbury Park',4649),
+(2583,'Studia pielęgniarskie','5-7-16','Specjalizacja','Overland Park',2744),
+(2584,'Studia doktoranckie','3-5-86','Szkolenie','Provo',4154),
+(2585,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-18-11','Studia pielęgniarskie','Joplin',2506),
+(2586,'Studia mające zastosowanie w działalności podstawowej','5-26-90','Szkolenie','Santa Clarita',2704),
+(2587,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-9-93','Specjalizacja','Fairmont',3708),
+(2588,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-16-07','Specjalizacja','Derby',3516),
+(2589,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-3-13','Kurs dokształcający','Bend',3448),
+(2590,'Kurs specjalistyczny - Szczepienia ochronne','12-27-13','Studia doktoranckie','Beverly Hills',2547),
+(2591,'Studia wyższe licencjackie','1-22-06','Kurs specjalistyczny','Inglewood',4662),
+(2592,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-20-97','Specjalizacja','Rancho Cordova',3361),
+(2593,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-6-81','Kurs dokształcający','Rye',4180),
+(2594,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-29-15','Kurs specjalistyczny','Ocean City',2953),
+(2595,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-12-84','Kurs specjalistyczny','Caguas',4049),
+(2596,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-8-81','Studia wyższe licencjackie','Stamford',3112),
+(2597,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-20-15','Studia wyższe licencjackie','Santa Ana',3553),
+(2598,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-18-03','Studia wyższe licencjackie','Clairton',4025),
+(2599,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-11-93','Kurs kwalifikacyjny','Sherrill',4373),
+(2600,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-11-93','Studia pielęgniarskie','Pottsville',3090),
+(2601,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-10-81','Studia wyższe licencjackie','Fairfax',4728),
+(2602,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-24-98','Studia pielęgniarskie','Avalon',3418),
+(2603,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','8-23-15','Studia doktoranckie','Deadwood',3412),
+(2604,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-10-13','Kurs dokształcający','Beverly Hills',4775),
+(2605,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-7-16','Specjalizacja','Jersey City',4472),
+(2606,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-10-02','Studia pielęgniarskie','West Hollywood',4360),
+(2607,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-26-14','Specjalizacja','Bandon',3068),
+(2608,'Specjalizacja zawodowa','8-23-94','Studia doktoranckie','Frederiksted',3910),
+(2609,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-8-02','Szkolenie','Sitka',4226),
+(2610,'Studia mające zastosowanie w działalności podstawowej','2-26-81','Studia pielęgniarskie','Haverhill',3650),
+(2611,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-1-08','Kurs specjalistyczny','Klamath Falls',2966),
+(2612,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-29-87','Kurs specjalistyczny','Council Bluffs',2539),
+(2613,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-15-85','Studia pielęgniarskie','South El Monte',3286),
+(2614,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-14-03','Szkolenie','Dayton',3471),
+(2615,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-5-95','Kurs specjalistyczny','Hastings',3520),
+(2616,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-15-14','Specjalizacja','Loudon',4722),
+(2617,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-3-99','Studia pielęgniarskie','Colorado Springs',4909),
+(2618,'Studia doktoranckie','4-17-94','Specjalizacja','Temple City',2880),
+(2619,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','11-1-83','Kurs kwalifikacyjny','Cohoes',2547),
+(2620,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-25-91','Kurs dokształcający','Isle of Palms',3674),
+(2621,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-19-11','Szkolenie','Scottsbluff',4395),
+(2622,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-29-95','Studia doktoranckie','Geneva',4390),
+(2623,'Studia doktoranckie','8-27-86','Kurs kwalifikacyjny','Warren',4291),
+(2624,'Studia mające zastosowanie w działalności podstawowej','6-15-99','Studia doktoranckie','Belleville',3253),
+(2625,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-6-11','Studia doktoranckie','Waterbury',3416),
+(2626,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-23-97','Kurs kwalifikacyjny','Walnut',3307),
+(2627,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-27-05','Szkolenie','Clarksville',3038),
+(2628,'Studia doktoranckie','7-13-81','Szkolenie','Vincennes',3343),
+(2629,'Studia mające zastosowanie w działalności podstawowej','11-1-87','Studia doktoranckie','Newton',4279),
+(2630,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-23-13','Kurs kwalifikacyjny','Newport News',4162),
+(2631,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-15-10','Kurs dokształcający','Norwich',3845),
+(2632,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-26-13','Studia pielęgniarskie','Butte',4851),
+(2633,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-27-85','Szkolenie','Malden',2981),
+(2634,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-15-15','Specjalizacja','Eau Claire',4763),
+(2635,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-7-82','Studia wyższe licencjackie','Kalispell',2616),
+(2636,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-28-92','Kurs dokształcający','Signal Hill',2622),
+(2637,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-26-87','Szkolenie','Virginia Beach',2571),
+(2638,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-6-98','Kurs kwalifikacyjny','Natchez',3343),
+(2639,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-23-06','Kurs specjalistyczny','Fayetteville',3838),
+(2640,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-12-02','Kurs specjalistyczny','Menomonee Falls',4285),
+(2641,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-14-10','Kurs specjalistyczny','Lexington',3595),
+(2642,'Studia wyższe licencjackie','11-21-85','Kurs dokształcający','Tucson',3728),
+(2643,'Studia doktoranckie','1-2-89','Specjalizacja','Hilo',2929),
+(2644,'Studia mające zastosowanie w działalności podstawowej','4-5-93','Kurs dokształcający','Norwalk',3431),
+(2645,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-22-05','Kurs kwalifikacyjny','Avalon',3285),
+(2646,'Kurs specjalistyczny – Terapia bólu','12-1-08','Szkolenie','Chicago Heights',4875),
+(2647,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-11-00','Studia pielęgniarskie','Lawrenceville',2914),
+(2648,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-24-98','Studia pielęgniarskie','Chula Vista',4764),
+(2649,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-22-81','Specjalizacja','Anaheim',4983),
+(2650,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-28-06','Kurs kwalifikacyjny','Anaheim',4883),
+(2651,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-22-91','Kurs specjalistyczny','Melrose',3145),
+(2652,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-18-90','Studia wyższe licencjackie','Reading',4045),
+(2653,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-1-98','Studia pielęgniarskie','Hollister',3484),
+(2654,'Studia pielęgniarskie','9-5-85','Kurs dokształcający','Rolling Hills',3740),
+(2655,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-19-95','Studia wyższe licencjackie','Peekskill',3421),
+(2656,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-10-84','Specjalizacja','Vincennes',2844),
+(2657,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-30-82','Kurs dokształcający','Kemmerer',4731),
+(2658,'Kurs specjalistyczny – Terapia bólu','7-15-89','Studia doktoranckie','Shawnee',3532),
+(2659,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-22-95','Kurs specjalistyczny','Green River',3622),
+(2660,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','1-2-05','Kurs kwalifikacyjny','Farrell',3081),
+(2661,'Studia pielęgniarskie','3-26-09','Kurs kwalifikacyjny','Asbury Park',4774),
+(2662,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-26-90','Kurs kwalifikacyjny','Bandon',3838),
+(2663,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-7-88','Kurs specjalistyczny','Las Cruces',3174),
+(2664,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-14-00','Studia wyższe licencjackie','Naperville',4375),
+(2665,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-23-92','Kurs kwalifikacyjny','Louisville',4485),
+(2666,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-12-02','Studia doktoranckie','Chino',3604),
+(2667,'Specjalizacja zawodowa','3-10-86','Studia doktoranckie','Biddeford',4880),
+(2668,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-29-85','Specjalizacja','Pico Rivera',3134),
+(2669,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-4-16','Specjalizacja','Johnson City',3015),
+(2670,'Specjalizacja zawodowa','3-22-93','Studia doktoranckie','Walla Walla',2860),
+(2671,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-2-14','Kurs dokształcający','Cape May',4865),
+(2672,'Studia mające zastosowanie w działalności podstawowej','4-18-15','Studia pielęgniarskie','Hope',2624),
+(2673,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-19-95','Szkolenie','San Francisco',3131),
+(2674,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-17-15','Szkolenie','Houma',2821),
+(2675,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-27-92','Specjalizacja','Lake Charles',3063),
+(2676,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-18-86','Kurs kwalifikacyjny','Mayagüez',3220),
+(2677,'Studia mające zastosowanie w działalności podstawowej','7-14-81','Specjalizacja','Council Bluffs',2648),
+(2678,'Studia pielęgniarskie','12-31-82','Studia doktoranckie','Pembroke Pines',3577),
+(2679,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-24-92','Specjalizacja','Poughkeepsie',4577),
+(2680,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-31-91','Studia doktoranckie','Farrell',4604),
+(2681,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-6-03','Studia wyższe licencjackie','Pass Christian',4856),
+(2682,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-16-09','Kurs specjalistyczny','Schaumburg',3909),
+(2683,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-4-91','Kurs dokształcający','Stamford',4058),
+(2684,'Studia doktoranckie','9-8-04','Specjalizacja','Flint',3451),
+(2685,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-5-86','Kurs dokształcający','Cranston',2623),
+(2686,'Kurs specjalistyczny – Terapia bólu','5-30-83','Kurs dokształcający','Tamuning',3201),
+(2687,'Kurs specjalistyczny – Terapia bólu','5-22-15','Studia doktoranckie','Greenfield',3589),
+(2688,'Specjalizacja zawodowa','6-4-99','Kurs dokształcający','Eufaula',4568),
+(2689,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-3-11','Studia doktoranckie','Chesapeake',2747),
+(2690,'Kurs specjalistyczny – Terapia bólu','1-16-09','Studia doktoranckie','Falls Church',3375),
+(2691,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-18-16','Kurs kwalifikacyjny','Madison',2575),
+(2692,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-5-86','Kurs specjalistyczny','West Valley City',2962),
+(2693,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-29-02','Szkolenie','Costa Mesa',4084),
+(2694,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-23-90','Specjalizacja','Greenfield',4018),
+(2695,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-2-93','Kurs kwalifikacyjny','Benton Harbor',2579),
+(2696,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-21-03','Studia pielęgniarskie','Sugar Land',3729),
+(2697,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-26-88','Kurs dokształcający','Salem',4009),
+(2698,'Specjalizacja zawodowa','2-1-13','Studia wyższe licencjackie','Mesa',4741),
+(2699,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-21-07','Studia pielęgniarskie','Ruston',3761),
+(2700,'Studia pielęgniarskie','9-29-11','Studia pielęgniarskie','Gold Beach',2534),
+(2701,'Studia doktoranckie','12-14-83','Studia pielęgniarskie','Glen Cove',4050),
+(2702,'Specjalizacja zawodowa','1-24-83','Kurs kwalifikacyjny','Calabasas',4708),
+(2703,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-21-05','Studia doktoranckie','Saipan',2603),
+(2704,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-16-00','Studia doktoranckie','Beckley',3518),
+(2705,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-6-99','Studia doktoranckie','Salt Lake City',3101),
+(2706,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-20-98','Kurs dokształcający','Dalton',4927),
+(2707,'Kurs specjalistyczny - Szczepienia ochronne','1-5-05','Kurs kwalifikacyjny','Fort Smith',2864),
+(2708,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-5-03','Studia wyższe licencjackie','Watertown',3498),
+(2709,'Studia mające zastosowanie w działalności podstawowej','11-12-04','Studia pielęgniarskie','Newport',4743),
+(2710,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-20-00','Specjalizacja','West Springfield',2596),
+(2711,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-12-09','Kurs dokształcający','Perth Amboy',4813),
+(2712,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-20-13','Studia doktoranckie','West Haven',4392),
+(2713,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-14-83','Studia doktoranckie','Gainesville',2977),
+(2714,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-23-81','Kurs dokształcający','Eureka',4369),
+(2715,'Specjalizacja zawodowa','9-24-09','Specjalizacja','Monterey Park',3865),
+(2716,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-25-02','Kurs specjalistyczny','Butte',2867),
+(2717,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-4-02','Studia doktoranckie','Lawrence',4431),
+(2718,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-2-90','Szkolenie','Oxford',3944),
+(2719,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-21-14','Kurs dokształcający','Saipan',4360),
+(2720,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-4-93','Kurs kwalifikacyjny','Rock Springs',3019),
+(2721,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-2-97','Studia pielęgniarskie','Allentown',3080),
+(2722,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-19-02','Studia doktoranckie','Augusta',4482),
+(2723,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-28-85','Kurs dokształcający','Providence',4820),
+(2724,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-15-07','Kurs specjalistyczny','Peru',2615),
+(2725,'Specjalizacja zawodowa','2-23-86','Studia wyższe licencjackie','West Hollywood',2585),
+(2726,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-12-00','Studia wyższe licencjackie','Sheridan',3660),
+(2727,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','2-7-05','Studia wyższe licencjackie','Baton Rouge',3645),
+(2728,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-9-82','Studia wyższe licencjackie','Raleigh',3399),
+(2729,'Studia pielęgniarskie','1-18-14','Kurs dokształcający','Mankato',4843),
+(2730,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-14-08','Kurs specjalistyczny','Sugar Land',4391),
+(2731,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-27-94','Szkolenie','Rolling Hills Estates',2991),
+(2732,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-3-04','Szkolenie','Waycross',2614),
+(2733,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-7-09','Szkolenie','San Bernardino',3035),
+(2734,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-5-95','Szkolenie','San Antonio',3202),
+(2735,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-21-85','Szkolenie','Daly City',4304),
+(2736,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-3-07','Kurs kwalifikacyjny','Walla Walla',3907),
+(2737,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-12-81','Szkolenie','Great Falls',3469),
+(2738,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-29-94','Specjalizacja','West Haven',3554),
+(2739,'Studia wyższe licencjackie','11-18-89','Kurs kwalifikacyjny','Parma',4725),
+(2740,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-7-90','Specjalizacja','Marshall',4984),
+(2741,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-18-94','Kurs specjalistyczny','Athens',3784),
+(2742,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-23-13','Studia wyższe licencjackie','Saratoga Springs',2562),
+(2743,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','7-21-07','Kurs kwalifikacyjny','Slidell',4352),
+(2744,'Specjalizacja zawodowa','11-14-83','Studia wyższe licencjackie','Orlando',2978),
+(2745,'Specjalizacja zawodowa','8-22-94','Kurs specjalistyczny','Port Jervis',2837),
+(2746,'Studia doktoranckie','10-18-88','Kurs specjalistyczny','Owensboro',4428),
+(2747,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-11-92','Specjalizacja','Starkville',3112),
+(2748,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-21-08','Studia wyższe licencjackie','Carson City',3498),
+(2749,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-23-89','Kurs kwalifikacyjny','Fulton',3819),
+(2750,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-30-08','Studia wyższe licencjackie','Appleton',4663),
+(2751,'Kurs specjalistyczny – Terapia bólu','8-20-01','Studia pielęgniarskie','Little Rock',4300),
+(2752,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-11-08','Studia pielęgniarskie','Moreno Valley',2872),
+(2753,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-19-05','Studia doktoranckie','Chicago',3913),
+(2754,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-2-97','Specjalizacja','Sault Ste. Marie',2774),
+(2755,'Specjalizacja zawodowa','6-12-80','Studia wyższe licencjackie','Mount Pleasant',3439),
+(2756,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','12-1-95','Kurs specjalistyczny','Enfield',4949),
+(2757,'Kurs dokształcający - Żywienie niemowląt i dzieci','7-16-97','Studia doktoranckie','Parker',4673),
+(2758,'Studia doktoranckie','1-4-06','Kurs dokształcający','Weirton',2816),
+(2759,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-7-97','Studia doktoranckie','Rochester',2940),
+(2760,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-10-04','Studia pielęgniarskie','Peabody',4684),
+(2761,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-4-89','Szkolenie','Mankato',4779),
+(2762,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-20-06','Szkolenie','Owensboro',4101),
+(2763,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-22-95','Studia doktoranckie','Dothan',4840),
+(2764,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-7-85','Studia pielęgniarskie','Tucson',4962),
+(2765,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-26-98','Szkolenie','Elko',3744),
+(2766,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-23-98','Specjalizacja','Chicago',2842),
+(2767,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-31-11','Kurs specjalistyczny','Idaho Springs',2759),
+(2768,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-21-82','Kurs specjalistyczny','Idaho Springs',4920),
+(2769,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-11-91','Kurs specjalistyczny','Rye',4454),
+(2770,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-17-02','Studia wyższe licencjackie','East Lansing',3161),
+(2771,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-22-87','Szkolenie','Berlin',3066),
+(2772,'Specjalizacja zawodowa','2-22-06','Studia wyższe licencjackie','Bloomington',2989),
+(2773,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-25-02','Szkolenie','West Jordan',4401),
+(2774,'Studia doktoranckie','9-29-13','Kurs dokształcający','Cypress',3652),
+(2775,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-24-05','Studia pielęgniarskie','Dallas',4878),
+(2776,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-21-08','Specjalizacja','Altoona',4951),
+(2777,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-29-15','Studia pielęgniarskie','Dalton',2588),
+(2778,'Studia wyższe licencjackie','4-30-99','Specjalizacja','Costa Mesa',3761),
+(2779,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-16-03','Kurs dokształcający','Mesquite',3715),
+(2780,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-18-95','Kurs dokształcający','Starkville',4550),
+(2781,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-13-89','Kurs dokształcający','Seaford',4946),
+(2782,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-7-87','Studia pielęgniarskie','Durango',2718),
+(2783,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-30-15','Kurs dokształcający','Areceibo',2743),
+(2784,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-7-06','Specjalizacja','Muskegon',4097),
+(2785,'Kurs specjalistyczny - Szczepienia ochronne','12-22-91','Studia pielęgniarskie','Waco',4315),
+(2786,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-18-01','Kurs specjalistyczny','Littleton',4362),
+(2787,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','8-27-91','Studia pielęgniarskie','Cruz Bay',4825),
+(2788,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','1-1-83','Kurs kwalifikacyjny','Miami',2994),
+(2789,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-10-02','Kurs dokształcający','Alexandria',3751),
+(2790,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-15-10','Kurs dokształcający','Akron',3137),
+(2791,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-12-14','Studia pielęgniarskie','Danville',3846),
+(2792,'Kurs specjalistyczny - Szczepienia ochronne','2-20-15','Studia pielęgniarskie','Edmond',4064),
+(2793,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-14-02','Kurs dokształcający','Davis',2666),
+(2794,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-4-01','Studia doktoranckie','Coos Bay',3747),
+(2795,'Studia mające zastosowanie w działalności podstawowej','2-13-95','Specjalizacja','Augusta',4165),
+(2796,'Kurs specjalistyczny - Szczepienia ochronne','11-2-06','Studia wyższe licencjackie','Monroe',4508),
+(2797,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-10-06','Studia pielęgniarskie','Huntington Park',3440),
+(2798,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-20-00','Studia wyższe licencjackie','Huntsville',3829),
+(2799,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-2-88','Kurs specjalistyczny','Elsmere',3906),
+(2800,'Kurs specjalistyczny - Szczepienia ochronne','4-25-01','Studia pielęgniarskie','Kalamazoo',4601),
+(2801,'Studia mające zastosowanie w działalności podstawowej','9-29-08','Kurs kwalifikacyjny','Naperville',3926),
+(2802,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-2-02','Studia doktoranckie','Healdsburg',3191),
+(2803,'Studia doktoranckie','10-17-08','Kurs dokształcający','New Castle',3470),
+(2804,'Studia pielęgniarskie','1-21-08','Kurs kwalifikacyjny','Sheboygan',4528),
+(2805,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-30-92','Kurs kwalifikacyjny','Woodward',3147),
+(2806,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-23-93','Studia pielęgniarskie','Saratoga Springs',2772),
+(2807,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-17-04','Kurs kwalifikacyjny','Casper',2673),
+(2808,'Studia doktoranckie','3-11-83','Kurs dokształcający','Ponce',2634),
+(2809,'Kurs specjalistyczny - Szczepienia ochronne','3-13-98','Kurs specjalistyczny','Plainfield',3275),
+(2810,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-7-94','Kurs dokształcający','Toledo',3999),
+(2811,'Specjalizacja zawodowa','4-14-02','Studia pielęgniarskie','Bandon',2961),
+(2812,'Studia pielęgniarskie','12-15-02','Kurs dokształcający','Marlborough',4817),
+(2813,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-30-02','Kurs kwalifikacyjny','Augusta',4338),
+(2814,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-22-89','Studia doktoranckie','Irwindale',3687),
+(2815,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-12-97','Studia pielęgniarskie','Tuscaloosa',3778),
+(2816,'Specjalizacja zawodowa','4-21-87','Kurs kwalifikacyjny','Westlake Village',3301),
+(2817,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-17-84','Studia doktoranckie','Jackson',3140),
+(2818,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-3-03','Kurs kwalifikacyjny','Riverton',3762),
+(2819,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-6-10','Specjalizacja','Lansing',3746),
+(2820,'Studia mające zastosowanie w działalności podstawowej','8-28-01','Kurs dokształcający','Bay City',2946),
+(2821,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-16-85','Studia wyższe licencjackie','La Cañada Flintridge',3825),
+(2822,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-2-10','Kurs dokształcający','Rockford',3183),
+(2823,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-13-99','Studia doktoranckie','Allentown',3419),
+(2824,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-2-02','Studia wyższe licencjackie','Mayagüez',3358),
+(2825,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-5-99','Kurs kwalifikacyjny','Egg Harbor',3374),
+(2826,'Specjalizacja zawodowa','1-25-81','Studia pielęgniarskie','LaGrange',3014),
+(2827,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-19-83','Specjalizacja','Redding',3878),
+(2828,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-2-12','Szkolenie','Frederiksted',3434),
+(2829,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-24-95','Kurs specjalistyczny','Boston',3167),
+(2830,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-30-04','Kurs dokształcający','La Crosse',4610),
+(2831,'Studia doktoranckie','4-8-06','Studia pielęgniarskie','Garland',4653),
+(2832,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','12-22-13','Specjalizacja','Spokane',3760),
+(2833,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-11-08','Studia pielęgniarskie','Monrovia',2877),
+(2834,'Studia pielęgniarskie','10-13-13','Studia wyższe licencjackie','Meriden',4858),
+(2835,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-29-13','Szkolenie','Latrobe',4925),
+(2836,'Kurs dokształcający - Żywienie niemowląt i dzieci','11-12-91','Studia pielęgniarskie','West Haven',3659),
+(2837,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-19-01','Kurs dokształcający','Clarksville',4332),
+(2838,'Studia wyższe licencjackie','10-5-88','Studia wyższe licencjackie','Bentonville',4356),
+(2839,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-25-10','Szkolenie','Bessemer',4647),
+(2840,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-28-88','Studia doktoranckie','Littleton',3447),
+(2841,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','10-4-11','Kurs kwalifikacyjny','La Crosse',4869),
+(2842,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','3-7-94','Specjalizacja','Hawthorne',2855),
+(2843,'Studia doktoranckie','3-20-86','Kurs specjalistyczny','Oro Valley',4107),
+(2844,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-24-09','Studia pielęgniarskie','Kennesaw',3966),
+(2845,'Studia pielęgniarskie','11-8-81','Specjalizacja','Chester',3671),
+(2846,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-23-85','Studia wyższe licencjackie','Kokomo',2820),
+(2847,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-31-10','Specjalizacja','New Castle',4510),
+(2848,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-12-96','Studia pielęgniarskie','Riverton',4425),
+(2849,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-9-11','Studia doktoranckie','Irving',3870),
+(2850,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-21-86','Kurs dokształcający','Arcadia',3120),
+(2851,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-9-06','Studia pielęgniarskie','Connellsville',2770),
+(2852,'Kurs specjalistyczny – Terapia bólu','7-15-00','Kurs specjalistyczny','Fairfield',4967),
+(2853,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-29-83','Studia pielęgniarskie','Monterey Park',4202),
+(2854,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','1-7-04','Kurs specjalistyczny','Diamond Bar',4837),
+(2855,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','10-14-86','Kurs specjalistyczny','Newcastle',2570),
+(2856,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-26-10','Specjalizacja','Tallahassee',2620),
+(2857,'Studia pielęgniarskie','4-17-81','Studia wyższe licencjackie','Brigham City',3866),
+(2858,'Kurs specjalistyczny - Szczepienia ochronne','8-6-15','Studia wyższe licencjackie','Hattiesburg',4797),
+(2859,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-22-05','Kurs specjalistyczny','Sister Bay',3857),
+(2860,'Studia doktoranckie','8-9-82','Kurs specjalistyczny','Middlebury',4571),
+(2861,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-13-06','Kurs specjalistyczny','Fitchburg',3077),
+(2862,'Studia doktoranckie','8-4-10','Szkolenie','Monterey Park',3065),
+(2863,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-28-06','Szkolenie','Pasco',3224),
+(2864,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-7-03','Kurs dokształcający','Provo',4678),
+(2865,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-29-89','Kurs dokształcający','Beverly',4065),
+(2866,'Studia mające zastosowanie w działalności podstawowej','10-20-12','Studia wyższe licencjackie','Rancho Cucamonga',2762),
+(2867,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','8-20-90','Studia pielęgniarskie','Montpelier',3514),
+(2868,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-14-04','Studia wyższe licencjackie','Lynwood',4232),
+(2869,'Studia wyższe licencjackie','4-5-98','Kurs specjalistyczny','Irvine',4595),
+(2870,'Studia wyższe licencjackie','7-2-00','Studia pielęgniarskie','Manassas',4607),
+(2871,'Kurs specjalistyczny – Terapia bólu','7-7-82','Studia doktoranckie','Norman',4810),
+(2872,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-28-93','Kurs kwalifikacyjny','Danville',4809),
+(2873,'Kurs specjalistyczny - Szczepienia ochronne','8-19-08','Kurs dokształcający','Galveston',4371),
+(2874,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-27-05','Kurs specjalistyczny','Idaho Falls',4846),
+(2875,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-15-90','Szkolenie','Iowa City',3169),
+(2876,'Studia doktoranckie','3-24-98','Szkolenie','Weirton',4973),
+(2877,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','8-5-88','Kurs kwalifikacyjny','Kenosha',4701),
+(2878,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-19-94','Kurs dokształcający','Apple Valley',3955),
+(2879,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-8-92','Studia wyższe licencjackie','Sunbury',2671),
+(2880,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-27-91','Studia wyższe licencjackie','Houston',2574),
+(2881,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','4-27-84','Kurs specjalistyczny','Missoula',3427),
+(2882,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-10-83','Szkolenie','Santa Cruz',3684),
+(2883,'Studia wyższe licencjackie','7-24-01','Studia doktoranckie','Sturgis',4912),
+(2884,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-18-81','Szkolenie','Corpus Christi',4941),
+(2885,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-8-06','Kurs dokształcający','Westfield',4385),
+(2886,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-28-87','Studia doktoranckie','Hopkinsville',4704),
+(2887,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-13-93','Studia wyższe licencjackie','Pulaski',4710),
+(2888,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-8-05','Kurs dokształcający','Huntsville',2782),
+(2889,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-21-80','Szkolenie','Hoover',2636),
+(2890,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-7-83','Studia doktoranckie','Pocatello',2670),
+(2891,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-28-98','Studia doktoranckie','Lodi',2892),
+(2892,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-27-84','Kurs specjalistyczny','Grafton',4872),
+(2893,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-18-86','Szkolenie','Clarksburg',4843),
+(2894,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-19-93','Kurs specjalistyczny','Monterey',4238),
+(2895,'Studia wyższe licencjackie','10-2-03','Kurs specjalistyczny','Coatesville',3184),
+(2896,'Specjalizacja zawodowa','11-7-06','Szkolenie','Wynne',3602),
+(2897,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-17-87','Studia wyższe licencjackie','Sandpoint',3301),
+(2898,'Kurs specjalistyczny – Terapia bólu','2-18-01','Studia doktoranckie','Ansonia',2636),
+(2899,'Studia pielęgniarskie','5-10-89','Specjalizacja','Hornell',2528),
+(2900,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-23-13','Specjalizacja','Tampa',4794),
+(2901,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-19-85','Studia wyższe licencjackie','Zanesville',2906),
+(2902,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','7-24-93','Studia wyższe licencjackie','Kokomo',3250),
+(2903,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-25-15','Kurs specjalistyczny','Scranton',3696),
+(2904,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-26-83','Studia doktoranckie','Los Alamitos',4789),
+(2905,'Kurs specjalistyczny - Szczepienia ochronne','3-26-06','Studia doktoranckie','Sitka',3139),
+(2906,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-27-00','Szkolenie','Norton',2936),
+(2907,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-2-15','Studia pielęgniarskie','Sun Valley',3388),
+(2908,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-23-92','Specjalizacja','Bismarck',3311),
+(2909,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-17-83','Kurs dokształcający','Alameda',3443),
+(2910,'Studia mające zastosowanie w działalności podstawowej','11-3-95','Studia pielęgniarskie','Salt Lake City',2577),
+(2911,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-27-94','Studia doktoranckie','Pass Christian',3952),
+(2912,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-15-85','Kurs kwalifikacyjny','Annapolis',2934),
+(2913,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-5-01','Kurs specjalistyczny','Laguna Niguel',4455),
+(2914,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-22-05','Specjalizacja','Macomb',3316),
+(2915,'Kurs specjalistyczny – Terapia bólu','8-10-01','Studia doktoranckie','Corvallis',4462),
+(2916,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-7-12','Kurs kwalifikacyjny','Chula Vista',2883),
+(2917,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-14-98','Szkolenie','Culver City',3110),
+(2918,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-14-15','Szkolenie','Connellsville',3555),
+(2919,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-7-14','Studia doktoranckie','Redding',3865),
+(2920,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','2-5-83','Kurs specjalistyczny','Baltimore',3304),
+(2921,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-12-01','Kurs specjalistyczny','Brunswick',2554),
+(2922,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-1-87','Kurs dokształcający','Gastonia',3803),
+(2923,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-6-13','Kurs dokształcający','Coral Springs',4453),
+(2924,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-6-05','Studia pielęgniarskie','Oklahoma City',3126),
+(2925,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-27-13','Studia pielęgniarskie','Bowling Green',4662),
+(2926,'Studia wyższe licencjackie','12-24-80','Szkolenie','McAllen',3166),
+(2927,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','6-25-07','Kurs specjalistyczny','Calabasas',4716),
+(2928,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-9-83','Studia wyższe licencjackie','Garden Grove',3698),
+(2929,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-29-85','Studia pielęgniarskie','Pascagoula',4545),
+(2930,'Kurs specjalistyczny - Szczepienia ochronne','2-19-97','Studia wyższe licencjackie','Christiansted',4681),
+(2931,'Studia mające zastosowanie w działalności podstawowej','9-25-09','Kurs specjalistyczny','Bessemer',3099),
+(2932,'Studia doktoranckie','11-26-83','Studia wyższe licencjackie','Villa Park',3496),
+(2933,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-3-85','Studia pielęgniarskie','Selma',4915),
+(2934,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-4-86','Kurs kwalifikacyjny','Mesa',3137),
+(2935,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-12-94','Studia wyższe licencjackie','Waycross',4276),
+(2936,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-3-85','Kurs specjalistyczny','Hawthorne',3756),
+(2937,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-2-05','Szkolenie','Irwindale',3333),
+(2938,'Kurs specjalistyczny – Terapia bólu','12-2-86','Specjalizacja','Leominster',3800),
+(2939,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-21-96','Kurs specjalistyczny','Tyler',4362),
+(2940,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-26-12','Kurs kwalifikacyjny','Yonkers',3306),
+(2941,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-27-00','Specjalizacja','Casper',2596),
+(2942,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-28-85','Kurs kwalifikacyjny','Asbury Park',3759),
+(2943,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-28-11','Szkolenie','Shamokin',2878),
+(2944,'Kurs specjalistyczny - Szczepienia ochronne','5-30-84','Studia wyższe licencjackie','Barrow',4398),
+(2945,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-28-89','Kurs specjalistyczny','Tempe',2918),
+(2946,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-31-08','Studia pielęgniarskie','Saukville',2669),
+(2947,'Kurs specjalistyczny – Terapia bólu','3-5-88','Studia wyższe licencjackie','Thiensville',2775),
+(2948,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-13-97','Kurs specjalistyczny','Orem',4162),
+(2949,'Kurs specjalistyczny – Terapia bólu','6-17-09','Kurs specjalistyczny','Moraga',3424),
+(2950,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-2-90','Studia pielęgniarskie','Scottsdale',2544),
+(2951,'Studia wyższe licencjackie','9-25-04','Kurs dokształcający','Ketchikan',3451),
+(2952,'Studia pielęgniarskie','8-27-92','Specjalizacja','Batavia',3637),
+(2953,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','6-8-12','Specjalizacja','Bay City',2613),
+(2954,'Specjalizacja zawodowa','7-17-86','Szkolenie','Des Moines',4430),
+(2955,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','5-7-87','Specjalizacja','Phenix City',4424),
+(2956,'Studia mające zastosowanie w działalności podstawowej','1-20-91','Studia pielęgniarskie','Florence',3580),
+(2957,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-12-16','Studia wyższe licencjackie','Arvada',4190),
+(2958,'Studia doktoranckie','11-4-08','Kurs specjalistyczny','New Brunswick',3442),
+(2959,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-17-96','Szkolenie','Alhambra',3563),
+(2960,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-19-88','Szkolenie','Walla Walla',2812),
+(2961,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-27-14','Studia pielęgniarskie','Greensburg',4364),
+(2962,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-11-11','Studia pielęgniarskie','Concord',3845),
+(2963,'Studia pielęgniarskie','8-3-88','Studia wyższe licencjackie','Tyler',4795),
+(2964,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-1-85','Studia pielęgniarskie','Livonia',3764),
+(2965,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-12-84','Kurs dokształcający','Villa Park',3855),
+(2966,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-25-87','Szkolenie','Pascagoula',4834),
+(2967,'Studia pielęgniarskie','9-21-86','Specjalizacja','North Pole',3387),
+(2968,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-21-88','Kurs dokształcający','New York',4975),
+(2969,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','4-12-04','Specjalizacja','Seattle',3920),
+(2970,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-10-06','Studia wyższe licencjackie','Walnut',4836),
+(2971,'Kurs dokształcający - Żywienie niemowląt i dzieci','2-7-15','Studia doktoranckie','Basin',4738),
+(2972,'Studia mające zastosowanie w działalności podstawowej','5-25-85','Studia wyższe licencjackie','Half Moon Bay',3397),
+(2973,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-15-95','Kurs kwalifikacyjny','Caguas',3580),
+(2974,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-18-96','Kurs dokształcający','Signal Hill',4620),
+(2975,'Studia doktoranckie','12-30-90','Kurs specjalistyczny','San Juan',3553),
+(2976,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-24-84','Studia wyższe licencjackie','New Orleans',3789),
+(2977,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-21-83','Studia wyższe licencjackie','Peabody',4200),
+(2978,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-13-83','Studia wyższe licencjackie','Blythe',4006),
+(2979,'Specjalizacja zawodowa','7-24-82','Kurs kwalifikacyjny','Slidell',4624),
+(2980,'Kurs dokształcający - Żywienie niemowląt i dzieci','6-4-08','Kurs kwalifikacyjny','Bozeman',3187),
+(2981,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-2-97','Szkolenie','Natchez',4801),
+(2982,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-17-95','Specjalizacja','Davis',4273),
+(2983,'Kurs specjalistyczny – Terapia bólu','9-2-15','Szkolenie','Fall River',2548),
+(2984,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-26-03','Studia wyższe licencjackie','Liberal',2705),
+(2985,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-17-06','Studia doktoranckie','New Iberia',3368),
+(2986,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-27-91','Kurs specjalistyczny','Albany',3268),
+(2987,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-15-04','Kurs dokształcający','Rhinelander',3338),
+(2988,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-19-87','Kurs dokształcający','Burbank',3231),
+(2989,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-4-99','Kurs dokształcający','Georgetown',3239),
+(2990,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','3-23-11','Kurs specjalistyczny','South Pasadena',2863),
+(2991,'Specjalizacja zawodowa','11-9-13','Kurs dokształcający','Midland',2781),
+(2992,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','1-7-13','Kurs specjalistyczny','Fajardo',2949),
+(2993,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-12-98','Studia doktoranckie','Meriden',2947),
+(2994,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-28-11','Studia doktoranckie','Ithaca',2615),
+(2995,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-18-03','Studia wyższe licencjackie','Placentia',2889),
+(2996,'Specjalizacja zawodowa','4-24-93','Kurs specjalistyczny','New Britain',3524),
+(2997,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-12-10','Studia doktoranckie','New Albany',3313),
+(2998,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','9-9-08','Kurs dokształcający','Clarksburg',2775),
+(2999,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-6-05','Kurs specjalistyczny','El Monte',2730),
+(3000,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-14-11','Studia wyższe licencjackie','Pueblo',4496),
+(3001,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','12-18-92','Szkolenie','Pomona',3748),
+(3002,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-31-83','Studia wyższe licencjackie','Edina',4839),
+(3003,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','4-29-83','Studia wyższe licencjackie','Corona',3855),
+(3004,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-13-88','Kurs kwalifikacyjny','Torrance',4277),
+(3005,'Specjalizacja zawodowa','11-1-15','Specjalizacja','Wheaton',2967),
+(3006,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-2-12','Studia wyższe licencjackie','Suffolk',4236),
+(3007,'Kurs specjalistyczny – Terapia bólu','10-9-80','Studia doktoranckie','Pueblo',3792),
+(3008,'Specjalizacja zawodowa','11-8-87','Studia wyższe licencjackie','Brookings',4798),
+(3009,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-18-84','Kurs dokształcający','Dana Point',4574),
+(3010,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-24-01','Studia pielęgniarskie','Brookfield',2826),
+(3011,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-15-94','Specjalizacja','San Dimas',4839),
+(3012,'Specjalizacja zawodowa','6-23-00','Studia wyższe licencjackie','Ketchikan',4930),
+(3013,'Specjalizacja zawodowa','11-21-11','Studia pielęgniarskie','Elkhart',2631),
+(3014,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-8-11','Studia doktoranckie','Grass Valley',4761),
+(3015,'Kurs specjalistyczny - Szczepienia ochronne','4-5-84','Specjalizacja','Sheboygan',2980),
+(3016,'Studia mające zastosowanie w działalności podstawowej','5-27-89','Studia pielęgniarskie','Opelousas',2589),
+(3017,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-18-07','Kurs dokształcający','Escondido',3786),
+(3018,'Studia wyższe licencjackie','12-13-00','Kurs kwalifikacyjny','Mentor',4351),
+(3019,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-21-02','Specjalizacja','Lubbock',2508),
+(3020,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-18-09','Studia doktoranckie','Fajardo',2697),
+(3021,'Studia mające zastosowanie w działalności podstawowej','4-22-12','Studia doktoranckie','Norfolk',4169),
+(3022,'Studia pielęgniarskie','5-11-82','Kurs dokształcający','Redding',4463),
+(3023,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-1-97','Studia doktoranckie','Philadelphia',3134),
+(3024,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','3-6-12','Studia pielęgniarskie','Dodge City',4266),
+(3025,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-22-90','Kurs specjalistyczny','Elkhart',4709),
+(3026,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-12-95','Kurs specjalistyczny','San Jose',2593),
+(3027,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-23-02','Kurs kwalifikacyjny','Woburn',2572),
+(3028,'Studia wyższe licencjackie','5-20-98','Kurs specjalistyczny','Sunbury',3809),
+(3029,'Kurs specjalistyczny - Szczepienia ochronne','10-15-96','Kurs dokształcający','Modesto',3093),
+(3030,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-21-15','Kurs kwalifikacyjny','Savannah',2503),
+(3031,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-27-15','Szkolenie','Kenosha',3817),
+(3032,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-25-95','Specjalizacja','Rolling Hills Estates',3627),
+(3033,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-30-10','Szkolenie','Lake Charles',2542),
+(3034,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-24-08','Studia doktoranckie','Manassas Park',4173),
+(3035,'Kurs specjalistyczny – Terapia bólu','10-28-94','Studia pielęgniarskie','Forest Lake',4487),
+(3036,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-26-07','Studia wyższe licencjackie','Bethlehem',2841),
+(3037,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-3-11','Kurs dokształcający','Wichita Falls',3294),
+(3038,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','12-23-95','Szkolenie','Bristol',4962),
+(3039,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-20-08','Kurs specjalistyczny','Chino Hills',3979),
+(3040,'Studia doktoranckie','7-13-98','Studia wyższe licencjackie','Rocky Mount',2917),
+(3041,'Studia wyższe licencjackie','2-6-09','Kurs dokształcający','Oakland',2628),
+(3042,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-4-81','Kurs specjalistyczny','Jeffersontown',3383),
+(3043,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-29-92','Kurs kwalifikacyjny','Placentia',2702),
+(3044,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-8-95','Specjalizacja','Missoula',4510),
+(3045,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','5-23-99','Kurs kwalifikacyjny','Waco',3266),
+(3046,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-26-04','Szkolenie','Paramount',2573),
+(3047,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-27-04','Specjalizacja','McAlester',2770),
+(3048,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','11-22-01','Kurs kwalifikacyjny','Edina',3465),
+(3049,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-12-95','Kurs dokształcający','Schenectady',3445),
+(3050,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-12-15','Kurs dokształcający','Maywood',2560),
+(3051,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-10-90','Studia pielęgniarskie','Macon',3285),
+(3052,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-18-96','Kurs specjalistyczny','Burbank',2899),
+(3053,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','11-29-14','Szkolenie','Tucson',3044),
+(3054,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','9-16-06','Szkolenie','Torrance',3570),
+(3055,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-5-93','Kurs kwalifikacyjny','Waycross',4149),
+(3056,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-5-82','Kurs kwalifikacyjny','Hagerstown',4648),
+(3057,'Studia pielęgniarskie','2-1-02','Kurs dokształcający','Palm Springs',4268),
+(3058,'Kurs specjalistyczny - Szczepienia ochronne','2-4-82','Studia doktoranckie','Clarksville',3147),
+(3059,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-3-13','Studia pielęgniarskie','Birmingham',4357),
+(3060,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-10-82','Studia pielęgniarskie','Rochester',4707),
+(3061,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','7-1-95','Kurs dokształcający','Lebanon',2586),
+(3062,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','9-2-81','Kurs specjalistyczny','East St. Louis',2957),
+(3063,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-17-82','Kurs specjalistyczny','Healdsburg',4286),
+(3064,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-1-93','Studia wyższe licencjackie','Berkeley',4524),
+(3065,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-3-08','Studia wyższe licencjackie','Yonkers',3518),
+(3066,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-2-15','Kurs kwalifikacyjny','West Hartford',4479),
+(3067,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-7-91','Kurs dokształcający','Signal Hill',2528),
+(3068,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','1-10-98','Studia doktoranckie','Moraga',3441),
+(3069,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-23-84','Studia wyższe licencjackie','Morgan City',4852),
+(3070,'Studia mające zastosowanie w działalności podstawowej','2-6-06','Studia wyższe licencjackie','Overland Park',3355),
+(3071,'Studia doktoranckie','3-4-88','Studia wyższe licencjackie','Hutchinson',4883),
+(3072,'Studia mające zastosowanie w działalności podstawowej','9-20-04','Studia pielęgniarskie','Reading',3257),
+(3073,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-8-00','Szkolenie','Claremore',2893),
+(3074,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-16-83','Kurs specjalistyczny','Slidell',3180),
+(3075,'Studia mające zastosowanie w działalności podstawowej','3-9-15','Studia wyższe licencjackie','The Dalles',3484),
+(3076,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-8-13','Szkolenie','Hawthorne',3471),
+(3077,'Studia pielęgniarskie','5-31-80','Studia doktoranckie','Plantation',4076),
+(3078,'Studia pielęgniarskie','9-14-15','Kurs specjalistyczny','Nichols Hills',3277),
+(3079,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-27-05','Studia wyższe licencjackie','Newburgh',3299),
+(3080,'Studia mające zastosowanie w działalności podstawowej','11-18-96','Specjalizacja','Sierra Vista',3146),
+(3081,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-8-00','Szkolenie','Agat',4500),
+(3082,'Studia doktoranckie','4-13-91','Kurs kwalifikacyjny','Dover',3108),
+(3083,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-3-14','Szkolenie','West Jordan',4918),
+(3084,'Kurs specjalistyczny - Szczepienia ochronne','8-4-82','Studia doktoranckie','Kokomo',3634),
+(3085,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','1-9-04','Kurs kwalifikacyjny','Scottsdale',3642),
+(3086,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-24-88','Studia doktoranckie','Grand Rapids',3906),
+(3087,'Specjalizacja zawodowa','11-26-06','Specjalizacja','Hattiesburg',3467),
+(3088,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-28-92','Specjalizacja','Midwest City',2964),
+(3089,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-26-97','Kurs kwalifikacyjny','Kansas City',3420),
+(3090,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-15-99','Szkolenie','New Castle',3813),
+(3091,'Studia mające zastosowanie w działalności podstawowej','1-10-98','Kurs kwalifikacyjny','Hampton',3913),
+(3092,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-19-87','Studia wyższe licencjackie','Hollywood',4136),
+(3093,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-10-93','Szkolenie','Farmer City',2944),
+(3094,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-28-05','Szkolenie','Dayton',4398),
+(3095,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-25-97','Studia doktoranckie','San Bernardino',4962),
+(3096,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-23-08','Specjalizacja','Princeton',4223),
+(3097,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-21-06','Kurs specjalistyczny','Aliso Viejo',3311),
+(3098,'Kurs specjalistyczny – Terapia bólu','12-25-85','Studia pielęgniarskie','Aspen',2702),
+(3099,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','5-19-01','Kurs dokształcający','The Dalles',3094),
+(3100,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-6-14','Studia doktoranckie','Pittston',2968),
+(3101,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-2-93','Studia wyższe licencjackie','Jeffersontown',3633),
+(3102,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','11-12-03','Specjalizacja','Mechanicville',4891),
+(3103,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-25-96','Studia doktoranckie','Nampa',4874),
+(3104,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-14-88','Studia pielęgniarskie','LaGrange',4346),
+(3105,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-28-11','Szkolenie','Santa Fe',3748),
+(3106,'Studia doktoranckie','10-6-85','Kurs kwalifikacyjny','Salem',4732),
+(3107,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-7-99','Studia pielęgniarskie','Mesa',4954),
+(3108,'Studia doktoranckie','3-28-06','Kurs specjalistyczny','Hudson',2644),
+(3109,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-12-00','Kurs kwalifikacyjny','Stamford',3045),
+(3110,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-6-82','Szkolenie','New London',3082),
+(3111,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-6-05','Studia wyższe licencjackie','Saint Louis',2906),
+(3112,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','2-22-07','Specjalizacja','Cypress',4903),
+(3113,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-3-87','Studia doktoranckie','San Fernando',3684),
+(3114,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-6-14','Kurs dokształcający','Salem',3106),
+(3115,'Studia pielęgniarskie','4-7-96','Kurs kwalifikacyjny','Provo',4765),
+(3116,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-15-06','Kurs kwalifikacyjny','Gettysburg',2932),
+(3117,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','12-17-90','Studia wyższe licencjackie','Dothan',2537),
+(3118,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','11-21-14','Kurs specjalistyczny','Worland',3435),
+(3119,'Kurs specjalistyczny - Szczepienia ochronne','5-8-87','Studia wyższe licencjackie','Sturgis',3287),
+(3120,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-2-98','Kurs specjalistyczny','Sioux Falls',4105),
+(3121,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-21-90','Szkolenie','Sun Valley',2773),
+(3122,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-8-15','Studia wyższe licencjackie','Calumet City',2581),
+(3123,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-18-87','Studia pielęgniarskie','Overland Park',4048),
+(3124,'Studia mające zastosowanie w działalności podstawowej','1-28-13','Szkolenie','Malibu',3256),
+(3125,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-20-82','Studia pielęgniarskie','Helena',4665),
+(3126,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-19-05','Szkolenie','Cohoes',2753),
+(3127,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','10-31-96','Szkolenie','Poughkeepsie',2754),
+(3128,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-23-92','Kurs kwalifikacyjny','Diamond Bar',3833),
+(3129,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','8-3-82','Studia pielęgniarskie','Asbury Park',3731),
+(3130,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','6-23-02','Studia pielęgniarskie','Branson',2516),
+(3131,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-9-13','Studia pielęgniarskie','Homer',3262),
+(3132,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','9-23-80','Studia doktoranckie','Duncan',3539),
+(3133,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-30-12','Kurs specjalistyczny','Vail',3668),
+(3134,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-15-00','Studia doktoranckie','Binghamton',3302),
+(3135,'Specjalizacja zawodowa','10-21-88','Szkolenie','Yorba Linda',3607),
+(3136,'Kurs specjalistyczny – Terapia bólu','2-27-99','Studia pielęgniarskie','Kennewick',4745),
+(3137,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-15-93','Kurs dokształcający','Blythe',3805),
+(3138,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-29-94','Studia pielęgniarskie','Bessemer',4563),
+(3139,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-26-89','Studia pielęgniarskie','Oakland',3558),
+(3140,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-17-87','Szkolenie','Vernon',3673),
+(3141,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','4-2-02','Studia wyższe licencjackie','Malden',4094),
+(3142,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','11-5-91','Kurs kwalifikacyjny','Rancho Palos Verdes',3069),
+(3143,'Specjalizacja zawodowa','4-30-06','Studia pielęgniarskie','Bessemer',4727),
+(3144,'Studia wyższe licencjackie','12-8-92','Kurs specjalistyczny','Oak Ridge',4797),
+(3145,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','4-18-86','Kurs kwalifikacyjny','Easthampton',3158),
+(3146,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','7-22-94','Studia wyższe licencjackie','Grass Valley',2518),
+(3147,'Studia pielęgniarskie','12-6-95','Kurs kwalifikacyjny','Abilene',3235),
+(3148,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-6-09','Szkolenie','Fairfield',2910),
+(3149,'Studia pielęgniarskie','10-9-95','Studia wyższe licencjackie','Kingston',4882),
+(3150,'Kurs specjalistyczny – Terapia bólu','4-8-86','Specjalizacja','Owensboro',3796),
+(3151,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-29-90','Szkolenie','Miami',4288),
+(3152,'Specjalizacja zawodowa','5-12-06','Studia pielęgniarskie','Fullerton',3196),
+(3153,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-25-81','Studia doktoranckie','Grand Junction',4412),
+(3154,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-4-08','Specjalizacja','Murrieta',3164),
+(3155,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-26-94','Kurs dokształcający','Port Washington',3403),
+(3156,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-14-87','Specjalizacja','Altoona',3327),
+(3157,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-18-01','Szkolenie','Santa Fe Springs',3330),
+(3158,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-1-08','Kurs kwalifikacyjny','International Falls',3458),
+(3159,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','3-29-96','Kurs kwalifikacyjny','Phenix City',2673),
+(3160,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-21-15','Specjalizacja','International Falls',3739),
+(3161,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','5-17-01','Kurs specjalistyczny','Visalia',3693),
+(3162,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-10-98','Kurs dokształcający','Commerce',3882),
+(3163,'Studia doktoranckie','5-29-04','Studia doktoranckie','Hammond',3551),
+(3164,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-9-04','Studia doktoranckie','Texas City',3894),
+(3165,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-9-88','Kurs kwalifikacyjny','Muskegon',2784),
+(3166,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-14-91','Szkolenie','Vail',4222),
+(3167,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-14-01','Kurs specjalistyczny','Nashua',4035),
+(3168,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-4-80','Studia doktoranckie','Rutland',4573),
+(3169,'Studia wyższe licencjackie','3-22-91','Studia doktoranckie','Hidden Hills',3939),
+(3170,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-25-07','Specjalizacja','Gary',2747),
+(3171,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-12-85','Studia pielęgniarskie','Azusa',4250),
+(3172,'Kurs specjalistyczny - Szczepienia ochronne','12-20-99','Studia pielęgniarskie','Vail',2523),
+(3173,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','1-9-09','Studia doktoranckie','Pueblo',3600),
+(3174,'Specjalizacja zawodowa','1-19-93','Szkolenie','Orem',3173),
+(3175,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-4-81','Studia pielęgniarskie','Thousand Oaks',3762),
+(3176,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-21-99','Kurs dokształcający','Glendale',3540),
+(3177,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','7-10-15','Studia pielęgniarskie','Dubuque',2908),
+(3178,'Kurs specjalistyczny - Szczepienia ochronne','8-27-89','Studia pielęgniarskie','Lexington',4819),
+(3179,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','1-21-14','Studia wyższe licencjackie','Rohnert Park',3395),
+(3180,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-16-90','Kurs kwalifikacyjny','West Sacramento',4677),
+(3181,'Kurs specjalistyczny – Terapia bólu','12-12-94','Szkolenie','Newcastle',4280),
+(3182,'Kurs specjalistyczny - Szczepienia ochronne','10-2-81','Studia doktoranckie','Douglas',2992),
+(3183,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-2-13','Specjalizacja','Saint Albans',4097),
+(3184,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','9-22-89','Szkolenie','Cortland',4523),
+(3185,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-31-85','Kurs specjalistyczny','White Plains',4505),
+(3186,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-25-04','Kurs dokształcający','Sandy Springs',3747),
+(3187,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','7-6-02','Kurs kwalifikacyjny','Newark',4297),
+(3188,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-21-95','Studia doktoranckie','Johnstown',4522),
+(3189,'Studia pielęgniarskie','8-23-85','Studia wyższe licencjackie','Port Jervis',4377),
+(3190,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-23-05','Kurs specjalistyczny','Sheboygan',4362),
+(3191,'Studia wyższe licencjackie','8-16-85','Studia doktoranckie','Anderson',2766),
+(3192,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-14-09','Kurs kwalifikacyjny','Kingsport',4666),
+(3193,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','5-12-12','Kurs dokształcający','Grand Junction',4293),
+(3194,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','12-6-12','Studia pielęgniarskie','San Luis Obispo',2930),
+(3195,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-30-89','Studia doktoranckie','Decatur',3341),
+(3196,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-16-94','Studia wyższe licencjackie','Meridian',3688),
+(3197,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','5-23-91','Szkolenie','Laguna Hills',4516),
+(3198,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','6-17-90','Specjalizacja','Bradbury',4808),
+(3199,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-29-93','Studia wyższe licencjackie','Winnemucca',4213),
+(3200,'Specjalizacja zawodowa','11-16-97','Kurs kwalifikacyjny','Rome',2690),
+(3201,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','1-19-91','Kurs specjalistyczny','Rancho Cucamonga',3553),
+(3202,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-6-85','Studia wyższe licencjackie','Culver City',4539),
+(3203,'Specjalizacja zawodowa','7-25-98','Specjalizacja','Aberdeen',3045),
+(3204,'Studia pielęgniarskie','10-16-14','Studia pielęgniarskie','Amesbury',4283),
+(3205,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-23-84','Kurs kwalifikacyjny','Cudahy',2790),
+(3206,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-18-93','Kurs dokształcający','Westfield',4547),
+(3207,'Studia doktoranckie','10-7-95','Szkolenie','Auburn',4586),
+(3208,'Studia wyższe licencjackie','2-3-94','Specjalizacja','Cincinnati',4330),
+(3209,'Kurs specjalistyczny – Terapia bólu','9-4-14','Studia pielęgniarskie','Orem',3867),
+(3210,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-17-10','Kurs kwalifikacyjny','Grand Junction',2814),
+(3211,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','1-19-84','Kurs kwalifikacyjny','Rock Springs',3501),
+(3212,'Kurs specjalistyczny – Terapia bólu','9-24-98','Kurs dokształcający','Avalon',3354),
+(3213,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','10-29-96','Szkolenie','Grand Forks',4006),
+(3214,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-28-14','Kurs dokształcający','Areceibo',3495),
+(3215,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-16-94','Kurs dokształcający','Covina',3313),
+(3216,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','3-13-89','Kurs dokształcający','Lincoln',4865),
+(3217,'Kurs specjalistyczny – Terapia bólu','1-14-93','Studia pielęgniarskie','Beaver Falls',4907),
+(3218,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','2-22-94','Studia wyższe licencjackie','Richland',3047),
+(3219,'Studia mające zastosowanie w działalności podstawowej','2-11-81','Studia pielęgniarskie','Annapolis',4810),
+(3220,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-20-96','Szkolenie','Laguna Woods',4295),
+(3221,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-19-96','Kurs specjalistyczny','Roswell',4955),
+(3222,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-13-83','Studia pielęgniarskie','Greenville',4549),
+(3223,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','10-23-01','Studia doktoranckie','Easthampton',3623),
+(3224,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-13-88','Kurs specjalistyczny','Manhattan',2779),
+(3225,'Studia pielęgniarskie','8-13-01','Studia wyższe licencjackie','Sister Bay',3419),
+(3226,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','7-18-81','Studia pielęgniarskie','Aliquippa',3066),
+(3227,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-14-03','Kurs kwalifikacyjny','Yonkers',3309),
+(3228,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','2-19-14','Kurs kwalifikacyjny','Thibodaux',3402),
+(3229,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-3-84','Kurs specjalistyczny','Crown Point',4192),
+(3230,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-5-97','Studia wyższe licencjackie','Evanston',3771),
+(3231,'Specjalizacja zawodowa','5-10-82','Specjalizacja','Charlottesville',4356),
+(3232,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-27-94','Studia doktoranckie','Paducah',3087),
+(3233,'Studia wyższe licencjackie','12-21-04','Kurs specjalistyczny','Frisco',3292),
+(3234,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-26-81','Specjalizacja','Butte',4806),
+(3235,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-9-80','Studia pielęgniarskie','Attleboro',3241),
+(3236,'Studia wyższe licencjackie','7-9-92','Szkolenie','Frisco',4001),
+(3237,'Specjalizacja zawodowa','1-10-98','Studia wyższe licencjackie','Concord',4401),
+(3238,'Specjalizacja zawodowa','1-25-87','Studia doktoranckie','Saint Paul',2793),
+(3239,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','3-8-86','Kurs kwalifikacyjny','Blacksburg',3560),
+(3240,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-11-88','Kurs kwalifikacyjny','Vallejo',2993),
+(3241,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','12-19-86','Studia pielęgniarskie','Battle Creek',3945),
+(3242,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-13-96','Studia wyższe licencjackie','Boulder',4188),
+(3243,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','10-8-95','Studia wyższe licencjackie','Paterson',4401),
+(3244,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-13-89','Studia wyższe licencjackie','Palo Alto',2901),
+(3245,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-15-08','Studia pielęgniarskie','Pittston',4933),
+(3246,'Studia wyższe licencjackie','4-23-87','Studia doktoranckie','Santa Rosa',4871),
+(3247,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-11-81','Studia wyższe licencjackie','Columbia',3188),
+(3248,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-25-07','Studia pielęgniarskie','Westfield',2872),
+(3249,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-5-01','Specjalizacja','Troy',3090),
+(3250,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-2-97','Studia wyższe licencjackie','Ruston',3960),
+(3251,'Kurs specjalistyczny - Szczepienia ochronne','9-9-89','Studia wyższe licencjackie','Galesburg',3098),
+(3252,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-3-88','Kurs kwalifikacyjny','Midland',4125),
+(3253,'Kurs specjalistyczny – Terapia bólu','2-14-88','Specjalizacja','Tyler',4388),
+(3254,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-29-08','Studia pielęgniarskie','Laramie',3621),
+(3255,'Studia doktoranckie','5-6-08','Studia wyższe licencjackie','Johnstown',2710),
+(3256,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-26-86','Szkolenie','Yorba Linda',3286),
+(3257,'Specjalizacja zawodowa','4-12-15','Studia pielęgniarskie','Cairo',4676),
+(3258,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','12-5-88','Kurs specjalistyczny','New Albany',3575),
+(3259,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-24-01','Kurs specjalistyczny','East Hartford',3501),
+(3260,'Studia pielęgniarskie','11-10-00','Kurs dokształcający','San Mateo',3592),
+(3261,'Studia pielęgniarskie','9-13-08','Studia wyższe licencjackie','Cincinnati',4069),
+(3262,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','11-3-93','Szkolenie','Passaic',3211),
+(3263,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','3-13-98','Specjalizacja','South Gate',3594),
+(3264,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','10-5-89','Studia pielęgniarskie','San Juan',3164),
+(3265,'Kurs specjalistyczny – Terapia bólu','7-4-00','Kurs kwalifikacyjny','Del Rio',2881),
+(3266,'Studia doktoranckie','2-7-10','Studia doktoranckie','Mason City',4350),
+(3267,'Kurs specjalistyczny - Szczepienia ochronne','10-24-08','Studia doktoranckie','Pullman',2755),
+(3268,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-2-86','Studia wyższe licencjackie','Hampton',4042),
+(3269,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','2-16-86','Studia doktoranckie','Little Rock',2632),
+(3270,'Studia mające zastosowanie w działalności podstawowej','6-9-85','Studia wyższe licencjackie','Kahului',4231),
+(3271,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','8-20-04','Studia doktoranckie','New Madrid',4415),
+(3272,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','7-14-85','Studia wyższe licencjackie','Dickinson',2657),
+(3273,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-15-95','Szkolenie','Victoria',3489),
+(3274,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','8-6-93','Studia pielęgniarskie','Montgomery',2598),
+(3275,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','7-27-97','Studia wyższe licencjackie','Kalamazoo',4561),
+(3276,'Studia doktoranckie','10-12-89','Studia wyższe licencjackie','Deadwood',4027),
+(3277,'Kurs specjalistyczny - Szczepienia ochronne','7-11-92','Kurs specjalistyczny','Augusta',4012),
+(3278,'Kurs dokształcający - Żywienie niemowląt i dzieci','1-4-15','Studia doktoranckie','Yonkers',4096),
+(3279,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-20-91','Kurs kwalifikacyjny','Needham',3020),
+(3280,'Kurs specjalistyczny – Terapia bólu','3-16-81','Specjalizacja','Woodward',4156),
+(3281,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','1-16-06','Kurs dokształcający','Atlanta',4284),
+(3282,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','2-26-13','Studia pielęgniarskie','Calumet City',4207),
+(3283,'Specjalizacja zawodowa','2-13-97','Studia wyższe licencjackie','Kemmerer',3824),
+(3284,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-15-83','Kurs specjalistyczny','Loudon',4829),
+(3285,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','11-18-08','Studia doktoranckie','Gardner',3400),
+(3286,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-10-03','Studia pielęgniarskie','Layton',4936),
+(3287,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','2-9-14','Specjalizacja','Dana Point',3232),
+(3288,'Studia wyższe licencjackie','1-24-05','Studia wyższe licencjackie','Honolulu',4163),
+(3289,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-20-11','Studia wyższe licencjackie','Cape Coral',3485),
+(3290,'Studia mające zastosowanie w działalności podstawowej','2-28-10','Kurs kwalifikacyjny','Springfield',2557),
+(3291,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','4-25-15','Kurs specjalistyczny','Vacaville',2982),
+(3292,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','9-17-14','Specjalizacja','Frederiksted',3563),
+(3293,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','6-29-09','Kurs kwalifikacyjny','Fremont',3264),
+(3294,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','6-16-06','Kurs dokształcający','Arvada',3991),
+(3295,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-4-97','Studia wyższe licencjackie','Cohoes',4211),
+(3296,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-30-83','Studia pielęgniarskie','Roseville',4891),
+(3297,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-7-05','Szkolenie','Burlingame',2900),
+(3298,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','3-7-15','Kurs dokształcający','Schenectady',3922),
+(3299,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-3-12','Kurs specjalistyczny','Warner Robins',3892),
+(3300,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-10-05','Kurs specjalistyczny','Ardmore',4154),
+(3301,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','2-5-84','Studia wyższe licencjackie','Somerville',4120),
+(3302,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-4-91','Studia doktoranckie','Baton Rouge',2908),
+(3303,'Specjalizacja zawodowa','8-3-98','Kurs kwalifikacyjny','Covington',4214),
+(3304,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','1-19-92','Kurs dokształcający','Torrance',4950),
+(3305,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-23-90','Kurs kwalifikacyjny','Murfreesboro',2999),
+(3306,'Kurs specjalistyczny – Terapia bólu','4-10-03','Studia doktoranckie','Cheyenne',3654),
+(3307,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','9-28-13','Studia pielęgniarskie','Alamogordo',4530),
+(3308,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','6-15-88','Studia pielęgniarskie','Hayward',2828),
+(3309,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-11-05','Szkolenie','Latrobe',4625),
+(3310,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-29-96','Kurs kwalifikacyjny','El Monte',3498),
+(3311,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-20-12','Szkolenie','Tamuning',2797),
+(3312,'Kurs specjalistyczny – Terapia bólu','7-2-03','Kurs specjalistyczny','Waco',2968),
+(3313,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','4-3-12','Specjalizacja','Inglewood',4040),
+(3314,'Studia pielęgniarskie','8-31-89','Studia doktoranckie','Yonkers',4582),
+(3315,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','5-26-89','Studia wyższe licencjackie','Winnemucca',4524),
+(3316,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','9-29-95','Studia doktoranckie','Leominster',4175),
+(3317,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-9-07','Studia wyższe licencjackie','Appleton',2595),
+(3318,'Kurs specjalistyczny – Terapia bólu','10-28-90','Studia wyższe licencjackie','Garden Grove',2856),
+(3319,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','8-8-11','Studia doktoranckie','Cedar Falls',4113),
+(3320,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','10-16-99','Kurs kwalifikacyjny','Avalon',3736),
+(3321,'Kurs specjalistyczny – Terapia bólu','9-6-98','Studia pielęgniarskie','Paramount',4188),
+(3322,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','7-15-84','Kurs specjalistyczny','Cerritos',4970),
+(3323,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-29-09','Studia wyższe licencjackie','Statesboro',3967),
+(3324,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-23-05','Specjalizacja','Huntington Park',3624),
+(3325,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','5-31-92','Studia wyższe licencjackie','Escondido',4341),
+(3326,'Kurs specjalistyczny – Terapia bólu','8-23-95','Kurs specjalistyczny','Rochester',2796),
+(3327,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','8-7-95','Kurs dokształcający','Farmington',2769),
+(3328,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-13-95','Studia pielęgniarskie','Passaic',3865),
+(3329,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-28-10','Studia wyższe licencjackie','Joliet',3129),
+(3330,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-12-92','Studia pielęgniarskie','Rolla',3339),
+(3331,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','10-30-81','Studia pielęgniarskie','Jacksonville',2888),
+(3332,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','7-25-94','Kurs kwalifikacyjny','Ypsilanti',4574),
+(3333,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-15-83','Szkolenie','Saint Louis',2987),
+(3334,'Specjalizacja zawodowa','6-30-88','Kurs dokształcający','Hackensack',4198),
+(3335,'Studia pielęgniarskie','2-15-15','Kurs kwalifikacyjny','Charleston',3297),
+(3336,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','5-5-98','Studia doktoranckie','San Gabriel',2821),
+(3337,'Studia doktoranckie','6-29-87','Specjalizacja','Newburyport',4024),
+(3338,'Studia doktoranckie','1-9-94','Kurs kwalifikacyjny','Longview',3681),
+(3339,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-13-91','Specjalizacja','Concord',3263),
+(3340,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','7-26-07','Kurs dokształcający','Charlotte Amalie',4396),
+(3341,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','6-11-88','Studia pielęgniarskie','Dixon',3450),
+(3342,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','4-26-06','Kurs kwalifikacyjny','Titusville',3416),
+(3343,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-12-05','Studia doktoranckie','New Albany',4690),
+(3344,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-21-92','Kurs specjalistyczny','Vergennes',3770),
+(3345,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','11-7-87','Kurs kwalifikacyjny','Mandan',3316),
+(3346,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-1-12','Studia pielęgniarskie','Connellsville',3291),
+(3347,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','3-17-88','Studia wyższe licencjackie','Chino',3753),
+(3348,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','11-28-08','Kurs dokształcający','Fairmont',3796),
+(3349,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','5-8-85','Kurs specjalistyczny','Goose Creek',2702),
+(3350,'Specjalizacja zawodowa','5-25-12','Szkolenie','Jackson',2960),
+(3351,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','8-28-83','Studia wyższe licencjackie','Salem',4309),
+(3352,'Studia pielęgniarskie','9-13-80','Kurs dokształcający','Myrtle Beach',2542),
+(3353,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','2-25-01','Szkolenie','Chattanooga',3184),
+(3354,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','10-8-05','Szkolenie','Maywood',4620),
+(3355,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','7-17-95','Kurs dokształcający','Topeka',2808),
+(3356,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','2-1-83','Kurs dokształcający','College Park',4541),
+(3357,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-2-03','Studia doktoranckie','Laguna Niguel',2773),
+(3358,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','2-26-94','Kurs specjalistyczny','Derby',3556),
+(3359,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','2-21-09','Kurs dokształcający','Ogden',3616),
+(3360,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','4-3-00','Kurs kwalifikacyjny','Sonoma',4346),
+(3361,'Studia mające zastosowanie w działalności podstawowej','9-17-14','Studia wyższe licencjackie','Phenix City',2512),
+(3362,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','4-12-00','Szkolenie','Augusta',4531),
+(3363,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','4-16-91','Szkolenie','Murray',4062),
+(3364,'Specjalizacja zawodowa','3-26-02','Kurs dokształcający','Somersworth',4334),
+(3365,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','4-5-11','Kurs kwalifikacyjny','Newburyport',4757),
+(3366,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','5-31-92','Kurs kwalifikacyjny','Saint Paul',3446),
+(3367,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-11-96','Studia doktoranckie','Aspen',3398),
+(3368,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','11-22-14','Studia wyższe licencjackie','Needham',3837),
+(3369,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','2-12-04','Studia doktoranckie','Casper',3822),
+(3370,'Studia doktoranckie','7-19-99','Kurs kwalifikacyjny','Flagstaff',3595),
+(3371,'Kurs specjalistyczny – Terapia bólu','10-30-82','Kurs specjalistyczny','Kearns',3488),
+(3372,'Kurs dokształcający - Żywienie niemowląt i dzieci','3-14-02','Specjalizacja','Rancho Palos Verdes',3444),
+(3373,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','8-10-85','Studia wyższe licencjackie','Superior',3556),
+(3374,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-29-05','Studia pielęgniarskie','Agoura Hills',3774),
+(3375,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-25-83','Kurs specjalistyczny','Latrobe',3210),
+(3376,'Kurs specjalistyczny – Terapia bólu','4-9-84','Szkolenie','Maywood',3843),
+(3377,'Kurs specjalistyczny – Terapia bólu','1-2-04','Studia doktoranckie','Methuen',3872),
+(3378,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','10-29-03','Kurs specjalistyczny','Arlington',2902),
+(3379,'Specjalizacja zawodowa','12-19-99','Specjalizacja','Pueblo',4918),
+(3380,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','4-30-96','Kurs specjalistyczny','Marlborough',3510),
+(3381,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-11-05','Specjalizacja','Lynn',3691),
+(3382,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','2-10-92','Kurs specjalistyczny','Coos Bay',3894),
+(3383,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','1-27-14','Specjalizacja','Laughlin',4420),
+(3384,'Kurs specjalistyczny – Terapia bólu','4-17-07','Kurs dokształcający','Taylorsville',4370),
+(3385,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','9-3-94','Studia pielęgniarskie','Valdosta',4071),
+(3386,'Studia mające zastosowanie w działalności podstawowej','6-1-83','Studia pielęgniarskie','Webster Groves',2682),
+(3387,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','12-5-83','Kurs dokształcający','West Valley City',4536),
+(3388,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','9-25-02','Kurs specjalistyczny','New Castle',4074),
+(3389,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','6-12-91','Kurs kwalifikacyjny','Vicksburg',4713),
+(3390,'Kurs specjalistyczny – Terapia bólu','2-17-11','Kurs dokształcający','Laguna Beach',2561),
+(3391,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','9-29-85','Kurs specjalistyczny','Suffolk',4016),
+(3392,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','5-11-86','Kurs dokształcający','Hialeah',3370),
+(3393,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','11-27-99','Kurs dokształcający','East Hartford',3641),
+(3394,'Studia pielęgniarskie','3-11-96','Kurs specjalistyczny','Hutchinson',4412),
+(3395,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-18-82','Studia doktoranckie','Aurora',4656),
+(3396,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','4-1-13','Kurs specjalistyczny','Nogales',4858),
+(3397,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','9-21-14','Kurs specjalistyczny','Laguna Niguel',4780),
+(3398,'Studia mające zastosowanie w działalności podstawowej','3-18-14','Studia wyższe licencjackie','Derby',4227),
+(3399,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','3-1-82','Szkolenie','Rehoboth Beach',3702),
+(3400,'Studia doktoranckie','10-4-12','Studia wyższe licencjackie','Longview',2770),
+(3401,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','11-15-91','Studia pielęgniarskie','Saratoga Springs',4508),
+(3402,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','7-6-15','Studia wyższe licencjackie','Beloit',4604),
+(3403,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','10-10-88','Studia wyższe licencjackie','Owensboro',4162),
+(3404,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-26-82','Studia doktoranckie','Franklin',2831),
+(3405,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','3-26-02','Studia wyższe licencjackie','Hickory',2734),
+(3406,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','3-2-09','Kurs kwalifikacyjny','Meriden',3687),
+(3407,'Kurs specjalistyczny - Szczepienia ochronne','3-28-16','Specjalizacja','Olean',3816),
+(3408,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-13-82','Studia wyższe licencjackie','Macomb',3376),
+(3409,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','8-11-96','Studia wyższe licencjackie','Norwich',4933),
+(3410,'Kurs dokształcający - Żywienie niemowląt i dzieci','12-1-15','Kurs kwalifikacyjny','Santa Clara',2716),
+(3411,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-16-87','Studia pielęgniarskie','Santa Clarita',3575),
+(3412,'Specjalizacja zawodowa','9-29-13','Kurs dokształcający','Montgomery',4460),
+(3413,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','7-28-81','Specjalizacja','Boulder',3085),
+(3414,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','4-15-84','Kurs dokształcający','Pittsburgh',4234),
+(3415,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-2-83','Studia doktoranckie','Greenville',2877),
+(3416,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','5-23-04','Kurs dokształcający','Phenix City',2789),
+(3417,'Studia wyższe licencjackie','1-24-09','Kurs specjalistyczny','Las Vegas',3863),
+(3418,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','12-13-98','Kurs kwalifikacyjny','Tupelo',3833),
+(3419,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','9-28-09','Studia pielęgniarskie','Amesbury',3790),
+(3420,'Studia wyższe licencjackie','10-29-05','Studia doktoranckie','Rawlins',3673),
+(3421,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','1-4-02','Kurs specjalistyczny','Boulder City',4916),
+(3422,'Kurs specjalistyczny – Terapia bólu','12-25-97','Specjalizacja','Temecula',2656),
+(3423,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-26-86','Kurs dokształcający','North Charleston',3158),
+(3424,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','10-26-05','Kurs kwalifikacyjny','Naperville',4390),
+(3425,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-1-94','Studia doktoranckie','Slidell',4435),
+(3426,'Studia mające zastosowanie w działalności podstawowej','9-17-83','Kurs specjalistyczny','Yuma',4058),
+(3427,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','6-18-15','Kurs specjalistyczny','Twin Falls',3411),
+(3428,'Specjalizacja zawodowa','4-22-12','Studia doktoranckie','Areceibo',3705),
+(3429,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','8-3-87','Studia doktoranckie','Parker',4200),
+(3430,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','2-27-83','Specjalizacja','Hannibal',2713),
+(3431,'Kurs specjalistyczny - Szczepienia ochronne','8-8-09','Kurs specjalistyczny','Rialto',3296),
+(3432,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','8-12-99','Szkolenie','West Valley City',2957),
+(3433,'Studia wyższe licencjackie','2-13-85','Studia pielęgniarskie','Signal Hill',3882),
+(3434,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','10-18-96','Specjalizacja','Hammond',3375),
+(3435,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','6-15-08','Kurs kwalifikacyjny','Chino Hills',2663),
+(3436,'Tytuł specjalisty w dziedzinie medycyny rodzinnej','1-1-14','Szkolenie','Hot Springs',4534),
+(3437,'Kurs dokształcający - Żywienie niemowląt i dzieci','4-19-03','Szkolenie','Tacoma',4391),
+(3438,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','10-23-81','Specjalizacja','Placentia',3612),
+(3439,'Studia doktoranckie','12-31-08','Studia wyższe licencjackie','Gary',3978),
+(3440,'Kurs kwalifikacyjny z zakresu pielęgniarstwa zachowawczego','9-7-83','Kurs specjalistyczny','Saratoga Springs',3457),
+(3441,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-25-86','Szkolenie','Lomita',2585),
+(3442,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','8-24-92','Studia pielęgniarskie','Joliet',4885),
+(3443,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','11-26-07','Kurs dokształcający','Elmira',3622),
+(3444,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','3-11-09','Kurs kwalifikacyjny','Champaign',4508),
+(3445,'Specjalizacja w dziedzinie pielęgniarstwa pediatrycznego','7-26-06','Specjalizacja','Wilmington',3548),
+(3446,'Kurs specjalistyczny – Terapia bólu','2-18-91','Szkolenie','Rancho Palos Verdes',2997),
+(3447,'Studia pielęgniarskie','12-20-13','Studia pielęgniarskie','Boise',3848),
+(3448,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','5-6-97','Kurs dokształcający','Grand Junction',4498),
+(3449,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','12-24-12','Studia pielęgniarskie','Elizabeth City',2875),
+(3450,'Studia wyższe licencjackie','9-8-05','Kurs specjalistyczny','Littleton',2881),
+(3451,'Studia doktoranckie','10-19-05','Specjalizacja','Simi Valley',3067),
+(3452,'Specjalizacja zawodowa','11-23-12','Studia doktoranckie','Sault Ste. Marie',4738),
+(3453,'Studia wyższe licencjackie','6-2-84','Studia doktoranckie','Laguna Hills',2904),
+(3454,'Studia doktoranckie','11-1-89','Studia wyższe licencjackie','Aberdeen',3138),
+(3455,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-8-92','Szkolenie','Lomita',4122),
+(3456,'Studia mające zastosowanie w działalności podstawowej','10-30-02','Specjalizacja','Danville',4278),
+(3457,'Studia wyższe licencjackie','1-31-12','Studia doktoranckie','Rawlins',2713),
+(3458,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','10-11-00','Studia doktoranckie','West Lafayette',3355),
+(3459,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','6-2-02','Specjalizacja','Blythe',3629),
+(3460,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','9-15-02','Studia doktoranckie','Dover',2858),
+(3461,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-5-09','Specjalizacja','West Hollywood',3930),
+(3462,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','3-27-03','Szkolenie','Hidden Hills',3287),
+(3463,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','7-10-83','Kurs kwalifikacyjny','City of Industry',3558),
+(3464,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','12-13-15','Studia pielęgniarskie','Ruston',4864),
+(3465,'Studia pielęgniarskie','12-1-86','Studia wyższe licencjackie','Simi Valley',3918),
+(3466,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','6-14-84','Specjalizacja','Sacramento',3198),
+(3467,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','7-3-05','Kurs kwalifikacyjny','Fremont',3720),
+(3468,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','6-25-05','Studia wyższe licencjackie','Virginia Beach',3414),
+(3469,'Kurs dokształcający - Zasady obowiązujące w krwiodawstwie i krwiolecznictwie','5-1-05','Studia wyższe licencjackie','Anchorage',3348),
+(3470,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','2-2-84','Kurs specjalistyczny','Dixon',3746),
+(3471,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','12-4-85','Kurs dokształcający','Denver',4312),
+(3472,'Kurs dokształcający - Wykonanie i interpretacja zapisu elektrokardiograficznego','12-15-11','Szkolenie','Anderson',3041),
+(3473,'Specjalizacja zawodowa','6-1-98','Studia wyższe licencjackie','Klamath Falls',4701),
+(3474,'Kurs dokształcający – Podstawy diabetologii dla pielęgniarek','5-26-84','Kurs specjalistyczny','Northampton',3867),
+(3475,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','12-15-89','Studia wyższe licencjackie','Kalamazoo',3279),
+(3476,'Kurs specjalistyczny – Terapia bólu','7-16-87','Studia wyższe licencjackie','Tuscaloosa',3641),
+(3477,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','3-15-05','Specjalizacja','New Orleans',4046),
+(3478,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','12-16-97','Kurs kwalifikacyjny','Cape Girardeau',2677),
+(3479,'Kurs dokształcający - Żywienie niemowląt i dzieci','8-18-96','Kurs kwalifikacyjny','Revere',4888),
+(3480,'Kurs dokształcający - Żywienie niemowląt: „zdrowy rozwój krok po kroku od narodzin aż do roku”','11-16-11','Szkolenie','Corry',4542),
+(3481,'Kurs specjalistyczny – Terapia bólu','1-18-05','Specjalizacja','West Palm Beach',4493),
+(3482,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','11-11-95','Studia wyższe licencjackie','Worcester',3896),
+(3483,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','8-12-00','Kurs specjalistyczny','Winston-Salem',2813),
+(3484,'Kurs kwalifikacyjny dla pielęgniarek instrumentariuszek','3-7-14','Kurs specjalistyczny','Eden Prairie',4249),
+(3485,'Studia doktoranckie','12-27-88','Studia wyższe licencjackie','Arlington',3894),
+(3486,'Kurs dokształcający – Kaniulacja żył obwodowych i terapia płynami infuzyjnymi','3-14-07','Kurs specjalistyczny','Nogales',3944),
+(3487,'Kurs dokształcający - Żywienie niemowląt i dzieci','10-10-87','Kurs dokształcający','Azusa',4923),
+(3488,'Kurs dokształcający – Podstawy medycyny ratunkowej – 8 pielęgniarek','1-4-88','Studia wyższe licencjackie','Dallas',3946),
+(3489,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','2-10-86','Kurs specjalistyczny','Douglas',4733),
+(3490,'Studia mające zastosowanie w działalności podstawowej','11-21-00','Szkolenie','Yuma',3843),
+(3491,'Kurs kwalifikacyjny dla pielęgniarek pediatrycznych','4-14-88','Kurs kwalifikacyjny','Gulfport',4464),
+(3492,'Studia mające zastosowanie w działalności podstawowej','8-31-87','Studia doktoranckie','El Monte',4270),
+(3493,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','1-22-95','Studia wyższe licencjackie','Port Washington',4685),
+(3494,'Kurs specjalistyczny - Resuscytacja krążeniowo – oddechowa','11-5-88','Kurs kwalifikacyjny','Eufaula',4619),
+(3495,'Studia podyplomowe: organizacja i zarządzanie w ochronie zdrowia','10-23-84','Szkolenie','Westlake Village',4959),
+(3496,'Studia pielęgniarskie','4-15-99','Szkolenie','Wichita',2935),
+(3497,'Specjalizacja II stopnia w dziedzinie medycyny ogólnej','6-14-88','Specjalizacja','Nashville',3391),
+(3498,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','8-6-99','Szkolenie','Haverhill',2741),
+(3499,'Kurs specjalistyczny - Szczepienia ochronne','8-2-05','Kurs dokształcający','St. George',2640),
+(3500,'Kurs kwalifikacyjny z zakresu pielęgniarstwa anestezjologicznego','7-18-02','Kurs dokształcający','Prescott',3856);

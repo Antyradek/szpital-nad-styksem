@@ -1,5000 +1,5000 @@
-INSERT INTO Pozycje_zamowienia VALUES (10,3604,212);
-INSERT INTO Pozycje_zamowienia VALUES (3,2163,276);
-INSERT INTO Pozycje_zamowienia VALUES (41,3247,173);
-INSERT INTO Pozycje_zamowienia VALUES (66,2853,167);
-INSERT INTO Pozycje_zamowienia VALUES (16,1602,272);
-INSERT INTO Pozycje_zamowienia VALUES (5,1874,115);
-INSERT INTO Pozycje_zamowienia VALUES (66,729,205);
-INSERT INTO Pozycje_zamowienia VALUES (18,5613,132);
-INSERT INTO Pozycje_zamowienia VALUES (97,4034,69);
-INSERT INTO Pozycje_zamowienia VALUES (35,2642,95);
-INSERT INTO Pozycje_zamowienia VALUES (12,4070,168);
-INSERT INTO Pozycje_zamowienia VALUES (61,2576,41);
-INSERT INTO Pozycje_zamowienia VALUES (68,212,14);
-INSERT INTO Pozycje_zamowienia VALUES (40,6492,298);
-INSERT INTO Pozycje_zamowienia VALUES (9,3544,285);
-INSERT INTO Pozycje_zamowienia VALUES (20,4639,271);
-INSERT INTO Pozycje_zamowienia VALUES (76,4335,316);
-INSERT INTO Pozycje_zamowienia VALUES (94,5017,77);
-INSERT INTO Pozycje_zamowienia VALUES (81,5802,91);
-INSERT INTO Pozycje_zamowienia VALUES (56,3742,100);
-INSERT INTO Pozycje_zamowienia VALUES (92,4431,160);
-INSERT INTO Pozycje_zamowienia VALUES (90,845,279);
-INSERT INTO Pozycje_zamowienia VALUES (86,3961,298);
-INSERT INTO Pozycje_zamowienia VALUES (30,4269,126);
-INSERT INTO Pozycje_zamowienia VALUES (91,2992,179);
-INSERT INTO Pozycje_zamowienia VALUES (64,2066,288);
-INSERT INTO Pozycje_zamowienia VALUES (98,4257,222);
-INSERT INTO Pozycje_zamowienia VALUES (23,316,86);
-INSERT INTO Pozycje_zamowienia VALUES (51,5557,13);
-INSERT INTO Pozycje_zamowienia VALUES (50,158,188);
-INSERT INTO Pozycje_zamowienia VALUES (74,624,108);
-INSERT INTO Pozycje_zamowienia VALUES (49,2181,215);
-INSERT INTO Pozycje_zamowienia VALUES (49,2634,47);
-INSERT INTO Pozycje_zamowienia VALUES (1,3186,206);
-INSERT INTO Pozycje_zamowienia VALUES (78,1942,13);
-INSERT INTO Pozycje_zamowienia VALUES (83,4143,217);
-INSERT INTO Pozycje_zamowienia VALUES (77,4561,261);
-INSERT INTO Pozycje_zamowienia VALUES (61,1123,291);
-INSERT INTO Pozycje_zamowienia VALUES (88,668,270);
-INSERT INTO Pozycje_zamowienia VALUES (76,551,269);
-INSERT INTO Pozycje_zamowienia VALUES (20,3147,261);
-INSERT INTO Pozycje_zamowienia VALUES (82,5109,106);
-INSERT INTO Pozycje_zamowienia VALUES (4,989,32);
-INSERT INTO Pozycje_zamowienia VALUES (51,503,36);
-INSERT INTO Pozycje_zamowienia VALUES (67,4864,116);
-INSERT INTO Pozycje_zamowienia VALUES (73,1764,299);
-INSERT INTO Pozycje_zamowienia VALUES (73,2625,116);
-INSERT INTO Pozycje_zamowienia VALUES (72,5279,167);
-INSERT INTO Pozycje_zamowienia VALUES (17,2245,291);
-INSERT INTO Pozycje_zamowienia VALUES (91,1422,125);
-INSERT INTO Pozycje_zamowienia VALUES (81,5092,136);
-INSERT INTO Pozycje_zamowienia VALUES (73,2982,154);
-INSERT INTO Pozycje_zamowienia VALUES (92,205,143);
-INSERT INTO Pozycje_zamowienia VALUES (80,972,37);
-INSERT INTO Pozycje_zamowienia VALUES (36,3162,84);
-INSERT INTO Pozycje_zamowienia VALUES (35,2064,64);
-INSERT INTO Pozycje_zamowienia VALUES (3,4636,156);
-INSERT INTO Pozycje_zamowienia VALUES (42,5692,162);
-INSERT INTO Pozycje_zamowienia VALUES (52,5762,111);
-INSERT INTO Pozycje_zamowienia VALUES (83,6277,11);
-INSERT INTO Pozycje_zamowienia VALUES (22,5478,73);
-INSERT INTO Pozycje_zamowienia VALUES (38,3012,138);
-INSERT INTO Pozycje_zamowienia VALUES (27,47,25);
-INSERT INTO Pozycje_zamowienia VALUES (62,252,123);
-INSERT INTO Pozycje_zamowienia VALUES (48,6283,164);
-INSERT INTO Pozycje_zamowienia VALUES (3,5216,30);
-INSERT INTO Pozycje_zamowienia VALUES (35,6427,234);
-INSERT INTO Pozycje_zamowienia VALUES (21,4856,195);
-INSERT INTO Pozycje_zamowienia VALUES (31,6189,295);
-INSERT INTO Pozycje_zamowienia VALUES (85,5118,307);
-INSERT INTO Pozycje_zamowienia VALUES (26,5942,273);
-INSERT INTO Pozycje_zamowienia VALUES (60,4474,34);
-INSERT INTO Pozycje_zamowienia VALUES (14,4745,144);
-INSERT INTO Pozycje_zamowienia VALUES (54,3283,120);
-INSERT INTO Pozycje_zamowienia VALUES (44,4085,20);
-INSERT INTO Pozycje_zamowienia VALUES (5,5527,13);
-INSERT INTO Pozycje_zamowienia VALUES (91,2859,63);
-INSERT INTO Pozycje_zamowienia VALUES (96,4943,88);
-INSERT INTO Pozycje_zamowienia VALUES (48,544,187);
-INSERT INTO Pozycje_zamowienia VALUES (27,4085,318);
-INSERT INTO Pozycje_zamowienia VALUES (52,4460,124);
-INSERT INTO Pozycje_zamowienia VALUES (39,3690,97);
-INSERT INTO Pozycje_zamowienia VALUES (100,1134,153);
-INSERT INTO Pozycje_zamowienia VALUES (52,4972,2);
-INSERT INTO Pozycje_zamowienia VALUES (90,5560,173);
-INSERT INTO Pozycje_zamowienia VALUES (8,4693,254);
-INSERT INTO Pozycje_zamowienia VALUES (84,2040,207);
-INSERT INTO Pozycje_zamowienia VALUES (56,1052,250);
-INSERT INTO Pozycje_zamowienia VALUES (52,1453,245);
-INSERT INTO Pozycje_zamowienia VALUES (73,356,201);
-INSERT INTO Pozycje_zamowienia VALUES (52,491,164);
-INSERT INTO Pozycje_zamowienia VALUES (45,4734,114);
-INSERT INTO Pozycje_zamowienia VALUES (54,2954,227);
-INSERT INTO Pozycje_zamowienia VALUES (45,4438,248);
-INSERT INTO Pozycje_zamowienia VALUES (97,507,67);
-INSERT INTO Pozycje_zamowienia VALUES (62,5377,295);
-INSERT INTO Pozycje_zamowienia VALUES (41,2773,44);
-INSERT INTO Pozycje_zamowienia VALUES (10,5079,100);
-INSERT INTO Pozycje_zamowienia VALUES (46,4977,311);
-INSERT INTO Pozycje_zamowienia VALUES (87,2923,107);
-INSERT INTO Pozycje_zamowienia VALUES (62,4342,64);
-INSERT INTO Pozycje_zamowienia VALUES (44,2087,298);
-INSERT INTO Pozycje_zamowienia VALUES (64,2804,135);
-INSERT INTO Pozycje_zamowienia VALUES (74,4064,142);
-INSERT INTO Pozycje_zamowienia VALUES (59,671,52);
-INSERT INTO Pozycje_zamowienia VALUES (11,6300,229);
-INSERT INTO Pozycje_zamowienia VALUES (72,3073,272);
-INSERT INTO Pozycje_zamowienia VALUES (7,1078,63);
-INSERT INTO Pozycje_zamowienia VALUES (44,2140,17);
-INSERT INTO Pozycje_zamowienia VALUES (91,889,73);
-INSERT INTO Pozycje_zamowienia VALUES (26,3096,182);
-INSERT INTO Pozycje_zamowienia VALUES (60,3141,144);
-INSERT INTO Pozycje_zamowienia VALUES (40,5013,97);
-INSERT INTO Pozycje_zamowienia VALUES (63,2616,278);
-INSERT INTO Pozycje_zamowienia VALUES (61,3564,302);
-INSERT INTO Pozycje_zamowienia VALUES (89,4912,94);
-INSERT INTO Pozycje_zamowienia VALUES (70,3062,63);
-INSERT INTO Pozycje_zamowienia VALUES (23,5333,204);
-INSERT INTO Pozycje_zamowienia VALUES (4,5452,303);
-INSERT INTO Pozycje_zamowienia VALUES (60,472,50);
-INSERT INTO Pozycje_zamowienia VALUES (85,5816,284);
-INSERT INTO Pozycje_zamowienia VALUES (72,3183,40);
-INSERT INTO Pozycje_zamowienia VALUES (55,6205,279);
-INSERT INTO Pozycje_zamowienia VALUES (7,4077,162);
-INSERT INTO Pozycje_zamowienia VALUES (7,5083,152);
-INSERT INTO Pozycje_zamowienia VALUES (91,230,191);
-INSERT INTO Pozycje_zamowienia VALUES (3,2413,158);
-INSERT INTO Pozycje_zamowienia VALUES (49,2221,86);
-INSERT INTO Pozycje_zamowienia VALUES (12,1763,76);
-INSERT INTO Pozycje_zamowienia VALUES (42,2420,225);
-INSERT INTO Pozycje_zamowienia VALUES (3,3786,117);
-INSERT INTO Pozycje_zamowienia VALUES (2,5946,206);
-INSERT INTO Pozycje_zamowienia VALUES (44,3126,7);
-INSERT INTO Pozycje_zamowienia VALUES (44,4049,261);
-INSERT INTO Pozycje_zamowienia VALUES (4,939,193);
-INSERT INTO Pozycje_zamowienia VALUES (93,1481,65);
-INSERT INTO Pozycje_zamowienia VALUES (25,3318,220);
-INSERT INTO Pozycje_zamowienia VALUES (91,2700,63);
-INSERT INTO Pozycje_zamowienia VALUES (66,1725,179);
-INSERT INTO Pozycje_zamowienia VALUES (38,3999,28);
-INSERT INTO Pozycje_zamowienia VALUES (25,4485,171);
-INSERT INTO Pozycje_zamowienia VALUES (14,5111,207);
-INSERT INTO Pozycje_zamowienia VALUES (77,3700,130);
-INSERT INTO Pozycje_zamowienia VALUES (81,186,221);
-INSERT INTO Pozycje_zamowienia VALUES (2,3077,18);
-INSERT INTO Pozycje_zamowienia VALUES (66,3168,307);
-INSERT INTO Pozycje_zamowienia VALUES (53,2361,13);
-INSERT INTO Pozycje_zamowienia VALUES (37,5745,27);
-INSERT INTO Pozycje_zamowienia VALUES (7,479,282);
-INSERT INTO Pozycje_zamowienia VALUES (24,5391,312);
-INSERT INTO Pozycje_zamowienia VALUES (64,1409,170);
-INSERT INTO Pozycje_zamowienia VALUES (63,2784,314);
-INSERT INTO Pozycje_zamowienia VALUES (55,551,58);
-INSERT INTO Pozycje_zamowienia VALUES (65,1126,83);
-INSERT INTO Pozycje_zamowienia VALUES (57,3983,223);
-INSERT INTO Pozycje_zamowienia VALUES (29,4100,18);
-INSERT INTO Pozycje_zamowienia VALUES (28,4321,111);
-INSERT INTO Pozycje_zamowienia VALUES (9,5823,138);
-INSERT INTO Pozycje_zamowienia VALUES (99,4876,198);
-INSERT INTO Pozycje_zamowienia VALUES (15,583,121);
-INSERT INTO Pozycje_zamowienia VALUES (15,6200,88);
-INSERT INTO Pozycje_zamowienia VALUES (36,3654,34);
-INSERT INTO Pozycje_zamowienia VALUES (60,1860,263);
-INSERT INTO Pozycje_zamowienia VALUES (37,187,245);
-INSERT INTO Pozycje_zamowienia VALUES (39,5961,37);
-INSERT INTO Pozycje_zamowienia VALUES (100,1573,267);
-INSERT INTO Pozycje_zamowienia VALUES (98,2556,263);
-INSERT INTO Pozycje_zamowienia VALUES (59,6396,286);
-INSERT INTO Pozycje_zamowienia VALUES (64,472,103);
-INSERT INTO Pozycje_zamowienia VALUES (46,4952,157);
-INSERT INTO Pozycje_zamowienia VALUES (55,3779,277);
-INSERT INTO Pozycje_zamowienia VALUES (53,4048,284);
-INSERT INTO Pozycje_zamowienia VALUES (21,1224,306);
-INSERT INTO Pozycje_zamowienia VALUES (20,2155,312);
-INSERT INTO Pozycje_zamowienia VALUES (52,2792,59);
-INSERT INTO Pozycje_zamowienia VALUES (14,378,153);
-INSERT INTO Pozycje_zamowienia VALUES (89,955,234);
-INSERT INTO Pozycje_zamowienia VALUES (90,3658,6);
-INSERT INTO Pozycje_zamowienia VALUES (14,5079,146);
-INSERT INTO Pozycje_zamowienia VALUES (42,3088,92);
-INSERT INTO Pozycje_zamowienia VALUES (49,5731,79);
-INSERT INTO Pozycje_zamowienia VALUES (27,1712,293);
-INSERT INTO Pozycje_zamowienia VALUES (30,6004,228);
-INSERT INTO Pozycje_zamowienia VALUES (4,1283,186);
-INSERT INTO Pozycje_zamowienia VALUES (79,1022,92);
-INSERT INTO Pozycje_zamowienia VALUES (79,1981,74);
-INSERT INTO Pozycje_zamowienia VALUES (18,1273,218);
-INSERT INTO Pozycje_zamowienia VALUES (28,3406,81);
-INSERT INTO Pozycje_zamowienia VALUES (48,4087,41);
-INSERT INTO Pozycje_zamowienia VALUES (91,4123,255);
-INSERT INTO Pozycje_zamowienia VALUES (65,2552,227);
-INSERT INTO Pozycje_zamowienia VALUES (9,2939,116);
-INSERT INTO Pozycje_zamowienia VALUES (70,3727,245);
-INSERT INTO Pozycje_zamowienia VALUES (94,4560,37);
-INSERT INTO Pozycje_zamowienia VALUES (95,2060,113);
-INSERT INTO Pozycje_zamowienia VALUES (27,2968,160);
-INSERT INTO Pozycje_zamowienia VALUES (6,1400,97);
-INSERT INTO Pozycje_zamowienia VALUES (43,3952,223);
-INSERT INTO Pozycje_zamowienia VALUES (32,3654,149);
-INSERT INTO Pozycje_zamowienia VALUES (92,188,31);
-INSERT INTO Pozycje_zamowienia VALUES (100,3438,176);
-INSERT INTO Pozycje_zamowienia VALUES (39,1142,313);
-INSERT INTO Pozycje_zamowienia VALUES (79,2797,144);
-INSERT INTO Pozycje_zamowienia VALUES (98,893,116);
-INSERT INTO Pozycje_zamowienia VALUES (87,6409,272);
-INSERT INTO Pozycje_zamowienia VALUES (26,4619,195);
-INSERT INTO Pozycje_zamowienia VALUES (76,1528,316);
-INSERT INTO Pozycje_zamowienia VALUES (69,4600,169);
-INSERT INTO Pozycje_zamowienia VALUES (32,576,219);
-INSERT INTO Pozycje_zamowienia VALUES (51,3236,19);
-INSERT INTO Pozycje_zamowienia VALUES (8,1173,267);
-INSERT INTO Pozycje_zamowienia VALUES (3,994,236);
-INSERT INTO Pozycje_zamowienia VALUES (1,3645,4);
-INSERT INTO Pozycje_zamowienia VALUES (85,1339,6);
-INSERT INTO Pozycje_zamowienia VALUES (75,6193,55);
-INSERT INTO Pozycje_zamowienia VALUES (67,5234,262);
-INSERT INTO Pozycje_zamowienia VALUES (44,4220,167);
-INSERT INTO Pozycje_zamowienia VALUES (34,2237,140);
-INSERT INTO Pozycje_zamowienia VALUES (43,3064,216);
-INSERT INTO Pozycje_zamowienia VALUES (66,4473,163);
-INSERT INTO Pozycje_zamowienia VALUES (95,2565,92);
-INSERT INTO Pozycje_zamowienia VALUES (26,1865,159);
-INSERT INTO Pozycje_zamowienia VALUES (30,6060,65);
-INSERT INTO Pozycje_zamowienia VALUES (37,1433,93);
-INSERT INTO Pozycje_zamowienia VALUES (59,1778,309);
-INSERT INTO Pozycje_zamowienia VALUES (2,3852,160);
-INSERT INTO Pozycje_zamowienia VALUES (2,2139,222);
-INSERT INTO Pozycje_zamowienia VALUES (42,4497,270);
-INSERT INTO Pozycje_zamowienia VALUES (77,5060,114);
-INSERT INTO Pozycje_zamowienia VALUES (99,2667,295);
-INSERT INTO Pozycje_zamowienia VALUES (28,801,305);
-INSERT INTO Pozycje_zamowienia VALUES (61,4637,241);
-INSERT INTO Pozycje_zamowienia VALUES (56,3085,93);
-INSERT INTO Pozycje_zamowienia VALUES (41,5974,253);
-INSERT INTO Pozycje_zamowienia VALUES (58,5497,89);
-INSERT INTO Pozycje_zamowienia VALUES (31,2942,75);
-INSERT INTO Pozycje_zamowienia VALUES (31,950,3);
-INSERT INTO Pozycje_zamowienia VALUES (44,5312,302);
-INSERT INTO Pozycje_zamowienia VALUES (19,3229,184);
-INSERT INTO Pozycje_zamowienia VALUES (14,1537,142);
-INSERT INTO Pozycje_zamowienia VALUES (88,4423,244);
-INSERT INTO Pozycje_zamowienia VALUES (89,3574,154);
-INSERT INTO Pozycje_zamowienia VALUES (61,5334,14);
-INSERT INTO Pozycje_zamowienia VALUES (65,5879,89);
-INSERT INTO Pozycje_zamowienia VALUES (100,373,233);
-INSERT INTO Pozycje_zamowienia VALUES (67,2199,74);
-INSERT INTO Pozycje_zamowienia VALUES (43,822,74);
-INSERT INTO Pozycje_zamowienia VALUES (50,2084,180);
-INSERT INTO Pozycje_zamowienia VALUES (24,2170,200);
-INSERT INTO Pozycje_zamowienia VALUES (26,3417,293);
-INSERT INTO Pozycje_zamowienia VALUES (4,3340,76);
-INSERT INTO Pozycje_zamowienia VALUES (13,1750,66);
-INSERT INTO Pozycje_zamowienia VALUES (31,397,137);
-INSERT INTO Pozycje_zamowienia VALUES (89,1064,286);
-INSERT INTO Pozycje_zamowienia VALUES (82,650,109);
-INSERT INTO Pozycje_zamowienia VALUES (37,754,253);
-INSERT INTO Pozycje_zamowienia VALUES (32,4140,258);
-INSERT INTO Pozycje_zamowienia VALUES (9,3378,147);
-INSERT INTO Pozycje_zamowienia VALUES (39,825,248);
-INSERT INTO Pozycje_zamowienia VALUES (59,3999,31);
-INSERT INTO Pozycje_zamowienia VALUES (8,3457,228);
-INSERT INTO Pozycje_zamowienia VALUES (69,406,315);
-INSERT INTO Pozycje_zamowienia VALUES (37,5562,230);
-INSERT INTO Pozycje_zamowienia VALUES (18,4726,226);
-INSERT INTO Pozycje_zamowienia VALUES (53,6199,180);
-INSERT INTO Pozycje_zamowienia VALUES (9,3835,160);
-INSERT INTO Pozycje_zamowienia VALUES (28,1055,201);
-INSERT INTO Pozycje_zamowienia VALUES (35,2898,5);
-INSERT INTO Pozycje_zamowienia VALUES (16,5023,50);
-INSERT INTO Pozycje_zamowienia VALUES (57,3964,240);
-INSERT INTO Pozycje_zamowienia VALUES (8,4323,146);
-INSERT INTO Pozycje_zamowienia VALUES (80,4847,60);
-INSERT INTO Pozycje_zamowienia VALUES (69,4979,218);
-INSERT INTO Pozycje_zamowienia VALUES (57,3295,281);
-INSERT INTO Pozycje_zamowienia VALUES (80,4423,227);
-INSERT INTO Pozycje_zamowienia VALUES (2,5685,316);
-INSERT INTO Pozycje_zamowienia VALUES (22,6115,133);
-INSERT INTO Pozycje_zamowienia VALUES (73,3291,137);
-INSERT INTO Pozycje_zamowienia VALUES (70,5679,188);
-INSERT INTO Pozycje_zamowienia VALUES (60,5494,97);
-INSERT INTO Pozycje_zamowienia VALUES (95,771,145);
-INSERT INTO Pozycje_zamowienia VALUES (33,6466,277);
-INSERT INTO Pozycje_zamowienia VALUES (50,2619,148);
-INSERT INTO Pozycje_zamowienia VALUES (64,1581,162);
-INSERT INTO Pozycje_zamowienia VALUES (6,2578,4);
-INSERT INTO Pozycje_zamowienia VALUES (96,6305,217);
-INSERT INTO Pozycje_zamowienia VALUES (64,3851,180);
-INSERT INTO Pozycje_zamowienia VALUES (59,1275,78);
-INSERT INTO Pozycje_zamowienia VALUES (81,5354,288);
-INSERT INTO Pozycje_zamowienia VALUES (26,4966,187);
-INSERT INTO Pozycje_zamowienia VALUES (99,3870,188);
-INSERT INTO Pozycje_zamowienia VALUES (36,610,18);
-INSERT INTO Pozycje_zamowienia VALUES (14,5154,316);
-INSERT INTO Pozycje_zamowienia VALUES (68,5700,173);
-INSERT INTO Pozycje_zamowienia VALUES (29,4820,252);
-INSERT INTO Pozycje_zamowienia VALUES (36,1474,70);
-INSERT INTO Pozycje_zamowienia VALUES (84,3269,301);
-INSERT INTO Pozycje_zamowienia VALUES (45,2159,281);
-INSERT INTO Pozycje_zamowienia VALUES (23,3140,165);
-INSERT INTO Pozycje_zamowienia VALUES (3,125,238);
-INSERT INTO Pozycje_zamowienia VALUES (84,5510,181);
-INSERT INTO Pozycje_zamowienia VALUES (11,5238,191);
-INSERT INTO Pozycje_zamowienia VALUES (81,1239,266);
-INSERT INTO Pozycje_zamowienia VALUES (26,2846,284);
-INSERT INTO Pozycje_zamowienia VALUES (62,952,226);
-INSERT INTO Pozycje_zamowienia VALUES (77,5581,11);
-INSERT INTO Pozycje_zamowienia VALUES (70,5361,76);
-INSERT INTO Pozycje_zamowienia VALUES (54,3137,181);
-INSERT INTO Pozycje_zamowienia VALUES (61,5505,301);
-INSERT INTO Pozycje_zamowienia VALUES (83,6315,304);
-INSERT INTO Pozycje_zamowienia VALUES (7,2380,217);
-INSERT INTO Pozycje_zamowienia VALUES (27,1737,248);
-INSERT INTO Pozycje_zamowienia VALUES (31,4185,310);
-INSERT INTO Pozycje_zamowienia VALUES (80,4053,214);
-INSERT INTO Pozycje_zamowienia VALUES (41,397,168);
-INSERT INTO Pozycje_zamowienia VALUES (43,2765,135);
-INSERT INTO Pozycje_zamowienia VALUES (27,13,32);
-INSERT INTO Pozycje_zamowienia VALUES (71,4953,105);
-INSERT INTO Pozycje_zamowienia VALUES (96,6033,210);
-INSERT INTO Pozycje_zamowienia VALUES (61,1985,156);
-INSERT INTO Pozycje_zamowienia VALUES (33,3231,243);
-INSERT INTO Pozycje_zamowienia VALUES (39,1801,93);
-INSERT INTO Pozycje_zamowienia VALUES (100,2133,175);
-INSERT INTO Pozycje_zamowienia VALUES (85,4564,230);
-INSERT INTO Pozycje_zamowienia VALUES (21,2056,174);
-INSERT INTO Pozycje_zamowienia VALUES (35,6466,118);
-INSERT INTO Pozycje_zamowienia VALUES (88,5393,232);
-INSERT INTO Pozycje_zamowienia VALUES (99,4616,138);
-INSERT INTO Pozycje_zamowienia VALUES (71,1537,247);
-INSERT INTO Pozycje_zamowienia VALUES (32,123,196);
-INSERT INTO Pozycje_zamowienia VALUES (31,2245,47);
-INSERT INTO Pozycje_zamowienia VALUES (83,99,143);
-INSERT INTO Pozycje_zamowienia VALUES (90,6239,247);
-INSERT INTO Pozycje_zamowienia VALUES (42,2200,48);
-INSERT INTO Pozycje_zamowienia VALUES (15,459,58);
-INSERT INTO Pozycje_zamowienia VALUES (70,4723,25);
-INSERT INTO Pozycje_zamowienia VALUES (97,1541,63);
-INSERT INTO Pozycje_zamowienia VALUES (81,4397,226);
-INSERT INTO Pozycje_zamowienia VALUES (22,2309,285);
-INSERT INTO Pozycje_zamowienia VALUES (45,5367,105);
-INSERT INTO Pozycje_zamowienia VALUES (3,2357,160);
-INSERT INTO Pozycje_zamowienia VALUES (93,6232,312);
-INSERT INTO Pozycje_zamowienia VALUES (31,3352,62);
-INSERT INTO Pozycje_zamowienia VALUES (13,1275,273);
-INSERT INTO Pozycje_zamowienia VALUES (14,4608,58);
-INSERT INTO Pozycje_zamowienia VALUES (95,4334,251);
-INSERT INTO Pozycje_zamowienia VALUES (75,5582,239);
-INSERT INTO Pozycje_zamowienia VALUES (30,6067,248);
-INSERT INTO Pozycje_zamowienia VALUES (93,6365,107);
-INSERT INTO Pozycje_zamowienia VALUES (97,717,42);
-INSERT INTO Pozycje_zamowienia VALUES (9,169,125);
-INSERT INTO Pozycje_zamowienia VALUES (88,1115,31);
-INSERT INTO Pozycje_zamowienia VALUES (68,3657,218);
-INSERT INTO Pozycje_zamowienia VALUES (82,1757,82);
-INSERT INTO Pozycje_zamowienia VALUES (31,5486,42);
-INSERT INTO Pozycje_zamowienia VALUES (43,670,32);
-INSERT INTO Pozycje_zamowienia VALUES (56,5639,194);
-INSERT INTO Pozycje_zamowienia VALUES (72,1151,141);
-INSERT INTO Pozycje_zamowienia VALUES (25,94,124);
-INSERT INTO Pozycje_zamowienia VALUES (47,6232,165);
-INSERT INTO Pozycje_zamowienia VALUES (14,2539,173);
-INSERT INTO Pozycje_zamowienia VALUES (87,2404,79);
-INSERT INTO Pozycje_zamowienia VALUES (88,465,245);
-INSERT INTO Pozycje_zamowienia VALUES (47,6019,9);
-INSERT INTO Pozycje_zamowienia VALUES (38,624,95);
-INSERT INTO Pozycje_zamowienia VALUES (64,447,105);
-INSERT INTO Pozycje_zamowienia VALUES (29,4821,148);
-INSERT INTO Pozycje_zamowienia VALUES (97,3287,316);
-INSERT INTO Pozycje_zamowienia VALUES (63,3663,157);
-INSERT INTO Pozycje_zamowienia VALUES (71,1919,131);
-INSERT INTO Pozycje_zamowienia VALUES (84,6121,149);
-INSERT INTO Pozycje_zamowienia VALUES (72,274,12);
-INSERT INTO Pozycje_zamowienia VALUES (63,241,317);
-INSERT INTO Pozycje_zamowienia VALUES (10,4442,38);
-INSERT INTO Pozycje_zamowienia VALUES (63,6414,237);
-INSERT INTO Pozycje_zamowienia VALUES (60,2491,219);
-INSERT INTO Pozycje_zamowienia VALUES (48,2295,19);
-INSERT INTO Pozycje_zamowienia VALUES (31,1072,264);
-INSERT INTO Pozycje_zamowienia VALUES (91,5386,104);
-INSERT INTO Pozycje_zamowienia VALUES (93,1985,188);
-INSERT INTO Pozycje_zamowienia VALUES (12,5698,131);
-INSERT INTO Pozycje_zamowienia VALUES (48,836,48);
-INSERT INTO Pozycje_zamowienia VALUES (49,3347,31);
-INSERT INTO Pozycje_zamowienia VALUES (29,634,118);
-INSERT INTO Pozycje_zamowienia VALUES (32,4358,95);
-INSERT INTO Pozycje_zamowienia VALUES (27,5543,8);
-INSERT INTO Pozycje_zamowienia VALUES (57,5895,305);
-INSERT INTO Pozycje_zamowienia VALUES (70,81,222);
-INSERT INTO Pozycje_zamowienia VALUES (89,5877,38);
-INSERT INTO Pozycje_zamowienia VALUES (15,3211,291);
-INSERT INTO Pozycje_zamowienia VALUES (16,6446,88);
-INSERT INTO Pozycje_zamowienia VALUES (49,3870,263);
-INSERT INTO Pozycje_zamowienia VALUES (73,4872,154);
-INSERT INTO Pozycje_zamowienia VALUES (7,5697,98);
-INSERT INTO Pozycje_zamowienia VALUES (49,2528,51);
-INSERT INTO Pozycje_zamowienia VALUES (76,2401,268);
-INSERT INTO Pozycje_zamowienia VALUES (8,3717,40);
-INSERT INTO Pozycje_zamowienia VALUES (38,799,62);
-INSERT INTO Pozycje_zamowienia VALUES (44,589,16);
-INSERT INTO Pozycje_zamowienia VALUES (57,5303,101);
-INSERT INTO Pozycje_zamowienia VALUES (56,1503,187);
-INSERT INTO Pozycje_zamowienia VALUES (37,4661,272);
-INSERT INTO Pozycje_zamowienia VALUES (37,733,78);
-INSERT INTO Pozycje_zamowienia VALUES (15,4079,234);
-INSERT INTO Pozycje_zamowienia VALUES (27,882,272);
-INSERT INTO Pozycje_zamowienia VALUES (56,2670,81);
-INSERT INTO Pozycje_zamowienia VALUES (57,2685,160);
-INSERT INTO Pozycje_zamowienia VALUES (93,3887,63);
-INSERT INTO Pozycje_zamowienia VALUES (76,4404,6);
-INSERT INTO Pozycje_zamowienia VALUES (69,4153,301);
-INSERT INTO Pozycje_zamowienia VALUES (87,5904,223);
-INSERT INTO Pozycje_zamowienia VALUES (93,2892,147);
-INSERT INTO Pozycje_zamowienia VALUES (28,252,12);
-INSERT INTO Pozycje_zamowienia VALUES (42,5487,217);
-INSERT INTO Pozycje_zamowienia VALUES (2,4607,115);
-INSERT INTO Pozycje_zamowienia VALUES (29,4954,96);
-INSERT INTO Pozycje_zamowienia VALUES (72,669,93);
-INSERT INTO Pozycje_zamowienia VALUES (17,4269,179);
-INSERT INTO Pozycje_zamowienia VALUES (98,753,34);
-INSERT INTO Pozycje_zamowienia VALUES (93,5528,24);
-INSERT INTO Pozycje_zamowienia VALUES (91,2405,221);
-INSERT INTO Pozycje_zamowienia VALUES (71,5026,100);
-INSERT INTO Pozycje_zamowienia VALUES (82,3721,143);
-INSERT INTO Pozycje_zamowienia VALUES (28,2467,93);
-INSERT INTO Pozycje_zamowienia VALUES (74,2180,120);
-INSERT INTO Pozycje_zamowienia VALUES (38,3460,261);
-INSERT INTO Pozycje_zamowienia VALUES (48,3189,301);
-INSERT INTO Pozycje_zamowienia VALUES (96,5908,101);
-INSERT INTO Pozycje_zamowienia VALUES (55,921,304);
-INSERT INTO Pozycje_zamowienia VALUES (39,6369,318);
-INSERT INTO Pozycje_zamowienia VALUES (41,5839,203);
-INSERT INTO Pozycje_zamowienia VALUES (12,4130,253);
-INSERT INTO Pozycje_zamowienia VALUES (88,2303,143);
-INSERT INTO Pozycje_zamowienia VALUES (81,2420,42);
-INSERT INTO Pozycje_zamowienia VALUES (41,1156,85);
-INSERT INTO Pozycje_zamowienia VALUES (34,2002,84);
-INSERT INTO Pozycje_zamowienia VALUES (45,6119,52);
-INSERT INTO Pozycje_zamowienia VALUES (60,477,98);
-INSERT INTO Pozycje_zamowienia VALUES (94,900,233);
-INSERT INTO Pozycje_zamowienia VALUES (1,5765,174);
-INSERT INTO Pozycje_zamowienia VALUES (80,3142,269);
-INSERT INTO Pozycje_zamowienia VALUES (53,1883,200);
-INSERT INTO Pozycje_zamowienia VALUES (8,3976,60);
-INSERT INTO Pozycje_zamowienia VALUES (87,5985,122);
-INSERT INTO Pozycje_zamowienia VALUES (94,992,192);
-INSERT INTO Pozycje_zamowienia VALUES (27,4023,237);
-INSERT INTO Pozycje_zamowienia VALUES (14,1191,213);
-INSERT INTO Pozycje_zamowienia VALUES (27,5024,304);
-INSERT INTO Pozycje_zamowienia VALUES (26,6141,177);
-INSERT INTO Pozycje_zamowienia VALUES (1,530,319);
-INSERT INTO Pozycje_zamowienia VALUES (96,6209,239);
-INSERT INTO Pozycje_zamowienia VALUES (72,6020,27);
-INSERT INTO Pozycje_zamowienia VALUES (46,1744,302);
-INSERT INTO Pozycje_zamowienia VALUES (34,3880,86);
-INSERT INTO Pozycje_zamowienia VALUES (82,977,33);
-INSERT INTO Pozycje_zamowienia VALUES (27,20,239);
-INSERT INTO Pozycje_zamowienia VALUES (95,92,97);
-INSERT INTO Pozycje_zamowienia VALUES (51,5097,42);
-INSERT INTO Pozycje_zamowienia VALUES (4,5141,111);
-INSERT INTO Pozycje_zamowienia VALUES (87,4302,116);
-INSERT INTO Pozycje_zamowienia VALUES (71,119,208);
-INSERT INTO Pozycje_zamowienia VALUES (46,6057,129);
-INSERT INTO Pozycje_zamowienia VALUES (92,2600,236);
-INSERT INTO Pozycje_zamowienia VALUES (27,84,219);
-INSERT INTO Pozycje_zamowienia VALUES (84,2630,55);
-INSERT INTO Pozycje_zamowienia VALUES (66,5891,40);
-INSERT INTO Pozycje_zamowienia VALUES (64,3361,240);
-INSERT INTO Pozycje_zamowienia VALUES (3,1900,223);
-INSERT INTO Pozycje_zamowienia VALUES (85,1740,184);
-INSERT INTO Pozycje_zamowienia VALUES (5,5239,215);
-INSERT INTO Pozycje_zamowienia VALUES (22,3380,69);
-INSERT INTO Pozycje_zamowienia VALUES (18,1073,116);
-INSERT INTO Pozycje_zamowienia VALUES (95,177,21);
-INSERT INTO Pozycje_zamowienia VALUES (16,409,36);
-INSERT INTO Pozycje_zamowienia VALUES (65,5252,200);
-INSERT INTO Pozycje_zamowienia VALUES (50,4177,77);
-INSERT INTO Pozycje_zamowienia VALUES (26,5121,258);
-INSERT INTO Pozycje_zamowienia VALUES (20,5826,254);
-INSERT INTO Pozycje_zamowienia VALUES (82,3076,138);
-INSERT INTO Pozycje_zamowienia VALUES (18,787,12);
-INSERT INTO Pozycje_zamowienia VALUES (41,388,75);
-INSERT INTO Pozycje_zamowienia VALUES (47,1763,206);
-INSERT INTO Pozycje_zamowienia VALUES (42,1936,98);
-INSERT INTO Pozycje_zamowienia VALUES (93,4240,17);
-INSERT INTO Pozycje_zamowienia VALUES (50,154,216);
-INSERT INTO Pozycje_zamowienia VALUES (19,260,36);
-INSERT INTO Pozycje_zamowienia VALUES (92,603,138);
-INSERT INTO Pozycje_zamowienia VALUES (97,908,243);
-INSERT INTO Pozycje_zamowienia VALUES (46,195,220);
-INSERT INTO Pozycje_zamowienia VALUES (45,1136,269);
-INSERT INTO Pozycje_zamowienia VALUES (55,2643,272);
-INSERT INTO Pozycje_zamowienia VALUES (56,3123,115);
-INSERT INTO Pozycje_zamowienia VALUES (43,2179,223);
-INSERT INTO Pozycje_zamowienia VALUES (35,6306,57);
-INSERT INTO Pozycje_zamowienia VALUES (3,6134,124);
-INSERT INTO Pozycje_zamowienia VALUES (100,2455,177);
-INSERT INTO Pozycje_zamowienia VALUES (61,4679,275);
-INSERT INTO Pozycje_zamowienia VALUES (3,4363,246);
-INSERT INTO Pozycje_zamowienia VALUES (52,5319,51);
-INSERT INTO Pozycje_zamowienia VALUES (2,1185,268);
-INSERT INTO Pozycje_zamowienia VALUES (15,5933,62);
-INSERT INTO Pozycje_zamowienia VALUES (59,4884,264);
-INSERT INTO Pozycje_zamowienia VALUES (46,4656,190);
-INSERT INTO Pozycje_zamowienia VALUES (81,2407,268);
-INSERT INTO Pozycje_zamowienia VALUES (93,1165,255);
-INSERT INTO Pozycje_zamowienia VALUES (33,1531,65);
-INSERT INTO Pozycje_zamowienia VALUES (47,4089,242);
-INSERT INTO Pozycje_zamowienia VALUES (93,5628,211);
-INSERT INTO Pozycje_zamowienia VALUES (31,3043,267);
-INSERT INTO Pozycje_zamowienia VALUES (14,853,58);
-INSERT INTO Pozycje_zamowienia VALUES (3,4628,137);
-INSERT INTO Pozycje_zamowienia VALUES (84,5259,53);
-INSERT INTO Pozycje_zamowienia VALUES (25,3939,100);
-INSERT INTO Pozycje_zamowienia VALUES (88,1479,281);
-INSERT INTO Pozycje_zamowienia VALUES (55,1960,301);
-INSERT INTO Pozycje_zamowienia VALUES (4,3078,309);
-INSERT INTO Pozycje_zamowienia VALUES (17,6393,157);
-INSERT INTO Pozycje_zamowienia VALUES (55,2210,62);
-INSERT INTO Pozycje_zamowienia VALUES (6,6003,312);
-INSERT INTO Pozycje_zamowienia VALUES (45,3301,298);
-INSERT INTO Pozycje_zamowienia VALUES (14,1459,139);
-INSERT INTO Pozycje_zamowienia VALUES (97,1860,288);
-INSERT INTO Pozycje_zamowienia VALUES (51,5378,27);
-INSERT INTO Pozycje_zamowienia VALUES (66,1217,19);
-INSERT INTO Pozycje_zamowienia VALUES (67,5332,103);
-INSERT INTO Pozycje_zamowienia VALUES (86,5522,20);
-INSERT INTO Pozycje_zamowienia VALUES (33,3405,255);
-INSERT INTO Pozycje_zamowienia VALUES (10,4453,67);
-INSERT INTO Pozycje_zamowienia VALUES (52,2953,128);
-INSERT INTO Pozycje_zamowienia VALUES (66,5183,167);
-INSERT INTO Pozycje_zamowienia VALUES (72,4507,11);
-INSERT INTO Pozycje_zamowienia VALUES (68,1750,203);
-INSERT INTO Pozycje_zamowienia VALUES (1,2484,66);
-INSERT INTO Pozycje_zamowienia VALUES (28,410,35);
-INSERT INTO Pozycje_zamowienia VALUES (83,1953,217);
-INSERT INTO Pozycje_zamowienia VALUES (96,4545,308);
-INSERT INTO Pozycje_zamowienia VALUES (74,2386,273);
-INSERT INTO Pozycje_zamowienia VALUES (23,364,56);
-INSERT INTO Pozycje_zamowienia VALUES (43,6454,279);
-INSERT INTO Pozycje_zamowienia VALUES (47,3387,4);
-INSERT INTO Pozycje_zamowienia VALUES (90,1720,270);
-INSERT INTO Pozycje_zamowienia VALUES (64,1883,18);
-INSERT INTO Pozycje_zamowienia VALUES (38,5905,48);
-INSERT INTO Pozycje_zamowienia VALUES (4,2611,306);
-INSERT INTO Pozycje_zamowienia VALUES (44,3548,209);
-INSERT INTO Pozycje_zamowienia VALUES (22,5143,43);
-INSERT INTO Pozycje_zamowienia VALUES (89,2357,300);
-INSERT INTO Pozycje_zamowienia VALUES (28,4112,89);
-INSERT INTO Pozycje_zamowienia VALUES (40,1917,139);
-INSERT INTO Pozycje_zamowienia VALUES (4,2410,49);
-INSERT INTO Pozycje_zamowienia VALUES (94,2941,99);
-INSERT INTO Pozycje_zamowienia VALUES (25,3464,159);
-INSERT INTO Pozycje_zamowienia VALUES (35,6172,163);
-INSERT INTO Pozycje_zamowienia VALUES (4,6486,77);
-INSERT INTO Pozycje_zamowienia VALUES (3,4119,67);
-INSERT INTO Pozycje_zamowienia VALUES (3,1871,239);
-INSERT INTO Pozycje_zamowienia VALUES (69,3494,249);
-INSERT INTO Pozycje_zamowienia VALUES (42,5777,138);
-INSERT INTO Pozycje_zamowienia VALUES (53,4873,108);
-INSERT INTO Pozycje_zamowienia VALUES (92,3704,253);
-INSERT INTO Pozycje_zamowienia VALUES (100,924,30);
-INSERT INTO Pozycje_zamowienia VALUES (63,1201,192);
-INSERT INTO Pozycje_zamowienia VALUES (2,6287,82);
-INSERT INTO Pozycje_zamowienia VALUES (75,4533,297);
-INSERT INTO Pozycje_zamowienia VALUES (33,2987,185);
-INSERT INTO Pozycje_zamowienia VALUES (42,1153,2);
-INSERT INTO Pozycje_zamowienia VALUES (22,246,152);
-INSERT INTO Pozycje_zamowienia VALUES (37,4479,173);
-INSERT INTO Pozycje_zamowienia VALUES (84,3195,116);
-INSERT INTO Pozycje_zamowienia VALUES (67,5635,1);
-INSERT INTO Pozycje_zamowienia VALUES (80,1573,176);
-INSERT INTO Pozycje_zamowienia VALUES (100,2625,148);
-INSERT INTO Pozycje_zamowienia VALUES (37,3532,182);
-INSERT INTO Pozycje_zamowienia VALUES (19,171,292);
-INSERT INTO Pozycje_zamowienia VALUES (15,5246,149);
-INSERT INTO Pozycje_zamowienia VALUES (27,4489,304);
-INSERT INTO Pozycje_zamowienia VALUES (23,2376,277);
-INSERT INTO Pozycje_zamowienia VALUES (36,6385,64);
-INSERT INTO Pozycje_zamowienia VALUES (5,5575,23);
-INSERT INTO Pozycje_zamowienia VALUES (50,3970,225);
-INSERT INTO Pozycje_zamowienia VALUES (63,5511,63);
-INSERT INTO Pozycje_zamowienia VALUES (4,1166,105);
-INSERT INTO Pozycje_zamowienia VALUES (56,5862,82);
-INSERT INTO Pozycje_zamowienia VALUES (50,6471,178);
-INSERT INTO Pozycje_zamowienia VALUES (96,3465,53);
-INSERT INTO Pozycje_zamowienia VALUES (68,6228,145);
-INSERT INTO Pozycje_zamowienia VALUES (91,535,72);
-INSERT INTO Pozycje_zamowienia VALUES (82,1818,28);
-INSERT INTO Pozycje_zamowienia VALUES (64,5781,130);
-INSERT INTO Pozycje_zamowienia VALUES (84,1563,235);
-INSERT INTO Pozycje_zamowienia VALUES (41,928,152);
-INSERT INTO Pozycje_zamowienia VALUES (28,4604,284);
-INSERT INTO Pozycje_zamowienia VALUES (97,2278,94);
-INSERT INTO Pozycje_zamowienia VALUES (15,4328,251);
-INSERT INTO Pozycje_zamowienia VALUES (100,982,217);
-INSERT INTO Pozycje_zamowienia VALUES (1,4861,182);
-INSERT INTO Pozycje_zamowienia VALUES (79,4305,77);
-INSERT INTO Pozycje_zamowienia VALUES (42,4233,189);
-INSERT INTO Pozycje_zamowienia VALUES (19,3010,169);
-INSERT INTO Pozycje_zamowienia VALUES (55,5807,232);
-INSERT INTO Pozycje_zamowienia VALUES (76,5153,152);
-INSERT INTO Pozycje_zamowienia VALUES (67,2845,17);
-INSERT INTO Pozycje_zamowienia VALUES (72,2568,156);
-INSERT INTO Pozycje_zamowienia VALUES (91,3874,282);
-INSERT INTO Pozycje_zamowienia VALUES (6,2318,155);
-INSERT INTO Pozycje_zamowienia VALUES (53,2881,115);
-INSERT INTO Pozycje_zamowienia VALUES (84,2316,223);
-INSERT INTO Pozycje_zamowienia VALUES (19,6058,96);
-INSERT INTO Pozycje_zamowienia VALUES (100,1368,15);
-INSERT INTO Pozycje_zamowienia VALUES (89,3537,273);
-INSERT INTO Pozycje_zamowienia VALUES (61,1932,272);
-INSERT INTO Pozycje_zamowienia VALUES (13,4450,141);
-INSERT INTO Pozycje_zamowienia VALUES (19,2041,80);
-INSERT INTO Pozycje_zamowienia VALUES (25,4406,217);
-INSERT INTO Pozycje_zamowienia VALUES (39,2697,222);
-INSERT INTO Pozycje_zamowienia VALUES (48,4477,276);
-INSERT INTO Pozycje_zamowienia VALUES (21,3162,290);
-INSERT INTO Pozycje_zamowienia VALUES (62,4802,84);
-INSERT INTO Pozycje_zamowienia VALUES (84,5817,177);
-INSERT INTO Pozycje_zamowienia VALUES (67,2704,167);
-INSERT INTO Pozycje_zamowienia VALUES (70,1041,231);
-INSERT INTO Pozycje_zamowienia VALUES (74,5771,7);
-INSERT INTO Pozycje_zamowienia VALUES (74,2737,161);
-INSERT INTO Pozycje_zamowienia VALUES (14,5712,202);
-INSERT INTO Pozycje_zamowienia VALUES (99,4700,279);
-INSERT INTO Pozycje_zamowienia VALUES (25,6040,97);
-INSERT INTO Pozycje_zamowienia VALUES (8,1014,86);
-INSERT INTO Pozycje_zamowienia VALUES (37,2681,58);
-INSERT INTO Pozycje_zamowienia VALUES (36,1294,67);
-INSERT INTO Pozycje_zamowienia VALUES (47,1794,3);
-INSERT INTO Pozycje_zamowienia VALUES (2,5315,49);
-INSERT INTO Pozycje_zamowienia VALUES (53,4939,308);
-INSERT INTO Pozycje_zamowienia VALUES (73,1344,163);
-INSERT INTO Pozycje_zamowienia VALUES (55,1193,267);
-INSERT INTO Pozycje_zamowienia VALUES (47,1071,241);
-INSERT INTO Pozycje_zamowienia VALUES (46,5082,97);
-INSERT INTO Pozycje_zamowienia VALUES (56,3476,137);
-INSERT INTO Pozycje_zamowienia VALUES (44,4694,118);
-INSERT INTO Pozycje_zamowienia VALUES (17,4928,190);
-INSERT INTO Pozycje_zamowienia VALUES (30,3360,109);
-INSERT INTO Pozycje_zamowienia VALUES (39,582,280);
-INSERT INTO Pozycje_zamowienia VALUES (23,6302,245);
-INSERT INTO Pozycje_zamowienia VALUES (69,4614,161);
-INSERT INTO Pozycje_zamowienia VALUES (44,4569,265);
-INSERT INTO Pozycje_zamowienia VALUES (25,1022,306);
-INSERT INTO Pozycje_zamowienia VALUES (21,4405,66);
-INSERT INTO Pozycje_zamowienia VALUES (17,3237,125);
-INSERT INTO Pozycje_zamowienia VALUES (98,6323,36);
-INSERT INTO Pozycje_zamowienia VALUES (88,1795,117);
-INSERT INTO Pozycje_zamowienia VALUES (38,3114,11);
-INSERT INTO Pozycje_zamowienia VALUES (91,4421,97);
-INSERT INTO Pozycje_zamowienia VALUES (91,5753,205);
-INSERT INTO Pozycje_zamowienia VALUES (5,6237,9);
-INSERT INTO Pozycje_zamowienia VALUES (39,2056,12);
-INSERT INTO Pozycje_zamowienia VALUES (32,3651,133);
-INSERT INTO Pozycje_zamowienia VALUES (89,4939,92);
-INSERT INTO Pozycje_zamowienia VALUES (61,3153,202);
-INSERT INTO Pozycje_zamowienia VALUES (87,1394,295);
-INSERT INTO Pozycje_zamowienia VALUES (88,4206,226);
-INSERT INTO Pozycje_zamowienia VALUES (74,1554,198);
-INSERT INTO Pozycje_zamowienia VALUES (29,4487,55);
-INSERT INTO Pozycje_zamowienia VALUES (4,171,255);
-INSERT INTO Pozycje_zamowienia VALUES (89,4403,211);
-INSERT INTO Pozycje_zamowienia VALUES (100,205,130);
-INSERT INTO Pozycje_zamowienia VALUES (87,5205,93);
-INSERT INTO Pozycje_zamowienia VALUES (11,3235,243);
-INSERT INTO Pozycje_zamowienia VALUES (61,2564,259);
-INSERT INTO Pozycje_zamowienia VALUES (26,5413,163);
-INSERT INTO Pozycje_zamowienia VALUES (71,300,100);
-INSERT INTO Pozycje_zamowienia VALUES (54,5951,105);
-INSERT INTO Pozycje_zamowienia VALUES (53,5745,76);
-INSERT INTO Pozycje_zamowienia VALUES (22,1153,92);
-INSERT INTO Pozycje_zamowienia VALUES (92,1597,30);
-INSERT INTO Pozycje_zamowienia VALUES (69,5449,264);
-INSERT INTO Pozycje_zamowienia VALUES (30,2625,124);
-INSERT INTO Pozycje_zamowienia VALUES (36,1870,52);
-INSERT INTO Pozycje_zamowienia VALUES (85,90,267);
-INSERT INTO Pozycje_zamowienia VALUES (23,5799,184);
-INSERT INTO Pozycje_zamowienia VALUES (65,4207,237);
-INSERT INTO Pozycje_zamowienia VALUES (20,1674,127);
-INSERT INTO Pozycje_zamowienia VALUES (48,208,292);
-INSERT INTO Pozycje_zamowienia VALUES (26,1010,184);
-INSERT INTO Pozycje_zamowienia VALUES (14,1015,248);
-INSERT INTO Pozycje_zamowienia VALUES (98,4303,77);
-INSERT INTO Pozycje_zamowienia VALUES (56,23,242);
-INSERT INTO Pozycje_zamowienia VALUES (97,3346,277);
-INSERT INTO Pozycje_zamowienia VALUES (58,3976,314);
-INSERT INTO Pozycje_zamowienia VALUES (18,4176,29);
-INSERT INTO Pozycje_zamowienia VALUES (85,2622,124);
-INSERT INTO Pozycje_zamowienia VALUES (16,273,119);
-INSERT INTO Pozycje_zamowienia VALUES (54,6227,164);
-INSERT INTO Pozycje_zamowienia VALUES (42,239,124);
-INSERT INTO Pozycje_zamowienia VALUES (43,5050,112);
-INSERT INTO Pozycje_zamowienia VALUES (57,488,307);
-INSERT INTO Pozycje_zamowienia VALUES (37,2392,177);
-INSERT INTO Pozycje_zamowienia VALUES (7,6233,265);
-INSERT INTO Pozycje_zamowienia VALUES (78,3976,236);
-INSERT INTO Pozycje_zamowienia VALUES (76,2614,131);
-INSERT INTO Pozycje_zamowienia VALUES (19,1703,209);
-INSERT INTO Pozycje_zamowienia VALUES (32,1366,304);
-INSERT INTO Pozycje_zamowienia VALUES (68,3090,70);
-INSERT INTO Pozycje_zamowienia VALUES (40,2574,248);
-INSERT INTO Pozycje_zamowienia VALUES (1,254,119);
-INSERT INTO Pozycje_zamowienia VALUES (32,468,111);
-INSERT INTO Pozycje_zamowienia VALUES (48,1035,119);
-INSERT INTO Pozycje_zamowienia VALUES (20,4243,41);
-INSERT INTO Pozycje_zamowienia VALUES (7,2390,181);
-INSERT INTO Pozycje_zamowienia VALUES (46,3742,224);
-INSERT INTO Pozycje_zamowienia VALUES (66,521,97);
-INSERT INTO Pozycje_zamowienia VALUES (62,3741,231);
-INSERT INTO Pozycje_zamowienia VALUES (85,6271,121);
-INSERT INTO Pozycje_zamowienia VALUES (42,2117,189);
-INSERT INTO Pozycje_zamowienia VALUES (69,2407,76);
-INSERT INTO Pozycje_zamowienia VALUES (73,2629,262);
-INSERT INTO Pozycje_zamowienia VALUES (49,3631,258);
-INSERT INTO Pozycje_zamowienia VALUES (95,2978,184);
-INSERT INTO Pozycje_zamowienia VALUES (87,3627,251);
-INSERT INTO Pozycje_zamowienia VALUES (83,3252,246);
-INSERT INTO Pozycje_zamowienia VALUES (67,3849,137);
-INSERT INTO Pozycje_zamowienia VALUES (16,6171,85);
-INSERT INTO Pozycje_zamowienia VALUES (90,401,182);
-INSERT INTO Pozycje_zamowienia VALUES (86,5622,166);
-INSERT INTO Pozycje_zamowienia VALUES (94,3672,27);
-INSERT INTO Pozycje_zamowienia VALUES (38,1964,245);
-INSERT INTO Pozycje_zamowienia VALUES (42,4475,215);
-INSERT INTO Pozycje_zamowienia VALUES (86,5593,319);
-INSERT INTO Pozycje_zamowienia VALUES (97,4579,191);
-INSERT INTO Pozycje_zamowienia VALUES (29,2630,37);
-INSERT INTO Pozycje_zamowienia VALUES (32,5355,69);
-INSERT INTO Pozycje_zamowienia VALUES (4,3309,6);
-INSERT INTO Pozycje_zamowienia VALUES (73,6087,39);
-INSERT INTO Pozycje_zamowienia VALUES (82,3530,179);
-INSERT INTO Pozycje_zamowienia VALUES (4,432,147);
-INSERT INTO Pozycje_zamowienia VALUES (50,3792,244);
-INSERT INTO Pozycje_zamowienia VALUES (30,1761,280);
-INSERT INTO Pozycje_zamowienia VALUES (43,548,256);
-INSERT INTO Pozycje_zamowienia VALUES (88,3043,155);
-INSERT INTO Pozycje_zamowienia VALUES (27,458,207);
-INSERT INTO Pozycje_zamowienia VALUES (100,4831,80);
-INSERT INTO Pozycje_zamowienia VALUES (46,3192,30);
-INSERT INTO Pozycje_zamowienia VALUES (8,3119,7);
-INSERT INTO Pozycje_zamowienia VALUES (86,920,206);
-INSERT INTO Pozycje_zamowienia VALUES (82,6074,263);
-INSERT INTO Pozycje_zamowienia VALUES (90,1348,5);
-INSERT INTO Pozycje_zamowienia VALUES (3,4726,132);
-INSERT INTO Pozycje_zamowienia VALUES (67,5472,260);
-INSERT INTO Pozycje_zamowienia VALUES (62,2396,303);
-INSERT INTO Pozycje_zamowienia VALUES (52,3300,28);
-INSERT INTO Pozycje_zamowienia VALUES (73,5129,219);
-INSERT INTO Pozycje_zamowienia VALUES (49,1576,152);
-INSERT INTO Pozycje_zamowienia VALUES (56,2170,64);
-INSERT INTO Pozycje_zamowienia VALUES (78,5945,319);
-INSERT INTO Pozycje_zamowienia VALUES (4,24,157);
-INSERT INTO Pozycje_zamowienia VALUES (92,5797,248);
-INSERT INTO Pozycje_zamowienia VALUES (82,3011,268);
-INSERT INTO Pozycje_zamowienia VALUES (48,6163,220);
-INSERT INTO Pozycje_zamowienia VALUES (26,5,88);
-INSERT INTO Pozycje_zamowienia VALUES (24,1239,104);
-INSERT INTO Pozycje_zamowienia VALUES (59,712,80);
-INSERT INTO Pozycje_zamowienia VALUES (7,2544,26);
-INSERT INTO Pozycje_zamowienia VALUES (10,1570,168);
-INSERT INTO Pozycje_zamowienia VALUES (4,4575,230);
-INSERT INTO Pozycje_zamowienia VALUES (54,4771,281);
-INSERT INTO Pozycje_zamowienia VALUES (74,2134,282);
-INSERT INTO Pozycje_zamowienia VALUES (11,2959,81);
-INSERT INTO Pozycje_zamowienia VALUES (39,1320,170);
-INSERT INTO Pozycje_zamowienia VALUES (69,3497,262);
-INSERT INTO Pozycje_zamowienia VALUES (11,6325,170);
-INSERT INTO Pozycje_zamowienia VALUES (45,1882,320);
-INSERT INTO Pozycje_zamowienia VALUES (35,1353,115);
-INSERT INTO Pozycje_zamowienia VALUES (63,2329,119);
-INSERT INTO Pozycje_zamowienia VALUES (20,4709,199);
-INSERT INTO Pozycje_zamowienia VALUES (48,4784,317);
-INSERT INTO Pozycje_zamowienia VALUES (2,1510,303);
-INSERT INTO Pozycje_zamowienia VALUES (15,3163,308);
-INSERT INTO Pozycje_zamowienia VALUES (93,5818,251);
-INSERT INTO Pozycje_zamowienia VALUES (17,2500,274);
-INSERT INTO Pozycje_zamowienia VALUES (96,3801,40);
-INSERT INTO Pozycje_zamowienia VALUES (50,4423,158);
-INSERT INTO Pozycje_zamowienia VALUES (93,1337,250);
-INSERT INTO Pozycje_zamowienia VALUES (54,4739,218);
-INSERT INTO Pozycje_zamowienia VALUES (29,5540,10);
-INSERT INTO Pozycje_zamowienia VALUES (22,3001,157);
-INSERT INTO Pozycje_zamowienia VALUES (11,3049,185);
-INSERT INTO Pozycje_zamowienia VALUES (25,408,26);
-INSERT INTO Pozycje_zamowienia VALUES (34,1021,310);
-INSERT INTO Pozycje_zamowienia VALUES (17,6415,133);
-INSERT INTO Pozycje_zamowienia VALUES (48,2211,312);
-INSERT INTO Pozycje_zamowienia VALUES (81,469,255);
-INSERT INTO Pozycje_zamowienia VALUES (85,563,26);
-INSERT INTO Pozycje_zamowienia VALUES (87,3171,13);
-INSERT INTO Pozycje_zamowienia VALUES (75,5960,63);
-INSERT INTO Pozycje_zamowienia VALUES (69,1838,18);
-INSERT INTO Pozycje_zamowienia VALUES (50,4907,30);
-INSERT INTO Pozycje_zamowienia VALUES (75,3195,25);
-INSERT INTO Pozycje_zamowienia VALUES (64,1139,235);
-INSERT INTO Pozycje_zamowienia VALUES (38,1315,177);
-INSERT INTO Pozycje_zamowienia VALUES (39,4548,124);
-INSERT INTO Pozycje_zamowienia VALUES (63,2290,67);
-INSERT INTO Pozycje_zamowienia VALUES (29,1789,250);
-INSERT INTO Pozycje_zamowienia VALUES (33,1974,17);
-INSERT INTO Pozycje_zamowienia VALUES (77,1212,309);
-INSERT INTO Pozycje_zamowienia VALUES (7,5738,220);
-INSERT INTO Pozycje_zamowienia VALUES (70,737,117);
-INSERT INTO Pozycje_zamowienia VALUES (77,4012,131);
-INSERT INTO Pozycje_zamowienia VALUES (16,5080,65);
-INSERT INTO Pozycje_zamowienia VALUES (6,3802,299);
-INSERT INTO Pozycje_zamowienia VALUES (13,2871,29);
-INSERT INTO Pozycje_zamowienia VALUES (61,3347,13);
-INSERT INTO Pozycje_zamowienia VALUES (8,3187,213);
-INSERT INTO Pozycje_zamowienia VALUES (68,2773,38);
-INSERT INTO Pozycje_zamowienia VALUES (52,497,90);
-INSERT INTO Pozycje_zamowienia VALUES (45,4834,60);
-INSERT INTO Pozycje_zamowienia VALUES (18,3681,200);
-INSERT INTO Pozycje_zamowienia VALUES (37,3037,302);
-INSERT INTO Pozycje_zamowienia VALUES (48,1674,302);
-INSERT INTO Pozycje_zamowienia VALUES (43,4677,54);
-INSERT INTO Pozycje_zamowienia VALUES (92,2389,142);
-INSERT INTO Pozycje_zamowienia VALUES (81,865,256);
-INSERT INTO Pozycje_zamowienia VALUES (55,1420,132);
-INSERT INTO Pozycje_zamowienia VALUES (23,5738,14);
-INSERT INTO Pozycje_zamowienia VALUES (91,1263,158);
-INSERT INTO Pozycje_zamowienia VALUES (32,1370,137);
-INSERT INTO Pozycje_zamowienia VALUES (3,1880,4);
-INSERT INTO Pozycje_zamowienia VALUES (34,55,186);
-INSERT INTO Pozycje_zamowienia VALUES (81,851,201);
-INSERT INTO Pozycje_zamowienia VALUES (78,3484,262);
-INSERT INTO Pozycje_zamowienia VALUES (90,220,14);
-INSERT INTO Pozycje_zamowienia VALUES (26,5422,218);
-INSERT INTO Pozycje_zamowienia VALUES (58,3498,20);
-INSERT INTO Pozycje_zamowienia VALUES (52,5722,287);
-INSERT INTO Pozycje_zamowienia VALUES (74,2030,168);
-INSERT INTO Pozycje_zamowienia VALUES (93,3869,191);
-INSERT INTO Pozycje_zamowienia VALUES (49,102,17);
-INSERT INTO Pozycje_zamowienia VALUES (64,4052,192);
-INSERT INTO Pozycje_zamowienia VALUES (88,4214,308);
-INSERT INTO Pozycje_zamowienia VALUES (56,784,199);
-INSERT INTO Pozycje_zamowienia VALUES (35,4609,63);
-INSERT INTO Pozycje_zamowienia VALUES (56,676,191);
-INSERT INTO Pozycje_zamowienia VALUES (84,1426,251);
-INSERT INTO Pozycje_zamowienia VALUES (22,5288,124);
-INSERT INTO Pozycje_zamowienia VALUES (35,6138,205);
-INSERT INTO Pozycje_zamowienia VALUES (28,5920,140);
-INSERT INTO Pozycje_zamowienia VALUES (54,1254,238);
-INSERT INTO Pozycje_zamowienia VALUES (6,1579,17);
-INSERT INTO Pozycje_zamowienia VALUES (78,3171,94);
-INSERT INTO Pozycje_zamowienia VALUES (51,3608,220);
-INSERT INTO Pozycje_zamowienia VALUES (58,709,257);
-INSERT INTO Pozycje_zamowienia VALUES (99,5907,314);
-INSERT INTO Pozycje_zamowienia VALUES (92,5484,5);
-INSERT INTO Pozycje_zamowienia VALUES (48,5023,299);
-INSERT INTO Pozycje_zamowienia VALUES (49,1331,206);
-INSERT INTO Pozycje_zamowienia VALUES (66,6106,210);
-INSERT INTO Pozycje_zamowienia VALUES (61,1323,293);
-INSERT INTO Pozycje_zamowienia VALUES (15,1496,195);
-INSERT INTO Pozycje_zamowienia VALUES (41,3271,186);
-INSERT INTO Pozycje_zamowienia VALUES (48,2284,243);
-INSERT INTO Pozycje_zamowienia VALUES (11,689,312);
-INSERT INTO Pozycje_zamowienia VALUES (36,3515,56);
-INSERT INTO Pozycje_zamowienia VALUES (11,3695,3);
-INSERT INTO Pozycje_zamowienia VALUES (96,3263,90);
-INSERT INTO Pozycje_zamowienia VALUES (43,4480,305);
-INSERT INTO Pozycje_zamowienia VALUES (68,1271,234);
-INSERT INTO Pozycje_zamowienia VALUES (47,5967,70);
-INSERT INTO Pozycje_zamowienia VALUES (22,327,184);
-INSERT INTO Pozycje_zamowienia VALUES (89,3173,11);
-INSERT INTO Pozycje_zamowienia VALUES (72,4086,287);
-INSERT INTO Pozycje_zamowienia VALUES (4,5164,238);
-INSERT INTO Pozycje_zamowienia VALUES (86,43,30);
-INSERT INTO Pozycje_zamowienia VALUES (52,894,28);
-INSERT INTO Pozycje_zamowienia VALUES (27,1967,56);
-INSERT INTO Pozycje_zamowienia VALUES (16,4866,60);
-INSERT INTO Pozycje_zamowienia VALUES (60,3223,206);
-INSERT INTO Pozycje_zamowienia VALUES (7,2676,198);
-INSERT INTO Pozycje_zamowienia VALUES (47,5945,224);
-INSERT INTO Pozycje_zamowienia VALUES (10,6244,12);
-INSERT INTO Pozycje_zamowienia VALUES (41,888,63);
-INSERT INTO Pozycje_zamowienia VALUES (89,2883,204);
-INSERT INTO Pozycje_zamowienia VALUES (86,5281,104);
-INSERT INTO Pozycje_zamowienia VALUES (8,231,305);
-INSERT INTO Pozycje_zamowienia VALUES (37,3999,267);
-INSERT INTO Pozycje_zamowienia VALUES (87,2770,304);
-INSERT INTO Pozycje_zamowienia VALUES (82,6268,279);
-INSERT INTO Pozycje_zamowienia VALUES (92,2884,39);
-INSERT INTO Pozycje_zamowienia VALUES (46,6344,227);
-INSERT INTO Pozycje_zamowienia VALUES (96,2332,230);
-INSERT INTO Pozycje_zamowienia VALUES (27,880,40);
-INSERT INTO Pozycje_zamowienia VALUES (55,1262,126);
-INSERT INTO Pozycje_zamowienia VALUES (12,4662,236);
-INSERT INTO Pozycje_zamowienia VALUES (97,1650,70);
-INSERT INTO Pozycje_zamowienia VALUES (53,3498,87);
-INSERT INTO Pozycje_zamowienia VALUES (16,4753,57);
-INSERT INTO Pozycje_zamowienia VALUES (21,3834,277);
-INSERT INTO Pozycje_zamowienia VALUES (91,1296,60);
-INSERT INTO Pozycje_zamowienia VALUES (39,1132,122);
-INSERT INTO Pozycje_zamowienia VALUES (24,6103,199);
-INSERT INTO Pozycje_zamowienia VALUES (63,3612,301);
-INSERT INTO Pozycje_zamowienia VALUES (58,1762,169);
-INSERT INTO Pozycje_zamowienia VALUES (94,587,208);
-INSERT INTO Pozycje_zamowienia VALUES (49,317,223);
-INSERT INTO Pozycje_zamowienia VALUES (13,5331,65);
-INSERT INTO Pozycje_zamowienia VALUES (15,5982,158);
-INSERT INTO Pozycje_zamowienia VALUES (89,3015,52);
-INSERT INTO Pozycje_zamowienia VALUES (57,362,316);
-INSERT INTO Pozycje_zamowienia VALUES (14,2704,196);
-INSERT INTO Pozycje_zamowienia VALUES (71,3873,133);
-INSERT INTO Pozycje_zamowienia VALUES (34,5669,289);
-INSERT INTO Pozycje_zamowienia VALUES (45,5236,7);
-INSERT INTO Pozycje_zamowienia VALUES (88,3054,43);
-INSERT INTO Pozycje_zamowienia VALUES (77,3001,65);
-INSERT INTO Pozycje_zamowienia VALUES (7,1935,209);
-INSERT INTO Pozycje_zamowienia VALUES (4,1483,231);
-INSERT INTO Pozycje_zamowienia VALUES (80,5167,220);
-INSERT INTO Pozycje_zamowienia VALUES (71,5122,168);
-INSERT INTO Pozycje_zamowienia VALUES (46,9,272);
-INSERT INTO Pozycje_zamowienia VALUES (19,5269,57);
-INSERT INTO Pozycje_zamowienia VALUES (58,477,29);
-INSERT INTO Pozycje_zamowienia VALUES (3,3880,99);
-INSERT INTO Pozycje_zamowienia VALUES (96,5172,41);
-INSERT INTO Pozycje_zamowienia VALUES (53,3284,256);
-INSERT INTO Pozycje_zamowienia VALUES (68,3189,314);
-INSERT INTO Pozycje_zamowienia VALUES (2,3391,2);
-INSERT INTO Pozycje_zamowienia VALUES (43,511,319);
-INSERT INTO Pozycje_zamowienia VALUES (77,97,39);
-INSERT INTO Pozycje_zamowienia VALUES (78,2507,82);
-INSERT INTO Pozycje_zamowienia VALUES (12,6347,78);
-INSERT INTO Pozycje_zamowienia VALUES (78,5639,147);
-INSERT INTO Pozycje_zamowienia VALUES (44,566,261);
-INSERT INTO Pozycje_zamowienia VALUES (95,5182,169);
-INSERT INTO Pozycje_zamowienia VALUES (79,1610,224);
-INSERT INTO Pozycje_zamowienia VALUES (60,5279,228);
-INSERT INTO Pozycje_zamowienia VALUES (35,6336,206);
-INSERT INTO Pozycje_zamowienia VALUES (57,829,161);
-INSERT INTO Pozycje_zamowienia VALUES (34,3710,150);
-INSERT INTO Pozycje_zamowienia VALUES (42,2742,144);
-INSERT INTO Pozycje_zamowienia VALUES (1,3962,157);
-INSERT INTO Pozycje_zamowienia VALUES (23,6359,104);
-INSERT INTO Pozycje_zamowienia VALUES (25,2622,47);
-INSERT INTO Pozycje_zamowienia VALUES (11,3435,275);
-INSERT INTO Pozycje_zamowienia VALUES (32,1963,63);
-INSERT INTO Pozycje_zamowienia VALUES (83,2043,188);
-INSERT INTO Pozycje_zamowienia VALUES (96,3726,49);
-INSERT INTO Pozycje_zamowienia VALUES (12,2944,8);
-INSERT INTO Pozycje_zamowienia VALUES (98,5271,306);
-INSERT INTO Pozycje_zamowienia VALUES (93,4756,206);
-INSERT INTO Pozycje_zamowienia VALUES (25,3799,191);
-INSERT INTO Pozycje_zamowienia VALUES (51,758,138);
-INSERT INTO Pozycje_zamowienia VALUES (86,25,69);
-INSERT INTO Pozycje_zamowienia VALUES (4,5199,57);
-INSERT INTO Pozycje_zamowienia VALUES (57,2040,284);
-INSERT INTO Pozycje_zamowienia VALUES (66,5749,10);
-INSERT INTO Pozycje_zamowienia VALUES (18,1892,277);
-INSERT INTO Pozycje_zamowienia VALUES (51,3462,154);
-INSERT INTO Pozycje_zamowienia VALUES (85,2638,286);
-INSERT INTO Pozycje_zamowienia VALUES (33,2146,241);
-INSERT INTO Pozycje_zamowienia VALUES (63,767,18);
-INSERT INTO Pozycje_zamowienia VALUES (94,4276,141);
-INSERT INTO Pozycje_zamowienia VALUES (56,4619,108);
-INSERT INTO Pozycje_zamowienia VALUES (95,10,266);
-INSERT INTO Pozycje_zamowienia VALUES (36,2952,195);
-INSERT INTO Pozycje_zamowienia VALUES (40,4028,249);
-INSERT INTO Pozycje_zamowienia VALUES (26,1868,49);
-INSERT INTO Pozycje_zamowienia VALUES (36,5377,283);
-INSERT INTO Pozycje_zamowienia VALUES (86,216,90);
-INSERT INTO Pozycje_zamowienia VALUES (87,3314,12);
-INSERT INTO Pozycje_zamowienia VALUES (30,5172,275);
-INSERT INTO Pozycje_zamowienia VALUES (99,4558,234);
-INSERT INTO Pozycje_zamowienia VALUES (54,4217,158);
-INSERT INTO Pozycje_zamowienia VALUES (35,1925,90);
-INSERT INTO Pozycje_zamowienia VALUES (16,4828,293);
-INSERT INTO Pozycje_zamowienia VALUES (38,2151,176);
-INSERT INTO Pozycje_zamowienia VALUES (94,4200,109);
-INSERT INTO Pozycje_zamowienia VALUES (5,5793,196);
-INSERT INTO Pozycje_zamowienia VALUES (31,2477,47);
-INSERT INTO Pozycje_zamowienia VALUES (36,5077,19);
-INSERT INTO Pozycje_zamowienia VALUES (31,431,189);
-INSERT INTO Pozycje_zamowienia VALUES (62,5530,152);
-INSERT INTO Pozycje_zamowienia VALUES (52,3213,159);
-INSERT INTO Pozycje_zamowienia VALUES (70,5310,173);
-INSERT INTO Pozycje_zamowienia VALUES (84,6385,216);
-INSERT INTO Pozycje_zamowienia VALUES (87,4153,254);
-INSERT INTO Pozycje_zamowienia VALUES (7,4281,195);
-INSERT INTO Pozycje_zamowienia VALUES (8,2835,255);
-INSERT INTO Pozycje_zamowienia VALUES (1,6059,181);
-INSERT INTO Pozycje_zamowienia VALUES (82,862,318);
-INSERT INTO Pozycje_zamowienia VALUES (23,3163,83);
-INSERT INTO Pozycje_zamowienia VALUES (62,760,296);
-INSERT INTO Pozycje_zamowienia VALUES (10,5403,37);
-INSERT INTO Pozycje_zamowienia VALUES (46,2908,30);
-INSERT INTO Pozycje_zamowienia VALUES (96,1709,249);
-INSERT INTO Pozycje_zamowienia VALUES (42,461,248);
-INSERT INTO Pozycje_zamowienia VALUES (94,4598,265);
-INSERT INTO Pozycje_zamowienia VALUES (56,3119,296);
-INSERT INTO Pozycje_zamowienia VALUES (83,543,94);
-INSERT INTO Pozycje_zamowienia VALUES (61,5296,164);
-INSERT INTO Pozycje_zamowienia VALUES (6,2926,228);
-INSERT INTO Pozycje_zamowienia VALUES (57,3387,122);
-INSERT INTO Pozycje_zamowienia VALUES (43,3360,189);
-INSERT INTO Pozycje_zamowienia VALUES (18,3846,227);
-INSERT INTO Pozycje_zamowienia VALUES (50,4326,17);
-INSERT INTO Pozycje_zamowienia VALUES (30,3304,16);
-INSERT INTO Pozycje_zamowienia VALUES (50,3029,187);
-INSERT INTO Pozycje_zamowienia VALUES (93,5694,267);
-INSERT INTO Pozycje_zamowienia VALUES (72,58,142);
-INSERT INTO Pozycje_zamowienia VALUES (64,2359,197);
-INSERT INTO Pozycje_zamowienia VALUES (20,6000,74);
-INSERT INTO Pozycje_zamowienia VALUES (42,4539,279);
-INSERT INTO Pozycje_zamowienia VALUES (38,5682,290);
-INSERT INTO Pozycje_zamowienia VALUES (30,4203,270);
-INSERT INTO Pozycje_zamowienia VALUES (1,4896,38);
-INSERT INTO Pozycje_zamowienia VALUES (84,2624,255);
-INSERT INTO Pozycje_zamowienia VALUES (19,1209,281);
-INSERT INTO Pozycje_zamowienia VALUES (91,1100,101);
-INSERT INTO Pozycje_zamowienia VALUES (35,4903,278);
-INSERT INTO Pozycje_zamowienia VALUES (71,6382,35);
-INSERT INTO Pozycje_zamowienia VALUES (48,4768,265);
-INSERT INTO Pozycje_zamowienia VALUES (81,288,159);
-INSERT INTO Pozycje_zamowienia VALUES (88,1576,61);
-INSERT INTO Pozycje_zamowienia VALUES (31,545,182);
-INSERT INTO Pozycje_zamowienia VALUES (76,471,316);
-INSERT INTO Pozycje_zamowienia VALUES (100,2721,132);
-INSERT INTO Pozycje_zamowienia VALUES (99,5101,168);
-INSERT INTO Pozycje_zamowienia VALUES (96,546,242);
-INSERT INTO Pozycje_zamowienia VALUES (91,4471,136);
-INSERT INTO Pozycje_zamowienia VALUES (98,2061,67);
-INSERT INTO Pozycje_zamowienia VALUES (52,4714,116);
-INSERT INTO Pozycje_zamowienia VALUES (8,5626,137);
-INSERT INTO Pozycje_zamowienia VALUES (91,5756,71);
-INSERT INTO Pozycje_zamowienia VALUES (15,2679,302);
-INSERT INTO Pozycje_zamowienia VALUES (45,5108,285);
-INSERT INTO Pozycje_zamowienia VALUES (42,4044,315);
-INSERT INTO Pozycje_zamowienia VALUES (59,2433,93);
-INSERT INTO Pozycje_zamowienia VALUES (33,1135,240);
-INSERT INTO Pozycje_zamowienia VALUES (93,1537,79);
-INSERT INTO Pozycje_zamowienia VALUES (93,1879,91);
-INSERT INTO Pozycje_zamowienia VALUES (47,4910,194);
-INSERT INTO Pozycje_zamowienia VALUES (74,2906,272);
-INSERT INTO Pozycje_zamowienia VALUES (27,2127,193);
-INSERT INTO Pozycje_zamowienia VALUES (78,4034,158);
-INSERT INTO Pozycje_zamowienia VALUES (4,4907,213);
-INSERT INTO Pozycje_zamowienia VALUES (28,463,67);
-INSERT INTO Pozycje_zamowienia VALUES (61,2943,257);
-INSERT INTO Pozycje_zamowienia VALUES (12,60,132);
-INSERT INTO Pozycje_zamowienia VALUES (50,1460,262);
-INSERT INTO Pozycje_zamowienia VALUES (3,4944,7);
-INSERT INTO Pozycje_zamowienia VALUES (62,615,96);
-INSERT INTO Pozycje_zamowienia VALUES (71,4021,283);
-INSERT INTO Pozycje_zamowienia VALUES (5,4366,258);
-INSERT INTO Pozycje_zamowienia VALUES (75,4055,227);
-INSERT INTO Pozycje_zamowienia VALUES (59,1218,105);
-INSERT INTO Pozycje_zamowienia VALUES (68,3492,96);
-INSERT INTO Pozycje_zamowienia VALUES (23,5638,35);
-INSERT INTO Pozycje_zamowienia VALUES (73,4706,92);
-INSERT INTO Pozycje_zamowienia VALUES (4,5441,116);
-INSERT INTO Pozycje_zamowienia VALUES (92,5097,280);
-INSERT INTO Pozycje_zamowienia VALUES (46,736,128);
-INSERT INTO Pozycje_zamowienia VALUES (56,3306,259);
-INSERT INTO Pozycje_zamowienia VALUES (12,2991,62);
-INSERT INTO Pozycje_zamowienia VALUES (83,3572,152);
-INSERT INTO Pozycje_zamowienia VALUES (52,486,243);
-INSERT INTO Pozycje_zamowienia VALUES (57,3618,10);
-INSERT INTO Pozycje_zamowienia VALUES (9,5820,169);
-INSERT INTO Pozycje_zamowienia VALUES (40,3308,288);
-INSERT INTO Pozycje_zamowienia VALUES (89,1205,228);
-INSERT INTO Pozycje_zamowienia VALUES (14,1508,319);
-INSERT INTO Pozycje_zamowienia VALUES (95,2325,48);
-INSERT INTO Pozycje_zamowienia VALUES (17,4972,78);
-INSERT INTO Pozycje_zamowienia VALUES (26,1973,235);
-INSERT INTO Pozycje_zamowienia VALUES (18,2422,227);
-INSERT INTO Pozycje_zamowienia VALUES (95,2107,188);
-INSERT INTO Pozycje_zamowienia VALUES (34,1896,180);
-INSERT INTO Pozycje_zamowienia VALUES (51,4783,72);
-INSERT INTO Pozycje_zamowienia VALUES (9,4079,241);
-INSERT INTO Pozycje_zamowienia VALUES (71,2801,213);
-INSERT INTO Pozycje_zamowienia VALUES (100,961,283);
-INSERT INTO Pozycje_zamowienia VALUES (84,4459,110);
-INSERT INTO Pozycje_zamowienia VALUES (67,6156,11);
-INSERT INTO Pozycje_zamowienia VALUES (80,5587,176);
-INSERT INTO Pozycje_zamowienia VALUES (79,5699,144);
-INSERT INTO Pozycje_zamowienia VALUES (39,1193,138);
-INSERT INTO Pozycje_zamowienia VALUES (16,728,60);
-INSERT INTO Pozycje_zamowienia VALUES (17,1963,164);
-INSERT INTO Pozycje_zamowienia VALUES (77,6495,156);
-INSERT INTO Pozycje_zamowienia VALUES (6,3064,159);
-INSERT INTO Pozycje_zamowienia VALUES (58,2770,28);
-INSERT INTO Pozycje_zamowienia VALUES (4,3100,308);
-INSERT INTO Pozycje_zamowienia VALUES (47,5413,250);
-INSERT INTO Pozycje_zamowienia VALUES (17,2578,307);
-INSERT INTO Pozycje_zamowienia VALUES (4,2611,141);
-INSERT INTO Pozycje_zamowienia VALUES (49,2963,295);
-INSERT INTO Pozycje_zamowienia VALUES (80,4011,45);
-INSERT INTO Pozycje_zamowienia VALUES (7,3699,154);
-INSERT INTO Pozycje_zamowienia VALUES (19,3376,88);
-INSERT INTO Pozycje_zamowienia VALUES (95,4799,286);
-INSERT INTO Pozycje_zamowienia VALUES (75,5644,315);
-INSERT INTO Pozycje_zamowienia VALUES (74,30,273);
-INSERT INTO Pozycje_zamowienia VALUES (71,4157,100);
-INSERT INTO Pozycje_zamowienia VALUES (84,2301,11);
-INSERT INTO Pozycje_zamowienia VALUES (5,6287,154);
-INSERT INTO Pozycje_zamowienia VALUES (96,294,277);
-INSERT INTO Pozycje_zamowienia VALUES (85,1243,71);
-INSERT INTO Pozycje_zamowienia VALUES (69,2521,56);
-INSERT INTO Pozycje_zamowienia VALUES (61,6034,231);
-INSERT INTO Pozycje_zamowienia VALUES (33,4748,142);
-INSERT INTO Pozycje_zamowienia VALUES (61,1258,18);
-INSERT INTO Pozycje_zamowienia VALUES (24,3510,39);
-INSERT INTO Pozycje_zamowienia VALUES (47,5438,200);
-INSERT INTO Pozycje_zamowienia VALUES (84,4149,44);
-INSERT INTO Pozycje_zamowienia VALUES (90,2866,9);
-INSERT INTO Pozycje_zamowienia VALUES (30,143,104);
-INSERT INTO Pozycje_zamowienia VALUES (40,4496,53);
-INSERT INTO Pozycje_zamowienia VALUES (5,2786,204);
-INSERT INTO Pozycje_zamowienia VALUES (98,6469,88);
-INSERT INTO Pozycje_zamowienia VALUES (38,6363,139);
-INSERT INTO Pozycje_zamowienia VALUES (42,4428,103);
-INSERT INTO Pozycje_zamowienia VALUES (4,4315,12);
-INSERT INTO Pozycje_zamowienia VALUES (39,5904,71);
-INSERT INTO Pozycje_zamowienia VALUES (62,3331,20);
-INSERT INTO Pozycje_zamowienia VALUES (1,4612,244);
-INSERT INTO Pozycje_zamowienia VALUES (67,910,69);
-INSERT INTO Pozycje_zamowienia VALUES (28,2366,109);
-INSERT INTO Pozycje_zamowienia VALUES (92,4246,248);
-INSERT INTO Pozycje_zamowienia VALUES (56,1390,234);
-INSERT INTO Pozycje_zamowienia VALUES (66,2465,30);
-INSERT INTO Pozycje_zamowienia VALUES (4,2885,238);
-INSERT INTO Pozycje_zamowienia VALUES (4,1153,313);
-INSERT INTO Pozycje_zamowienia VALUES (32,2627,160);
-INSERT INTO Pozycje_zamowienia VALUES (28,1570,179);
-INSERT INTO Pozycje_zamowienia VALUES (77,3390,112);
-INSERT INTO Pozycje_zamowienia VALUES (62,3931,261);
-INSERT INTO Pozycje_zamowienia VALUES (44,93,249);
-INSERT INTO Pozycje_zamowienia VALUES (25,2129,244);
-INSERT INTO Pozycje_zamowienia VALUES (5,3282,216);
-INSERT INTO Pozycje_zamowienia VALUES (38,2065,118);
-INSERT INTO Pozycje_zamowienia VALUES (86,3530,91);
-INSERT INTO Pozycje_zamowienia VALUES (33,4589,313);
-INSERT INTO Pozycje_zamowienia VALUES (12,5919,163);
-INSERT INTO Pozycje_zamowienia VALUES (16,286,87);
-INSERT INTO Pozycje_zamowienia VALUES (59,1394,117);
-INSERT INTO Pozycje_zamowienia VALUES (86,2439,124);
-INSERT INTO Pozycje_zamowienia VALUES (28,6227,122);
-INSERT INTO Pozycje_zamowienia VALUES (14,631,308);
-INSERT INTO Pozycje_zamowienia VALUES (92,4030,292);
-INSERT INTO Pozycje_zamowienia VALUES (42,1059,25);
-INSERT INTO Pozycje_zamowienia VALUES (15,2551,248);
-INSERT INTO Pozycje_zamowienia VALUES (97,586,172);
-INSERT INTO Pozycje_zamowienia VALUES (22,155,58);
-INSERT INTO Pozycje_zamowienia VALUES (100,2358,317);
-INSERT INTO Pozycje_zamowienia VALUES (2,6150,73);
-INSERT INTO Pozycje_zamowienia VALUES (95,1523,241);
-INSERT INTO Pozycje_zamowienia VALUES (76,4785,241);
-INSERT INTO Pozycje_zamowienia VALUES (31,599,299);
-INSERT INTO Pozycje_zamowienia VALUES (46,2676,50);
-INSERT INTO Pozycje_zamowienia VALUES (28,4503,139);
-INSERT INTO Pozycje_zamowienia VALUES (91,1944,229);
-INSERT INTO Pozycje_zamowienia VALUES (97,3218,184);
-INSERT INTO Pozycje_zamowienia VALUES (13,4185,144);
-INSERT INTO Pozycje_zamowienia VALUES (14,6327,312);
-INSERT INTO Pozycje_zamowienia VALUES (18,5748,305);
-INSERT INTO Pozycje_zamowienia VALUES (90,626,302);
-INSERT INTO Pozycje_zamowienia VALUES (26,637,206);
-INSERT INTO Pozycje_zamowienia VALUES (40,1685,177);
-INSERT INTO Pozycje_zamowienia VALUES (84,5881,23);
-INSERT INTO Pozycje_zamowienia VALUES (90,4706,141);
-INSERT INTO Pozycje_zamowienia VALUES (50,976,38);
-INSERT INTO Pozycje_zamowienia VALUES (44,4936,273);
-INSERT INTO Pozycje_zamowienia VALUES (16,2833,114);
-INSERT INTO Pozycje_zamowienia VALUES (84,6098,172);
-INSERT INTO Pozycje_zamowienia VALUES (22,3001,249);
-INSERT INTO Pozycje_zamowienia VALUES (8,3368,285);
-INSERT INTO Pozycje_zamowienia VALUES (87,6274,276);
-INSERT INTO Pozycje_zamowienia VALUES (57,4524,25);
-INSERT INTO Pozycje_zamowienia VALUES (53,5878,192);
-INSERT INTO Pozycje_zamowienia VALUES (48,6198,113);
-INSERT INTO Pozycje_zamowienia VALUES (81,2884,93);
-INSERT INTO Pozycje_zamowienia VALUES (44,5402,119);
-INSERT INTO Pozycje_zamowienia VALUES (12,2394,163);
-INSERT INTO Pozycje_zamowienia VALUES (52,3884,207);
-INSERT INTO Pozycje_zamowienia VALUES (59,1917,310);
-INSERT INTO Pozycje_zamowienia VALUES (91,1385,31);
-INSERT INTO Pozycje_zamowienia VALUES (73,6045,298);
-INSERT INTO Pozycje_zamowienia VALUES (99,5576,273);
-INSERT INTO Pozycje_zamowienia VALUES (59,4885,257);
-INSERT INTO Pozycje_zamowienia VALUES (74,905,77);
-INSERT INTO Pozycje_zamowienia VALUES (82,5688,316);
-INSERT INTO Pozycje_zamowienia VALUES (6,2411,148);
-INSERT INTO Pozycje_zamowienia VALUES (28,2414,179);
-INSERT INTO Pozycje_zamowienia VALUES (63,464,284);
-INSERT INTO Pozycje_zamowienia VALUES (60,4236,210);
-INSERT INTO Pozycje_zamowienia VALUES (27,5125,151);
-INSERT INTO Pozycje_zamowienia VALUES (25,1030,318);
-INSERT INTO Pozycje_zamowienia VALUES (81,354,7);
-INSERT INTO Pozycje_zamowienia VALUES (88,1451,88);
-INSERT INTO Pozycje_zamowienia VALUES (7,233,89);
-INSERT INTO Pozycje_zamowienia VALUES (57,3968,179);
-INSERT INTO Pozycje_zamowienia VALUES (14,6415,86);
-INSERT INTO Pozycje_zamowienia VALUES (91,6440,149);
-INSERT INTO Pozycje_zamowienia VALUES (100,2590,180);
-INSERT INTO Pozycje_zamowienia VALUES (52,5573,69);
-INSERT INTO Pozycje_zamowienia VALUES (99,2545,218);
-INSERT INTO Pozycje_zamowienia VALUES (28,1600,32);
-INSERT INTO Pozycje_zamowienia VALUES (96,5694,168);
-INSERT INTO Pozycje_zamowienia VALUES (4,2222,34);
-INSERT INTO Pozycje_zamowienia VALUES (7,1114,263);
-INSERT INTO Pozycje_zamowienia VALUES (56,2152,192);
-INSERT INTO Pozycje_zamowienia VALUES (69,5208,49);
-INSERT INTO Pozycje_zamowienia VALUES (79,1743,307);
-INSERT INTO Pozycje_zamowienia VALUES (2,686,108);
-INSERT INTO Pozycje_zamowienia VALUES (45,4748,23);
-INSERT INTO Pozycje_zamowienia VALUES (7,5590,191);
-INSERT INTO Pozycje_zamowienia VALUES (20,2743,284);
-INSERT INTO Pozycje_zamowienia VALUES (28,2487,193);
-INSERT INTO Pozycje_zamowienia VALUES (85,1694,52);
-INSERT INTO Pozycje_zamowienia VALUES (88,4648,299);
-INSERT INTO Pozycje_zamowienia VALUES (10,980,83);
-INSERT INTO Pozycje_zamowienia VALUES (4,4843,289);
-INSERT INTO Pozycje_zamowienia VALUES (80,1062,263);
-INSERT INTO Pozycje_zamowienia VALUES (76,2421,195);
-INSERT INTO Pozycje_zamowienia VALUES (42,5989,33);
-INSERT INTO Pozycje_zamowienia VALUES (30,5299,270);
-INSERT INTO Pozycje_zamowienia VALUES (60,4361,68);
-INSERT INTO Pozycje_zamowienia VALUES (42,464,293);
-INSERT INTO Pozycje_zamowienia VALUES (2,3747,148);
-INSERT INTO Pozycje_zamowienia VALUES (43,4236,318);
-INSERT INTO Pozycje_zamowienia VALUES (71,4301,157);
-INSERT INTO Pozycje_zamowienia VALUES (79,334,302);
-INSERT INTO Pozycje_zamowienia VALUES (56,3781,180);
-INSERT INTO Pozycje_zamowienia VALUES (79,1104,262);
-INSERT INTO Pozycje_zamowienia VALUES (71,6360,91);
-INSERT INTO Pozycje_zamowienia VALUES (40,5710,308);
-INSERT INTO Pozycje_zamowienia VALUES (78,2809,68);
-INSERT INTO Pozycje_zamowienia VALUES (33,2920,296);
-INSERT INTO Pozycje_zamowienia VALUES (37,1528,92);
-INSERT INTO Pozycje_zamowienia VALUES (34,2989,200);
-INSERT INTO Pozycje_zamowienia VALUES (67,4099,46);
-INSERT INTO Pozycje_zamowienia VALUES (97,4133,247);
-INSERT INTO Pozycje_zamowienia VALUES (6,5855,18);
-INSERT INTO Pozycje_zamowienia VALUES (26,3446,20);
-INSERT INTO Pozycje_zamowienia VALUES (25,3351,201);
-INSERT INTO Pozycje_zamowienia VALUES (83,5839,220);
-INSERT INTO Pozycje_zamowienia VALUES (78,4566,47);
-INSERT INTO Pozycje_zamowienia VALUES (94,1154,130);
-INSERT INTO Pozycje_zamowienia VALUES (56,4756,195);
-INSERT INTO Pozycje_zamowienia VALUES (12,1931,112);
-INSERT INTO Pozycje_zamowienia VALUES (88,6452,80);
-INSERT INTO Pozycje_zamowienia VALUES (21,4635,245);
-INSERT INTO Pozycje_zamowienia VALUES (17,2720,181);
-INSERT INTO Pozycje_zamowienia VALUES (65,2944,278);
-INSERT INTO Pozycje_zamowienia VALUES (50,4001,39);
-INSERT INTO Pozycje_zamowienia VALUES (36,6047,303);
-INSERT INTO Pozycje_zamowienia VALUES (73,5719,135);
-INSERT INTO Pozycje_zamowienia VALUES (49,1453,182);
-INSERT INTO Pozycje_zamowienia VALUES (18,3815,264);
-INSERT INTO Pozycje_zamowienia VALUES (99,3177,186);
-INSERT INTO Pozycje_zamowienia VALUES (91,5439,234);
-INSERT INTO Pozycje_zamowienia VALUES (11,3360,200);
-INSERT INTO Pozycje_zamowienia VALUES (71,3093,35);
-INSERT INTO Pozycje_zamowienia VALUES (73,1949,56);
-INSERT INTO Pozycje_zamowienia VALUES (41,184,183);
-INSERT INTO Pozycje_zamowienia VALUES (72,516,295);
-INSERT INTO Pozycje_zamowienia VALUES (60,3797,299);
-INSERT INTO Pozycje_zamowienia VALUES (86,955,1);
-INSERT INTO Pozycje_zamowienia VALUES (62,4100,279);
-INSERT INTO Pozycje_zamowienia VALUES (86,1402,243);
-INSERT INTO Pozycje_zamowienia VALUES (20,6295,195);
-INSERT INTO Pozycje_zamowienia VALUES (78,2967,229);
-INSERT INTO Pozycje_zamowienia VALUES (32,4998,129);
-INSERT INTO Pozycje_zamowienia VALUES (36,4854,312);
-INSERT INTO Pozycje_zamowienia VALUES (70,6353,60);
-INSERT INTO Pozycje_zamowienia VALUES (13,4108,149);
-INSERT INTO Pozycje_zamowienia VALUES (63,6467,207);
-INSERT INTO Pozycje_zamowienia VALUES (1,465,34);
-INSERT INTO Pozycje_zamowienia VALUES (6,2034,213);
-INSERT INTO Pozycje_zamowienia VALUES (33,3961,162);
-INSERT INTO Pozycje_zamowienia VALUES (60,5180,234);
-INSERT INTO Pozycje_zamowienia VALUES (15,5032,319);
-INSERT INTO Pozycje_zamowienia VALUES (88,1574,158);
-INSERT INTO Pozycje_zamowienia VALUES (27,4314,73);
-INSERT INTO Pozycje_zamowienia VALUES (31,1238,20);
-INSERT INTO Pozycje_zamowienia VALUES (27,6052,125);
-INSERT INTO Pozycje_zamowienia VALUES (35,5801,243);
-INSERT INTO Pozycje_zamowienia VALUES (32,2033,309);
-INSERT INTO Pozycje_zamowienia VALUES (17,4474,18);
-INSERT INTO Pozycje_zamowienia VALUES (78,6090,75);
-INSERT INTO Pozycje_zamowienia VALUES (57,5501,242);
-INSERT INTO Pozycje_zamowienia VALUES (92,5951,102);
-INSERT INTO Pozycje_zamowienia VALUES (65,585,272);
-INSERT INTO Pozycje_zamowienia VALUES (59,5609,149);
-INSERT INTO Pozycje_zamowienia VALUES (73,2573,161);
-INSERT INTO Pozycje_zamowienia VALUES (48,5575,290);
-INSERT INTO Pozycje_zamowienia VALUES (17,5844,149);
-INSERT INTO Pozycje_zamowienia VALUES (2,3492,155);
-INSERT INTO Pozycje_zamowienia VALUES (41,2305,122);
-INSERT INTO Pozycje_zamowienia VALUES (22,5016,144);
-INSERT INTO Pozycje_zamowienia VALUES (41,3983,158);
-INSERT INTO Pozycje_zamowienia VALUES (63,5101,216);
-INSERT INTO Pozycje_zamowienia VALUES (5,402,80);
-INSERT INTO Pozycje_zamowienia VALUES (52,5356,320);
-INSERT INTO Pozycje_zamowienia VALUES (56,4422,219);
-INSERT INTO Pozycje_zamowienia VALUES (89,1727,225);
-INSERT INTO Pozycje_zamowienia VALUES (99,1757,148);
-INSERT INTO Pozycje_zamowienia VALUES (91,3775,186);
-INSERT INTO Pozycje_zamowienia VALUES (90,837,82);
-INSERT INTO Pozycje_zamowienia VALUES (34,1211,178);
-INSERT INTO Pozycje_zamowienia VALUES (27,5115,319);
-INSERT INTO Pozycje_zamowienia VALUES (10,2166,255);
-INSERT INTO Pozycje_zamowienia VALUES (16,6349,317);
-INSERT INTO Pozycje_zamowienia VALUES (54,5524,43);
-INSERT INTO Pozycje_zamowienia VALUES (69,3297,210);
-INSERT INTO Pozycje_zamowienia VALUES (62,1892,44);
-INSERT INTO Pozycje_zamowienia VALUES (17,5388,320);
-INSERT INTO Pozycje_zamowienia VALUES (82,4966,176);
-INSERT INTO Pozycje_zamowienia VALUES (23,692,81);
-INSERT INTO Pozycje_zamowienia VALUES (41,695,307);
-INSERT INTO Pozycje_zamowienia VALUES (64,3763,164);
-INSERT INTO Pozycje_zamowienia VALUES (86,3804,105);
-INSERT INTO Pozycje_zamowienia VALUES (14,2304,241);
-INSERT INTO Pozycje_zamowienia VALUES (11,5350,150);
-INSERT INTO Pozycje_zamowienia VALUES (52,3155,262);
-INSERT INTO Pozycje_zamowienia VALUES (42,6321,53);
-INSERT INTO Pozycje_zamowienia VALUES (52,4568,114);
-INSERT INTO Pozycje_zamowienia VALUES (95,6096,237);
-INSERT INTO Pozycje_zamowienia VALUES (37,3423,265);
-INSERT INTO Pozycje_zamowienia VALUES (87,3339,89);
-INSERT INTO Pozycje_zamowienia VALUES (11,4401,17);
-INSERT INTO Pozycje_zamowienia VALUES (60,245,43);
-INSERT INTO Pozycje_zamowienia VALUES (59,5236,14);
-INSERT INTO Pozycje_zamowienia VALUES (87,3944,172);
-INSERT INTO Pozycje_zamowienia VALUES (55,1920,43);
-INSERT INTO Pozycje_zamowienia VALUES (8,3277,25);
-INSERT INTO Pozycje_zamowienia VALUES (5,5752,12);
-INSERT INTO Pozycje_zamowienia VALUES (61,3587,143);
-INSERT INTO Pozycje_zamowienia VALUES (94,1339,232);
-INSERT INTO Pozycje_zamowienia VALUES (86,5392,249);
-INSERT INTO Pozycje_zamowienia VALUES (24,5988,209);
-INSERT INTO Pozycje_zamowienia VALUES (65,3229,300);
-INSERT INTO Pozycje_zamowienia VALUES (43,4536,297);
-INSERT INTO Pozycje_zamowienia VALUES (48,236,312);
-INSERT INTO Pozycje_zamowienia VALUES (80,6192,251);
-INSERT INTO Pozycje_zamowienia VALUES (7,4106,100);
-INSERT INTO Pozycje_zamowienia VALUES (65,4656,115);
-INSERT INTO Pozycje_zamowienia VALUES (78,2531,92);
-INSERT INTO Pozycje_zamowienia VALUES (56,5130,36);
-INSERT INTO Pozycje_zamowienia VALUES (9,1944,55);
-INSERT INTO Pozycje_zamowienia VALUES (23,2410,40);
-INSERT INTO Pozycje_zamowienia VALUES (40,1991,240);
-INSERT INTO Pozycje_zamowienia VALUES (5,1700,107);
-INSERT INTO Pozycje_zamowienia VALUES (17,551,213);
-INSERT INTO Pozycje_zamowienia VALUES (70,319,189);
-INSERT INTO Pozycje_zamowienia VALUES (20,3806,289);
-INSERT INTO Pozycje_zamowienia VALUES (31,3108,235);
-INSERT INTO Pozycje_zamowienia VALUES (53,4396,282);
-INSERT INTO Pozycje_zamowienia VALUES (50,5674,219);
-INSERT INTO Pozycje_zamowienia VALUES (52,614,172);
-INSERT INTO Pozycje_zamowienia VALUES (72,5718,5);
-INSERT INTO Pozycje_zamowienia VALUES (41,2906,44);
-INSERT INTO Pozycje_zamowienia VALUES (46,2562,280);
-INSERT INTO Pozycje_zamowienia VALUES (80,6448,119);
-INSERT INTO Pozycje_zamowienia VALUES (32,4945,168);
-INSERT INTO Pozycje_zamowienia VALUES (89,776,124);
-INSERT INTO Pozycje_zamowienia VALUES (91,3043,92);
-INSERT INTO Pozycje_zamowienia VALUES (48,4495,151);
-INSERT INTO Pozycje_zamowienia VALUES (86,2363,120);
-INSERT INTO Pozycje_zamowienia VALUES (96,830,173);
-INSERT INTO Pozycje_zamowienia VALUES (94,1836,275);
-INSERT INTO Pozycje_zamowienia VALUES (84,416,282);
-INSERT INTO Pozycje_zamowienia VALUES (73,4230,254);
-INSERT INTO Pozycje_zamowienia VALUES (20,5864,165);
-INSERT INTO Pozycje_zamowienia VALUES (48,8,193);
-INSERT INTO Pozycje_zamowienia VALUES (90,280,203);
-INSERT INTO Pozycje_zamowienia VALUES (66,5163,309);
-INSERT INTO Pozycje_zamowienia VALUES (24,1007,211);
-INSERT INTO Pozycje_zamowienia VALUES (80,5927,223);
-INSERT INTO Pozycje_zamowienia VALUES (32,3960,5);
-INSERT INTO Pozycje_zamowienia VALUES (73,4597,101);
-INSERT INTO Pozycje_zamowienia VALUES (66,3390,258);
-INSERT INTO Pozycje_zamowienia VALUES (99,6416,144);
-INSERT INTO Pozycje_zamowienia VALUES (12,1286,136);
-INSERT INTO Pozycje_zamowienia VALUES (76,4066,50);
-INSERT INTO Pozycje_zamowienia VALUES (78,2761,233);
-INSERT INTO Pozycje_zamowienia VALUES (93,554,254);
-INSERT INTO Pozycje_zamowienia VALUES (59,4412,22);
-INSERT INTO Pozycje_zamowienia VALUES (59,4720,74);
-INSERT INTO Pozycje_zamowienia VALUES (66,3582,221);
-INSERT INTO Pozycje_zamowienia VALUES (21,2479,15);
-INSERT INTO Pozycje_zamowienia VALUES (74,1562,186);
-INSERT INTO Pozycje_zamowienia VALUES (62,4042,4);
-INSERT INTO Pozycje_zamowienia VALUES (62,6351,18);
-INSERT INTO Pozycje_zamowienia VALUES (88,2234,275);
-INSERT INTO Pozycje_zamowienia VALUES (10,2566,152);
-INSERT INTO Pozycje_zamowienia VALUES (30,5786,186);
-INSERT INTO Pozycje_zamowienia VALUES (32,5627,231);
-INSERT INTO Pozycje_zamowienia VALUES (24,1678,155);
-INSERT INTO Pozycje_zamowienia VALUES (5,4428,63);
-INSERT INTO Pozycje_zamowienia VALUES (7,3777,116);
-INSERT INTO Pozycje_zamowienia VALUES (35,3960,171);
-INSERT INTO Pozycje_zamowienia VALUES (49,2462,92);
-INSERT INTO Pozycje_zamowienia VALUES (24,597,45);
-INSERT INTO Pozycje_zamowienia VALUES (21,5897,255);
-INSERT INTO Pozycje_zamowienia VALUES (40,3903,213);
-INSERT INTO Pozycje_zamowienia VALUES (67,751,179);
-INSERT INTO Pozycje_zamowienia VALUES (34,2588,310);
-INSERT INTO Pozycje_zamowienia VALUES (68,108,237);
-INSERT INTO Pozycje_zamowienia VALUES (100,5419,210);
-INSERT INTO Pozycje_zamowienia VALUES (43,202,289);
-INSERT INTO Pozycje_zamowienia VALUES (47,4000,229);
-INSERT INTO Pozycje_zamowienia VALUES (59,3615,134);
-INSERT INTO Pozycje_zamowienia VALUES (79,1297,129);
-INSERT INTO Pozycje_zamowienia VALUES (86,4117,277);
-INSERT INTO Pozycje_zamowienia VALUES (22,2139,306);
-INSERT INTO Pozycje_zamowienia VALUES (1,4110,47);
-INSERT INTO Pozycje_zamowienia VALUES (17,1622,71);
-INSERT INTO Pozycje_zamowienia VALUES (22,4676,126);
-INSERT INTO Pozycje_zamowienia VALUES (94,5245,243);
-INSERT INTO Pozycje_zamowienia VALUES (64,3352,53);
-INSERT INTO Pozycje_zamowienia VALUES (39,4178,255);
-INSERT INTO Pozycje_zamowienia VALUES (72,189,209);
-INSERT INTO Pozycje_zamowienia VALUES (56,5927,85);
-INSERT INTO Pozycje_zamowienia VALUES (64,3307,169);
-INSERT INTO Pozycje_zamowienia VALUES (34,5763,309);
-INSERT INTO Pozycje_zamowienia VALUES (78,2320,29);
-INSERT INTO Pozycje_zamowienia VALUES (92,2019,261);
-INSERT INTO Pozycje_zamowienia VALUES (65,5708,129);
-INSERT INTO Pozycje_zamowienia VALUES (8,4380,290);
-INSERT INTO Pozycje_zamowienia VALUES (62,770,187);
-INSERT INTO Pozycje_zamowienia VALUES (35,412,234);
-INSERT INTO Pozycje_zamowienia VALUES (16,6439,311);
-INSERT INTO Pozycje_zamowienia VALUES (53,2562,68);
-INSERT INTO Pozycje_zamowienia VALUES (36,3430,17);
-INSERT INTO Pozycje_zamowienia VALUES (22,2635,218);
-INSERT INTO Pozycje_zamowienia VALUES (63,472,25);
-INSERT INTO Pozycje_zamowienia VALUES (20,5809,117);
-INSERT INTO Pozycje_zamowienia VALUES (92,2684,163);
-INSERT INTO Pozycje_zamowienia VALUES (93,3849,320);
-INSERT INTO Pozycje_zamowienia VALUES (94,4260,116);
-INSERT INTO Pozycje_zamowienia VALUES (100,70,214);
-INSERT INTO Pozycje_zamowienia VALUES (79,3627,243);
-INSERT INTO Pozycje_zamowienia VALUES (23,1577,159);
-INSERT INTO Pozycje_zamowienia VALUES (51,601,285);
-INSERT INTO Pozycje_zamowienia VALUES (56,5758,240);
-INSERT INTO Pozycje_zamowienia VALUES (35,2230,251);
-INSERT INTO Pozycje_zamowienia VALUES (16,5713,138);
-INSERT INTO Pozycje_zamowienia VALUES (90,3501,209);
-INSERT INTO Pozycje_zamowienia VALUES (15,2012,157);
-INSERT INTO Pozycje_zamowienia VALUES (97,3614,267);
-INSERT INTO Pozycje_zamowienia VALUES (67,1270,286);
-INSERT INTO Pozycje_zamowienia VALUES (70,5109,102);
-INSERT INTO Pozycje_zamowienia VALUES (96,6108,229);
-INSERT INTO Pozycje_zamowienia VALUES (82,4782,168);
-INSERT INTO Pozycje_zamowienia VALUES (21,3876,53);
-INSERT INTO Pozycje_zamowienia VALUES (53,2667,80);
-INSERT INTO Pozycje_zamowienia VALUES (75,4730,117);
-INSERT INTO Pozycje_zamowienia VALUES (80,1476,277);
-INSERT INTO Pozycje_zamowienia VALUES (78,1518,269);
-INSERT INTO Pozycje_zamowienia VALUES (13,4248,94);
-INSERT INTO Pozycje_zamowienia VALUES (71,3671,212);
-INSERT INTO Pozycje_zamowienia VALUES (46,5243,53);
-INSERT INTO Pozycje_zamowienia VALUES (11,3824,178);
-INSERT INTO Pozycje_zamowienia VALUES (95,6212,166);
-INSERT INTO Pozycje_zamowienia VALUES (94,3770,189);
-INSERT INTO Pozycje_zamowienia VALUES (34,5220,162);
-INSERT INTO Pozycje_zamowienia VALUES (40,2075,296);
-INSERT INTO Pozycje_zamowienia VALUES (51,1295,135);
-INSERT INTO Pozycje_zamowienia VALUES (36,619,278);
-INSERT INTO Pozycje_zamowienia VALUES (9,5577,223);
-INSERT INTO Pozycje_zamowienia VALUES (70,5898,144);
-INSERT INTO Pozycje_zamowienia VALUES (1,3776,291);
-INSERT INTO Pozycje_zamowienia VALUES (29,6279,52);
-INSERT INTO Pozycje_zamowienia VALUES (35,6261,86);
-INSERT INTO Pozycje_zamowienia VALUES (51,122,294);
-INSERT INTO Pozycje_zamowienia VALUES (24,6123,305);
-INSERT INTO Pozycje_zamowienia VALUES (48,1954,314);
-INSERT INTO Pozycje_zamowienia VALUES (35,6008,276);
-INSERT INTO Pozycje_zamowienia VALUES (36,4870,312);
-INSERT INTO Pozycje_zamowienia VALUES (44,1047,19);
-INSERT INTO Pozycje_zamowienia VALUES (100,1101,120);
-INSERT INTO Pozycje_zamowienia VALUES (17,5627,320);
-INSERT INTO Pozycje_zamowienia VALUES (71,6119,229);
-INSERT INTO Pozycje_zamowienia VALUES (73,5208,263);
-INSERT INTO Pozycje_zamowienia VALUES (81,1470,217);
-INSERT INTO Pozycje_zamowienia VALUES (79,369,23);
-INSERT INTO Pozycje_zamowienia VALUES (27,5143,210);
-INSERT INTO Pozycje_zamowienia VALUES (42,3012,77);
-INSERT INTO Pozycje_zamowienia VALUES (2,6315,257);
-INSERT INTO Pozycje_zamowienia VALUES (88,2498,92);
-INSERT INTO Pozycje_zamowienia VALUES (18,4203,291);
-INSERT INTO Pozycje_zamowienia VALUES (57,328,250);
-INSERT INTO Pozycje_zamowienia VALUES (99,3077,203);
-INSERT INTO Pozycje_zamowienia VALUES (45,6076,297);
-INSERT INTO Pozycje_zamowienia VALUES (16,3449,176);
-INSERT INTO Pozycje_zamowienia VALUES (4,4813,285);
-INSERT INTO Pozycje_zamowienia VALUES (51,5170,266);
-INSERT INTO Pozycje_zamowienia VALUES (21,5696,164);
-INSERT INTO Pozycje_zamowienia VALUES (53,2379,87);
-INSERT INTO Pozycje_zamowienia VALUES (6,3541,23);
-INSERT INTO Pozycje_zamowienia VALUES (1,5448,138);
-INSERT INTO Pozycje_zamowienia VALUES (93,5924,105);
-INSERT INTO Pozycje_zamowienia VALUES (91,3375,220);
-INSERT INTO Pozycje_zamowienia VALUES (65,5931,308);
-INSERT INTO Pozycje_zamowienia VALUES (76,2004,3);
-INSERT INTO Pozycje_zamowienia VALUES (42,2753,271);
-INSERT INTO Pozycje_zamowienia VALUES (53,2026,183);
-INSERT INTO Pozycje_zamowienia VALUES (74,2335,71);
-INSERT INTO Pozycje_zamowienia VALUES (75,936,247);
-INSERT INTO Pozycje_zamowienia VALUES (41,5841,12);
-INSERT INTO Pozycje_zamowienia VALUES (92,6497,171);
-INSERT INTO Pozycje_zamowienia VALUES (51,6242,99);
-INSERT INTO Pozycje_zamowienia VALUES (86,4199,270);
-INSERT INTO Pozycje_zamowienia VALUES (23,6046,206);
-INSERT INTO Pozycje_zamowienia VALUES (23,5259,200);
-INSERT INTO Pozycje_zamowienia VALUES (88,3409,40);
-INSERT INTO Pozycje_zamowienia VALUES (19,2955,174);
-INSERT INTO Pozycje_zamowienia VALUES (42,5190,210);
-INSERT INTO Pozycje_zamowienia VALUES (16,5495,159);
-INSERT INTO Pozycje_zamowienia VALUES (44,1862,306);
-INSERT INTO Pozycje_zamowienia VALUES (94,232,150);
-INSERT INTO Pozycje_zamowienia VALUES (4,1988,211);
-INSERT INTO Pozycje_zamowienia VALUES (16,1571,320);
-INSERT INTO Pozycje_zamowienia VALUES (92,2793,108);
-INSERT INTO Pozycje_zamowienia VALUES (26,657,72);
-INSERT INTO Pozycje_zamowienia VALUES (98,5714,47);
-INSERT INTO Pozycje_zamowienia VALUES (29,2018,157);
-INSERT INTO Pozycje_zamowienia VALUES (68,25,78);
-INSERT INTO Pozycje_zamowienia VALUES (58,2929,34);
-INSERT INTO Pozycje_zamowienia VALUES (4,4554,34);
-INSERT INTO Pozycje_zamowienia VALUES (14,4483,296);
-INSERT INTO Pozycje_zamowienia VALUES (46,4107,168);
-INSERT INTO Pozycje_zamowienia VALUES (73,5443,288);
-INSERT INTO Pozycje_zamowienia VALUES (70,4599,1);
-INSERT INTO Pozycje_zamowienia VALUES (100,3477,11);
-INSERT INTO Pozycje_zamowienia VALUES (23,2378,234);
-INSERT INTO Pozycje_zamowienia VALUES (80,3506,40);
-INSERT INTO Pozycje_zamowienia VALUES (31,3890,219);
-INSERT INTO Pozycje_zamowienia VALUES (78,5172,299);
-INSERT INTO Pozycje_zamowienia VALUES (26,1933,101);
-INSERT INTO Pozycje_zamowienia VALUES (45,2412,292);
-INSERT INTO Pozycje_zamowienia VALUES (64,5065,109);
-INSERT INTO Pozycje_zamowienia VALUES (70,1438,161);
-INSERT INTO Pozycje_zamowienia VALUES (83,6048,270);
-INSERT INTO Pozycje_zamowienia VALUES (90,5873,319);
-INSERT INTO Pozycje_zamowienia VALUES (39,5316,93);
-INSERT INTO Pozycje_zamowienia VALUES (26,4309,216);
-INSERT INTO Pozycje_zamowienia VALUES (28,970,197);
-INSERT INTO Pozycje_zamowienia VALUES (73,1774,249);
-INSERT INTO Pozycje_zamowienia VALUES (55,5288,118);
-INSERT INTO Pozycje_zamowienia VALUES (17,3617,256);
-INSERT INTO Pozycje_zamowienia VALUES (78,4337,292);
-INSERT INTO Pozycje_zamowienia VALUES (16,1974,62);
-INSERT INTO Pozycje_zamowienia VALUES (93,2510,198);
-INSERT INTO Pozycje_zamowienia VALUES (83,310,266);
-INSERT INTO Pozycje_zamowienia VALUES (39,803,136);
-INSERT INTO Pozycje_zamowienia VALUES (12,5507,30);
-INSERT INTO Pozycje_zamowienia VALUES (94,5372,176);
-INSERT INTO Pozycje_zamowienia VALUES (12,4153,144);
-INSERT INTO Pozycje_zamowienia VALUES (37,5826,272);
-INSERT INTO Pozycje_zamowienia VALUES (15,3569,125);
-INSERT INTO Pozycje_zamowienia VALUES (6,4399,117);
-INSERT INTO Pozycje_zamowienia VALUES (94,356,305);
-INSERT INTO Pozycje_zamowienia VALUES (71,2019,177);
-INSERT INTO Pozycje_zamowienia VALUES (10,2064,315);
-INSERT INTO Pozycje_zamowienia VALUES (61,2208,245);
-INSERT INTO Pozycje_zamowienia VALUES (29,4545,44);
-INSERT INTO Pozycje_zamowienia VALUES (62,6017,310);
-INSERT INTO Pozycje_zamowienia VALUES (84,6271,59);
-INSERT INTO Pozycje_zamowienia VALUES (68,3355,273);
-INSERT INTO Pozycje_zamowienia VALUES (81,3568,300);
-INSERT INTO Pozycje_zamowienia VALUES (70,2374,318);
-INSERT INTO Pozycje_zamowienia VALUES (9,5433,157);
-INSERT INTO Pozycje_zamowienia VALUES (40,1793,60);
-INSERT INTO Pozycje_zamowienia VALUES (66,4463,89);
-INSERT INTO Pozycje_zamowienia VALUES (95,5544,46);
-INSERT INTO Pozycje_zamowienia VALUES (94,3477,257);
-INSERT INTO Pozycje_zamowienia VALUES (43,3286,211);
-INSERT INTO Pozycje_zamowienia VALUES (86,175,304);
-INSERT INTO Pozycje_zamowienia VALUES (61,1126,26);
-INSERT INTO Pozycje_zamowienia VALUES (23,5464,209);
-INSERT INTO Pozycje_zamowienia VALUES (39,3510,33);
-INSERT INTO Pozycje_zamowienia VALUES (67,3983,178);
-INSERT INTO Pozycje_zamowienia VALUES (1,5419,57);
-INSERT INTO Pozycje_zamowienia VALUES (10,5561,231);
-INSERT INTO Pozycje_zamowienia VALUES (46,347,53);
-INSERT INTO Pozycje_zamowienia VALUES (37,4483,314);
-INSERT INTO Pozycje_zamowienia VALUES (17,3415,74);
-INSERT INTO Pozycje_zamowienia VALUES (9,3346,277);
-INSERT INTO Pozycje_zamowienia VALUES (48,2199,86);
-INSERT INTO Pozycje_zamowienia VALUES (100,2011,284);
-INSERT INTO Pozycje_zamowienia VALUES (25,4687,196);
-INSERT INTO Pozycje_zamowienia VALUES (37,3605,1);
-INSERT INTO Pozycje_zamowienia VALUES (90,1809,185);
-INSERT INTO Pozycje_zamowienia VALUES (94,4448,137);
-INSERT INTO Pozycje_zamowienia VALUES (43,3877,261);
-INSERT INTO Pozycje_zamowienia VALUES (92,5052,120);
-INSERT INTO Pozycje_zamowienia VALUES (78,5216,230);
-INSERT INTO Pozycje_zamowienia VALUES (35,4750,43);
-INSERT INTO Pozycje_zamowienia VALUES (10,3524,182);
-INSERT INTO Pozycje_zamowienia VALUES (67,3149,160);
-INSERT INTO Pozycje_zamowienia VALUES (8,1023,197);
-INSERT INTO Pozycje_zamowienia VALUES (65,5956,129);
-INSERT INTO Pozycje_zamowienia VALUES (22,1876,86);
-INSERT INTO Pozycje_zamowienia VALUES (57,6001,217);
-INSERT INTO Pozycje_zamowienia VALUES (16,3955,260);
-INSERT INTO Pozycje_zamowienia VALUES (50,798,199);
-INSERT INTO Pozycje_zamowienia VALUES (97,3242,168);
-INSERT INTO Pozycje_zamowienia VALUES (82,4683,174);
-INSERT INTO Pozycje_zamowienia VALUES (20,384,137);
-INSERT INTO Pozycje_zamowienia VALUES (57,1451,53);
-INSERT INTO Pozycje_zamowienia VALUES (57,4476,26);
-INSERT INTO Pozycje_zamowienia VALUES (50,5316,164);
-INSERT INTO Pozycje_zamowienia VALUES (6,5883,80);
-INSERT INTO Pozycje_zamowienia VALUES (22,465,149);
-INSERT INTO Pozycje_zamowienia VALUES (72,3721,300);
-INSERT INTO Pozycje_zamowienia VALUES (88,3025,177);
-INSERT INTO Pozycje_zamowienia VALUES (75,2874,228);
-INSERT INTO Pozycje_zamowienia VALUES (30,19,22);
-INSERT INTO Pozycje_zamowienia VALUES (61,1886,65);
-INSERT INTO Pozycje_zamowienia VALUES (26,6394,235);
-INSERT INTO Pozycje_zamowienia VALUES (59,1406,316);
-INSERT INTO Pozycje_zamowienia VALUES (39,4177,32);
-INSERT INTO Pozycje_zamowienia VALUES (29,577,128);
-INSERT INTO Pozycje_zamowienia VALUES (8,5548,37);
-INSERT INTO Pozycje_zamowienia VALUES (93,5202,67);
-INSERT INTO Pozycje_zamowienia VALUES (82,4720,238);
-INSERT INTO Pozycje_zamowienia VALUES (98,3514,76);
-INSERT INTO Pozycje_zamowienia VALUES (78,1163,297);
-INSERT INTO Pozycje_zamowienia VALUES (6,3068,229);
-INSERT INTO Pozycje_zamowienia VALUES (75,1043,81);
-INSERT INTO Pozycje_zamowienia VALUES (26,4144,43);
-INSERT INTO Pozycje_zamowienia VALUES (77,156,53);
-INSERT INTO Pozycje_zamowienia VALUES (46,1454,68);
-INSERT INTO Pozycje_zamowienia VALUES (34,4279,128);
-INSERT INTO Pozycje_zamowienia VALUES (38,1083,246);
-INSERT INTO Pozycje_zamowienia VALUES (49,667,251);
-INSERT INTO Pozycje_zamowienia VALUES (42,3158,78);
-INSERT INTO Pozycje_zamowienia VALUES (24,5406,175);
-INSERT INTO Pozycje_zamowienia VALUES (35,4720,241);
-INSERT INTO Pozycje_zamowienia VALUES (7,1213,58);
-INSERT INTO Pozycje_zamowienia VALUES (50,1421,119);
-INSERT INTO Pozycje_zamowienia VALUES (95,6292,26);
-INSERT INTO Pozycje_zamowienia VALUES (20,872,119);
-INSERT INTO Pozycje_zamowienia VALUES (53,6045,112);
-INSERT INTO Pozycje_zamowienia VALUES (69,1525,123);
-INSERT INTO Pozycje_zamowienia VALUES (66,6185,53);
-INSERT INTO Pozycje_zamowienia VALUES (74,4017,320);
-INSERT INTO Pozycje_zamowienia VALUES (26,5895,174);
-INSERT INTO Pozycje_zamowienia VALUES (12,330,215);
-INSERT INTO Pozycje_zamowienia VALUES (54,6495,224);
-INSERT INTO Pozycje_zamowienia VALUES (26,2801,21);
-INSERT INTO Pozycje_zamowienia VALUES (18,5562,28);
-INSERT INTO Pozycje_zamowienia VALUES (20,1065,147);
-INSERT INTO Pozycje_zamowienia VALUES (98,1918,268);
-INSERT INTO Pozycje_zamowienia VALUES (70,4597,33);
-INSERT INTO Pozycje_zamowienia VALUES (5,5789,191);
-INSERT INTO Pozycje_zamowienia VALUES (60,502,26);
-INSERT INTO Pozycje_zamowienia VALUES (32,3866,53);
-INSERT INTO Pozycje_zamowienia VALUES (81,6107,111);
-INSERT INTO Pozycje_zamowienia VALUES (55,1876,29);
-INSERT INTO Pozycje_zamowienia VALUES (82,3906,82);
-INSERT INTO Pozycje_zamowienia VALUES (97,4459,190);
-INSERT INTO Pozycje_zamowienia VALUES (36,1900,156);
-INSERT INTO Pozycje_zamowienia VALUES (84,5103,127);
-INSERT INTO Pozycje_zamowienia VALUES (79,1080,310);
-INSERT INTO Pozycje_zamowienia VALUES (12,5243,297);
-INSERT INTO Pozycje_zamowienia VALUES (57,2253,56);
-INSERT INTO Pozycje_zamowienia VALUES (97,4025,136);
-INSERT INTO Pozycje_zamowienia VALUES (22,1632,295);
-INSERT INTO Pozycje_zamowienia VALUES (14,5311,158);
-INSERT INTO Pozycje_zamowienia VALUES (82,5605,105);
-INSERT INTO Pozycje_zamowienia VALUES (80,2662,99);
-INSERT INTO Pozycje_zamowienia VALUES (41,3926,130);
-INSERT INTO Pozycje_zamowienia VALUES (58,3269,22);
-INSERT INTO Pozycje_zamowienia VALUES (33,6198,88);
-INSERT INTO Pozycje_zamowienia VALUES (67,2226,262);
-INSERT INTO Pozycje_zamowienia VALUES (98,6284,59);
-INSERT INTO Pozycje_zamowienia VALUES (97,2787,273);
-INSERT INTO Pozycje_zamowienia VALUES (63,53,97);
-INSERT INTO Pozycje_zamowienia VALUES (45,5753,48);
-INSERT INTO Pozycje_zamowienia VALUES (67,1225,10);
-INSERT INTO Pozycje_zamowienia VALUES (75,2053,4);
-INSERT INTO Pozycje_zamowienia VALUES (99,6041,9);
-INSERT INTO Pozycje_zamowienia VALUES (77,2910,211);
-INSERT INTO Pozycje_zamowienia VALUES (77,848,127);
-INSERT INTO Pozycje_zamowienia VALUES (82,1700,88);
-INSERT INTO Pozycje_zamowienia VALUES (32,227,25);
-INSERT INTO Pozycje_zamowienia VALUES (34,4802,279);
-INSERT INTO Pozycje_zamowienia VALUES (42,2792,22);
-INSERT INTO Pozycje_zamowienia VALUES (70,2705,125);
-INSERT INTO Pozycje_zamowienia VALUES (66,190,310);
-INSERT INTO Pozycje_zamowienia VALUES (68,2021,197);
-INSERT INTO Pozycje_zamowienia VALUES (85,4764,32);
-INSERT INTO Pozycje_zamowienia VALUES (71,3684,268);
-INSERT INTO Pozycje_zamowienia VALUES (37,4098,139);
-INSERT INTO Pozycje_zamowienia VALUES (50,4162,120);
-INSERT INTO Pozycje_zamowienia VALUES (28,1523,291);
-INSERT INTO Pozycje_zamowienia VALUES (24,44,278);
-INSERT INTO Pozycje_zamowienia VALUES (77,4593,266);
-INSERT INTO Pozycje_zamowienia VALUES (5,3651,296);
-INSERT INTO Pozycje_zamowienia VALUES (58,4232,179);
-INSERT INTO Pozycje_zamowienia VALUES (48,5419,42);
-INSERT INTO Pozycje_zamowienia VALUES (75,6127,139);
-INSERT INTO Pozycje_zamowienia VALUES (91,2698,49);
-INSERT INTO Pozycje_zamowienia VALUES (79,6295,176);
-INSERT INTO Pozycje_zamowienia VALUES (58,75,209);
-INSERT INTO Pozycje_zamowienia VALUES (78,2157,154);
-INSERT INTO Pozycje_zamowienia VALUES (53,516,240);
-INSERT INTO Pozycje_zamowienia VALUES (84,5628,95);
-INSERT INTO Pozycje_zamowienia VALUES (100,4517,47);
-INSERT INTO Pozycje_zamowienia VALUES (5,3595,82);
-INSERT INTO Pozycje_zamowienia VALUES (36,5863,55);
-INSERT INTO Pozycje_zamowienia VALUES (20,15,119);
-INSERT INTO Pozycje_zamowienia VALUES (59,1289,72);
-INSERT INTO Pozycje_zamowienia VALUES (64,3361,118);
-INSERT INTO Pozycje_zamowienia VALUES (2,2881,150);
-INSERT INTO Pozycje_zamowienia VALUES (11,5450,259);
-INSERT INTO Pozycje_zamowienia VALUES (78,4484,261);
-INSERT INTO Pozycje_zamowienia VALUES (57,3701,99);
-INSERT INTO Pozycje_zamowienia VALUES (66,1506,17);
-INSERT INTO Pozycje_zamowienia VALUES (88,6120,147);
-INSERT INTO Pozycje_zamowienia VALUES (63,2048,136);
-INSERT INTO Pozycje_zamowienia VALUES (99,143,176);
-INSERT INTO Pozycje_zamowienia VALUES (49,1840,153);
-INSERT INTO Pozycje_zamowienia VALUES (97,1545,268);
-INSERT INTO Pozycje_zamowienia VALUES (19,2368,241);
-INSERT INTO Pozycje_zamowienia VALUES (37,3881,135);
-INSERT INTO Pozycje_zamowienia VALUES (46,1135,311);
-INSERT INTO Pozycje_zamowienia VALUES (6,2490,99);
-INSERT INTO Pozycje_zamowienia VALUES (99,741,317);
-INSERT INTO Pozycje_zamowienia VALUES (45,6491,257);
-INSERT INTO Pozycje_zamowienia VALUES (32,4958,264);
-INSERT INTO Pozycje_zamowienia VALUES (3,5893,270);
-INSERT INTO Pozycje_zamowienia VALUES (58,4902,136);
-INSERT INTO Pozycje_zamowienia VALUES (59,1043,98);
-INSERT INTO Pozycje_zamowienia VALUES (91,1799,26);
-INSERT INTO Pozycje_zamowienia VALUES (78,5229,250);
-INSERT INTO Pozycje_zamowienia VALUES (80,2651,167);
-INSERT INTO Pozycje_zamowienia VALUES (67,1455,213);
-INSERT INTO Pozycje_zamowienia VALUES (53,6475,282);
-INSERT INTO Pozycje_zamowienia VALUES (81,1483,41);
-INSERT INTO Pozycje_zamowienia VALUES (57,4488,132);
-INSERT INTO Pozycje_zamowienia VALUES (7,4762,65);
-INSERT INTO Pozycje_zamowienia VALUES (98,3625,290);
-INSERT INTO Pozycje_zamowienia VALUES (21,5405,279);
-INSERT INTO Pozycje_zamowienia VALUES (16,3473,77);
-INSERT INTO Pozycje_zamowienia VALUES (57,5095,134);
-INSERT INTO Pozycje_zamowienia VALUES (89,4089,112);
-INSERT INTO Pozycje_zamowienia VALUES (20,3855,273);
-INSERT INTO Pozycje_zamowienia VALUES (39,861,86);
-INSERT INTO Pozycje_zamowienia VALUES (1,4856,163);
-INSERT INTO Pozycje_zamowienia VALUES (97,832,134);
-INSERT INTO Pozycje_zamowienia VALUES (98,4542,85);
-INSERT INTO Pozycje_zamowienia VALUES (32,4125,86);
-INSERT INTO Pozycje_zamowienia VALUES (14,5434,178);
-INSERT INTO Pozycje_zamowienia VALUES (32,624,184);
-INSERT INTO Pozycje_zamowienia VALUES (24,1995,193);
-INSERT INTO Pozycje_zamowienia VALUES (45,2558,137);
-INSERT INTO Pozycje_zamowienia VALUES (76,539,66);
-INSERT INTO Pozycje_zamowienia VALUES (67,3818,69);
-INSERT INTO Pozycje_zamowienia VALUES (6,960,239);
-INSERT INTO Pozycje_zamowienia VALUES (23,2770,189);
-INSERT INTO Pozycje_zamowienia VALUES (85,4340,254);
-INSERT INTO Pozycje_zamowienia VALUES (67,185,174);
-INSERT INTO Pozycje_zamowienia VALUES (78,2781,134);
-INSERT INTO Pozycje_zamowienia VALUES (38,5021,70);
-INSERT INTO Pozycje_zamowienia VALUES (34,4514,68);
-INSERT INTO Pozycje_zamowienia VALUES (3,5815,105);
-INSERT INTO Pozycje_zamowienia VALUES (89,2097,214);
-INSERT INTO Pozycje_zamowienia VALUES (14,3329,146);
-INSERT INTO Pozycje_zamowienia VALUES (40,3688,24);
-INSERT INTO Pozycje_zamowienia VALUES (43,1274,103);
-INSERT INTO Pozycje_zamowienia VALUES (90,2404,110);
-INSERT INTO Pozycje_zamowienia VALUES (94,2734,151);
-INSERT INTO Pozycje_zamowienia VALUES (32,6253,188);
-INSERT INTO Pozycje_zamowienia VALUES (73,1051,213);
-INSERT INTO Pozycje_zamowienia VALUES (63,1797,312);
-INSERT INTO Pozycje_zamowienia VALUES (16,2371,268);
-INSERT INTO Pozycje_zamowienia VALUES (26,276,59);
-INSERT INTO Pozycje_zamowienia VALUES (30,1090,293);
-INSERT INTO Pozycje_zamowienia VALUES (84,1443,143);
-INSERT INTO Pozycje_zamowienia VALUES (83,5140,44);
-INSERT INTO Pozycje_zamowienia VALUES (67,5164,248);
-INSERT INTO Pozycje_zamowienia VALUES (14,6379,40);
-INSERT INTO Pozycje_zamowienia VALUES (94,1068,8);
-INSERT INTO Pozycje_zamowienia VALUES (66,4824,1);
-INSERT INTO Pozycje_zamowienia VALUES (46,3228,187);
-INSERT INTO Pozycje_zamowienia VALUES (35,4298,210);
-INSERT INTO Pozycje_zamowienia VALUES (6,1935,31);
-INSERT INTO Pozycje_zamowienia VALUES (30,963,93);
-INSERT INTO Pozycje_zamowienia VALUES (81,684,103);
-INSERT INTO Pozycje_zamowienia VALUES (28,4636,48);
-INSERT INTO Pozycje_zamowienia VALUES (15,1521,114);
-INSERT INTO Pozycje_zamowienia VALUES (6,466,258);
-INSERT INTO Pozycje_zamowienia VALUES (65,3003,282);
-INSERT INTO Pozycje_zamowienia VALUES (49,2227,189);
-INSERT INTO Pozycje_zamowienia VALUES (14,153,250);
-INSERT INTO Pozycje_zamowienia VALUES (5,3389,12);
-INSERT INTO Pozycje_zamowienia VALUES (7,5548,50);
-INSERT INTO Pozycje_zamowienia VALUES (12,4677,225);
-INSERT INTO Pozycje_zamowienia VALUES (49,4751,166);
-INSERT INTO Pozycje_zamowienia VALUES (42,4942,147);
-INSERT INTO Pozycje_zamowienia VALUES (39,528,119);
-INSERT INTO Pozycje_zamowienia VALUES (18,6103,162);
-INSERT INTO Pozycje_zamowienia VALUES (31,1017,176);
-INSERT INTO Pozycje_zamowienia VALUES (68,601,129);
-INSERT INTO Pozycje_zamowienia VALUES (19,1556,70);
-INSERT INTO Pozycje_zamowienia VALUES (5,3130,300);
-INSERT INTO Pozycje_zamowienia VALUES (37,6206,60);
-INSERT INTO Pozycje_zamowienia VALUES (69,3379,174);
-INSERT INTO Pozycje_zamowienia VALUES (45,717,316);
-INSERT INTO Pozycje_zamowienia VALUES (41,2991,197);
-INSERT INTO Pozycje_zamowienia VALUES (71,1283,139);
-INSERT INTO Pozycje_zamowienia VALUES (27,4933,55);
-INSERT INTO Pozycje_zamowienia VALUES (92,5714,157);
-INSERT INTO Pozycje_zamowienia VALUES (63,2470,177);
-INSERT INTO Pozycje_zamowienia VALUES (70,1656,64);
-INSERT INTO Pozycje_zamowienia VALUES (34,3566,45);
-INSERT INTO Pozycje_zamowienia VALUES (97,1652,61);
-INSERT INTO Pozycje_zamowienia VALUES (29,3298,172);
-INSERT INTO Pozycje_zamowienia VALUES (60,568,104);
-INSERT INTO Pozycje_zamowienia VALUES (20,4698,257);
-INSERT INTO Pozycje_zamowienia VALUES (12,6493,19);
-INSERT INTO Pozycje_zamowienia VALUES (71,388,313);
-INSERT INTO Pozycje_zamowienia VALUES (54,6093,103);
-INSERT INTO Pozycje_zamowienia VALUES (16,2171,117);
-INSERT INTO Pozycje_zamowienia VALUES (20,966,239);
-INSERT INTO Pozycje_zamowienia VALUES (98,6258,257);
-INSERT INTO Pozycje_zamowienia VALUES (37,3578,287);
-INSERT INTO Pozycje_zamowienia VALUES (86,5602,82);
-INSERT INTO Pozycje_zamowienia VALUES (63,2359,50);
-INSERT INTO Pozycje_zamowienia VALUES (61,4668,83);
-INSERT INTO Pozycje_zamowienia VALUES (53,827,242);
-INSERT INTO Pozycje_zamowienia VALUES (98,4798,168);
-INSERT INTO Pozycje_zamowienia VALUES (98,2576,21);
-INSERT INTO Pozycje_zamowienia VALUES (5,3624,247);
-INSERT INTO Pozycje_zamowienia VALUES (13,4544,216);
-INSERT INTO Pozycje_zamowienia VALUES (10,5887,314);
-INSERT INTO Pozycje_zamowienia VALUES (59,935,312);
-INSERT INTO Pozycje_zamowienia VALUES (55,6221,46);
-INSERT INTO Pozycje_zamowienia VALUES (53,952,193);
-INSERT INTO Pozycje_zamowienia VALUES (19,4015,258);
-INSERT INTO Pozycje_zamowienia VALUES (22,5374,113);
-INSERT INTO Pozycje_zamowienia VALUES (64,4458,267);
-INSERT INTO Pozycje_zamowienia VALUES (94,2984,299);
-INSERT INTO Pozycje_zamowienia VALUES (69,2074,31);
-INSERT INTO Pozycje_zamowienia VALUES (53,1667,20);
-INSERT INTO Pozycje_zamowienia VALUES (14,2663,266);
-INSERT INTO Pozycje_zamowienia VALUES (36,4571,49);
-INSERT INTO Pozycje_zamowienia VALUES (68,3215,190);
-INSERT INTO Pozycje_zamowienia VALUES (66,3994,275);
-INSERT INTO Pozycje_zamowienia VALUES (15,974,13);
-INSERT INTO Pozycje_zamowienia VALUES (7,1467,285);
-INSERT INTO Pozycje_zamowienia VALUES (86,3893,16);
-INSERT INTO Pozycje_zamowienia VALUES (11,123,156);
-INSERT INTO Pozycje_zamowienia VALUES (36,4336,243);
-INSERT INTO Pozycje_zamowienia VALUES (62,1825,302);
-INSERT INTO Pozycje_zamowienia VALUES (24,2610,11);
-INSERT INTO Pozycje_zamowienia VALUES (45,666,33);
-INSERT INTO Pozycje_zamowienia VALUES (94,6401,60);
-INSERT INTO Pozycje_zamowienia VALUES (35,3804,319);
-INSERT INTO Pozycje_zamowienia VALUES (46,2272,23);
-INSERT INTO Pozycje_zamowienia VALUES (51,3544,231);
-INSERT INTO Pozycje_zamowienia VALUES (34,2682,121);
-INSERT INTO Pozycje_zamowienia VALUES (14,1145,115);
-INSERT INTO Pozycje_zamowienia VALUES (96,6453,210);
-INSERT INTO Pozycje_zamowienia VALUES (14,5235,171);
-INSERT INTO Pozycje_zamowienia VALUES (14,4433,99);
-INSERT INTO Pozycje_zamowienia VALUES (56,4785,135);
-INSERT INTO Pozycje_zamowienia VALUES (29,5724,304);
-INSERT INTO Pozycje_zamowienia VALUES (78,6087,202);
-INSERT INTO Pozycje_zamowienia VALUES (76,6240,164);
-INSERT INTO Pozycje_zamowienia VALUES (76,88,197);
-INSERT INTO Pozycje_zamowienia VALUES (65,4665,213);
-INSERT INTO Pozycje_zamowienia VALUES (23,41,146);
-INSERT INTO Pozycje_zamowienia VALUES (26,1772,244);
-INSERT INTO Pozycje_zamowienia VALUES (48,5434,96);
-INSERT INTO Pozycje_zamowienia VALUES (14,4629,271);
-INSERT INTO Pozycje_zamowienia VALUES (22,4340,307);
-INSERT INTO Pozycje_zamowienia VALUES (19,5143,248);
-INSERT INTO Pozycje_zamowienia VALUES (63,5466,22);
-INSERT INTO Pozycje_zamowienia VALUES (68,2851,281);
-INSERT INTO Pozycje_zamowienia VALUES (62,3640,183);
-INSERT INTO Pozycje_zamowienia VALUES (30,346,228);
-INSERT INTO Pozycje_zamowienia VALUES (22,5666,262);
-INSERT INTO Pozycje_zamowienia VALUES (31,593,96);
-INSERT INTO Pozycje_zamowienia VALUES (22,5841,110);
-INSERT INTO Pozycje_zamowienia VALUES (61,582,313);
-INSERT INTO Pozycje_zamowienia VALUES (10,3902,220);
-INSERT INTO Pozycje_zamowienia VALUES (62,1473,148);
-INSERT INTO Pozycje_zamowienia VALUES (91,867,152);
-INSERT INTO Pozycje_zamowienia VALUES (23,5270,156);
-INSERT INTO Pozycje_zamowienia VALUES (49,5149,127);
-INSERT INTO Pozycje_zamowienia VALUES (11,2895,190);
-INSERT INTO Pozycje_zamowienia VALUES (50,5452,303);
-INSERT INTO Pozycje_zamowienia VALUES (77,4486,162);
-INSERT INTO Pozycje_zamowienia VALUES (73,992,297);
-INSERT INTO Pozycje_zamowienia VALUES (93,5406,152);
-INSERT INTO Pozycje_zamowienia VALUES (35,5947,308);
-INSERT INTO Pozycje_zamowienia VALUES (71,4138,65);
-INSERT INTO Pozycje_zamowienia VALUES (28,4192,41);
-INSERT INTO Pozycje_zamowienia VALUES (44,5302,263);
-INSERT INTO Pozycje_zamowienia VALUES (81,4773,232);
-INSERT INTO Pozycje_zamowienia VALUES (89,2040,212);
-INSERT INTO Pozycje_zamowienia VALUES (75,5302,30);
-INSERT INTO Pozycje_zamowienia VALUES (14,459,274);
-INSERT INTO Pozycje_zamowienia VALUES (32,1664,291);
-INSERT INTO Pozycje_zamowienia VALUES (55,3687,250);
-INSERT INTO Pozycje_zamowienia VALUES (76,200,314);
-INSERT INTO Pozycje_zamowienia VALUES (38,1600,320);
-INSERT INTO Pozycje_zamowienia VALUES (9,2325,163);
-INSERT INTO Pozycje_zamowienia VALUES (24,6325,195);
-INSERT INTO Pozycje_zamowienia VALUES (26,2186,281);
-INSERT INTO Pozycje_zamowienia VALUES (47,4897,226);
-INSERT INTO Pozycje_zamowienia VALUES (49,3311,122);
-INSERT INTO Pozycje_zamowienia VALUES (31,4014,55);
-INSERT INTO Pozycje_zamowienia VALUES (12,1491,318);
-INSERT INTO Pozycje_zamowienia VALUES (48,2113,258);
-INSERT INTO Pozycje_zamowienia VALUES (63,1384,64);
-INSERT INTO Pozycje_zamowienia VALUES (2,3716,171);
-INSERT INTO Pozycje_zamowienia VALUES (3,5624,303);
-INSERT INTO Pozycje_zamowienia VALUES (52,1178,178);
-INSERT INTO Pozycje_zamowienia VALUES (53,3188,52);
-INSERT INTO Pozycje_zamowienia VALUES (26,124,156);
-INSERT INTO Pozycje_zamowienia VALUES (20,5798,278);
-INSERT INTO Pozycje_zamowienia VALUES (2,3609,104);
-INSERT INTO Pozycje_zamowienia VALUES (74,2621,103);
-INSERT INTO Pozycje_zamowienia VALUES (17,1548,283);
-INSERT INTO Pozycje_zamowienia VALUES (17,6254,163);
-INSERT INTO Pozycje_zamowienia VALUES (79,5068,243);
-INSERT INTO Pozycje_zamowienia VALUES (60,5573,50);
-INSERT INTO Pozycje_zamowienia VALUES (25,283,64);
-INSERT INTO Pozycje_zamowienia VALUES (79,4425,236);
-INSERT INTO Pozycje_zamowienia VALUES (89,3301,158);
-INSERT INTO Pozycje_zamowienia VALUES (63,4660,172);
-INSERT INTO Pozycje_zamowienia VALUES (36,4360,277);
-INSERT INTO Pozycje_zamowienia VALUES (76,1481,40);
-INSERT INTO Pozycje_zamowienia VALUES (28,1267,309);
-INSERT INTO Pozycje_zamowienia VALUES (19,2302,296);
-INSERT INTO Pozycje_zamowienia VALUES (9,4983,94);
-INSERT INTO Pozycje_zamowienia VALUES (69,4301,241);
-INSERT INTO Pozycje_zamowienia VALUES (35,3268,257);
-INSERT INTO Pozycje_zamowienia VALUES (41,3254,69);
-INSERT INTO Pozycje_zamowienia VALUES (100,6444,247);
-INSERT INTO Pozycje_zamowienia VALUES (95,4099,207);
-INSERT INTO Pozycje_zamowienia VALUES (13,396,180);
-INSERT INTO Pozycje_zamowienia VALUES (90,810,14);
-INSERT INTO Pozycje_zamowienia VALUES (74,446,184);
-INSERT INTO Pozycje_zamowienia VALUES (44,1458,73);
-INSERT INTO Pozycje_zamowienia VALUES (93,184,166);
-INSERT INTO Pozycje_zamowienia VALUES (41,2108,83);
-INSERT INTO Pozycje_zamowienia VALUES (21,1534,188);
-INSERT INTO Pozycje_zamowienia VALUES (7,4327,154);
-INSERT INTO Pozycje_zamowienia VALUES (88,4859,213);
-INSERT INTO Pozycje_zamowienia VALUES (23,1649,316);
-INSERT INTO Pozycje_zamowienia VALUES (12,3368,73);
-INSERT INTO Pozycje_zamowienia VALUES (68,5296,161);
-INSERT INTO Pozycje_zamowienia VALUES (29,178,93);
-INSERT INTO Pozycje_zamowienia VALUES (18,3718,260);
-INSERT INTO Pozycje_zamowienia VALUES (71,4552,219);
-INSERT INTO Pozycje_zamowienia VALUES (43,984,278);
-INSERT INTO Pozycje_zamowienia VALUES (70,6350,122);
-INSERT INTO Pozycje_zamowienia VALUES (68,3007,76);
-INSERT INTO Pozycje_zamowienia VALUES (27,5522,88);
-INSERT INTO Pozycje_zamowienia VALUES (17,6053,308);
-INSERT INTO Pozycje_zamowienia VALUES (64,861,48);
-INSERT INTO Pozycje_zamowienia VALUES (40,1310,90);
-INSERT INTO Pozycje_zamowienia VALUES (91,3129,20);
-INSERT INTO Pozycje_zamowienia VALUES (89,4581,77);
-INSERT INTO Pozycje_zamowienia VALUES (88,3233,105);
-INSERT INTO Pozycje_zamowienia VALUES (96,952,297);
-INSERT INTO Pozycje_zamowienia VALUES (42,4421,196);
-INSERT INTO Pozycje_zamowienia VALUES (40,1384,212);
-INSERT INTO Pozycje_zamowienia VALUES (70,6342,273);
-INSERT INTO Pozycje_zamowienia VALUES (53,2335,263);
-INSERT INTO Pozycje_zamowienia VALUES (97,2650,108);
-INSERT INTO Pozycje_zamowienia VALUES (24,4289,92);
-INSERT INTO Pozycje_zamowienia VALUES (87,4218,37);
-INSERT INTO Pozycje_zamowienia VALUES (96,1907,74);
-INSERT INTO Pozycje_zamowienia VALUES (70,3648,279);
-INSERT INTO Pozycje_zamowienia VALUES (91,2923,81);
-INSERT INTO Pozycje_zamowienia VALUES (10,4273,51);
-INSERT INTO Pozycje_zamowienia VALUES (83,5895,261);
-INSERT INTO Pozycje_zamowienia VALUES (56,593,76);
-INSERT INTO Pozycje_zamowienia VALUES (78,2434,121);
-INSERT INTO Pozycje_zamowienia VALUES (57,3107,76);
-INSERT INTO Pozycje_zamowienia VALUES (100,3983,229);
-INSERT INTO Pozycje_zamowienia VALUES (81,5402,305);
-INSERT INTO Pozycje_zamowienia VALUES (35,2331,212);
-INSERT INTO Pozycje_zamowienia VALUES (91,4408,224);
-INSERT INTO Pozycje_zamowienia VALUES (38,498,276);
-INSERT INTO Pozycje_zamowienia VALUES (89,2349,193);
-INSERT INTO Pozycje_zamowienia VALUES (83,4286,265);
-INSERT INTO Pozycje_zamowienia VALUES (14,1369,2);
-INSERT INTO Pozycje_zamowienia VALUES (42,4663,154);
-INSERT INTO Pozycje_zamowienia VALUES (66,6428,64);
-INSERT INTO Pozycje_zamowienia VALUES (70,2751,138);
-INSERT INTO Pozycje_zamowienia VALUES (69,1570,234);
-INSERT INTO Pozycje_zamowienia VALUES (18,4559,183);
-INSERT INTO Pozycje_zamowienia VALUES (88,6447,163);
-INSERT INTO Pozycje_zamowienia VALUES (93,899,245);
-INSERT INTO Pozycje_zamowienia VALUES (88,3639,49);
-INSERT INTO Pozycje_zamowienia VALUES (35,1173,263);
-INSERT INTO Pozycje_zamowienia VALUES (57,1379,247);
-INSERT INTO Pozycje_zamowienia VALUES (40,4673,165);
-INSERT INTO Pozycje_zamowienia VALUES (75,2720,271);
-INSERT INTO Pozycje_zamowienia VALUES (84,2271,34);
-INSERT INTO Pozycje_zamowienia VALUES (2,657,74);
-INSERT INTO Pozycje_zamowienia VALUES (42,2375,130);
-INSERT INTO Pozycje_zamowienia VALUES (61,5932,96);
-INSERT INTO Pozycje_zamowienia VALUES (33,5823,74);
-INSERT INTO Pozycje_zamowienia VALUES (5,6076,231);
-INSERT INTO Pozycje_zamowienia VALUES (60,202,315);
-INSERT INTO Pozycje_zamowienia VALUES (83,634,187);
-INSERT INTO Pozycje_zamowienia VALUES (34,5302,286);
-INSERT INTO Pozycje_zamowienia VALUES (25,5506,99);
-INSERT INTO Pozycje_zamowienia VALUES (18,6272,245);
-INSERT INTO Pozycje_zamowienia VALUES (8,4376,126);
-INSERT INTO Pozycje_zamowienia VALUES (27,2184,113);
-INSERT INTO Pozycje_zamowienia VALUES (31,1628,267);
-INSERT INTO Pozycje_zamowienia VALUES (1,2874,206);
-INSERT INTO Pozycje_zamowienia VALUES (68,4908,1);
-INSERT INTO Pozycje_zamowienia VALUES (21,3954,163);
-INSERT INTO Pozycje_zamowienia VALUES (20,2712,124);
-INSERT INTO Pozycje_zamowienia VALUES (26,1011,128);
-INSERT INTO Pozycje_zamowienia VALUES (6,1768,152);
-INSERT INTO Pozycje_zamowienia VALUES (25,990,36);
-INSERT INTO Pozycje_zamowienia VALUES (97,3209,7);
-INSERT INTO Pozycje_zamowienia VALUES (42,3349,156);
-INSERT INTO Pozycje_zamowienia VALUES (22,900,53);
-INSERT INTO Pozycje_zamowienia VALUES (28,547,187);
-INSERT INTO Pozycje_zamowienia VALUES (75,280,200);
-INSERT INTO Pozycje_zamowienia VALUES (58,5389,279);
-INSERT INTO Pozycje_zamowienia VALUES (70,1472,171);
-INSERT INTO Pozycje_zamowienia VALUES (1,1191,166);
-INSERT INTO Pozycje_zamowienia VALUES (72,3769,209);
-INSERT INTO Pozycje_zamowienia VALUES (65,4686,66);
-INSERT INTO Pozycje_zamowienia VALUES (88,2439,151);
-INSERT INTO Pozycje_zamowienia VALUES (57,6180,98);
-INSERT INTO Pozycje_zamowienia VALUES (83,3482,98);
-INSERT INTO Pozycje_zamowienia VALUES (61,707,68);
-INSERT INTO Pozycje_zamowienia VALUES (14,6020,191);
-INSERT INTO Pozycje_zamowienia VALUES (2,4055,240);
-INSERT INTO Pozycje_zamowienia VALUES (79,2262,46);
-INSERT INTO Pozycje_zamowienia VALUES (97,835,3);
-INSERT INTO Pozycje_zamowienia VALUES (34,474,7);
-INSERT INTO Pozycje_zamowienia VALUES (69,328,6);
-INSERT INTO Pozycje_zamowienia VALUES (64,1522,62);
-INSERT INTO Pozycje_zamowienia VALUES (55,2,66);
-INSERT INTO Pozycje_zamowienia VALUES (45,1876,84);
-INSERT INTO Pozycje_zamowienia VALUES (18,2242,84);
-INSERT INTO Pozycje_zamowienia VALUES (9,3820,212);
-INSERT INTO Pozycje_zamowienia VALUES (8,398,87);
-INSERT INTO Pozycje_zamowienia VALUES (60,5346,118);
-INSERT INTO Pozycje_zamowienia VALUES (29,4453,233);
-INSERT INTO Pozycje_zamowienia VALUES (78,3507,136);
-INSERT INTO Pozycje_zamowienia VALUES (26,1950,227);
-INSERT INTO Pozycje_zamowienia VALUES (89,4491,82);
-INSERT INTO Pozycje_zamowienia VALUES (80,2629,121);
-INSERT INTO Pozycje_zamowienia VALUES (48,2883,80);
-INSERT INTO Pozycje_zamowienia VALUES (54,2353,54);
-INSERT INTO Pozycje_zamowienia VALUES (19,4543,213);
-INSERT INTO Pozycje_zamowienia VALUES (50,2396,296);
-INSERT INTO Pozycje_zamowienia VALUES (59,5927,13);
-INSERT INTO Pozycje_zamowienia VALUES (35,936,200);
-INSERT INTO Pozycje_zamowienia VALUES (12,3627,274);
-INSERT INTO Pozycje_zamowienia VALUES (36,6260,50);
-INSERT INTO Pozycje_zamowienia VALUES (20,6306,282);
-INSERT INTO Pozycje_zamowienia VALUES (50,1214,309);
-INSERT INTO Pozycje_zamowienia VALUES (52,6371,310);
-INSERT INTO Pozycje_zamowienia VALUES (31,5691,66);
-INSERT INTO Pozycje_zamowienia VALUES (11,647,224);
-INSERT INTO Pozycje_zamowienia VALUES (22,718,266);
-INSERT INTO Pozycje_zamowienia VALUES (2,5228,51);
-INSERT INTO Pozycje_zamowienia VALUES (21,2775,200);
-INSERT INTO Pozycje_zamowienia VALUES (45,5646,215);
-INSERT INTO Pozycje_zamowienia VALUES (32,4542,57);
-INSERT INTO Pozycje_zamowienia VALUES (83,6406,155);
-INSERT INTO Pozycje_zamowienia VALUES (36,136,142);
-INSERT INTO Pozycje_zamowienia VALUES (87,4241,290);
-INSERT INTO Pozycje_zamowienia VALUES (42,4199,103);
-INSERT INTO Pozycje_zamowienia VALUES (6,2491,294);
-INSERT INTO Pozycje_zamowienia VALUES (73,5312,76);
-INSERT INTO Pozycje_zamowienia VALUES (92,1940,71);
-INSERT INTO Pozycje_zamowienia VALUES (89,5867,296);
-INSERT INTO Pozycje_zamowienia VALUES (36,4082,158);
-INSERT INTO Pozycje_zamowienia VALUES (86,872,15);
-INSERT INTO Pozycje_zamowienia VALUES (60,401,270);
-INSERT INTO Pozycje_zamowienia VALUES (74,5076,279);
-INSERT INTO Pozycje_zamowienia VALUES (39,5808,139);
-INSERT INTO Pozycje_zamowienia VALUES (70,3936,60);
-INSERT INTO Pozycje_zamowienia VALUES (31,5203,164);
-INSERT INTO Pozycje_zamowienia VALUES (75,3045,300);
-INSERT INTO Pozycje_zamowienia VALUES (10,1086,312);
-INSERT INTO Pozycje_zamowienia VALUES (67,3785,319);
-INSERT INTO Pozycje_zamowienia VALUES (46,5756,1);
-INSERT INTO Pozycje_zamowienia VALUES (58,6164,215);
-INSERT INTO Pozycje_zamowienia VALUES (70,1022,30);
-INSERT INTO Pozycje_zamowienia VALUES (71,2676,152);
-INSERT INTO Pozycje_zamowienia VALUES (96,2936,182);
-INSERT INTO Pozycje_zamowienia VALUES (7,6254,228);
-INSERT INTO Pozycje_zamowienia VALUES (90,5362,317);
-INSERT INTO Pozycje_zamowienia VALUES (48,1436,291);
-INSERT INTO Pozycje_zamowienia VALUES (25,812,55);
-INSERT INTO Pozycje_zamowienia VALUES (74,5863,163);
-INSERT INTO Pozycje_zamowienia VALUES (51,3987,111);
-INSERT INTO Pozycje_zamowienia VALUES (86,3861,245);
-INSERT INTO Pozycje_zamowienia VALUES (66,3911,261);
-INSERT INTO Pozycje_zamowienia VALUES (89,2016,277);
-INSERT INTO Pozycje_zamowienia VALUES (56,5691,237);
-INSERT INTO Pozycje_zamowienia VALUES (23,400,21);
-INSERT INTO Pozycje_zamowienia VALUES (21,2451,14);
-INSERT INTO Pozycje_zamowienia VALUES (99,2608,134);
-INSERT INTO Pozycje_zamowienia VALUES (24,4465,8);
-INSERT INTO Pozycje_zamowienia VALUES (35,5463,243);
-INSERT INTO Pozycje_zamowienia VALUES (91,2503,287);
-INSERT INTO Pozycje_zamowienia VALUES (24,6347,16);
-INSERT INTO Pozycje_zamowienia VALUES (1,1047,144);
-INSERT INTO Pozycje_zamowienia VALUES (11,1084,260);
-INSERT INTO Pozycje_zamowienia VALUES (96,375,196);
-INSERT INTO Pozycje_zamowienia VALUES (70,159,112);
-INSERT INTO Pozycje_zamowienia VALUES (98,3455,89);
-INSERT INTO Pozycje_zamowienia VALUES (45,331,271);
-INSERT INTO Pozycje_zamowienia VALUES (42,2621,260);
-INSERT INTO Pozycje_zamowienia VALUES (80,2512,69);
-INSERT INTO Pozycje_zamowienia VALUES (7,719,264);
-INSERT INTO Pozycje_zamowienia VALUES (4,3858,164);
-INSERT INTO Pozycje_zamowienia VALUES (72,1791,247);
-INSERT INTO Pozycje_zamowienia VALUES (49,3710,107);
-INSERT INTO Pozycje_zamowienia VALUES (93,3367,145);
-INSERT INTO Pozycje_zamowienia VALUES (82,578,232);
-INSERT INTO Pozycje_zamowienia VALUES (30,5739,21);
-INSERT INTO Pozycje_zamowienia VALUES (65,3737,99);
-INSERT INTO Pozycje_zamowienia VALUES (6,3479,65);
-INSERT INTO Pozycje_zamowienia VALUES (2,1832,30);
-INSERT INTO Pozycje_zamowienia VALUES (69,3017,276);
-INSERT INTO Pozycje_zamowienia VALUES (98,5108,98);
-INSERT INTO Pozycje_zamowienia VALUES (22,5805,260);
-INSERT INTO Pozycje_zamowienia VALUES (1,2896,138);
-INSERT INTO Pozycje_zamowienia VALUES (82,2020,316);
-INSERT INTO Pozycje_zamowienia VALUES (92,2675,117);
-INSERT INTO Pozycje_zamowienia VALUES (2,3077,7);
-INSERT INTO Pozycje_zamowienia VALUES (32,2109,33);
-INSERT INTO Pozycje_zamowienia VALUES (82,6428,252);
-INSERT INTO Pozycje_zamowienia VALUES (22,2413,190);
-INSERT INTO Pozycje_zamowienia VALUES (30,5787,72);
-INSERT INTO Pozycje_zamowienia VALUES (20,2518,235);
-INSERT INTO Pozycje_zamowienia VALUES (99,5659,41);
-INSERT INTO Pozycje_zamowienia VALUES (75,4450,161);
-INSERT INTO Pozycje_zamowienia VALUES (64,1815,149);
-INSERT INTO Pozycje_zamowienia VALUES (35,2694,299);
-INSERT INTO Pozycje_zamowienia VALUES (46,4459,169);
-INSERT INTO Pozycje_zamowienia VALUES (34,4667,73);
-INSERT INTO Pozycje_zamowienia VALUES (33,3932,206);
-INSERT INTO Pozycje_zamowienia VALUES (15,2350,208);
-INSERT INTO Pozycje_zamowienia VALUES (94,2546,30);
-INSERT INTO Pozycje_zamowienia VALUES (88,674,127);
-INSERT INTO Pozycje_zamowienia VALUES (40,818,36);
-INSERT INTO Pozycje_zamowienia VALUES (100,5153,180);
-INSERT INTO Pozycje_zamowienia VALUES (58,5956,70);
-INSERT INTO Pozycje_zamowienia VALUES (41,767,175);
-INSERT INTO Pozycje_zamowienia VALUES (10,2423,22);
-INSERT INTO Pozycje_zamowienia VALUES (46,3180,259);
-INSERT INTO Pozycje_zamowienia VALUES (34,3026,191);
-INSERT INTO Pozycje_zamowienia VALUES (24,3139,220);
-INSERT INTO Pozycje_zamowienia VALUES (58,5815,234);
-INSERT INTO Pozycje_zamowienia VALUES (55,3603,286);
-INSERT INTO Pozycje_zamowienia VALUES (76,689,75);
-INSERT INTO Pozycje_zamowienia VALUES (13,3967,122);
-INSERT INTO Pozycje_zamowienia VALUES (18,5720,45);
-INSERT INTO Pozycje_zamowienia VALUES (5,306,98);
-INSERT INTO Pozycje_zamowienia VALUES (80,959,296);
-INSERT INTO Pozycje_zamowienia VALUES (50,2051,225);
-INSERT INTO Pozycje_zamowienia VALUES (31,758,244);
-INSERT INTO Pozycje_zamowienia VALUES (97,4920,231);
-INSERT INTO Pozycje_zamowienia VALUES (77,2953,125);
-INSERT INTO Pozycje_zamowienia VALUES (51,3624,181);
-INSERT INTO Pozycje_zamowienia VALUES (85,6028,134);
-INSERT INTO Pozycje_zamowienia VALUES (8,4302,116);
-INSERT INTO Pozycje_zamowienia VALUES (10,1080,102);
-INSERT INTO Pozycje_zamowienia VALUES (75,1205,163);
-INSERT INTO Pozycje_zamowienia VALUES (8,4444,266);
-INSERT INTO Pozycje_zamowienia VALUES (49,5912,88);
-INSERT INTO Pozycje_zamowienia VALUES (33,3503,220);
-INSERT INTO Pozycje_zamowienia VALUES (77,5123,219);
-INSERT INTO Pozycje_zamowienia VALUES (82,3822,94);
-INSERT INTO Pozycje_zamowienia VALUES (73,1394,183);
-INSERT INTO Pozycje_zamowienia VALUES (32,508,39);
-INSERT INTO Pozycje_zamowienia VALUES (3,1737,178);
-INSERT INTO Pozycje_zamowienia VALUES (55,4256,220);
-INSERT INTO Pozycje_zamowienia VALUES (27,6124,207);
-INSERT INTO Pozycje_zamowienia VALUES (94,3618,51);
-INSERT INTO Pozycje_zamowienia VALUES (44,143,301);
-INSERT INTO Pozycje_zamowienia VALUES (66,6049,188);
-INSERT INTO Pozycje_zamowienia VALUES (36,5151,73);
-INSERT INTO Pozycje_zamowienia VALUES (13,637,96);
-INSERT INTO Pozycje_zamowienia VALUES (62,4832,201);
-INSERT INTO Pozycje_zamowienia VALUES (49,1010,165);
-INSERT INTO Pozycje_zamowienia VALUES (1,2183,139);
-INSERT INTO Pozycje_zamowienia VALUES (99,2877,231);
-INSERT INTO Pozycje_zamowienia VALUES (19,1483,113);
-INSERT INTO Pozycje_zamowienia VALUES (92,924,254);
-INSERT INTO Pozycje_zamowienia VALUES (31,562,48);
-INSERT INTO Pozycje_zamowienia VALUES (100,5948,26);
-INSERT INTO Pozycje_zamowienia VALUES (17,5310,227);
-INSERT INTO Pozycje_zamowienia VALUES (82,709,13);
-INSERT INTO Pozycje_zamowienia VALUES (39,2655,142);
-INSERT INTO Pozycje_zamowienia VALUES (46,4500,21);
-INSERT INTO Pozycje_zamowienia VALUES (30,2759,203);
-INSERT INTO Pozycje_zamowienia VALUES (52,2445,65);
-INSERT INTO Pozycje_zamowienia VALUES (25,4207,195);
-INSERT INTO Pozycje_zamowienia VALUES (43,304,16);
-INSERT INTO Pozycje_zamowienia VALUES (84,6482,84);
-INSERT INTO Pozycje_zamowienia VALUES (23,3865,25);
-INSERT INTO Pozycje_zamowienia VALUES (85,2674,311);
-INSERT INTO Pozycje_zamowienia VALUES (88,621,210);
-INSERT INTO Pozycje_zamowienia VALUES (87,4489,159);
-INSERT INTO Pozycje_zamowienia VALUES (22,3697,212);
-INSERT INTO Pozycje_zamowienia VALUES (29,4984,31);
-INSERT INTO Pozycje_zamowienia VALUES (25,3658,17);
-INSERT INTO Pozycje_zamowienia VALUES (63,5381,151);
-INSERT INTO Pozycje_zamowienia VALUES (52,2400,40);
-INSERT INTO Pozycje_zamowienia VALUES (6,2585,64);
-INSERT INTO Pozycje_zamowienia VALUES (14,4161,98);
-INSERT INTO Pozycje_zamowienia VALUES (78,4554,273);
-INSERT INTO Pozycje_zamowienia VALUES (19,2860,181);
-INSERT INTO Pozycje_zamowienia VALUES (24,6095,132);
-INSERT INTO Pozycje_zamowienia VALUES (53,1163,42);
-INSERT INTO Pozycje_zamowienia VALUES (86,1757,273);
-INSERT INTO Pozycje_zamowienia VALUES (15,968,216);
-INSERT INTO Pozycje_zamowienia VALUES (17,2426,107);
-INSERT INTO Pozycje_zamowienia VALUES (55,661,31);
-INSERT INTO Pozycje_zamowienia VALUES (71,5105,142);
-INSERT INTO Pozycje_zamowienia VALUES (62,2144,143);
-INSERT INTO Pozycje_zamowienia VALUES (83,3061,281);
-INSERT INTO Pozycje_zamowienia VALUES (35,1227,178);
-INSERT INTO Pozycje_zamowienia VALUES (65,5896,206);
-INSERT INTO Pozycje_zamowienia VALUES (98,981,185);
-INSERT INTO Pozycje_zamowienia VALUES (53,3388,151);
-INSERT INTO Pozycje_zamowienia VALUES (13,3046,203);
-INSERT INTO Pozycje_zamowienia VALUES (87,2595,288);
-INSERT INTO Pozycje_zamowienia VALUES (38,3841,103);
-INSERT INTO Pozycje_zamowienia VALUES (13,5562,128);
-INSERT INTO Pozycje_zamowienia VALUES (70,2136,319);
-INSERT INTO Pozycje_zamowienia VALUES (81,3460,288);
-INSERT INTO Pozycje_zamowienia VALUES (74,1155,252);
-INSERT INTO Pozycje_zamowienia VALUES (6,922,246);
-INSERT INTO Pozycje_zamowienia VALUES (61,4493,235);
-INSERT INTO Pozycje_zamowienia VALUES (65,5487,178);
-INSERT INTO Pozycje_zamowienia VALUES (41,1137,100);
-INSERT INTO Pozycje_zamowienia VALUES (35,4827,33);
-INSERT INTO Pozycje_zamowienia VALUES (47,6126,198);
-INSERT INTO Pozycje_zamowienia VALUES (27,768,277);
-INSERT INTO Pozycje_zamowienia VALUES (92,3491,304);
-INSERT INTO Pozycje_zamowienia VALUES (40,6222,145);
-INSERT INTO Pozycje_zamowienia VALUES (45,2795,221);
-INSERT INTO Pozycje_zamowienia VALUES (80,3311,275);
-INSERT INTO Pozycje_zamowienia VALUES (42,3746,67);
-INSERT INTO Pozycje_zamowienia VALUES (62,4153,95);
-INSERT INTO Pozycje_zamowienia VALUES (36,5382,89);
-INSERT INTO Pozycje_zamowienia VALUES (42,6419,293);
-INSERT INTO Pozycje_zamowienia VALUES (51,2350,94);
-INSERT INTO Pozycje_zamowienia VALUES (77,6325,71);
-INSERT INTO Pozycje_zamowienia VALUES (59,4507,62);
-INSERT INTO Pozycje_zamowienia VALUES (96,6448,150);
-INSERT INTO Pozycje_zamowienia VALUES (82,3563,114);
-INSERT INTO Pozycje_zamowienia VALUES (48,4674,271);
-INSERT INTO Pozycje_zamowienia VALUES (94,2038,235);
-INSERT INTO Pozycje_zamowienia VALUES (72,5503,75);
-INSERT INTO Pozycje_zamowienia VALUES (42,2083,24);
-INSERT INTO Pozycje_zamowienia VALUES (72,2540,168);
-INSERT INTO Pozycje_zamowienia VALUES (33,6265,247);
-INSERT INTO Pozycje_zamowienia VALUES (65,892,298);
-INSERT INTO Pozycje_zamowienia VALUES (68,5229,66);
-INSERT INTO Pozycje_zamowienia VALUES (67,861,172);
-INSERT INTO Pozycje_zamowienia VALUES (10,3540,227);
-INSERT INTO Pozycje_zamowienia VALUES (97,2657,33);
-INSERT INTO Pozycje_zamowienia VALUES (10,1955,311);
-INSERT INTO Pozycje_zamowienia VALUES (85,2920,300);
-INSERT INTO Pozycje_zamowienia VALUES (26,1034,134);
-INSERT INTO Pozycje_zamowienia VALUES (70,176,146);
-INSERT INTO Pozycje_zamowienia VALUES (49,3191,274);
-INSERT INTO Pozycje_zamowienia VALUES (15,2727,207);
-INSERT INTO Pozycje_zamowienia VALUES (58,2760,292);
-INSERT INTO Pozycje_zamowienia VALUES (14,1696,273);
-INSERT INTO Pozycje_zamowienia VALUES (8,5403,72);
-INSERT INTO Pozycje_zamowienia VALUES (21,5076,191);
-INSERT INTO Pozycje_zamowienia VALUES (97,4606,57);
-INSERT INTO Pozycje_zamowienia VALUES (28,1316,310);
-INSERT INTO Pozycje_zamowienia VALUES (58,3993,204);
-INSERT INTO Pozycje_zamowienia VALUES (73,6040,291);
-INSERT INTO Pozycje_zamowienia VALUES (27,3042,22);
-INSERT INTO Pozycje_zamowienia VALUES (83,3684,265);
-INSERT INTO Pozycje_zamowienia VALUES (57,136,56);
-INSERT INTO Pozycje_zamowienia VALUES (67,1576,318);
-INSERT INTO Pozycje_zamowienia VALUES (50,5065,118);
-INSERT INTO Pozycje_zamowienia VALUES (64,5363,295);
-INSERT INTO Pozycje_zamowienia VALUES (49,1074,73);
-INSERT INTO Pozycje_zamowienia VALUES (2,1600,244);
-INSERT INTO Pozycje_zamowienia VALUES (14,4409,219);
-INSERT INTO Pozycje_zamowienia VALUES (8,754,114);
-INSERT INTO Pozycje_zamowienia VALUES (67,503,301);
-INSERT INTO Pozycje_zamowienia VALUES (15,2788,133);
-INSERT INTO Pozycje_zamowienia VALUES (89,3625,7);
-INSERT INTO Pozycje_zamowienia VALUES (56,5849,14);
-INSERT INTO Pozycje_zamowienia VALUES (75,5314,80);
-INSERT INTO Pozycje_zamowienia VALUES (75,140,44);
-INSERT INTO Pozycje_zamowienia VALUES (42,3532,260);
-INSERT INTO Pozycje_zamowienia VALUES (60,4103,291);
-INSERT INTO Pozycje_zamowienia VALUES (58,3463,315);
-INSERT INTO Pozycje_zamowienia VALUES (3,1764,262);
-INSERT INTO Pozycje_zamowienia VALUES (64,6035,38);
-INSERT INTO Pozycje_zamowienia VALUES (30,1559,302);
-INSERT INTO Pozycje_zamowienia VALUES (80,1582,55);
-INSERT INTO Pozycje_zamowienia VALUES (9,2777,172);
-INSERT INTO Pozycje_zamowienia VALUES (84,1215,257);
-INSERT INTO Pozycje_zamowienia VALUES (17,3650,265);
-INSERT INTO Pozycje_zamowienia VALUES (48,1594,245);
-INSERT INTO Pozycje_zamowienia VALUES (89,5452,81);
-INSERT INTO Pozycje_zamowienia VALUES (100,1135,292);
-INSERT INTO Pozycje_zamowienia VALUES (23,5157,40);
-INSERT INTO Pozycje_zamowienia VALUES (19,6371,255);
-INSERT INTO Pozycje_zamowienia VALUES (73,2623,247);
-INSERT INTO Pozycje_zamowienia VALUES (65,3246,65);
-INSERT INTO Pozycje_zamowienia VALUES (74,3344,206);
-INSERT INTO Pozycje_zamowienia VALUES (48,5356,173);
-INSERT INTO Pozycje_zamowienia VALUES (95,832,220);
-INSERT INTO Pozycje_zamowienia VALUES (96,2999,316);
-INSERT INTO Pozycje_zamowienia VALUES (45,5334,62);
-INSERT INTO Pozycje_zamowienia VALUES (53,554,164);
-INSERT INTO Pozycje_zamowienia VALUES (15,679,163);
-INSERT INTO Pozycje_zamowienia VALUES (41,3931,209);
-INSERT INTO Pozycje_zamowienia VALUES (65,3953,238);
-INSERT INTO Pozycje_zamowienia VALUES (7,5038,296);
-INSERT INTO Pozycje_zamowienia VALUES (17,2072,44);
-INSERT INTO Pozycje_zamowienia VALUES (21,1036,22);
-INSERT INTO Pozycje_zamowienia VALUES (46,1894,14);
-INSERT INTO Pozycje_zamowienia VALUES (50,2982,141);
-INSERT INTO Pozycje_zamowienia VALUES (2,6100,301);
-INSERT INTO Pozycje_zamowienia VALUES (74,4622,50);
-INSERT INTO Pozycje_zamowienia VALUES (29,3910,221);
-INSERT INTO Pozycje_zamowienia VALUES (5,1488,220);
-INSERT INTO Pozycje_zamowienia VALUES (39,2508,155);
-INSERT INTO Pozycje_zamowienia VALUES (59,6494,116);
-INSERT INTO Pozycje_zamowienia VALUES (85,4198,242);
-INSERT INTO Pozycje_zamowienia VALUES (93,5074,154);
-INSERT INTO Pozycje_zamowienia VALUES (48,1718,309);
-INSERT INTO Pozycje_zamowienia VALUES (1,1340,58);
-INSERT INTO Pozycje_zamowienia VALUES (46,1042,259);
-INSERT INTO Pozycje_zamowienia VALUES (60,4721,243);
-INSERT INTO Pozycje_zamowienia VALUES (12,6286,232);
-INSERT INTO Pozycje_zamowienia VALUES (51,110,317);
-INSERT INTO Pozycje_zamowienia VALUES (14,5393,244);
-INSERT INTO Pozycje_zamowienia VALUES (84,906,147);
-INSERT INTO Pozycje_zamowienia VALUES (22,3574,132);
-INSERT INTO Pozycje_zamowienia VALUES (73,528,4);
-INSERT INTO Pozycje_zamowienia VALUES (74,1375,74);
-INSERT INTO Pozycje_zamowienia VALUES (73,1768,92);
-INSERT INTO Pozycje_zamowienia VALUES (14,5608,15);
-INSERT INTO Pozycje_zamowienia VALUES (11,678,107);
-INSERT INTO Pozycje_zamowienia VALUES (21,6379,131);
-INSERT INTO Pozycje_zamowienia VALUES (66,6161,199);
-INSERT INTO Pozycje_zamowienia VALUES (32,5866,288);
-INSERT INTO Pozycje_zamowienia VALUES (39,4543,111);
-INSERT INTO Pozycje_zamowienia VALUES (12,4463,229);
-INSERT INTO Pozycje_zamowienia VALUES (4,2634,290);
-INSERT INTO Pozycje_zamowienia VALUES (86,5029,211);
-INSERT INTO Pozycje_zamowienia VALUES (81,1282,1);
-INSERT INTO Pozycje_zamowienia VALUES (77,162,108);
-INSERT INTO Pozycje_zamowienia VALUES (23,6267,98);
-INSERT INTO Pozycje_zamowienia VALUES (22,3752,245);
-INSERT INTO Pozycje_zamowienia VALUES (15,129,58);
-INSERT INTO Pozycje_zamowienia VALUES (99,1728,317);
-INSERT INTO Pozycje_zamowienia VALUES (62,3510,282);
-INSERT INTO Pozycje_zamowienia VALUES (57,2473,49);
-INSERT INTO Pozycje_zamowienia VALUES (56,5789,207);
-INSERT INTO Pozycje_zamowienia VALUES (49,2680,298);
-INSERT INTO Pozycje_zamowienia VALUES (93,4574,172);
-INSERT INTO Pozycje_zamowienia VALUES (4,5657,143);
-INSERT INTO Pozycje_zamowienia VALUES (30,1831,131);
-INSERT INTO Pozycje_zamowienia VALUES (80,2027,163);
-INSERT INTO Pozycje_zamowienia VALUES (37,3107,241);
-INSERT INTO Pozycje_zamowienia VALUES (72,886,90);
-INSERT INTO Pozycje_zamowienia VALUES (64,5531,247);
-INSERT INTO Pozycje_zamowienia VALUES (12,2559,75);
-INSERT INTO Pozycje_zamowienia VALUES (73,3320,309);
-INSERT INTO Pozycje_zamowienia VALUES (90,1074,223);
-INSERT INTO Pozycje_zamowienia VALUES (32,1247,278);
-INSERT INTO Pozycje_zamowienia VALUES (87,6115,184);
-INSERT INTO Pozycje_zamowienia VALUES (95,4067,193);
-INSERT INTO Pozycje_zamowienia VALUES (32,1130,276);
-INSERT INTO Pozycje_zamowienia VALUES (45,4944,143);
-INSERT INTO Pozycje_zamowienia VALUES (76,1212,13);
-INSERT INTO Pozycje_zamowienia VALUES (54,5802,149);
-INSERT INTO Pozycje_zamowienia VALUES (26,437,18);
-INSERT INTO Pozycje_zamowienia VALUES (82,5677,210);
-INSERT INTO Pozycje_zamowienia VALUES (52,2920,175);
-INSERT INTO Pozycje_zamowienia VALUES (55,3262,228);
-INSERT INTO Pozycje_zamowienia VALUES (8,1806,44);
-INSERT INTO Pozycje_zamowienia VALUES (18,3229,190);
-INSERT INTO Pozycje_zamowienia VALUES (100,2327,161);
-INSERT INTO Pozycje_zamowienia VALUES (37,1620,213);
-INSERT INTO Pozycje_zamowienia VALUES (11,1984,47);
-INSERT INTO Pozycje_zamowienia VALUES (33,1425,55);
-INSERT INTO Pozycje_zamowienia VALUES (18,5334,71);
-INSERT INTO Pozycje_zamowienia VALUES (47,2093,22);
-INSERT INTO Pozycje_zamowienia VALUES (34,4499,4);
-INSERT INTO Pozycje_zamowienia VALUES (45,1294,227);
-INSERT INTO Pozycje_zamowienia VALUES (3,5473,214);
-INSERT INTO Pozycje_zamowienia VALUES (61,5758,67);
-INSERT INTO Pozycje_zamowienia VALUES (38,8,131);
-INSERT INTO Pozycje_zamowienia VALUES (38,738,217);
-INSERT INTO Pozycje_zamowienia VALUES (2,234,124);
-INSERT INTO Pozycje_zamowienia VALUES (42,579,181);
-INSERT INTO Pozycje_zamowienia VALUES (48,5999,68);
-INSERT INTO Pozycje_zamowienia VALUES (60,2317,3);
-INSERT INTO Pozycje_zamowienia VALUES (78,3800,210);
-INSERT INTO Pozycje_zamowienia VALUES (34,533,159);
-INSERT INTO Pozycje_zamowienia VALUES (81,2170,208);
-INSERT INTO Pozycje_zamowienia VALUES (68,2924,144);
-INSERT INTO Pozycje_zamowienia VALUES (50,456,141);
-INSERT INTO Pozycje_zamowienia VALUES (48,2496,26);
-INSERT INTO Pozycje_zamowienia VALUES (17,5429,297);
-INSERT INTO Pozycje_zamowienia VALUES (61,2899,99);
-INSERT INTO Pozycje_zamowienia VALUES (17,3678,208);
-INSERT INTO Pozycje_zamowienia VALUES (86,4090,30);
-INSERT INTO Pozycje_zamowienia VALUES (81,4636,293);
-INSERT INTO Pozycje_zamowienia VALUES (69,2623,252);
-INSERT INTO Pozycje_zamowienia VALUES (11,6089,259);
-INSERT INTO Pozycje_zamowienia VALUES (82,2036,9);
-INSERT INTO Pozycje_zamowienia VALUES (68,4714,73);
-INSERT INTO Pozycje_zamowienia VALUES (73,806,295);
-INSERT INTO Pozycje_zamowienia VALUES (20,2047,172);
-INSERT INTO Pozycje_zamowienia VALUES (40,22,108);
-INSERT INTO Pozycje_zamowienia VALUES (80,1886,211);
-INSERT INTO Pozycje_zamowienia VALUES (35,4606,207);
-INSERT INTO Pozycje_zamowienia VALUES (71,6238,152);
-INSERT INTO Pozycje_zamowienia VALUES (1,569,316);
-INSERT INTO Pozycje_zamowienia VALUES (72,479,282);
-INSERT INTO Pozycje_zamowienia VALUES (87,1370,217);
-INSERT INTO Pozycje_zamowienia VALUES (40,2367,113);
-INSERT INTO Pozycje_zamowienia VALUES (16,1131,283);
-INSERT INTO Pozycje_zamowienia VALUES (83,2587,132);
-INSERT INTO Pozycje_zamowienia VALUES (45,156,101);
-INSERT INTO Pozycje_zamowienia VALUES (72,626,280);
-INSERT INTO Pozycje_zamowienia VALUES (78,6089,154);
-INSERT INTO Pozycje_zamowienia VALUES (64,102,91);
-INSERT INTO Pozycje_zamowienia VALUES (41,1990,42);
-INSERT INTO Pozycje_zamowienia VALUES (13,1199,56);
-INSERT INTO Pozycje_zamowienia VALUES (18,659,157);
-INSERT INTO Pozycje_zamowienia VALUES (79,4146,95);
-INSERT INTO Pozycje_zamowienia VALUES (72,5101,223);
-INSERT INTO Pozycje_zamowienia VALUES (49,2816,26);
-INSERT INTO Pozycje_zamowienia VALUES (41,6390,268);
-INSERT INTO Pozycje_zamowienia VALUES (56,2420,310);
-INSERT INTO Pozycje_zamowienia VALUES (90,328,274);
-INSERT INTO Pozycje_zamowienia VALUES (45,1374,146);
-INSERT INTO Pozycje_zamowienia VALUES (90,4030,198);
-INSERT INTO Pozycje_zamowienia VALUES (98,291,82);
-INSERT INTO Pozycje_zamowienia VALUES (26,2894,132);
-INSERT INTO Pozycje_zamowienia VALUES (83,5373,209);
-INSERT INTO Pozycje_zamowienia VALUES (62,4118,38);
-INSERT INTO Pozycje_zamowienia VALUES (42,2551,172);
-INSERT INTO Pozycje_zamowienia VALUES (47,6406,282);
-INSERT INTO Pozycje_zamowienia VALUES (79,4211,58);
-INSERT INTO Pozycje_zamowienia VALUES (22,6436,116);
-INSERT INTO Pozycje_zamowienia VALUES (65,6048,272);
-INSERT INTO Pozycje_zamowienia VALUES (13,5295,29);
-INSERT INTO Pozycje_zamowienia VALUES (12,1352,148);
-INSERT INTO Pozycje_zamowienia VALUES (64,5760,9);
-INSERT INTO Pozycje_zamowienia VALUES (34,2304,242);
-INSERT INTO Pozycje_zamowienia VALUES (49,2108,198);
-INSERT INTO Pozycje_zamowienia VALUES (82,631,45);
-INSERT INTO Pozycje_zamowienia VALUES (78,1040,144);
-INSERT INTO Pozycje_zamowienia VALUES (73,3893,245);
-INSERT INTO Pozycje_zamowienia VALUES (95,1518,319);
-INSERT INTO Pozycje_zamowienia VALUES (21,3122,7);
-INSERT INTO Pozycje_zamowienia VALUES (39,2265,274);
-INSERT INTO Pozycje_zamowienia VALUES (86,4371,13);
-INSERT INTO Pozycje_zamowienia VALUES (36,3788,112);
-INSERT INTO Pozycje_zamowienia VALUES (73,4544,215);
-INSERT INTO Pozycje_zamowienia VALUES (44,4742,195);
-INSERT INTO Pozycje_zamowienia VALUES (78,860,21);
-INSERT INTO Pozycje_zamowienia VALUES (63,3619,230);
-INSERT INTO Pozycje_zamowienia VALUES (56,2195,56);
-INSERT INTO Pozycje_zamowienia VALUES (21,5563,42);
-INSERT INTO Pozycje_zamowienia VALUES (87,1350,251);
-INSERT INTO Pozycje_zamowienia VALUES (41,5634,227);
-INSERT INTO Pozycje_zamowienia VALUES (47,902,320);
-INSERT INTO Pozycje_zamowienia VALUES (96,884,70);
-INSERT INTO Pozycje_zamowienia VALUES (52,4835,242);
-INSERT INTO Pozycje_zamowienia VALUES (9,4325,95);
-INSERT INTO Pozycje_zamowienia VALUES (28,1251,242);
-INSERT INTO Pozycje_zamowienia VALUES (84,423,239);
-INSERT INTO Pozycje_zamowienia VALUES (8,3979,101);
-INSERT INTO Pozycje_zamowienia VALUES (42,3041,296);
-INSERT INTO Pozycje_zamowienia VALUES (61,5131,294);
-INSERT INTO Pozycje_zamowienia VALUES (89,2379,236);
-INSERT INTO Pozycje_zamowienia VALUES (88,4876,149);
-INSERT INTO Pozycje_zamowienia VALUES (55,2020,182);
-INSERT INTO Pozycje_zamowienia VALUES (45,5674,109);
-INSERT INTO Pozycje_zamowienia VALUES (26,1787,90);
-INSERT INTO Pozycje_zamowienia VALUES (97,569,228);
-INSERT INTO Pozycje_zamowienia VALUES (64,1732,135);
-INSERT INTO Pozycje_zamowienia VALUES (40,4168,239);
-INSERT INTO Pozycje_zamowienia VALUES (49,4452,208);
-INSERT INTO Pozycje_zamowienia VALUES (29,4379,47);
-INSERT INTO Pozycje_zamowienia VALUES (33,5911,151);
-INSERT INTO Pozycje_zamowienia VALUES (65,868,6);
-INSERT INTO Pozycje_zamowienia VALUES (66,3609,303);
-INSERT INTO Pozycje_zamowienia VALUES (52,6075,103);
-INSERT INTO Pozycje_zamowienia VALUES (93,256,148);
-INSERT INTO Pozycje_zamowienia VALUES (23,1306,239);
-INSERT INTO Pozycje_zamowienia VALUES (65,180,91);
-INSERT INTO Pozycje_zamowienia VALUES (98,5138,248);
-INSERT INTO Pozycje_zamowienia VALUES (64,1623,21);
-INSERT INTO Pozycje_zamowienia VALUES (12,2866,190);
-INSERT INTO Pozycje_zamowienia VALUES (21,2867,156);
-INSERT INTO Pozycje_zamowienia VALUES (81,5559,74);
-INSERT INTO Pozycje_zamowienia VALUES (47,2393,249);
-INSERT INTO Pozycje_zamowienia VALUES (81,5178,230);
-INSERT INTO Pozycje_zamowienia VALUES (37,2699,160);
-INSERT INTO Pozycje_zamowienia VALUES (22,1179,172);
-INSERT INTO Pozycje_zamowienia VALUES (85,2835,175);
-INSERT INTO Pozycje_zamowienia VALUES (71,6052,281);
-INSERT INTO Pozycje_zamowienia VALUES (64,1264,181);
-INSERT INTO Pozycje_zamowienia VALUES (39,1573,67);
-INSERT INTO Pozycje_zamowienia VALUES (72,3112,161);
-INSERT INTO Pozycje_zamowienia VALUES (35,1576,177);
-INSERT INTO Pozycje_zamowienia VALUES (7,1684,4);
-INSERT INTO Pozycje_zamowienia VALUES (3,1384,204);
-INSERT INTO Pozycje_zamowienia VALUES (34,4984,266);
-INSERT INTO Pozycje_zamowienia VALUES (60,6135,216);
-INSERT INTO Pozycje_zamowienia VALUES (78,1003,280);
-INSERT INTO Pozycje_zamowienia VALUES (96,2772,22);
-INSERT INTO Pozycje_zamowienia VALUES (80,4473,189);
-INSERT INTO Pozycje_zamowienia VALUES (86,2637,51);
-INSERT INTO Pozycje_zamowienia VALUES (52,2988,176);
-INSERT INTO Pozycje_zamowienia VALUES (37,5547,19);
-INSERT INTO Pozycje_zamowienia VALUES (46,4675,206);
-INSERT INTO Pozycje_zamowienia VALUES (34,2024,297);
-INSERT INTO Pozycje_zamowienia VALUES (14,3813,303);
-INSERT INTO Pozycje_zamowienia VALUES (93,4574,152);
-INSERT INTO Pozycje_zamowienia VALUES (41,1062,59);
-INSERT INTO Pozycje_zamowienia VALUES (41,2974,34);
-INSERT INTO Pozycje_zamowienia VALUES (81,4568,245);
-INSERT INTO Pozycje_zamowienia VALUES (68,6197,66);
-INSERT INTO Pozycje_zamowienia VALUES (13,3433,149);
-INSERT INTO Pozycje_zamowienia VALUES (60,554,21);
-INSERT INTO Pozycje_zamowienia VALUES (51,6313,238);
-INSERT INTO Pozycje_zamowienia VALUES (32,6433,36);
-INSERT INTO Pozycje_zamowienia VALUES (100,4194,316);
-INSERT INTO Pozycje_zamowienia VALUES (71,3298,302);
-INSERT INTO Pozycje_zamowienia VALUES (47,4429,217);
-INSERT INTO Pozycje_zamowienia VALUES (3,3545,238);
-INSERT INTO Pozycje_zamowienia VALUES (53,2921,5);
-INSERT INTO Pozycje_zamowienia VALUES (61,3781,220);
-INSERT INTO Pozycje_zamowienia VALUES (87,936,199);
-INSERT INTO Pozycje_zamowienia VALUES (34,331,73);
-INSERT INTO Pozycje_zamowienia VALUES (47,4690,229);
-INSERT INTO Pozycje_zamowienia VALUES (37,5648,280);
-INSERT INTO Pozycje_zamowienia VALUES (1,3661,75);
-INSERT INTO Pozycje_zamowienia VALUES (4,721,251);
-INSERT INTO Pozycje_zamowienia VALUES (54,4090,156);
-INSERT INTO Pozycje_zamowienia VALUES (7,3860,273);
-INSERT INTO Pozycje_zamowienia VALUES (26,1741,62);
-INSERT INTO Pozycje_zamowienia VALUES (47,6233,35);
-INSERT INTO Pozycje_zamowienia VALUES (9,2238,212);
-INSERT INTO Pozycje_zamowienia VALUES (47,920,89);
-INSERT INTO Pozycje_zamowienia VALUES (62,3400,52);
-INSERT INTO Pozycje_zamowienia VALUES (22,1721,194);
-INSERT INTO Pozycje_zamowienia VALUES (28,4586,135);
-INSERT INTO Pozycje_zamowienia VALUES (4,4405,57);
-INSERT INTO Pozycje_zamowienia VALUES (38,900,85);
-INSERT INTO Pozycje_zamowienia VALUES (12,5856,57);
-INSERT INTO Pozycje_zamowienia VALUES (82,3397,47);
-INSERT INTO Pozycje_zamowienia VALUES (1,1686,69);
-INSERT INTO Pozycje_zamowienia VALUES (15,5975,25);
-INSERT INTO Pozycje_zamowienia VALUES (10,6495,109);
-INSERT INTO Pozycje_zamowienia VALUES (14,1651,235);
-INSERT INTO Pozycje_zamowienia VALUES (21,3140,277);
-INSERT INTO Pozycje_zamowienia VALUES (78,4118,196);
-INSERT INTO Pozycje_zamowienia VALUES (38,1306,255);
-INSERT INTO Pozycje_zamowienia VALUES (71,3617,206);
-INSERT INTO Pozycje_zamowienia VALUES (59,1082,89);
-INSERT INTO Pozycje_zamowienia VALUES (85,5617,123);
-INSERT INTO Pozycje_zamowienia VALUES (30,6011,282);
-INSERT INTO Pozycje_zamowienia VALUES (51,4856,108);
-INSERT INTO Pozycje_zamowienia VALUES (29,4708,252);
-INSERT INTO Pozycje_zamowienia VALUES (63,1594,158);
-INSERT INTO Pozycje_zamowienia VALUES (78,5405,169);
-INSERT INTO Pozycje_zamowienia VALUES (6,2646,163);
-INSERT INTO Pozycje_zamowienia VALUES (32,221,1);
-INSERT INTO Pozycje_zamowienia VALUES (93,2997,148);
-INSERT INTO Pozycje_zamowienia VALUES (61,5454,19);
-INSERT INTO Pozycje_zamowienia VALUES (33,3504,309);
-INSERT INTO Pozycje_zamowienia VALUES (65,552,65);
-INSERT INTO Pozycje_zamowienia VALUES (35,3766,69);
-INSERT INTO Pozycje_zamowienia VALUES (77,6310,180);
-INSERT INTO Pozycje_zamowienia VALUES (20,806,136);
-INSERT INTO Pozycje_zamowienia VALUES (54,6047,290);
-INSERT INTO Pozycje_zamowienia VALUES (47,648,139);
-INSERT INTO Pozycje_zamowienia VALUES (87,2620,74);
-INSERT INTO Pozycje_zamowienia VALUES (51,3014,102);
-INSERT INTO Pozycje_zamowienia VALUES (23,6339,12);
-INSERT INTO Pozycje_zamowienia VALUES (30,3218,315);
-INSERT INTO Pozycje_zamowienia VALUES (45,2095,85);
-INSERT INTO Pozycje_zamowienia VALUES (95,1422,52);
-INSERT INTO Pozycje_zamowienia VALUES (68,6380,294);
-INSERT INTO Pozycje_zamowienia VALUES (45,1328,41);
-INSERT INTO Pozycje_zamowienia VALUES (49,2844,7);
-INSERT INTO Pozycje_zamowienia VALUES (3,1611,302);
-INSERT INTO Pozycje_zamowienia VALUES (100,5585,267);
-INSERT INTO Pozycje_zamowienia VALUES (54,2535,85);
-INSERT INTO Pozycje_zamowienia VALUES (98,2950,310);
-INSERT INTO Pozycje_zamowienia VALUES (88,4399,80);
-INSERT INTO Pozycje_zamowienia VALUES (97,4982,149);
-INSERT INTO Pozycje_zamowienia VALUES (24,2795,65);
-INSERT INTO Pozycje_zamowienia VALUES (5,4560,30);
-INSERT INTO Pozycje_zamowienia VALUES (77,2698,55);
-INSERT INTO Pozycje_zamowienia VALUES (75,514,257);
-INSERT INTO Pozycje_zamowienia VALUES (81,2260,112);
-INSERT INTO Pozycje_zamowienia VALUES (90,654,11);
-INSERT INTO Pozycje_zamowienia VALUES (52,1848,61);
-INSERT INTO Pozycje_zamowienia VALUES (62,4844,213);
-INSERT INTO Pozycje_zamowienia VALUES (60,3918,240);
-INSERT INTO Pozycje_zamowienia VALUES (20,1168,46);
-INSERT INTO Pozycje_zamowienia VALUES (4,3408,156);
-INSERT INTO Pozycje_zamowienia VALUES (53,2176,89);
-INSERT INTO Pozycje_zamowienia VALUES (89,1199,38);
-INSERT INTO Pozycje_zamowienia VALUES (76,2427,4);
-INSERT INTO Pozycje_zamowienia VALUES (70,5600,107);
-INSERT INTO Pozycje_zamowienia VALUES (61,5622,38);
-INSERT INTO Pozycje_zamowienia VALUES (88,1291,305);
-INSERT INTO Pozycje_zamowienia VALUES (37,3994,211);
-INSERT INTO Pozycje_zamowienia VALUES (45,5324,66);
-INSERT INTO Pozycje_zamowienia VALUES (51,1602,50);
-INSERT INTO Pozycje_zamowienia VALUES (43,2560,24);
-INSERT INTO Pozycje_zamowienia VALUES (32,5344,153);
-INSERT INTO Pozycje_zamowienia VALUES (15,4586,187);
-INSERT INTO Pozycje_zamowienia VALUES (46,1948,44);
-INSERT INTO Pozycje_zamowienia VALUES (49,5398,234);
-INSERT INTO Pozycje_zamowienia VALUES (33,2357,261);
-INSERT INTO Pozycje_zamowienia VALUES (79,1969,186);
-INSERT INTO Pozycje_zamowienia VALUES (83,5908,165);
-INSERT INTO Pozycje_zamowienia VALUES (91,997,145);
-INSERT INTO Pozycje_zamowienia VALUES (89,5827,3);
-INSERT INTO Pozycje_zamowienia VALUES (54,5411,50);
-INSERT INTO Pozycje_zamowienia VALUES (32,5247,293);
-INSERT INTO Pozycje_zamowienia VALUES (36,3048,152);
-INSERT INTO Pozycje_zamowienia VALUES (62,3714,61);
-INSERT INTO Pozycje_zamowienia VALUES (4,1050,233);
-INSERT INTO Pozycje_zamowienia VALUES (42,4620,205);
-INSERT INTO Pozycje_zamowienia VALUES (85,6463,178);
-INSERT INTO Pozycje_zamowienia VALUES (14,4210,108);
-INSERT INTO Pozycje_zamowienia VALUES (81,2317,266);
-INSERT INTO Pozycje_zamowienia VALUES (100,1675,36);
-INSERT INTO Pozycje_zamowienia VALUES (7,6042,132);
-INSERT INTO Pozycje_zamowienia VALUES (92,2577,239);
-INSERT INTO Pozycje_zamowienia VALUES (57,3075,92);
-INSERT INTO Pozycje_zamowienia VALUES (90,3770,58);
-INSERT INTO Pozycje_zamowienia VALUES (67,5629,264);
-INSERT INTO Pozycje_zamowienia VALUES (64,5532,269);
-INSERT INTO Pozycje_zamowienia VALUES (66,4324,62);
-INSERT INTO Pozycje_zamowienia VALUES (74,3039,125);
-INSERT INTO Pozycje_zamowienia VALUES (30,5991,11);
-INSERT INTO Pozycje_zamowienia VALUES (82,6215,272);
-INSERT INTO Pozycje_zamowienia VALUES (34,4855,271);
-INSERT INTO Pozycje_zamowienia VALUES (91,4004,33);
-INSERT INTO Pozycje_zamowienia VALUES (10,4658,169);
-INSERT INTO Pozycje_zamowienia VALUES (43,3365,260);
-INSERT INTO Pozycje_zamowienia VALUES (38,2181,32);
-INSERT INTO Pozycje_zamowienia VALUES (10,5167,224);
-INSERT INTO Pozycje_zamowienia VALUES (68,4891,276);
-INSERT INTO Pozycje_zamowienia VALUES (68,4516,139);
-INSERT INTO Pozycje_zamowienia VALUES (71,2432,286);
-INSERT INTO Pozycje_zamowienia VALUES (80,985,187);
-INSERT INTO Pozycje_zamowienia VALUES (43,2288,290);
-INSERT INTO Pozycje_zamowienia VALUES (33,4439,310);
-INSERT INTO Pozycje_zamowienia VALUES (75,601,208);
-INSERT INTO Pozycje_zamowienia VALUES (74,6496,48);
-INSERT INTO Pozycje_zamowienia VALUES (58,3772,281);
-INSERT INTO Pozycje_zamowienia VALUES (19,2223,290);
-INSERT INTO Pozycje_zamowienia VALUES (88,2337,256);
-INSERT INTO Pozycje_zamowienia VALUES (99,21,15);
-INSERT INTO Pozycje_zamowienia VALUES (86,2271,122);
-INSERT INTO Pozycje_zamowienia VALUES (19,5270,203);
-INSERT INTO Pozycje_zamowienia VALUES (97,4251,319);
-INSERT INTO Pozycje_zamowienia VALUES (64,6400,284);
-INSERT INTO Pozycje_zamowienia VALUES (67,6377,268);
-INSERT INTO Pozycje_zamowienia VALUES (6,3386,20);
-INSERT INTO Pozycje_zamowienia VALUES (34,6374,115);
-INSERT INTO Pozycje_zamowienia VALUES (85,3066,182);
-INSERT INTO Pozycje_zamowienia VALUES (58,4861,266);
-INSERT INTO Pozycje_zamowienia VALUES (21,3642,136);
-INSERT INTO Pozycje_zamowienia VALUES (81,397,200);
-INSERT INTO Pozycje_zamowienia VALUES (12,2419,267);
-INSERT INTO Pozycje_zamowienia VALUES (65,4731,17);
-INSERT INTO Pozycje_zamowienia VALUES (82,3206,308);
-INSERT INTO Pozycje_zamowienia VALUES (53,3727,315);
-INSERT INTO Pozycje_zamowienia VALUES (35,5159,13);
-INSERT INTO Pozycje_zamowienia VALUES (42,5095,300);
-INSERT INTO Pozycje_zamowienia VALUES (21,1736,138);
-INSERT INTO Pozycje_zamowienia VALUES (70,5060,76);
-INSERT INTO Pozycje_zamowienia VALUES (51,1344,149);
-INSERT INTO Pozycje_zamowienia VALUES (72,5131,274);
-INSERT INTO Pozycje_zamowienia VALUES (54,6296,23);
-INSERT INTO Pozycje_zamowienia VALUES (72,5934,54);
-INSERT INTO Pozycje_zamowienia VALUES (11,4757,150);
-INSERT INTO Pozycje_zamowienia VALUES (65,1327,305);
-INSERT INTO Pozycje_zamowienia VALUES (9,5079,36);
-INSERT INTO Pozycje_zamowienia VALUES (60,5483,164);
-INSERT INTO Pozycje_zamowienia VALUES (63,1359,175);
-INSERT INTO Pozycje_zamowienia VALUES (63,369,58);
-INSERT INTO Pozycje_zamowienia VALUES (39,5066,16);
-INSERT INTO Pozycje_zamowienia VALUES (22,1858,155);
-INSERT INTO Pozycje_zamowienia VALUES (72,5726,290);
-INSERT INTO Pozycje_zamowienia VALUES (27,4257,95);
-INSERT INTO Pozycje_zamowienia VALUES (58,3051,17);
-INSERT INTO Pozycje_zamowienia VALUES (15,3763,93);
-INSERT INTO Pozycje_zamowienia VALUES (43,3117,145);
-INSERT INTO Pozycje_zamowienia VALUES (13,6119,138);
-INSERT INTO Pozycje_zamowienia VALUES (62,3940,179);
-INSERT INTO Pozycje_zamowienia VALUES (40,2112,33);
-INSERT INTO Pozycje_zamowienia VALUES (2,90,20);
-INSERT INTO Pozycje_zamowienia VALUES (16,18,81);
-INSERT INTO Pozycje_zamowienia VALUES (36,1765,257);
-INSERT INTO Pozycje_zamowienia VALUES (96,1364,222);
-INSERT INTO Pozycje_zamowienia VALUES (90,2562,15);
-INSERT INTO Pozycje_zamowienia VALUES (81,4236,293);
-INSERT INTO Pozycje_zamowienia VALUES (53,1988,313);
-INSERT INTO Pozycje_zamowienia VALUES (93,175,3);
-INSERT INTO Pozycje_zamowienia VALUES (98,5571,157);
-INSERT INTO Pozycje_zamowienia VALUES (23,6368,316);
-INSERT INTO Pozycje_zamowienia VALUES (71,3450,89);
-INSERT INTO Pozycje_zamowienia VALUES (26,353,193);
-INSERT INTO Pozycje_zamowienia VALUES (8,4862,245);
-INSERT INTO Pozycje_zamowienia VALUES (100,5189,257);
-INSERT INTO Pozycje_zamowienia VALUES (36,3384,99);
-INSERT INTO Pozycje_zamowienia VALUES (60,4704,234);
-INSERT INTO Pozycje_zamowienia VALUES (3,258,311);
-INSERT INTO Pozycje_zamowienia VALUES (64,1322,32);
-INSERT INTO Pozycje_zamowienia VALUES (86,765,5);
-INSERT INTO Pozycje_zamowienia VALUES (39,2983,69);
-INSERT INTO Pozycje_zamowienia VALUES (69,2349,280);
-INSERT INTO Pozycje_zamowienia VALUES (22,1577,265);
-INSERT INTO Pozycje_zamowienia VALUES (35,483,293);
-INSERT INTO Pozycje_zamowienia VALUES (49,6324,53);
-INSERT INTO Pozycje_zamowienia VALUES (62,4616,134);
-INSERT INTO Pozycje_zamowienia VALUES (49,3605,61);
-INSERT INTO Pozycje_zamowienia VALUES (19,2859,28);
-INSERT INTO Pozycje_zamowienia VALUES (15,1820,148);
-INSERT INTO Pozycje_zamowienia VALUES (17,2120,301);
-INSERT INTO Pozycje_zamowienia VALUES (1,845,74);
-INSERT INTO Pozycje_zamowienia VALUES (76,3972,320);
-INSERT INTO Pozycje_zamowienia VALUES (71,4820,126);
-INSERT INTO Pozycje_zamowienia VALUES (64,1661,124);
-INSERT INTO Pozycje_zamowienia VALUES (6,5752,287);
-INSERT INTO Pozycje_zamowienia VALUES (6,2039,215);
-INSERT INTO Pozycje_zamowienia VALUES (46,927,7);
-INSERT INTO Pozycje_zamowienia VALUES (47,656,119);
-INSERT INTO Pozycje_zamowienia VALUES (67,698,115);
-INSERT INTO Pozycje_zamowienia VALUES (21,1396,237);
-INSERT INTO Pozycje_zamowienia VALUES (9,3017,72);
-INSERT INTO Pozycje_zamowienia VALUES (72,113,256);
-INSERT INTO Pozycje_zamowienia VALUES (44,3577,291);
-INSERT INTO Pozycje_zamowienia VALUES (37,1357,217);
-INSERT INTO Pozycje_zamowienia VALUES (6,4426,123);
-INSERT INTO Pozycje_zamowienia VALUES (34,6286,292);
-INSERT INTO Pozycje_zamowienia VALUES (28,1044,271);
-INSERT INTO Pozycje_zamowienia VALUES (93,4677,290);
-INSERT INTO Pozycje_zamowienia VALUES (73,6441,74);
-INSERT INTO Pozycje_zamowienia VALUES (78,3211,319);
-INSERT INTO Pozycje_zamowienia VALUES (8,3025,159);
-INSERT INTO Pozycje_zamowienia VALUES (62,4794,193);
-INSERT INTO Pozycje_zamowienia VALUES (56,2931,210);
-INSERT INTO Pozycje_zamowienia VALUES (74,3951,78);
-INSERT INTO Pozycje_zamowienia VALUES (79,3988,112);
-INSERT INTO Pozycje_zamowienia VALUES (56,6058,231);
-INSERT INTO Pozycje_zamowienia VALUES (10,5233,273);
-INSERT INTO Pozycje_zamowienia VALUES (76,2647,306);
-INSERT INTO Pozycje_zamowienia VALUES (35,2890,188);
-INSERT INTO Pozycje_zamowienia VALUES (1,6370,231);
-INSERT INTO Pozycje_zamowienia VALUES (2,2996,136);
-INSERT INTO Pozycje_zamowienia VALUES (98,2993,184);
-INSERT INTO Pozycje_zamowienia VALUES (53,1211,56);
-INSERT INTO Pozycje_zamowienia VALUES (67,4175,281);
-INSERT INTO Pozycje_zamowienia VALUES (24,3294,234);
-INSERT INTO Pozycje_zamowienia VALUES (10,863,61);
-INSERT INTO Pozycje_zamowienia VALUES (11,4577,98);
-INSERT INTO Pozycje_zamowienia VALUES (13,2757,296);
-INSERT INTO Pozycje_zamowienia VALUES (59,295,184);
-INSERT INTO Pozycje_zamowienia VALUES (39,1041,8);
-INSERT INTO Pozycje_zamowienia VALUES (50,1711,137);
-INSERT INTO Pozycje_zamowienia VALUES (66,1658,316);
-INSERT INTO Pozycje_zamowienia VALUES (60,6154,124);
-INSERT INTO Pozycje_zamowienia VALUES (73,2722,11);
-INSERT INTO Pozycje_zamowienia VALUES (50,2959,71);
-INSERT INTO Pozycje_zamowienia VALUES (45,5300,197);
-INSERT INTO Pozycje_zamowienia VALUES (39,1833,261);
-INSERT INTO Pozycje_zamowienia VALUES (57,1340,280);
-INSERT INTO Pozycje_zamowienia VALUES (2,5236,182);
-INSERT INTO Pozycje_zamowienia VALUES (1,3071,75);
-INSERT INTO Pozycje_zamowienia VALUES (56,2709,248);
-INSERT INTO Pozycje_zamowienia VALUES (60,252,242);
-INSERT INTO Pozycje_zamowienia VALUES (80,2874,97);
-INSERT INTO Pozycje_zamowienia VALUES (10,2400,47);
-INSERT INTO Pozycje_zamowienia VALUES (31,305,125);
-INSERT INTO Pozycje_zamowienia VALUES (11,4367,151);
-INSERT INTO Pozycje_zamowienia VALUES (2,5028,305);
-INSERT INTO Pozycje_zamowienia VALUES (41,4339,308);
-INSERT INTO Pozycje_zamowienia VALUES (33,5069,184);
-INSERT INTO Pozycje_zamowienia VALUES (66,1191,131);
-INSERT INTO Pozycje_zamowienia VALUES (43,1844,82);
-INSERT INTO Pozycje_zamowienia VALUES (93,4423,30);
-INSERT INTO Pozycje_zamowienia VALUES (25,3290,110);
-INSERT INTO Pozycje_zamowienia VALUES (44,5485,249);
-INSERT INTO Pozycje_zamowienia VALUES (32,3698,27);
-INSERT INTO Pozycje_zamowienia VALUES (52,488,88);
-INSERT INTO Pozycje_zamowienia VALUES (67,550,298);
-INSERT INTO Pozycje_zamowienia VALUES (43,4087,260);
-INSERT INTO Pozycje_zamowienia VALUES (52,5844,78);
-INSERT INTO Pozycje_zamowienia VALUES (50,5461,187);
-INSERT INTO Pozycje_zamowienia VALUES (72,3921,87);
-INSERT INTO Pozycje_zamowienia VALUES (62,2550,267);
-INSERT INTO Pozycje_zamowienia VALUES (100,1120,257);
-INSERT INTO Pozycje_zamowienia VALUES (68,1772,204);
-INSERT INTO Pozycje_zamowienia VALUES (28,4421,71);
-INSERT INTO Pozycje_zamowienia VALUES (41,1833,181);
-INSERT INTO Pozycje_zamowienia VALUES (10,2349,227);
-INSERT INTO Pozycje_zamowienia VALUES (83,538,203);
-INSERT INTO Pozycje_zamowienia VALUES (15,5200,314);
-INSERT INTO Pozycje_zamowienia VALUES (68,3408,260);
-INSERT INTO Pozycje_zamowienia VALUES (39,189,177);
-INSERT INTO Pozycje_zamowienia VALUES (83,3806,204);
-INSERT INTO Pozycje_zamowienia VALUES (61,2928,29);
-INSERT INTO Pozycje_zamowienia VALUES (12,3106,176);
-INSERT INTO Pozycje_zamowienia VALUES (54,3187,171);
-INSERT INTO Pozycje_zamowienia VALUES (92,3321,49);
-INSERT INTO Pozycje_zamowienia VALUES (41,4615,177);
-INSERT INTO Pozycje_zamowienia VALUES (2,540,297);
-INSERT INTO Pozycje_zamowienia VALUES (92,4658,43);
-INSERT INTO Pozycje_zamowienia VALUES (85,5634,138);
-INSERT INTO Pozycje_zamowienia VALUES (16,3364,116);
-INSERT INTO Pozycje_zamowienia VALUES (99,4537,310);
-INSERT INTO Pozycje_zamowienia VALUES (2,3816,222);
-INSERT INTO Pozycje_zamowienia VALUES (8,1827,158);
-INSERT INTO Pozycje_zamowienia VALUES (94,3101,87);
-INSERT INTO Pozycje_zamowienia VALUES (97,211,252);
-INSERT INTO Pozycje_zamowienia VALUES (8,6135,135);
-INSERT INTO Pozycje_zamowienia VALUES (48,1203,298);
-INSERT INTO Pozycje_zamowienia VALUES (62,6241,280);
-INSERT INTO Pozycje_zamowienia VALUES (77,3542,178);
-INSERT INTO Pozycje_zamowienia VALUES (88,4811,164);
-INSERT INTO Pozycje_zamowienia VALUES (74,2785,92);
-INSERT INTO Pozycje_zamowienia VALUES (31,6174,273);
-INSERT INTO Pozycje_zamowienia VALUES (12,5476,23);
-INSERT INTO Pozycje_zamowienia VALUES (76,3068,99);
-INSERT INTO Pozycje_zamowienia VALUES (45,2869,7);
-INSERT INTO Pozycje_zamowienia VALUES (9,416,222);
-INSERT INTO Pozycje_zamowienia VALUES (57,5218,124);
-INSERT INTO Pozycje_zamowienia VALUES (75,1590,128);
-INSERT INTO Pozycje_zamowienia VALUES (30,4411,231);
-INSERT INTO Pozycje_zamowienia VALUES (14,3435,47);
-INSERT INTO Pozycje_zamowienia VALUES (15,172,2);
-INSERT INTO Pozycje_zamowienia VALUES (4,6499,288);
-INSERT INTO Pozycje_zamowienia VALUES (65,2578,20);
-INSERT INTO Pozycje_zamowienia VALUES (61,4268,2);
-INSERT INTO Pozycje_zamowienia VALUES (71,2955,312);
-INSERT INTO Pozycje_zamowienia VALUES (3,296,168);
-INSERT INTO Pozycje_zamowienia VALUES (57,2079,60);
-INSERT INTO Pozycje_zamowienia VALUES (83,3160,194);
-INSERT INTO Pozycje_zamowienia VALUES (81,860,267);
-INSERT INTO Pozycje_zamowienia VALUES (96,375,300);
-INSERT INTO Pozycje_zamowienia VALUES (25,618,229);
-INSERT INTO Pozycje_zamowienia VALUES (5,6294,269);
-INSERT INTO Pozycje_zamowienia VALUES (22,6299,80);
-INSERT INTO Pozycje_zamowienia VALUES (97,2806,44);
-INSERT INTO Pozycje_zamowienia VALUES (48,1563,116);
-INSERT INTO Pozycje_zamowienia VALUES (27,475,151);
-INSERT INTO Pozycje_zamowienia VALUES (78,2871,195);
-INSERT INTO Pozycje_zamowienia VALUES (41,2937,237);
-INSERT INTO Pozycje_zamowienia VALUES (60,3908,190);
-INSERT INTO Pozycje_zamowienia VALUES (99,1042,136);
-INSERT INTO Pozycje_zamowienia VALUES (78,5303,129);
-INSERT INTO Pozycje_zamowienia VALUES (74,2520,84);
-INSERT INTO Pozycje_zamowienia VALUES (91,1005,220);
-INSERT INTO Pozycje_zamowienia VALUES (19,2209,283);
-INSERT INTO Pozycje_zamowienia VALUES (80,5573,46);
-INSERT INTO Pozycje_zamowienia VALUES (96,2634,99);
-INSERT INTO Pozycje_zamowienia VALUES (52,3954,282);
-INSERT INTO Pozycje_zamowienia VALUES (41,3596,269);
-INSERT INTO Pozycje_zamowienia VALUES (60,5817,54);
-INSERT INTO Pozycje_zamowienia VALUES (100,4584,193);
-INSERT INTO Pozycje_zamowienia VALUES (27,6248,118);
-INSERT INTO Pozycje_zamowienia VALUES (95,3977,299);
-INSERT INTO Pozycje_zamowienia VALUES (80,4985,205);
-INSERT INTO Pozycje_zamowienia VALUES (91,1357,29);
-INSERT INTO Pozycje_zamowienia VALUES (66,5596,268);
-INSERT INTO Pozycje_zamowienia VALUES (9,2082,80);
-INSERT INTO Pozycje_zamowienia VALUES (68,4734,88);
-INSERT INTO Pozycje_zamowienia VALUES (87,2226,259);
-INSERT INTO Pozycje_zamowienia VALUES (3,1147,60);
-INSERT INTO Pozycje_zamowienia VALUES (96,4182,258);
-INSERT INTO Pozycje_zamowienia VALUES (28,2559,77);
-INSERT INTO Pozycje_zamowienia VALUES (46,3270,307);
-INSERT INTO Pozycje_zamowienia VALUES (41,3155,168);
-INSERT INTO Pozycje_zamowienia VALUES (88,1780,269);
-INSERT INTO Pozycje_zamowienia VALUES (84,4405,268);
-INSERT INTO Pozycje_zamowienia VALUES (18,6216,198);
-INSERT INTO Pozycje_zamowienia VALUES (56,1717,167);
-INSERT INTO Pozycje_zamowienia VALUES (23,951,283);
-INSERT INTO Pozycje_zamowienia VALUES (40,4672,159);
-INSERT INTO Pozycje_zamowienia VALUES (47,3668,58);
-INSERT INTO Pozycje_zamowienia VALUES (71,6098,4);
-INSERT INTO Pozycje_zamowienia VALUES (17,6453,219);
-INSERT INTO Pozycje_zamowienia VALUES (59,154,221);
-INSERT INTO Pozycje_zamowienia VALUES (43,1851,315);
-INSERT INTO Pozycje_zamowienia VALUES (32,5531,21);
-INSERT INTO Pozycje_zamowienia VALUES (97,799,187);
-INSERT INTO Pozycje_zamowienia VALUES (68,712,171);
-INSERT INTO Pozycje_zamowienia VALUES (58,1777,39);
-INSERT INTO Pozycje_zamowienia VALUES (91,2357,27);
-INSERT INTO Pozycje_zamowienia VALUES (73,4703,264);
-INSERT INTO Pozycje_zamowienia VALUES (81,1336,41);
-INSERT INTO Pozycje_zamowienia VALUES (41,26,256);
-INSERT INTO Pozycje_zamowienia VALUES (87,6418,23);
-INSERT INTO Pozycje_zamowienia VALUES (27,679,195);
-INSERT INTO Pozycje_zamowienia VALUES (44,3587,229);
-INSERT INTO Pozycje_zamowienia VALUES (65,4421,259);
-INSERT INTO Pozycje_zamowienia VALUES (28,2864,190);
-INSERT INTO Pozycje_zamowienia VALUES (47,5354,183);
-INSERT INTO Pozycje_zamowienia VALUES (90,2856,116);
-INSERT INTO Pozycje_zamowienia VALUES (2,5549,242);
-INSERT INTO Pozycje_zamowienia VALUES (57,1288,168);
-INSERT INTO Pozycje_zamowienia VALUES (76,5476,215);
-INSERT INTO Pozycje_zamowienia VALUES (7,1321,13);
-INSERT INTO Pozycje_zamowienia VALUES (15,3402,94);
-INSERT INTO Pozycje_zamowienia VALUES (94,2023,2);
-INSERT INTO Pozycje_zamowienia VALUES (1,4299,271);
-INSERT INTO Pozycje_zamowienia VALUES (95,5538,237);
-INSERT INTO Pozycje_zamowienia VALUES (59,5735,235);
-INSERT INTO Pozycje_zamowienia VALUES (53,816,190);
-INSERT INTO Pozycje_zamowienia VALUES (12,2548,186);
-INSERT INTO Pozycje_zamowienia VALUES (15,4317,300);
-INSERT INTO Pozycje_zamowienia VALUES (51,4647,143);
-INSERT INTO Pozycje_zamowienia VALUES (17,346,6);
-INSERT INTO Pozycje_zamowienia VALUES (33,1143,56);
-INSERT INTO Pozycje_zamowienia VALUES (64,6226,282);
-INSERT INTO Pozycje_zamowienia VALUES (77,5574,53);
-INSERT INTO Pozycje_zamowienia VALUES (26,4396,280);
-INSERT INTO Pozycje_zamowienia VALUES (11,3393,138);
-INSERT INTO Pozycje_zamowienia VALUES (12,2505,259);
-INSERT INTO Pozycje_zamowienia VALUES (86,2676,18);
-INSERT INTO Pozycje_zamowienia VALUES (89,6279,101);
-INSERT INTO Pozycje_zamowienia VALUES (61,5603,309);
-INSERT INTO Pozycje_zamowienia VALUES (31,833,91);
-INSERT INTO Pozycje_zamowienia VALUES (33,1157,112);
-INSERT INTO Pozycje_zamowienia VALUES (42,1416,109);
-INSERT INTO Pozycje_zamowienia VALUES (10,1032,279);
-INSERT INTO Pozycje_zamowienia VALUES (9,2301,7);
-INSERT INTO Pozycje_zamowienia VALUES (83,1040,306);
-INSERT INTO Pozycje_zamowienia VALUES (42,1616,5);
-INSERT INTO Pozycje_zamowienia VALUES (50,2752,276);
-INSERT INTO Pozycje_zamowienia VALUES (26,2656,5);
-INSERT INTO Pozycje_zamowienia VALUES (79,4017,196);
-INSERT INTO Pozycje_zamowienia VALUES (46,1623,54);
-INSERT INTO Pozycje_zamowienia VALUES (67,1393,55);
-INSERT INTO Pozycje_zamowienia VALUES (78,709,281);
-INSERT INTO Pozycje_zamowienia VALUES (30,1307,52);
-INSERT INTO Pozycje_zamowienia VALUES (80,6054,98);
-INSERT INTO Pozycje_zamowienia VALUES (67,2445,95);
-INSERT INTO Pozycje_zamowienia VALUES (21,1831,93);
-INSERT INTO Pozycje_zamowienia VALUES (68,665,294);
-INSERT INTO Pozycje_zamowienia VALUES (76,861,198);
-INSERT INTO Pozycje_zamowienia VALUES (97,5,204);
-INSERT INTO Pozycje_zamowienia VALUES (94,4029,205);
-INSERT INTO Pozycje_zamowienia VALUES (57,598,152);
-INSERT INTO Pozycje_zamowienia VALUES (79,3496,262);
-INSERT INTO Pozycje_zamowienia VALUES (81,2121,56);
-INSERT INTO Pozycje_zamowienia VALUES (11,5969,259);
-INSERT INTO Pozycje_zamowienia VALUES (63,3152,88);
-INSERT INTO Pozycje_zamowienia VALUES (64,3270,31);
-INSERT INTO Pozycje_zamowienia VALUES (6,4127,143);
-INSERT INTO Pozycje_zamowienia VALUES (40,3770,213);
-INSERT INTO Pozycje_zamowienia VALUES (93,2190,87);
-INSERT INTO Pozycje_zamowienia VALUES (12,5635,210);
-INSERT INTO Pozycje_zamowienia VALUES (88,2992,61);
-INSERT INTO Pozycje_zamowienia VALUES (18,276,227);
-INSERT INTO Pozycje_zamowienia VALUES (72,2553,87);
-INSERT INTO Pozycje_zamowienia VALUES (94,5488,42);
-INSERT INTO Pozycje_zamowienia VALUES (94,4683,233);
-INSERT INTO Pozycje_zamowienia VALUES (74,4773,186);
-INSERT INTO Pozycje_zamowienia VALUES (43,2767,307);
-INSERT INTO Pozycje_zamowienia VALUES (30,5327,21);
-INSERT INTO Pozycje_zamowienia VALUES (27,1475,43);
-INSERT INTO Pozycje_zamowienia VALUES (11,4291,169);
-INSERT INTO Pozycje_zamowienia VALUES (10,4343,263);
-INSERT INTO Pozycje_zamowienia VALUES (14,5585,222);
-INSERT INTO Pozycje_zamowienia VALUES (16,1211,193);
-INSERT INTO Pozycje_zamowienia VALUES (11,2290,60);
-INSERT INTO Pozycje_zamowienia VALUES (62,4267,99);
-INSERT INTO Pozycje_zamowienia VALUES (97,1481,199);
-INSERT INTO Pozycje_zamowienia VALUES (28,5741,83);
-INSERT INTO Pozycje_zamowienia VALUES (57,659,132);
-INSERT INTO Pozycje_zamowienia VALUES (47,3607,310);
-INSERT INTO Pozycje_zamowienia VALUES (65,4174,168);
-INSERT INTO Pozycje_zamowienia VALUES (94,4240,60);
-INSERT INTO Pozycje_zamowienia VALUES (16,2469,100);
-INSERT INTO Pozycje_zamowienia VALUES (20,5314,148);
-INSERT INTO Pozycje_zamowienia VALUES (69,2810,40);
-INSERT INTO Pozycje_zamowienia VALUES (69,5720,187);
-INSERT INTO Pozycje_zamowienia VALUES (39,2733,169);
-INSERT INTO Pozycje_zamowienia VALUES (46,709,275);
-INSERT INTO Pozycje_zamowienia VALUES (97,5091,132);
-INSERT INTO Pozycje_zamowienia VALUES (34,5123,24);
-INSERT INTO Pozycje_zamowienia VALUES (73,2354,160);
-INSERT INTO Pozycje_zamowienia VALUES (5,2223,216);
-INSERT INTO Pozycje_zamowienia VALUES (1,4920,38);
-INSERT INTO Pozycje_zamowienia VALUES (91,1119,160);
-INSERT INTO Pozycje_zamowienia VALUES (99,2441,219);
-INSERT INTO Pozycje_zamowienia VALUES (92,344,278);
-INSERT INTO Pozycje_zamowienia VALUES (14,5412,245);
-INSERT INTO Pozycje_zamowienia VALUES (95,6281,101);
-INSERT INTO Pozycje_zamowienia VALUES (77,1153,23);
-INSERT INTO Pozycje_zamowienia VALUES (40,1085,138);
-INSERT INTO Pozycje_zamowienia VALUES (59,6266,103);
-INSERT INTO Pozycje_zamowienia VALUES (93,5014,94);
-INSERT INTO Pozycje_zamowienia VALUES (29,1896,231);
-INSERT INTO Pozycje_zamowienia VALUES (58,1258,167);
-INSERT INTO Pozycje_zamowienia VALUES (35,4541,209);
-INSERT INTO Pozycje_zamowienia VALUES (84,2685,128);
-INSERT INTO Pozycje_zamowienia VALUES (15,146,36);
-INSERT INTO Pozycje_zamowienia VALUES (8,929,89);
-INSERT INTO Pozycje_zamowienia VALUES (43,1410,276);
-INSERT INTO Pozycje_zamowienia VALUES (83,1125,232);
-INSERT INTO Pozycje_zamowienia VALUES (84,4869,199);
-INSERT INTO Pozycje_zamowienia VALUES (98,3222,291);
-INSERT INTO Pozycje_zamowienia VALUES (49,4108,285);
-INSERT INTO Pozycje_zamowienia VALUES (15,6330,245);
-INSERT INTO Pozycje_zamowienia VALUES (97,5648,73);
-INSERT INTO Pozycje_zamowienia VALUES (83,67,165);
-INSERT INTO Pozycje_zamowienia VALUES (71,6325,237);
-INSERT INTO Pozycje_zamowienia VALUES (76,2377,170);
-INSERT INTO Pozycje_zamowienia VALUES (19,4984,147);
-INSERT INTO Pozycje_zamowienia VALUES (23,6394,253);
-INSERT INTO Pozycje_zamowienia VALUES (26,5155,275);
-INSERT INTO Pozycje_zamowienia VALUES (100,2702,117);
-INSERT INTO Pozycje_zamowienia VALUES (19,968,240);
-INSERT INTO Pozycje_zamowienia VALUES (48,501,30);
-INSERT INTO Pozycje_zamowienia VALUES (91,6222,279);
-INSERT INTO Pozycje_zamowienia VALUES (41,5313,113);
-INSERT INTO Pozycje_zamowienia VALUES (18,6157,76);
-INSERT INTO Pozycje_zamowienia VALUES (61,6175,277);
-INSERT INTO Pozycje_zamowienia VALUES (65,5495,109);
-INSERT INTO Pozycje_zamowienia VALUES (6,1665,276);
-INSERT INTO Pozycje_zamowienia VALUES (77,4627,147);
-INSERT INTO Pozycje_zamowienia VALUES (88,5201,277);
-INSERT INTO Pozycje_zamowienia VALUES (59,4769,211);
-INSERT INTO Pozycje_zamowienia VALUES (79,4245,56);
-INSERT INTO Pozycje_zamowienia VALUES (70,3244,31);
-INSERT INTO Pozycje_zamowienia VALUES (50,3475,11);
-INSERT INTO Pozycje_zamowienia VALUES (66,4505,311);
-INSERT INTO Pozycje_zamowienia VALUES (38,4803,4);
-INSERT INTO Pozycje_zamowienia VALUES (45,4245,165);
-INSERT INTO Pozycje_zamowienia VALUES (52,3647,70);
-INSERT INTO Pozycje_zamowienia VALUES (94,5037,137);
-INSERT INTO Pozycje_zamowienia VALUES (85,4754,250);
-INSERT INTO Pozycje_zamowienia VALUES (82,3327,146);
-INSERT INTO Pozycje_zamowienia VALUES (36,850,275);
-INSERT INTO Pozycje_zamowienia VALUES (4,1300,123);
-INSERT INTO Pozycje_zamowienia VALUES (63,945,122);
-INSERT INTO Pozycje_zamowienia VALUES (24,4020,4);
-INSERT INTO Pozycje_zamowienia VALUES (38,2623,243);
-INSERT INTO Pozycje_zamowienia VALUES (50,4214,243);
-INSERT INTO Pozycje_zamowienia VALUES (80,6222,68);
-INSERT INTO Pozycje_zamowienia VALUES (90,1812,279);
-INSERT INTO Pozycje_zamowienia VALUES (5,5647,65);
-INSERT INTO Pozycje_zamowienia VALUES (1,4286,60);
-INSERT INTO Pozycje_zamowienia VALUES (72,6239,89);
-INSERT INTO Pozycje_zamowienia VALUES (63,1490,188);
-INSERT INTO Pozycje_zamowienia VALUES (31,5995,69);
-INSERT INTO Pozycje_zamowienia VALUES (9,910,57);
-INSERT INTO Pozycje_zamowienia VALUES (67,5499,56);
-INSERT INTO Pozycje_zamowienia VALUES (26,6263,117);
-INSERT INTO Pozycje_zamowienia VALUES (94,5472,310);
-INSERT INTO Pozycje_zamowienia VALUES (19,6144,231);
-INSERT INTO Pozycje_zamowienia VALUES (6,3013,71);
-INSERT INTO Pozycje_zamowienia VALUES (76,4638,251);
-INSERT INTO Pozycje_zamowienia VALUES (68,5536,262);
-INSERT INTO Pozycje_zamowienia VALUES (51,5517,115);
-INSERT INTO Pozycje_zamowienia VALUES (4,5796,141);
-INSERT INTO Pozycje_zamowienia VALUES (39,2052,251);
-INSERT INTO Pozycje_zamowienia VALUES (61,1559,41);
-INSERT INTO Pozycje_zamowienia VALUES (52,5734,36);
-INSERT INTO Pozycje_zamowienia VALUES (68,3815,159);
-INSERT INTO Pozycje_zamowienia VALUES (69,2751,115);
-INSERT INTO Pozycje_zamowienia VALUES (94,1471,266);
-INSERT INTO Pozycje_zamowienia VALUES (98,3505,130);
-INSERT INTO Pozycje_zamowienia VALUES (77,2450,142);
-INSERT INTO Pozycje_zamowienia VALUES (28,1428,67);
-INSERT INTO Pozycje_zamowienia VALUES (100,728,276);
-INSERT INTO Pozycje_zamowienia VALUES (3,3429,260);
-INSERT INTO Pozycje_zamowienia VALUES (45,86,305);
-INSERT INTO Pozycje_zamowienia VALUES (47,2810,203);
-INSERT INTO Pozycje_zamowienia VALUES (75,160,97);
-INSERT INTO Pozycje_zamowienia VALUES (25,4652,177);
-INSERT INTO Pozycje_zamowienia VALUES (89,2724,137);
-INSERT INTO Pozycje_zamowienia VALUES (77,3221,9);
-INSERT INTO Pozycje_zamowienia VALUES (12,2649,18);
-INSERT INTO Pozycje_zamowienia VALUES (32,255,41);
-INSERT INTO Pozycje_zamowienia VALUES (79,2037,288);
-INSERT INTO Pozycje_zamowienia VALUES (42,4466,256);
-INSERT INTO Pozycje_zamowienia VALUES (1,2677,282);
-INSERT INTO Pozycje_zamowienia VALUES (98,3258,101);
-INSERT INTO Pozycje_zamowienia VALUES (85,2664,32);
-INSERT INTO Pozycje_zamowienia VALUES (64,4141,111);
-INSERT INTO Pozycje_zamowienia VALUES (46,1335,254);
-INSERT INTO Pozycje_zamowienia VALUES (68,3052,208);
-INSERT INTO Pozycje_zamowienia VALUES (63,2833,163);
-INSERT INTO Pozycje_zamowienia VALUES (14,4921,232);
-INSERT INTO Pozycje_zamowienia VALUES (45,975,127);
-INSERT INTO Pozycje_zamowienia VALUES (50,962,98);
-INSERT INTO Pozycje_zamowienia VALUES (19,5380,191);
-INSERT INTO Pozycje_zamowienia VALUES (45,2109,283);
-INSERT INTO Pozycje_zamowienia VALUES (95,6206,185);
-INSERT INTO Pozycje_zamowienia VALUES (90,4806,180);
-INSERT INTO Pozycje_zamowienia VALUES (55,4831,34);
-INSERT INTO Pozycje_zamowienia VALUES (93,5656,141);
-INSERT INTO Pozycje_zamowienia VALUES (11,4645,75);
-INSERT INTO Pozycje_zamowienia VALUES (29,4818,269);
-INSERT INTO Pozycje_zamowienia VALUES (32,4977,252);
-INSERT INTO Pozycje_zamowienia VALUES (30,3809,98);
-INSERT INTO Pozycje_zamowienia VALUES (55,6249,211);
-INSERT INTO Pozycje_zamowienia VALUES (64,435,39);
-INSERT INTO Pozycje_zamowienia VALUES (16,2014,11);
-INSERT INTO Pozycje_zamowienia VALUES (62,1418,278);
-INSERT INTO Pozycje_zamowienia VALUES (83,3434,120);
-INSERT INTO Pozycje_zamowienia VALUES (22,1468,255);
-INSERT INTO Pozycje_zamowienia VALUES (99,5171,134);
-INSERT INTO Pozycje_zamowienia VALUES (92,4325,17);
-INSERT INTO Pozycje_zamowienia VALUES (36,191,279);
-INSERT INTO Pozycje_zamowienia VALUES (63,4550,244);
-INSERT INTO Pozycje_zamowienia VALUES (55,1668,222);
-INSERT INTO Pozycje_zamowienia VALUES (92,2846,81);
-INSERT INTO Pozycje_zamowienia VALUES (81,5377,206);
-INSERT INTO Pozycje_zamowienia VALUES (53,145,26);
-INSERT INTO Pozycje_zamowienia VALUES (23,5044,319);
-INSERT INTO Pozycje_zamowienia VALUES (12,3211,185);
-INSERT INTO Pozycje_zamowienia VALUES (85,1392,268);
-INSERT INTO Pozycje_zamowienia VALUES (81,3270,203);
-INSERT INTO Pozycje_zamowienia VALUES (29,6387,117);
-INSERT INTO Pozycje_zamowienia VALUES (39,6333,46);
-INSERT INTO Pozycje_zamowienia VALUES (54,4945,302);
-INSERT INTO Pozycje_zamowienia VALUES (93,3080,39);
-INSERT INTO Pozycje_zamowienia VALUES (18,4363,310);
-INSERT INTO Pozycje_zamowienia VALUES (1,1412,283);
-INSERT INTO Pozycje_zamowienia VALUES (71,760,283);
-INSERT INTO Pozycje_zamowienia VALUES (12,159,216);
-INSERT INTO Pozycje_zamowienia VALUES (28,5718,248);
-INSERT INTO Pozycje_zamowienia VALUES (81,275,178);
-INSERT INTO Pozycje_zamowienia VALUES (87,1715,19);
-INSERT INTO Pozycje_zamowienia VALUES (11,3881,158);
-INSERT INTO Pozycje_zamowienia VALUES (45,1648,72);
-INSERT INTO Pozycje_zamowienia VALUES (31,4635,104);
-INSERT INTO Pozycje_zamowienia VALUES (81,6032,84);
-INSERT INTO Pozycje_zamowienia VALUES (20,2718,127);
-INSERT INTO Pozycje_zamowienia VALUES (75,2165,81);
-INSERT INTO Pozycje_zamowienia VALUES (39,5021,97);
-INSERT INTO Pozycje_zamowienia VALUES (29,6266,118);
-INSERT INTO Pozycje_zamowienia VALUES (61,916,208);
-INSERT INTO Pozycje_zamowienia VALUES (28,3341,236);
-INSERT INTO Pozycje_zamowienia VALUES (1,5258,227);
-INSERT INTO Pozycje_zamowienia VALUES (12,660,158);
-INSERT INTO Pozycje_zamowienia VALUES (47,4938,226);
-INSERT INTO Pozycje_zamowienia VALUES (38,5694,169);
-INSERT INTO Pozycje_zamowienia VALUES (51,2691,203);
-INSERT INTO Pozycje_zamowienia VALUES (91,2169,186);
-INSERT INTO Pozycje_zamowienia VALUES (97,4108,111);
-INSERT INTO Pozycje_zamowienia VALUES (61,2801,269);
-INSERT INTO Pozycje_zamowienia VALUES (53,2036,277);
-INSERT INTO Pozycje_zamowienia VALUES (75,3060,27);
-INSERT INTO Pozycje_zamowienia VALUES (59,6185,11);
-INSERT INTO Pozycje_zamowienia VALUES (2,3067,48);
-INSERT INTO Pozycje_zamowienia VALUES (64,5248,83);
-INSERT INTO Pozycje_zamowienia VALUES (2,3648,202);
-INSERT INTO Pozycje_zamowienia VALUES (91,4193,253);
-INSERT INTO Pozycje_zamowienia VALUES (19,2913,294);
-INSERT INTO Pozycje_zamowienia VALUES (66,3415,192);
-INSERT INTO Pozycje_zamowienia VALUES (69,5166,217);
-INSERT INTO Pozycje_zamowienia VALUES (40,883,277);
-INSERT INTO Pozycje_zamowienia VALUES (78,1211,9);
-INSERT INTO Pozycje_zamowienia VALUES (43,4176,98);
-INSERT INTO Pozycje_zamowienia VALUES (67,814,4);
-INSERT INTO Pozycje_zamowienia VALUES (89,6364,210);
-INSERT INTO Pozycje_zamowienia VALUES (96,4686,122);
-INSERT INTO Pozycje_zamowienia VALUES (80,8,309);
-INSERT INTO Pozycje_zamowienia VALUES (90,1997,113);
-INSERT INTO Pozycje_zamowienia VALUES (82,5769,287);
-INSERT INTO Pozycje_zamowienia VALUES (54,1382,188);
-INSERT INTO Pozycje_zamowienia VALUES (29,427,199);
-INSERT INTO Pozycje_zamowienia VALUES (42,3715,28);
-INSERT INTO Pozycje_zamowienia VALUES (38,6347,301);
-INSERT INTO Pozycje_zamowienia VALUES (36,4764,22);
-INSERT INTO Pozycje_zamowienia VALUES (92,3997,237);
-INSERT INTO Pozycje_zamowienia VALUES (4,6237,217);
-INSERT INTO Pozycje_zamowienia VALUES (89,3311,171);
-INSERT INTO Pozycje_zamowienia VALUES (23,6129,17);
-INSERT INTO Pozycje_zamowienia VALUES (15,3450,274);
-INSERT INTO Pozycje_zamowienia VALUES (7,4831,284);
-INSERT INTO Pozycje_zamowienia VALUES (67,933,280);
-INSERT INTO Pozycje_zamowienia VALUES (45,5305,18);
-INSERT INTO Pozycje_zamowienia VALUES (85,6085,313);
-INSERT INTO Pozycje_zamowienia VALUES (22,2723,206);
-INSERT INTO Pozycje_zamowienia VALUES (46,1490,151);
-INSERT INTO Pozycje_zamowienia VALUES (20,6467,60);
-INSERT INTO Pozycje_zamowienia VALUES (39,1258,231);
-INSERT INTO Pozycje_zamowienia VALUES (24,5207,227);
-INSERT INTO Pozycje_zamowienia VALUES (24,5841,148);
-INSERT INTO Pozycje_zamowienia VALUES (36,5236,103);
-INSERT INTO Pozycje_zamowienia VALUES (55,1567,190);
-INSERT INTO Pozycje_zamowienia VALUES (74,4427,98);
-INSERT INTO Pozycje_zamowienia VALUES (43,1208,129);
-INSERT INTO Pozycje_zamowienia VALUES (2,4404,306);
-INSERT INTO Pozycje_zamowienia VALUES (48,6239,109);
-INSERT INTO Pozycje_zamowienia VALUES (45,607,161);
-INSERT INTO Pozycje_zamowienia VALUES (72,5718,17);
-INSERT INTO Pozycje_zamowienia VALUES (16,35,216);
-INSERT INTO Pozycje_zamowienia VALUES (92,3035,211);
-INSERT INTO Pozycje_zamowienia VALUES (30,705,24);
-INSERT INTO Pozycje_zamowienia VALUES (88,5566,113);
-INSERT INTO Pozycje_zamowienia VALUES (27,4872,80);
-INSERT INTO Pozycje_zamowienia VALUES (96,1416,46);
-INSERT INTO Pozycje_zamowienia VALUES (52,5580,245);
-INSERT INTO Pozycje_zamowienia VALUES (5,117,100);
-INSERT INTO Pozycje_zamowienia VALUES (3,3785,19);
-INSERT INTO Pozycje_zamowienia VALUES (38,5621,204);
-INSERT INTO Pozycje_zamowienia VALUES (50,2387,78);
-INSERT INTO Pozycje_zamowienia VALUES (35,574,54);
-INSERT INTO Pozycje_zamowienia VALUES (91,4445,215);
-INSERT INTO Pozycje_zamowienia VALUES (53,5563,103);
-INSERT INTO Pozycje_zamowienia VALUES (91,135,298);
-INSERT INTO Pozycje_zamowienia VALUES (59,3075,84);
-INSERT INTO Pozycje_zamowienia VALUES (83,932,13);
-INSERT INTO Pozycje_zamowienia VALUES (48,784,230);
-INSERT INTO Pozycje_zamowienia VALUES (44,2838,273);
-INSERT INTO Pozycje_zamowienia VALUES (49,2274,169);
-INSERT INTO Pozycje_zamowienia VALUES (29,375,132);
-INSERT INTO Pozycje_zamowienia VALUES (95,2393,278);
-INSERT INTO Pozycje_zamowienia VALUES (27,5177,186);
-INSERT INTO Pozycje_zamowienia VALUES (73,856,46);
-INSERT INTO Pozycje_zamowienia VALUES (2,588,245);
-INSERT INTO Pozycje_zamowienia VALUES (83,523,31);
-INSERT INTO Pozycje_zamowienia VALUES (84,5383,113);
-INSERT INTO Pozycje_zamowienia VALUES (89,5598,194);
-INSERT INTO Pozycje_zamowienia VALUES (44,1167,114);
-INSERT INTO Pozycje_zamowienia VALUES (81,4290,247);
-INSERT INTO Pozycje_zamowienia VALUES (65,2886,127);
-INSERT INTO Pozycje_zamowienia VALUES (39,5284,265);
-INSERT INTO Pozycje_zamowienia VALUES (56,416,296);
-INSERT INTO Pozycje_zamowienia VALUES (50,3467,97);
-INSERT INTO Pozycje_zamowienia VALUES (58,2083,319);
-INSERT INTO Pozycje_zamowienia VALUES (20,1572,156);
-INSERT INTO Pozycje_zamowienia VALUES (45,1560,199);
-INSERT INTO Pozycje_zamowienia VALUES (57,6269,250);
-INSERT INTO Pozycje_zamowienia VALUES (75,1180,95);
-INSERT INTO Pozycje_zamowienia VALUES (94,2304,146);
-INSERT INTO Pozycje_zamowienia VALUES (40,5511,283);
-INSERT INTO Pozycje_zamowienia VALUES (74,3471,259);
-INSERT INTO Pozycje_zamowienia VALUES (70,3796,225);
-INSERT INTO Pozycje_zamowienia VALUES (46,648,55);
-INSERT INTO Pozycje_zamowienia VALUES (67,1637,119);
-INSERT INTO Pozycje_zamowienia VALUES (87,4946,206);
-INSERT INTO Pozycje_zamowienia VALUES (46,6269,67);
-INSERT INTO Pozycje_zamowienia VALUES (49,2879,319);
-INSERT INTO Pozycje_zamowienia VALUES (31,2188,12);
-INSERT INTO Pozycje_zamowienia VALUES (100,3791,211);
-INSERT INTO Pozycje_zamowienia VALUES (62,1206,150);
-INSERT INTO Pozycje_zamowienia VALUES (24,5175,36);
-INSERT INTO Pozycje_zamowienia VALUES (15,4470,233);
-INSERT INTO Pozycje_zamowienia VALUES (16,1044,190);
-INSERT INTO Pozycje_zamowienia VALUES (20,5584,104);
-INSERT INTO Pozycje_zamowienia VALUES (84,3307,61);
-INSERT INTO Pozycje_zamowienia VALUES (70,4893,292);
-INSERT INTO Pozycje_zamowienia VALUES (82,3638,262);
-INSERT INTO Pozycje_zamowienia VALUES (92,6498,38);
-INSERT INTO Pozycje_zamowienia VALUES (94,1227,247);
-INSERT INTO Pozycje_zamowienia VALUES (17,3757,156);
-INSERT INTO Pozycje_zamowienia VALUES (98,3633,129);
-INSERT INTO Pozycje_zamowienia VALUES (91,3276,226);
-INSERT INTO Pozycje_zamowienia VALUES (51,4689,2);
-INSERT INTO Pozycje_zamowienia VALUES (31,4505,122);
-INSERT INTO Pozycje_zamowienia VALUES (73,5206,265);
-INSERT INTO Pozycje_zamowienia VALUES (63,112,246);
-INSERT INTO Pozycje_zamowienia VALUES (74,3368,119);
-INSERT INTO Pozycje_zamowienia VALUES (66,6490,263);
-INSERT INTO Pozycje_zamowienia VALUES (71,4360,99);
-INSERT INTO Pozycje_zamowienia VALUES (97,3972,69);
-INSERT INTO Pozycje_zamowienia VALUES (75,688,150);
-INSERT INTO Pozycje_zamowienia VALUES (50,3038,89);
-INSERT INTO Pozycje_zamowienia VALUES (91,2498,57);
-INSERT INTO Pozycje_zamowienia VALUES (71,4355,167);
-INSERT INTO Pozycje_zamowienia VALUES (55,1915,98);
-INSERT INTO Pozycje_zamowienia VALUES (54,3856,61);
-INSERT INTO Pozycje_zamowienia VALUES (94,5035,1);
-INSERT INTO Pozycje_zamowienia VALUES (17,4239,137);
-INSERT INTO Pozycje_zamowienia VALUES (23,731,152);
-INSERT INTO Pozycje_zamowienia VALUES (73,2379,47);
-INSERT INTO Pozycje_zamowienia VALUES (11,4641,134);
-INSERT INTO Pozycje_zamowienia VALUES (18,3152,162);
-INSERT INTO Pozycje_zamowienia VALUES (49,4177,67);
-INSERT INTO Pozycje_zamowienia VALUES (42,202,278);
-INSERT INTO Pozycje_zamowienia VALUES (6,5279,263);
-INSERT INTO Pozycje_zamowienia VALUES (37,3748,103);
-INSERT INTO Pozycje_zamowienia VALUES (33,610,8);
-INSERT INTO Pozycje_zamowienia VALUES (1,4295,140);
-INSERT INTO Pozycje_zamowienia VALUES (96,4447,278);
-INSERT INTO Pozycje_zamowienia VALUES (14,4526,264);
-INSERT INTO Pozycje_zamowienia VALUES (98,5075,158);
-INSERT INTO Pozycje_zamowienia VALUES (55,2832,170);
-INSERT INTO Pozycje_zamowienia VALUES (36,598,294);
-INSERT INTO Pozycje_zamowienia VALUES (89,4476,212);
-INSERT INTO Pozycje_zamowienia VALUES (68,3021,92);
-INSERT INTO Pozycje_zamowienia VALUES (39,6016,249);
-INSERT INTO Pozycje_zamowienia VALUES (6,632,263);
-INSERT INTO Pozycje_zamowienia VALUES (60,4899,21);
-INSERT INTO Pozycje_zamowienia VALUES (40,5232,319);
-INSERT INTO Pozycje_zamowienia VALUES (84,3825,83);
-INSERT INTO Pozycje_zamowienia VALUES (16,3316,198);
-INSERT INTO Pozycje_zamowienia VALUES (57,5903,7);
-INSERT INTO Pozycje_zamowienia VALUES (18,5157,58);
-INSERT INTO Pozycje_zamowienia VALUES (49,4302,4);
-INSERT INTO Pozycje_zamowienia VALUES (63,2917,267);
-INSERT INTO Pozycje_zamowienia VALUES (13,893,289);
-INSERT INTO Pozycje_zamowienia VALUES (14,3010,206);
-INSERT INTO Pozycje_zamowienia VALUES (23,205,96);
-INSERT INTO Pozycje_zamowienia VALUES (82,593,305);
-INSERT INTO Pozycje_zamowienia VALUES (77,2063,47);
-INSERT INTO Pozycje_zamowienia VALUES (58,4891,232);
-INSERT INTO Pozycje_zamowienia VALUES (88,4381,125);
-INSERT INTO Pozycje_zamowienia VALUES (25,3140,220);
-INSERT INTO Pozycje_zamowienia VALUES (40,2759,10);
-INSERT INTO Pozycje_zamowienia VALUES (33,4048,171);
-INSERT INTO Pozycje_zamowienia VALUES (87,1608,77);
-INSERT INTO Pozycje_zamowienia VALUES (1,4513,172);
-INSERT INTO Pozycje_zamowienia VALUES (2,1910,3);
-INSERT INTO Pozycje_zamowienia VALUES (64,3345,316);
-INSERT INTO Pozycje_zamowienia VALUES (74,768,217);
-INSERT INTO Pozycje_zamowienia VALUES (68,469,240);
-INSERT INTO Pozycje_zamowienia VALUES (9,3303,75);
-INSERT INTO Pozycje_zamowienia VALUES (92,3818,75);
-INSERT INTO Pozycje_zamowienia VALUES (92,3747,229);
-INSERT INTO Pozycje_zamowienia VALUES (47,700,66);
-INSERT INTO Pozycje_zamowienia VALUES (97,3095,89);
-INSERT INTO Pozycje_zamowienia VALUES (44,2210,207);
-INSERT INTO Pozycje_zamowienia VALUES (78,6407,199);
-INSERT INTO Pozycje_zamowienia VALUES (77,2401,288);
-INSERT INTO Pozycje_zamowienia VALUES (1,4086,201);
-INSERT INTO Pozycje_zamowienia VALUES (80,4505,119);
-INSERT INTO Pozycje_zamowienia VALUES (69,2114,296);
-INSERT INTO Pozycje_zamowienia VALUES (62,5077,282);
-INSERT INTO Pozycje_zamowienia VALUES (21,3554,134);
-INSERT INTO Pozycje_zamowienia VALUES (64,717,77);
-INSERT INTO Pozycje_zamowienia VALUES (13,1287,227);
-INSERT INTO Pozycje_zamowienia VALUES (21,4303,81);
-INSERT INTO Pozycje_zamowienia VALUES (67,3109,125);
-INSERT INTO Pozycje_zamowienia VALUES (12,6199,155);
-INSERT INTO Pozycje_zamowienia VALUES (38,3797,299);
-INSERT INTO Pozycje_zamowienia VALUES (63,5193,23);
-INSERT INTO Pozycje_zamowienia VALUES (71,3247,112);
-INSERT INTO Pozycje_zamowienia VALUES (26,1618,58);
-INSERT INTO Pozycje_zamowienia VALUES (13,2876,301);
-INSERT INTO Pozycje_zamowienia VALUES (28,1575,269);
-INSERT INTO Pozycje_zamowienia VALUES (52,4309,263);
-INSERT INTO Pozycje_zamowienia VALUES (98,3984,12);
-INSERT INTO Pozycje_zamowienia VALUES (13,6483,23);
-INSERT INTO Pozycje_zamowienia VALUES (66,4992,145);
-INSERT INTO Pozycje_zamowienia VALUES (92,2982,263);
-INSERT INTO Pozycje_zamowienia VALUES (62,5188,41);
-INSERT INTO Pozycje_zamowienia VALUES (96,2053,1);
-INSERT INTO Pozycje_zamowienia VALUES (65,1201,316);
-INSERT INTO Pozycje_zamowienia VALUES (59,2015,300);
-INSERT INTO Pozycje_zamowienia VALUES (81,4386,225);
-INSERT INTO Pozycje_zamowienia VALUES (89,5756,64);
-INSERT INTO Pozycje_zamowienia VALUES (55,5257,76);
-INSERT INTO Pozycje_zamowienia VALUES (55,737,66);
-INSERT INTO Pozycje_zamowienia VALUES (25,1011,31);
-INSERT INTO Pozycje_zamowienia VALUES (25,3990,122);
-INSERT INTO Pozycje_zamowienia VALUES (15,3113,228);
-INSERT INTO Pozycje_zamowienia VALUES (94,774,299);
-INSERT INTO Pozycje_zamowienia VALUES (76,2347,257);
-INSERT INTO Pozycje_zamowienia VALUES (3,3577,293);
-INSERT INTO Pozycje_zamowienia VALUES (21,1934,47);
-INSERT INTO Pozycje_zamowienia VALUES (63,2303,305);
-INSERT INTO Pozycje_zamowienia VALUES (58,6247,278);
-INSERT INTO Pozycje_zamowienia VALUES (32,2971,18);
-INSERT INTO Pozycje_zamowienia VALUES (54,3192,192);
-INSERT INTO Pozycje_zamowienia VALUES (85,466,119);
-INSERT INTO Pozycje_zamowienia VALUES (71,6084,144);
-INSERT INTO Pozycje_zamowienia VALUES (50,4413,109);
-INSERT INTO Pozycje_zamowienia VALUES (67,4716,153);
-INSERT INTO Pozycje_zamowienia VALUES (54,4968,169);
-INSERT INTO Pozycje_zamowienia VALUES (65,2485,230);
-INSERT INTO Pozycje_zamowienia VALUES (19,2900,25);
-INSERT INTO Pozycje_zamowienia VALUES (97,6045,288);
-INSERT INTO Pozycje_zamowienia VALUES (90,472,278);
-INSERT INTO Pozycje_zamowienia VALUES (48,832,228);
-INSERT INTO Pozycje_zamowienia VALUES (44,4234,11);
-INSERT INTO Pozycje_zamowienia VALUES (11,6363,159);
-INSERT INTO Pozycje_zamowienia VALUES (75,1155,240);
-INSERT INTO Pozycje_zamowienia VALUES (71,2925,239);
-INSERT INTO Pozycje_zamowienia VALUES (36,1698,252);
-INSERT INTO Pozycje_zamowienia VALUES (85,6401,295);
-INSERT INTO Pozycje_zamowienia VALUES (50,4798,21);
-INSERT INTO Pozycje_zamowienia VALUES (85,931,248);
-INSERT INTO Pozycje_zamowienia VALUES (86,3092,84);
-INSERT INTO Pozycje_zamowienia VALUES (38,5714,108);
-INSERT INTO Pozycje_zamowienia VALUES (73,4076,274);
-INSERT INTO Pozycje_zamowienia VALUES (54,1046,27);
-INSERT INTO Pozycje_zamowienia VALUES (52,3689,13);
-INSERT INTO Pozycje_zamowienia VALUES (45,6213,177);
-INSERT INTO Pozycje_zamowienia VALUES (96,5932,174);
-INSERT INTO Pozycje_zamowienia VALUES (67,1082,263);
-INSERT INTO Pozycje_zamowienia VALUES (6,6228,158);
-INSERT INTO Pozycje_zamowienia VALUES (99,6216,179);
-INSERT INTO Pozycje_zamowienia VALUES (12,5028,108);
-INSERT INTO Pozycje_zamowienia VALUES (35,202,8);
-INSERT INTO Pozycje_zamowienia VALUES (42,2809,40);
-INSERT INTO Pozycje_zamowienia VALUES (80,795,34);
-INSERT INTO Pozycje_zamowienia VALUES (30,468,103);
-INSERT INTO Pozycje_zamowienia VALUES (35,2640,75);
-INSERT INTO Pozycje_zamowienia VALUES (50,1296,227);
-INSERT INTO Pozycje_zamowienia VALUES (80,764,61);
-INSERT INTO Pozycje_zamowienia VALUES (59,3354,24);
-INSERT INTO Pozycje_zamowienia VALUES (99,5672,183);
-INSERT INTO Pozycje_zamowienia VALUES (92,6332,228);
-INSERT INTO Pozycje_zamowienia VALUES (13,4646,180);
-INSERT INTO Pozycje_zamowienia VALUES (3,929,36);
-INSERT INTO Pozycje_zamowienia VALUES (5,2730,171);
-INSERT INTO Pozycje_zamowienia VALUES (10,4205,78);
-INSERT INTO Pozycje_zamowienia VALUES (90,1959,115);
-INSERT INTO Pozycje_zamowienia VALUES (43,4869,169);
-INSERT INTO Pozycje_zamowienia VALUES (76,2641,268);
-INSERT INTO Pozycje_zamowienia VALUES (78,1292,160);
-INSERT INTO Pozycje_zamowienia VALUES (28,5992,94);
-INSERT INTO Pozycje_zamowienia VALUES (29,1677,138);
-INSERT INTO Pozycje_zamowienia VALUES (61,952,305);
-INSERT INTO Pozycje_zamowienia VALUES (70,6338,276);
-INSERT INTO Pozycje_zamowienia VALUES (30,1316,39);
-INSERT INTO Pozycje_zamowienia VALUES (97,2233,98);
-INSERT INTO Pozycje_zamowienia VALUES (68,719,169);
-INSERT INTO Pozycje_zamowienia VALUES (13,4016,214);
-INSERT INTO Pozycje_zamowienia VALUES (62,6251,298);
-INSERT INTO Pozycje_zamowienia VALUES (3,365,285);
-INSERT INTO Pozycje_zamowienia VALUES (7,3790,14);
-INSERT INTO Pozycje_zamowienia VALUES (11,1585,211);
-INSERT INTO Pozycje_zamowienia VALUES (79,4151,105);
-INSERT INTO Pozycje_zamowienia VALUES (48,1597,216);
-INSERT INTO Pozycje_zamowienia VALUES (18,3026,11);
-INSERT INTO Pozycje_zamowienia VALUES (19,4823,13);
-INSERT INTO Pozycje_zamowienia VALUES (87,5783,87);
-INSERT INTO Pozycje_zamowienia VALUES (78,2251,214);
-INSERT INTO Pozycje_zamowienia VALUES (100,6118,83);
-INSERT INTO Pozycje_zamowienia VALUES (49,6437,161);
-INSERT INTO Pozycje_zamowienia VALUES (49,6361,183);
-INSERT INTO Pozycje_zamowienia VALUES (97,6494,213);
-INSERT INTO Pozycje_zamowienia VALUES (47,190,290);
-INSERT INTO Pozycje_zamowienia VALUES (98,1533,195);
-INSERT INTO Pozycje_zamowienia VALUES (9,711,177);
-INSERT INTO Pozycje_zamowienia VALUES (97,3247,142);
-INSERT INTO Pozycje_zamowienia VALUES (18,2419,219);
-INSERT INTO Pozycje_zamowienia VALUES (56,3452,221);
-INSERT INTO Pozycje_zamowienia VALUES (10,1214,52);
-INSERT INTO Pozycje_zamowienia VALUES (21,960,275);
-INSERT INTO Pozycje_zamowienia VALUES (45,150,60);
-INSERT INTO Pozycje_zamowienia VALUES (53,23,46);
-INSERT INTO Pozycje_zamowienia VALUES (15,834,26);
-INSERT INTO Pozycje_zamowienia VALUES (33,6471,305);
-INSERT INTO Pozycje_zamowienia VALUES (22,2777,146);
-INSERT INTO Pozycje_zamowienia VALUES (73,1,68);
-INSERT INTO Pozycje_zamowienia VALUES (6,6397,88);
-INSERT INTO Pozycje_zamowienia VALUES (62,2525,297);
-INSERT INTO Pozycje_zamowienia VALUES (45,5704,70);
-INSERT INTO Pozycje_zamowienia VALUES (53,5824,292);
-INSERT INTO Pozycje_zamowienia VALUES (76,3450,203);
-INSERT INTO Pozycje_zamowienia VALUES (40,878,14);
-INSERT INTO Pozycje_zamowienia VALUES (55,137,43);
-INSERT INTO Pozycje_zamowienia VALUES (25,2079,172);
-INSERT INTO Pozycje_zamowienia VALUES (64,6399,303);
-INSERT INTO Pozycje_zamowienia VALUES (100,4046,158);
-INSERT INTO Pozycje_zamowienia VALUES (43,6497,171);
-INSERT INTO Pozycje_zamowienia VALUES (12,6109,87);
-INSERT INTO Pozycje_zamowienia VALUES (70,1539,49);
-INSERT INTO Pozycje_zamowienia VALUES (49,2334,263);
-INSERT INTO Pozycje_zamowienia VALUES (69,4147,63);
-INSERT INTO Pozycje_zamowienia VALUES (14,4095,252);
-INSERT INTO Pozycje_zamowienia VALUES (53,2492,82);
-INSERT INTO Pozycje_zamowienia VALUES (69,2758,122);
-INSERT INTO Pozycje_zamowienia VALUES (58,1112,59);
-INSERT INTO Pozycje_zamowienia VALUES (72,1426,184);
-INSERT INTO Pozycje_zamowienia VALUES (94,1217,28);
-INSERT INTO Pozycje_zamowienia VALUES (22,757,96);
-INSERT INTO Pozycje_zamowienia VALUES (52,3642,227);
-INSERT INTO Pozycje_zamowienia VALUES (76,2320,116);
-INSERT INTO Pozycje_zamowienia VALUES (64,5898,60);
-INSERT INTO Pozycje_zamowienia VALUES (16,87,92);
-INSERT INTO Pozycje_zamowienia VALUES (41,2295,52);
-INSERT INTO Pozycje_zamowienia VALUES (3,1118,179);
-INSERT INTO Pozycje_zamowienia VALUES (30,88,48);
-INSERT INTO Pozycje_zamowienia VALUES (2,2614,211);
-INSERT INTO Pozycje_zamowienia VALUES (21,5896,159);
-INSERT INTO Pozycje_zamowienia VALUES (18,2350,137);
-INSERT INTO Pozycje_zamowienia VALUES (95,1218,176);
-INSERT INTO Pozycje_zamowienia VALUES (98,4459,40);
-INSERT INTO Pozycje_zamowienia VALUES (50,4811,159);
-INSERT INTO Pozycje_zamowienia VALUES (75,4525,14);
-INSERT INTO Pozycje_zamowienia VALUES (5,6041,25);
-INSERT INTO Pozycje_zamowienia VALUES (35,263,41);
-INSERT INTO Pozycje_zamowienia VALUES (64,6458,13);
-INSERT INTO Pozycje_zamowienia VALUES (64,3612,292);
-INSERT INTO Pozycje_zamowienia VALUES (61,748,127);
-INSERT INTO Pozycje_zamowienia VALUES (3,3022,180);
-INSERT INTO Pozycje_zamowienia VALUES (48,6101,133);
-INSERT INTO Pozycje_zamowienia VALUES (11,4605,279);
-INSERT INTO Pozycje_zamowienia VALUES (60,5145,35);
-INSERT INTO Pozycje_zamowienia VALUES (99,4359,257);
-INSERT INTO Pozycje_zamowienia VALUES (39,4338,215);
-INSERT INTO Pozycje_zamowienia VALUES (50,5189,49);
-INSERT INTO Pozycje_zamowienia VALUES (90,5062,295);
-INSERT INTO Pozycje_zamowienia VALUES (47,5349,129);
-INSERT INTO Pozycje_zamowienia VALUES (64,3864,201);
-INSERT INTO Pozycje_zamowienia VALUES (8,6031,288);
-INSERT INTO Pozycje_zamowienia VALUES (78,1563,37);
-INSERT INTO Pozycje_zamowienia VALUES (87,1147,97);
-INSERT INTO Pozycje_zamowienia VALUES (27,3287,74);
-INSERT INTO Pozycje_zamowienia VALUES (97,3051,20);
-INSERT INTO Pozycje_zamowienia VALUES (78,3216,265);
-INSERT INTO Pozycje_zamowienia VALUES (9,4890,270);
-INSERT INTO Pozycje_zamowienia VALUES (79,108,44);
-INSERT INTO Pozycje_zamowienia VALUES (74,2783,204);
-INSERT INTO Pozycje_zamowienia VALUES (9,4091,22);
-INSERT INTO Pozycje_zamowienia VALUES (14,294,243);
-INSERT INTO Pozycje_zamowienia VALUES (81,1767,71);
-INSERT INTO Pozycje_zamowienia VALUES (46,5861,219);
-INSERT INTO Pozycje_zamowienia VALUES (9,1002,310);
-INSERT INTO Pozycje_zamowienia VALUES (55,5688,160);
-INSERT INTO Pozycje_zamowienia VALUES (100,3755,84);
-INSERT INTO Pozycje_zamowienia VALUES (11,126,114);
-INSERT INTO Pozycje_zamowienia VALUES (6,6411,185);
-INSERT INTO Pozycje_zamowienia VALUES (20,5851,120);
-INSERT INTO Pozycje_zamowienia VALUES (75,2832,110);
-INSERT INTO Pozycje_zamowienia VALUES (64,179,8);
-INSERT INTO Pozycje_zamowienia VALUES (4,2547,50);
-INSERT INTO Pozycje_zamowienia VALUES (88,2502,16);
-INSERT INTO Pozycje_zamowienia VALUES (87,1552,259);
-INSERT INTO Pozycje_zamowienia VALUES (21,604,176);
-INSERT INTO Pozycje_zamowienia VALUES (95,1780,279);
-INSERT INTO Pozycje_zamowienia VALUES (61,2785,183);
-INSERT INTO Pozycje_zamowienia VALUES (24,851,255);
-INSERT INTO Pozycje_zamowienia VALUES (73,2240,61);
-INSERT INTO Pozycje_zamowienia VALUES (29,859,137);
-INSERT INTO Pozycje_zamowienia VALUES (30,4359,260);
-INSERT INTO Pozycje_zamowienia VALUES (64,3672,238);
-INSERT INTO Pozycje_zamowienia VALUES (67,3449,258);
-INSERT INTO Pozycje_zamowienia VALUES (21,3853,276);
-INSERT INTO Pozycje_zamowienia VALUES (23,3563,162);
-INSERT INTO Pozycje_zamowienia VALUES (6,4156,29);
-INSERT INTO Pozycje_zamowienia VALUES (55,2387,136);
-INSERT INTO Pozycje_zamowienia VALUES (40,4542,126);
-INSERT INTO Pozycje_zamowienia VALUES (91,385,203);
-INSERT INTO Pozycje_zamowienia VALUES (57,3344,285);
-INSERT INTO Pozycje_zamowienia VALUES (23,2296,254);
-INSERT INTO Pozycje_zamowienia VALUES (85,4088,46);
-INSERT INTO Pozycje_zamowienia VALUES (58,1038,218);
-INSERT INTO Pozycje_zamowienia VALUES (50,4321,136);
-INSERT INTO Pozycje_zamowienia VALUES (91,2744,108);
-INSERT INTO Pozycje_zamowienia VALUES (75,3884,191);
-INSERT INTO Pozycje_zamowienia VALUES (75,3124,200);
-INSERT INTO Pozycje_zamowienia VALUES (53,1196,242);
-INSERT INTO Pozycje_zamowienia VALUES (99,4396,144);
-INSERT INTO Pozycje_zamowienia VALUES (100,1602,243);
-INSERT INTO Pozycje_zamowienia VALUES (92,1548,225);
-INSERT INTO Pozycje_zamowienia VALUES (37,481,208);
-INSERT INTO Pozycje_zamowienia VALUES (37,5961,252);
-INSERT INTO Pozycje_zamowienia VALUES (90,2476,38);
-INSERT INTO Pozycje_zamowienia VALUES (92,2361,67);
-INSERT INTO Pozycje_zamowienia VALUES (14,4660,309);
-INSERT INTO Pozycje_zamowienia VALUES (35,3518,146);
-INSERT INTO Pozycje_zamowienia VALUES (73,3369,33);
-INSERT INTO Pozycje_zamowienia VALUES (71,4409,32);
-INSERT INTO Pozycje_zamowienia VALUES (94,4871,183);
-INSERT INTO Pozycje_zamowienia VALUES (20,4595,320);
-INSERT INTO Pozycje_zamowienia VALUES (60,1409,23);
-INSERT INTO Pozycje_zamowienia VALUES (92,6101,53);
-INSERT INTO Pozycje_zamowienia VALUES (95,456,277);
-INSERT INTO Pozycje_zamowienia VALUES (86,3675,287);
-INSERT INTO Pozycje_zamowienia VALUES (21,6144,288);
-INSERT INTO Pozycje_zamowienia VALUES (34,2620,172);
-INSERT INTO Pozycje_zamowienia VALUES (11,1576,75);
-INSERT INTO Pozycje_zamowienia VALUES (69,5940,153);
-INSERT INTO Pozycje_zamowienia VALUES (1,5893,9);
-INSERT INTO Pozycje_zamowienia VALUES (16,5607,120);
-INSERT INTO Pozycje_zamowienia VALUES (23,5458,60);
-INSERT INTO Pozycje_zamowienia VALUES (79,6456,91);
-INSERT INTO Pozycje_zamowienia VALUES (92,3922,47);
-INSERT INTO Pozycje_zamowienia VALUES (78,244,56);
-INSERT INTO Pozycje_zamowienia VALUES (87,5505,251);
-INSERT INTO Pozycje_zamowienia VALUES (2,6321,77);
-INSERT INTO Pozycje_zamowienia VALUES (92,2201,284);
-INSERT INTO Pozycje_zamowienia VALUES (46,3510,161);
-INSERT INTO Pozycje_zamowienia VALUES (52,4308,230);
-INSERT INTO Pozycje_zamowienia VALUES (20,1699,134);
-INSERT INTO Pozycje_zamowienia VALUES (83,5786,265);
-INSERT INTO Pozycje_zamowienia VALUES (79,1810,161);
-INSERT INTO Pozycje_zamowienia VALUES (46,6005,279);
-INSERT INTO Pozycje_zamowienia VALUES (22,4507,129);
-INSERT INTO Pozycje_zamowienia VALUES (47,944,58);
-INSERT INTO Pozycje_zamowienia VALUES (66,2412,171);
-INSERT INTO Pozycje_zamowienia VALUES (90,4017,188);
-INSERT INTO Pozycje_zamowienia VALUES (6,5975,282);
-INSERT INTO Pozycje_zamowienia VALUES (73,4625,30);
-INSERT INTO Pozycje_zamowienia VALUES (39,5202,76);
-INSERT INTO Pozycje_zamowienia VALUES (1,2294,88);
-INSERT INTO Pozycje_zamowienia VALUES (83,3418,67);
-INSERT INTO Pozycje_zamowienia VALUES (29,868,317);
-INSERT INTO Pozycje_zamowienia VALUES (28,5103,263);
-INSERT INTO Pozycje_zamowienia VALUES (21,6494,80);
-INSERT INTO Pozycje_zamowienia VALUES (57,1729,222);
-INSERT INTO Pozycje_zamowienia VALUES (70,3739,101);
-INSERT INTO Pozycje_zamowienia VALUES (11,3337,320);
-INSERT INTO Pozycje_zamowienia VALUES (62,3526,93);
-INSERT INTO Pozycje_zamowienia VALUES (37,1887,237);
-INSERT INTO Pozycje_zamowienia VALUES (28,5037,232);
-INSERT INTO Pozycje_zamowienia VALUES (48,2365,280);
-INSERT INTO Pozycje_zamowienia VALUES (25,5500,135);
-INSERT INTO Pozycje_zamowienia VALUES (83,6487,110);
-INSERT INTO Pozycje_zamowienia VALUES (4,2948,232);
-INSERT INTO Pozycje_zamowienia VALUES (8,457,245);
-INSERT INTO Pozycje_zamowienia VALUES (12,3136,218);
-INSERT INTO Pozycje_zamowienia VALUES (11,4805,311);
-INSERT INTO Pozycje_zamowienia VALUES (39,6103,28);
-INSERT INTO Pozycje_zamowienia VALUES (36,4156,245);
-INSERT INTO Pozycje_zamowienia VALUES (11,4774,120);
-INSERT INTO Pozycje_zamowienia VALUES (22,1509,190);
-INSERT INTO Pozycje_zamowienia VALUES (13,2691,31);
-INSERT INTO Pozycje_zamowienia VALUES (98,2073,73);
-INSERT INTO Pozycje_zamowienia VALUES (12,2647,98);
-INSERT INTO Pozycje_zamowienia VALUES (89,6036,33);
-INSERT INTO Pozycje_zamowienia VALUES (55,2280,162);
-INSERT INTO Pozycje_zamowienia VALUES (57,4694,233);
-INSERT INTO Pozycje_zamowienia VALUES (18,1590,315);
-INSERT INTO Pozycje_zamowienia VALUES (55,552,293);
-INSERT INTO Pozycje_zamowienia VALUES (42,4065,40);
-INSERT INTO Pozycje_zamowienia VALUES (19,220,131);
-INSERT INTO Pozycje_zamowienia VALUES (61,4972,83);
-INSERT INTO Pozycje_zamowienia VALUES (51,4652,112);
-INSERT INTO Pozycje_zamowienia VALUES (69,1620,60);
-INSERT INTO Pozycje_zamowienia VALUES (95,4934,236);
-INSERT INTO Pozycje_zamowienia VALUES (76,2355,128);
-INSERT INTO Pozycje_zamowienia VALUES (37,1372,5);
-INSERT INTO Pozycje_zamowienia VALUES (13,5362,17);
-INSERT INTO Pozycje_zamowienia VALUES (26,6058,233);
-INSERT INTO Pozycje_zamowienia VALUES (13,5997,193);
-INSERT INTO Pozycje_zamowienia VALUES (44,4297,170);
-INSERT INTO Pozycje_zamowienia VALUES (63,2551,259);
-INSERT INTO Pozycje_zamowienia VALUES (71,5758,57);
-INSERT INTO Pozycje_zamowienia VALUES (8,767,120);
-INSERT INTO Pozycje_zamowienia VALUES (81,5419,121);
-INSERT INTO Pozycje_zamowienia VALUES (82,6463,201);
-INSERT INTO Pozycje_zamowienia VALUES (17,793,78);
-INSERT INTO Pozycje_zamowienia VALUES (2,5837,153);
-INSERT INTO Pozycje_zamowienia VALUES (10,2489,103);
-INSERT INTO Pozycje_zamowienia VALUES (26,2160,7);
-INSERT INTO Pozycje_zamowienia VALUES (92,4680,154);
-INSERT INTO Pozycje_zamowienia VALUES (18,2067,107);
-INSERT INTO Pozycje_zamowienia VALUES (63,1938,79);
-INSERT INTO Pozycje_zamowienia VALUES (38,50,99);
-INSERT INTO Pozycje_zamowienia VALUES (81,5643,263);
-INSERT INTO Pozycje_zamowienia VALUES (90,5081,313);
-INSERT INTO Pozycje_zamowienia VALUES (68,6316,12);
-INSERT INTO Pozycje_zamowienia VALUES (98,2734,315);
-INSERT INTO Pozycje_zamowienia VALUES (89,2353,76);
-INSERT INTO Pozycje_zamowienia VALUES (84,4846,129);
-INSERT INTO Pozycje_zamowienia VALUES (31,1733,107);
-INSERT INTO Pozycje_zamowienia VALUES (73,254,85);
-INSERT INTO Pozycje_zamowienia VALUES (10,3687,257);
-INSERT INTO Pozycje_zamowienia VALUES (13,634,28);
-INSERT INTO Pozycje_zamowienia VALUES (45,4543,92);
-INSERT INTO Pozycje_zamowienia VALUES (79,2272,244);
-INSERT INTO Pozycje_zamowienia VALUES (46,1315,135);
-INSERT INTO Pozycje_zamowienia VALUES (13,5122,46);
-INSERT INTO Pozycje_zamowienia VALUES (94,4553,208);
-INSERT INTO Pozycje_zamowienia VALUES (13,1773,96);
-INSERT INTO Pozycje_zamowienia VALUES (98,1662,309);
-INSERT INTO Pozycje_zamowienia VALUES (19,3007,297);
-INSERT INTO Pozycje_zamowienia VALUES (73,4823,96);
-INSERT INTO Pozycje_zamowienia VALUES (14,3696,134);
-INSERT INTO Pozycje_zamowienia VALUES (55,6306,252);
-INSERT INTO Pozycje_zamowienia VALUES (91,5009,73);
-INSERT INTO Pozycje_zamowienia VALUES (80,2935,99);
-INSERT INTO Pozycje_zamowienia VALUES (37,4807,256);
-INSERT INTO Pozycje_zamowienia VALUES (48,4842,10);
-INSERT INTO Pozycje_zamowienia VALUES (59,5772,237);
-INSERT INTO Pozycje_zamowienia VALUES (20,1885,55);
-INSERT INTO Pozycje_zamowienia VALUES (78,247,279);
-INSERT INTO Pozycje_zamowienia VALUES (90,6085,37);
-INSERT INTO Pozycje_zamowienia VALUES (70,5258,48);
-INSERT INTO Pozycje_zamowienia VALUES (62,6494,263);
-INSERT INTO Pozycje_zamowienia VALUES (28,2429,189);
-INSERT INTO Pozycje_zamowienia VALUES (77,3656,313);
-INSERT INTO Pozycje_zamowienia VALUES (6,4466,81);
-INSERT INTO Pozycje_zamowienia VALUES (36,6098,310);
-INSERT INTO Pozycje_zamowienia VALUES (51,2772,228);
-INSERT INTO Pozycje_zamowienia VALUES (39,5378,47);
-INSERT INTO Pozycje_zamowienia VALUES (86,4066,207);
-INSERT INTO Pozycje_zamowienia VALUES (73,2138,315);
-INSERT INTO Pozycje_zamowienia VALUES (21,5609,310);
-INSERT INTO Pozycje_zamowienia VALUES (30,5923,253);
-INSERT INTO Pozycje_zamowienia VALUES (97,362,213);
-INSERT INTO Pozycje_zamowienia VALUES (84,737,209);
-INSERT INTO Pozycje_zamowienia VALUES (77,2206,150);
-INSERT INTO Pozycje_zamowienia VALUES (20,5218,187);
-INSERT INTO Pozycje_zamowienia VALUES (59,605,252);
-INSERT INTO Pozycje_zamowienia VALUES (25,907,309);
-INSERT INTO Pozycje_zamowienia VALUES (33,17,178);
-INSERT INTO Pozycje_zamowienia VALUES (88,3595,56);
-INSERT INTO Pozycje_zamowienia VALUES (89,826,145);
-INSERT INTO Pozycje_zamowienia VALUES (28,3678,185);
-INSERT INTO Pozycje_zamowienia VALUES (12,4899,257);
-INSERT INTO Pozycje_zamowienia VALUES (88,3805,47);
-INSERT INTO Pozycje_zamowienia VALUES (4,2866,304);
-INSERT INTO Pozycje_zamowienia VALUES (30,227,165);
-INSERT INTO Pozycje_zamowienia VALUES (31,6152,97);
-INSERT INTO Pozycje_zamowienia VALUES (52,2447,237);
-INSERT INTO Pozycje_zamowienia VALUES (39,2039,18);
-INSERT INTO Pozycje_zamowienia VALUES (31,5169,22);
-INSERT INTO Pozycje_zamowienia VALUES (41,1981,14);
-INSERT INTO Pozycje_zamowienia VALUES (50,6031,245);
-INSERT INTO Pozycje_zamowienia VALUES (53,3775,2);
-INSERT INTO Pozycje_zamowienia VALUES (91,1984,11);
-INSERT INTO Pozycje_zamowienia VALUES (64,1725,208);
-INSERT INTO Pozycje_zamowienia VALUES (43,4036,211);
-INSERT INTO Pozycje_zamowienia VALUES (13,1377,163);
-INSERT INTO Pozycje_zamowienia VALUES (1,2308,257);
-INSERT INTO Pozycje_zamowienia VALUES (27,2074,127);
-INSERT INTO Pozycje_zamowienia VALUES (90,3233,218);
-INSERT INTO Pozycje_zamowienia VALUES (74,4847,203);
-INSERT INTO Pozycje_zamowienia VALUES (56,6276,46);
-INSERT INTO Pozycje_zamowienia VALUES (41,527,193);
-INSERT INTO Pozycje_zamowienia VALUES (80,4736,198);
-INSERT INTO Pozycje_zamowienia VALUES (84,4802,134);
-INSERT INTO Pozycje_zamowienia VALUES (98,1159,237);
-INSERT INTO Pozycje_zamowienia VALUES (23,5287,136);
-INSERT INTO Pozycje_zamowienia VALUES (28,5372,15);
-INSERT INTO Pozycje_zamowienia VALUES (87,6486,101);
-INSERT INTO Pozycje_zamowienia VALUES (34,1521,251);
-INSERT INTO Pozycje_zamowienia VALUES (8,4062,66);
-INSERT INTO Pozycje_zamowienia VALUES (60,1307,71);
-INSERT INTO Pozycje_zamowienia VALUES (56,5710,19);
-INSERT INTO Pozycje_zamowienia VALUES (9,6073,258);
-INSERT INTO Pozycje_zamowienia VALUES (1,1567,36);
-INSERT INTO Pozycje_zamowienia VALUES (26,1021,164);
-INSERT INTO Pozycje_zamowienia VALUES (94,5139,36);
-INSERT INTO Pozycje_zamowienia VALUES (88,5034,112);
-INSERT INTO Pozycje_zamowienia VALUES (94,2967,320);
-INSERT INTO Pozycje_zamowienia VALUES (57,2922,181);
-INSERT INTO Pozycje_zamowienia VALUES (17,2745,148);
-INSERT INTO Pozycje_zamowienia VALUES (43,5436,310);
-INSERT INTO Pozycje_zamowienia VALUES (15,1540,267);
-INSERT INTO Pozycje_zamowienia VALUES (13,3762,49);
-INSERT INTO Pozycje_zamowienia VALUES (78,5289,2);
-INSERT INTO Pozycje_zamowienia VALUES (23,2372,310);
-INSERT INTO Pozycje_zamowienia VALUES (18,1938,52);
-INSERT INTO Pozycje_zamowienia VALUES (51,3034,26);
-INSERT INTO Pozycje_zamowienia VALUES (36,6468,122);
-INSERT INTO Pozycje_zamowienia VALUES (76,4866,232);
-INSERT INTO Pozycje_zamowienia VALUES (82,2745,117);
-INSERT INTO Pozycje_zamowienia VALUES (65,6297,289);
-INSERT INTO Pozycje_zamowienia VALUES (73,4093,136);
-INSERT INTO Pozycje_zamowienia VALUES (48,6012,93);
-INSERT INTO Pozycje_zamowienia VALUES (97,4032,246);
-INSERT INTO Pozycje_zamowienia VALUES (49,899,227);
-INSERT INTO Pozycje_zamowienia VALUES (32,4235,189);
-INSERT INTO Pozycje_zamowienia VALUES (68,287,216);
-INSERT INTO Pozycje_zamowienia VALUES (10,2126,211);
-INSERT INTO Pozycje_zamowienia VALUES (70,5213,66);
-INSERT INTO Pozycje_zamowienia VALUES (46,1319,233);
-INSERT INTO Pozycje_zamowienia VALUES (76,3841,298);
-INSERT INTO Pozycje_zamowienia VALUES (3,5969,198);
-INSERT INTO Pozycje_zamowienia VALUES (40,1051,14);
-INSERT INTO Pozycje_zamowienia VALUES (33,3584,220);
-INSERT INTO Pozycje_zamowienia VALUES (74,6390,174);
-INSERT INTO Pozycje_zamowienia VALUES (53,5144,249);
-INSERT INTO Pozycje_zamowienia VALUES (56,1766,185);
-INSERT INTO Pozycje_zamowienia VALUES (92,5750,271);
-INSERT INTO Pozycje_zamowienia VALUES (94,5804,15);
-INSERT INTO Pozycje_zamowienia VALUES (5,1464,256);
-INSERT INTO Pozycje_zamowienia VALUES (21,6093,154);
-INSERT INTO Pozycje_zamowienia VALUES (95,549,195);
-INSERT INTO Pozycje_zamowienia VALUES (17,6440,287);
-INSERT INTO Pozycje_zamowienia VALUES (80,5955,58);
-INSERT INTO Pozycje_zamowienia VALUES (29,6132,195);
-INSERT INTO Pozycje_zamowienia VALUES (55,1875,210);
-INSERT INTO Pozycje_zamowienia VALUES (80,2640,219);
-INSERT INTO Pozycje_zamowienia VALUES (41,4478,273);
-INSERT INTO Pozycje_zamowienia VALUES (5,3960,245);
-INSERT INTO Pozycje_zamowienia VALUES (69,97,275);
-INSERT INTO Pozycje_zamowienia VALUES (83,2391,255);
-INSERT INTO Pozycje_zamowienia VALUES (52,5455,94);
-INSERT INTO Pozycje_zamowienia VALUES (8,1654,81);
-INSERT INTO Pozycje_zamowienia VALUES (77,1137,270);
-INSERT INTO Pozycje_zamowienia VALUES (50,761,162);
-INSERT INTO Pozycje_zamowienia VALUES (86,4269,164);
-INSERT INTO Pozycje_zamowienia VALUES (9,1925,66);
-INSERT INTO Pozycje_zamowienia VALUES (90,467,116);
-INSERT INTO Pozycje_zamowienia VALUES (23,2914,154);
-INSERT INTO Pozycje_zamowienia VALUES (60,6034,282);
-INSERT INTO Pozycje_zamowienia VALUES (44,4218,251);
-INSERT INTO Pozycje_zamowienia VALUES (51,3967,9);
-INSERT INTO Pozycje_zamowienia VALUES (73,5755,138);
-INSERT INTO Pozycje_zamowienia VALUES (46,3274,173);
-INSERT INTO Pozycje_zamowienia VALUES (55,1093,40);
-INSERT INTO Pozycje_zamowienia VALUES (42,35,247);
-INSERT INTO Pozycje_zamowienia VALUES (65,4150,11);
-INSERT INTO Pozycje_zamowienia VALUES (29,3880,102);
-INSERT INTO Pozycje_zamowienia VALUES (94,3842,314);
-INSERT INTO Pozycje_zamowienia VALUES (14,3309,235);
-INSERT INTO Pozycje_zamowienia VALUES (17,5786,107);
-INSERT INTO Pozycje_zamowienia VALUES (55,5146,312);
-INSERT INTO Pozycje_zamowienia VALUES (90,55,27);
-INSERT INTO Pozycje_zamowienia VALUES (87,3694,293);
-INSERT INTO Pozycje_zamowienia VALUES (4,2895,235);
-INSERT INTO Pozycje_zamowienia VALUES (11,3340,212);
-INSERT INTO Pozycje_zamowienia VALUES (52,6116,88);
-INSERT INTO Pozycje_zamowienia VALUES (56,6012,224);
-INSERT INTO Pozycje_zamowienia VALUES (69,2959,165);
-INSERT INTO Pozycje_zamowienia VALUES (55,4141,158);
-INSERT INTO Pozycje_zamowienia VALUES (23,4402,122);
-INSERT INTO Pozycje_zamowienia VALUES (60,5524,305);
-INSERT INTO Pozycje_zamowienia VALUES (6,6114,264);
-INSERT INTO Pozycje_zamowienia VALUES (16,286,307);
-INSERT INTO Pozycje_zamowienia VALUES (69,5613,294);
-INSERT INTO Pozycje_zamowienia VALUES (60,1651,24);
-INSERT INTO Pozycje_zamowienia VALUES (4,6245,16);
-INSERT INTO Pozycje_zamowienia VALUES (90,3521,127);
-INSERT INTO Pozycje_zamowienia VALUES (75,5649,61);
-INSERT INTO Pozycje_zamowienia VALUES (76,3029,245);
-INSERT INTO Pozycje_zamowienia VALUES (15,3266,86);
-INSERT INTO Pozycje_zamowienia VALUES (32,854,167);
-INSERT INTO Pozycje_zamowienia VALUES (22,747,141);
-INSERT INTO Pozycje_zamowienia VALUES (42,1041,221);
-INSERT INTO Pozycje_zamowienia VALUES (93,3820,107);
-INSERT INTO Pozycje_zamowienia VALUES (55,2505,176);
-INSERT INTO Pozycje_zamowienia VALUES (63,3257,54);
-INSERT INTO Pozycje_zamowienia VALUES (96,5068,235);
-INSERT INTO Pozycje_zamowienia VALUES (19,6053,229);
-INSERT INTO Pozycje_zamowienia VALUES (71,3625,232);
-INSERT INTO Pozycje_zamowienia VALUES (58,5981,192);
-INSERT INTO Pozycje_zamowienia VALUES (96,234,284);
-INSERT INTO Pozycje_zamowienia VALUES (61,2522,270);
-INSERT INTO Pozycje_zamowienia VALUES (36,1819,98);
-INSERT INTO Pozycje_zamowienia VALUES (64,2831,306);
-INSERT INTO Pozycje_zamowienia VALUES (10,829,288);
-INSERT INTO Pozycje_zamowienia VALUES (67,2927,27);
-INSERT INTO Pozycje_zamowienia VALUES (36,2706,91);
-INSERT INTO Pozycje_zamowienia VALUES (85,5826,71);
-INSERT INTO Pozycje_zamowienia VALUES (38,1176,309);
-INSERT INTO Pozycje_zamowienia VALUES (2,2177,124);
-INSERT INTO Pozycje_zamowienia VALUES (34,5333,260);
-INSERT INTO Pozycje_zamowienia VALUES (32,4766,4);
-INSERT INTO Pozycje_zamowienia VALUES (81,3329,108);
-INSERT INTO Pozycje_zamowienia VALUES (98,4843,68);
-INSERT INTO Pozycje_zamowienia VALUES (87,4866,206);
-INSERT INTO Pozycje_zamowienia VALUES (99,4990,159);
-INSERT INTO Pozycje_zamowienia VALUES (85,2931,61);
-INSERT INTO Pozycje_zamowienia VALUES (3,5234,172);
-INSERT INTO Pozycje_zamowienia VALUES (17,5393,125);
-INSERT INTO Pozycje_zamowienia VALUES (38,5076,320);
-INSERT INTO Pozycje_zamowienia VALUES (26,5770,21);
-INSERT INTO Pozycje_zamowienia VALUES (17,1781,46);
-INSERT INTO Pozycje_zamowienia VALUES (42,3931,94);
-INSERT INTO Pozycje_zamowienia VALUES (73,4972,58);
-INSERT INTO Pozycje_zamowienia VALUES (95,3608,208);
-INSERT INTO Pozycje_zamowienia VALUES (100,2367,87);
-INSERT INTO Pozycje_zamowienia VALUES (81,2605,95);
-INSERT INTO Pozycje_zamowienia VALUES (40,1265,113);
-INSERT INTO Pozycje_zamowienia VALUES (72,5208,118);
-INSERT INTO Pozycje_zamowienia VALUES (61,1260,97);
-INSERT INTO Pozycje_zamowienia VALUES (54,6340,52);
-INSERT INTO Pozycje_zamowienia VALUES (97,2019,265);
-INSERT INTO Pozycje_zamowienia VALUES (20,71,309);
-INSERT INTO Pozycje_zamowienia VALUES (7,551,202);
-INSERT INTO Pozycje_zamowienia VALUES (78,4307,252);
-INSERT INTO Pozycje_zamowienia VALUES (76,941,154);
-INSERT INTO Pozycje_zamowienia VALUES (75,511,121);
-INSERT INTO Pozycje_zamowienia VALUES (61,4862,171);
-INSERT INTO Pozycje_zamowienia VALUES (39,5343,29);
-INSERT INTO Pozycje_zamowienia VALUES (99,2996,162);
-INSERT INTO Pozycje_zamowienia VALUES (56,6043,29);
-INSERT INTO Pozycje_zamowienia VALUES (69,6356,41);
-INSERT INTO Pozycje_zamowienia VALUES (73,2411,186);
-INSERT INTO Pozycje_zamowienia VALUES (40,1415,38);
-INSERT INTO Pozycje_zamowienia VALUES (18,194,281);
-INSERT INTO Pozycje_zamowienia VALUES (67,877,141);
-INSERT INTO Pozycje_zamowienia VALUES (32,416,110);
-INSERT INTO Pozycje_zamowienia VALUES (39,920,106);
-INSERT INTO Pozycje_zamowienia VALUES (11,4136,5);
-INSERT INTO Pozycje_zamowienia VALUES (28,149,284);
-INSERT INTO Pozycje_zamowienia VALUES (45,3570,306);
-INSERT INTO Pozycje_zamowienia VALUES (98,2729,51);
-INSERT INTO Pozycje_zamowienia VALUES (2,2829,289);
-INSERT INTO Pozycje_zamowienia VALUES (9,5632,148);
-INSERT INTO Pozycje_zamowienia VALUES (23,714,106);
-INSERT INTO Pozycje_zamowienia VALUES (14,2993,186);
-INSERT INTO Pozycje_zamowienia VALUES (89,3440,229);
-INSERT INTO Pozycje_zamowienia VALUES (16,109,88);
-INSERT INTO Pozycje_zamowienia VALUES (99,5429,176);
-INSERT INTO Pozycje_zamowienia VALUES (27,768,87);
-INSERT INTO Pozycje_zamowienia VALUES (27,2446,305);
-INSERT INTO Pozycje_zamowienia VALUES (79,1904,166);
-INSERT INTO Pozycje_zamowienia VALUES (23,3252,295);
-INSERT INTO Pozycje_zamowienia VALUES (74,4878,288);
-INSERT INTO Pozycje_zamowienia VALUES (20,3676,26);
-INSERT INTO Pozycje_zamowienia VALUES (51,3822,221);
-INSERT INTO Pozycje_zamowienia VALUES (84,5549,197);
-INSERT INTO Pozycje_zamowienia VALUES (14,659,2);
-INSERT INTO Pozycje_zamowienia VALUES (4,3343,237);
-INSERT INTO Pozycje_zamowienia VALUES (21,3750,105);
-INSERT INTO Pozycje_zamowienia VALUES (58,2628,110);
-INSERT INTO Pozycje_zamowienia VALUES (51,309,62);
-INSERT INTO Pozycje_zamowienia VALUES (78,70,294);
-INSERT INTO Pozycje_zamowienia VALUES (87,3322,244);
-INSERT INTO Pozycje_zamowienia VALUES (8,1833,210);
-INSERT INTO Pozycje_zamowienia VALUES (38,2868,284);
-INSERT INTO Pozycje_zamowienia VALUES (48,6048,230);
-INSERT INTO Pozycje_zamowienia VALUES (70,3404,139);
-INSERT INTO Pozycje_zamowienia VALUES (4,485,311);
-INSERT INTO Pozycje_zamowienia VALUES (36,5290,173);
-INSERT INTO Pozycje_zamowienia VALUES (56,2635,114);
-INSERT INTO Pozycje_zamowienia VALUES (62,920,62);
-INSERT INTO Pozycje_zamowienia VALUES (37,3661,236);
-INSERT INTO Pozycje_zamowienia VALUES (13,663,250);
-INSERT INTO Pozycje_zamowienia VALUES (6,6426,150);
-INSERT INTO Pozycje_zamowienia VALUES (48,5042,205);
-INSERT INTO Pozycje_zamowienia VALUES (78,1124,80);
-INSERT INTO Pozycje_zamowienia VALUES (19,4799,72);
-INSERT INTO Pozycje_zamowienia VALUES (36,4152,204);
-INSERT INTO Pozycje_zamowienia VALUES (63,1657,314);
-INSERT INTO Pozycje_zamowienia VALUES (29,4034,252);
-INSERT INTO Pozycje_zamowienia VALUES (83,6291,58);
-INSERT INTO Pozycje_zamowienia VALUES (32,1033,95);
-INSERT INTO Pozycje_zamowienia VALUES (11,3010,84);
-INSERT INTO Pozycje_zamowienia VALUES (15,1209,219);
-INSERT INTO Pozycje_zamowienia VALUES (27,6487,63);
-INSERT INTO Pozycje_zamowienia VALUES (97,5334,132);
-INSERT INTO Pozycje_zamowienia VALUES (46,5609,209);
-INSERT INTO Pozycje_zamowienia VALUES (96,1171,154);
-INSERT INTO Pozycje_zamowienia VALUES (56,2822,16);
-INSERT INTO Pozycje_zamowienia VALUES (2,4680,98);
-INSERT INTO Pozycje_zamowienia VALUES (60,5040,84);
-INSERT INTO Pozycje_zamowienia VALUES (78,1638,245);
-INSERT INTO Pozycje_zamowienia VALUES (65,2628,186);
-INSERT INTO Pozycje_zamowienia VALUES (32,5148,290);
-INSERT INTO Pozycje_zamowienia VALUES (99,2891,167);
-INSERT INTO Pozycje_zamowienia VALUES (31,5100,108);
-INSERT INTO Pozycje_zamowienia VALUES (16,3150,275);
-INSERT INTO Pozycje_zamowienia VALUES (82,3678,262);
-INSERT INTO Pozycje_zamowienia VALUES (84,2907,192);
-INSERT INTO Pozycje_zamowienia VALUES (95,1573,142);
-INSERT INTO Pozycje_zamowienia VALUES (99,1410,13);
-INSERT INTO Pozycje_zamowienia VALUES (41,5015,175);
-INSERT INTO Pozycje_zamowienia VALUES (7,4591,230);
-INSERT INTO Pozycje_zamowienia VALUES (99,4604,90);
-INSERT INTO Pozycje_zamowienia VALUES (28,477,123);
-INSERT INTO Pozycje_zamowienia VALUES (29,2364,316);
-INSERT INTO Pozycje_zamowienia VALUES (17,4016,120);
-INSERT INTO Pozycje_zamowienia VALUES (25,676,151);
-INSERT INTO Pozycje_zamowienia VALUES (93,3975,83);
-INSERT INTO Pozycje_zamowienia VALUES (49,2729,67);
-INSERT INTO Pozycje_zamowienia VALUES (19,2087,255);
-INSERT INTO Pozycje_zamowienia VALUES (35,5700,30);
-INSERT INTO Pozycje_zamowienia VALUES (15,312,102);
-INSERT INTO Pozycje_zamowienia VALUES (75,1396,133);
-INSERT INTO Pozycje_zamowienia VALUES (93,3476,44);
-INSERT INTO Pozycje_zamowienia VALUES (55,3063,110);
-INSERT INTO Pozycje_zamowienia VALUES (30,5063,171);
-INSERT INTO Pozycje_zamowienia VALUES (48,5682,107);
-INSERT INTO Pozycje_zamowienia VALUES (11,2477,253);
-INSERT INTO Pozycje_zamowienia VALUES (5,3667,54);
-INSERT INTO Pozycje_zamowienia VALUES (60,359,171);
-INSERT INTO Pozycje_zamowienia VALUES (60,4926,284);
-INSERT INTO Pozycje_zamowienia VALUES (95,4897,131);
-INSERT INTO Pozycje_zamowienia VALUES (58,2832,207);
-INSERT INTO Pozycje_zamowienia VALUES (61,255,133);
-INSERT INTO Pozycje_zamowienia VALUES (43,2512,45);
-INSERT INTO Pozycje_zamowienia VALUES (48,5616,20);
-INSERT INTO Pozycje_zamowienia VALUES (29,2558,170);
-INSERT INTO Pozycje_zamowienia VALUES (57,4605,5);
-INSERT INTO Pozycje_zamowienia VALUES (17,5400,215);
-INSERT INTO Pozycje_zamowienia VALUES (92,1024,104);
-INSERT INTO Pozycje_zamowienia VALUES (96,59,110);
-INSERT INTO Pozycje_zamowienia VALUES (96,1010,238);
-INSERT INTO Pozycje_zamowienia VALUES (96,5109,238);
-INSERT INTO Pozycje_zamowienia VALUES (25,1245,226);
-INSERT INTO Pozycje_zamowienia VALUES (7,3574,248);
-INSERT INTO Pozycje_zamowienia VALUES (58,3939,243);
-INSERT INTO Pozycje_zamowienia VALUES (17,40,175);
-INSERT INTO Pozycje_zamowienia VALUES (3,2042,216);
-INSERT INTO Pozycje_zamowienia VALUES (31,3123,101);
-INSERT INTO Pozycje_zamowienia VALUES (39,4528,130);
-INSERT INTO Pozycje_zamowienia VALUES (72,4600,97);
-INSERT INTO Pozycje_zamowienia VALUES (28,3517,60);
-INSERT INTO Pozycje_zamowienia VALUES (48,6287,109);
-INSERT INTO Pozycje_zamowienia VALUES (22,3135,222);
-INSERT INTO Pozycje_zamowienia VALUES (53,3154,119);
-INSERT INTO Pozycje_zamowienia VALUES (11,2304,270);
-INSERT INTO Pozycje_zamowienia VALUES (55,3865,155);
-INSERT INTO Pozycje_zamowienia VALUES (86,315,310);
-INSERT INTO Pozycje_zamowienia VALUES (24,676,119);
-INSERT INTO Pozycje_zamowienia VALUES (35,270,27);
-INSERT INTO Pozycje_zamowienia VALUES (20,4208,289);
-INSERT INTO Pozycje_zamowienia VALUES (13,2920,79);
-INSERT INTO Pozycje_zamowienia VALUES (51,578,91);
-INSERT INTO Pozycje_zamowienia VALUES (9,4893,169);
-INSERT INTO Pozycje_zamowienia VALUES (96,3559,68);
-INSERT INTO Pozycje_zamowienia VALUES (97,5078,283);
-INSERT INTO Pozycje_zamowienia VALUES (98,3985,80);
-INSERT INTO Pozycje_zamowienia VALUES (11,5116,294);
-INSERT INTO Pozycje_zamowienia VALUES (45,911,70);
-INSERT INTO Pozycje_zamowienia VALUES (14,105,26);
-INSERT INTO Pozycje_zamowienia VALUES (70,4329,294);
-INSERT INTO Pozycje_zamowienia VALUES (95,6452,206);
-INSERT INTO Pozycje_zamowienia VALUES (91,3821,317);
-INSERT INTO Pozycje_zamowienia VALUES (52,341,186);
-INSERT INTO Pozycje_zamowienia VALUES (84,536,13);
-INSERT INTO Pozycje_zamowienia VALUES (63,3273,81);
-INSERT INTO Pozycje_zamowienia VALUES (84,6283,251);
-INSERT INTO Pozycje_zamowienia VALUES (26,5077,254);
-INSERT INTO Pozycje_zamowienia VALUES (81,4672,195);
-INSERT INTO Pozycje_zamowienia VALUES (86,180,45);
-INSERT INTO Pozycje_zamowienia VALUES (97,4484,309);
-INSERT INTO Pozycje_zamowienia VALUES (78,3657,216);
-INSERT INTO Pozycje_zamowienia VALUES (36,1041,127);
-INSERT INTO Pozycje_zamowienia VALUES (10,2714,211);
-INSERT INTO Pozycje_zamowienia VALUES (39,3291,248);
-INSERT INTO Pozycje_zamowienia VALUES (90,1454,289);
-INSERT INTO Pozycje_zamowienia VALUES (67,4797,300);
-INSERT INTO Pozycje_zamowienia VALUES (50,3636,35);
-INSERT INTO Pozycje_zamowienia VALUES (95,4095,276);
-INSERT INTO Pozycje_zamowienia VALUES (23,3660,84);
-INSERT INTO Pozycje_zamowienia VALUES (4,4713,263);
-INSERT INTO Pozycje_zamowienia VALUES (92,5661,12);
-INSERT INTO Pozycje_zamowienia VALUES (72,2754,118);
-INSERT INTO Pozycje_zamowienia VALUES (22,530,97);
-INSERT INTO Pozycje_zamowienia VALUES (31,3599,102);
-INSERT INTO Pozycje_zamowienia VALUES (37,3735,123);
-INSERT INTO Pozycje_zamowienia VALUES (58,652,275);
-INSERT INTO Pozycje_zamowienia VALUES (23,2118,242);
-INSERT INTO Pozycje_zamowienia VALUES (22,6251,5);
-INSERT INTO Pozycje_zamowienia VALUES (28,4832,279);
-INSERT INTO Pozycje_zamowienia VALUES (29,1457,147);
-INSERT INTO Pozycje_zamowienia VALUES (98,4787,319);
-INSERT INTO Pozycje_zamowienia VALUES (17,4189,141);
-INSERT INTO Pozycje_zamowienia VALUES (10,2436,138);
-INSERT INTO Pozycje_zamowienia VALUES (41,4429,70);
-INSERT INTO Pozycje_zamowienia VALUES (54,4583,306);
-INSERT INTO Pozycje_zamowienia VALUES (47,6173,159);
-INSERT INTO Pozycje_zamowienia VALUES (57,2151,72);
-INSERT INTO Pozycje_zamowienia VALUES (59,2499,19);
-INSERT INTO Pozycje_zamowienia VALUES (37,1711,179);
-INSERT INTO Pozycje_zamowienia VALUES (98,6058,159);
-INSERT INTO Pozycje_zamowienia VALUES (25,6275,71);
-INSERT INTO Pozycje_zamowienia VALUES (18,2743,228);
-INSERT INTO Pozycje_zamowienia VALUES (22,2736,201);
-INSERT INTO Pozycje_zamowienia VALUES (71,5980,34);
-INSERT INTO Pozycje_zamowienia VALUES (41,917,121);
-INSERT INTO Pozycje_zamowienia VALUES (38,2129,246);
-INSERT INTO Pozycje_zamowienia VALUES (97,5571,67);
-INSERT INTO Pozycje_zamowienia VALUES (39,416,1);
-INSERT INTO Pozycje_zamowienia VALUES (5,5496,223);
-INSERT INTO Pozycje_zamowienia VALUES (82,443,170);
-INSERT INTO Pozycje_zamowienia VALUES (84,4060,2);
-INSERT INTO Pozycje_zamowienia VALUES (80,486,177);
-INSERT INTO Pozycje_zamowienia VALUES (18,1952,12);
-INSERT INTO Pozycje_zamowienia VALUES (80,404,199);
-INSERT INTO Pozycje_zamowienia VALUES (84,3626,86);
-INSERT INTO Pozycje_zamowienia VALUES (26,2625,94);
-INSERT INTO Pozycje_zamowienia VALUES (87,4005,98);
-INSERT INTO Pozycje_zamowienia VALUES (49,4530,108);
-INSERT INTO Pozycje_zamowienia VALUES (71,3111,205);
-INSERT INTO Pozycje_zamowienia VALUES (30,1169,268);
-INSERT INTO Pozycje_zamowienia VALUES (82,1124,288);
-INSERT INTO Pozycje_zamowienia VALUES (62,4119,8);
-INSERT INTO Pozycje_zamowienia VALUES (98,1086,23);
-INSERT INTO Pozycje_zamowienia VALUES (98,4469,177);
-INSERT INTO Pozycje_zamowienia VALUES (28,2840,288);
-INSERT INTO Pozycje_zamowienia VALUES (82,1844,123);
-INSERT INTO Pozycje_zamowienia VALUES (11,658,260);
-INSERT INTO Pozycje_zamowienia VALUES (62,4584,67);
-INSERT INTO Pozycje_zamowienia VALUES (78,530,128);
-INSERT INTO Pozycje_zamowienia VALUES (18,3479,170);
-INSERT INTO Pozycje_zamowienia VALUES (37,4039,36);
-INSERT INTO Pozycje_zamowienia VALUES (91,3385,34);
-INSERT INTO Pozycje_zamowienia VALUES (60,5710,51);
-INSERT INTO Pozycje_zamowienia VALUES (55,560,135);
-INSERT INTO Pozycje_zamowienia VALUES (98,1945,185);
-INSERT INTO Pozycje_zamowienia VALUES (43,5951,99);
-INSERT INTO Pozycje_zamowienia VALUES (33,11,236);
-INSERT INTO Pozycje_zamowienia VALUES (66,5903,30);
-INSERT INTO Pozycje_zamowienia VALUES (1,3140,10);
-INSERT INTO Pozycje_zamowienia VALUES (68,3492,260);
-INSERT INTO Pozycje_zamowienia VALUES (33,523,238);
-INSERT INTO Pozycje_zamowienia VALUES (80,16,297);
-INSERT INTO Pozycje_zamowienia VALUES (85,5617,172);
-INSERT INTO Pozycje_zamowienia VALUES (38,6481,285);
-INSERT INTO Pozycje_zamowienia VALUES (99,681,157);
-INSERT INTO Pozycje_zamowienia VALUES (47,4553,83);
-INSERT INTO Pozycje_zamowienia VALUES (20,3135,159);
-INSERT INTO Pozycje_zamowienia VALUES (22,333,129);
-INSERT INTO Pozycje_zamowienia VALUES (29,3389,229);
-INSERT INTO Pozycje_zamowienia VALUES (97,3230,277);
-INSERT INTO Pozycje_zamowienia VALUES (23,3513,106);
-INSERT INTO Pozycje_zamowienia VALUES (11,2579,293);
-INSERT INTO Pozycje_zamowienia VALUES (57,3725,313);
-INSERT INTO Pozycje_zamowienia VALUES (12,2323,269);
-INSERT INTO Pozycje_zamowienia VALUES (69,5494,98);
-INSERT INTO Pozycje_zamowienia VALUES (78,2049,202);
-INSERT INTO Pozycje_zamowienia VALUES (49,841,50);
-INSERT INTO Pozycje_zamowienia VALUES (86,1058,141);
-INSERT INTO Pozycje_zamowienia VALUES (99,6160,133);
-INSERT INTO Pozycje_zamowienia VALUES (3,733,294);
-INSERT INTO Pozycje_zamowienia VALUES (45,1053,229);
-INSERT INTO Pozycje_zamowienia VALUES (9,5918,236);
-INSERT INTO Pozycje_zamowienia VALUES (7,1540,151);
-INSERT INTO Pozycje_zamowienia VALUES (45,3076,38);
-INSERT INTO Pozycje_zamowienia VALUES (60,126,93);
-INSERT INTO Pozycje_zamowienia VALUES (74,2300,189);
-INSERT INTO Pozycje_zamowienia VALUES (93,1371,285);
-INSERT INTO Pozycje_zamowienia VALUES (79,1694,286);
-INSERT INTO Pozycje_zamowienia VALUES (21,1045,87);
-INSERT INTO Pozycje_zamowienia VALUES (2,4876,144);
-INSERT INTO Pozycje_zamowienia VALUES (27,6097,264);
-INSERT INTO Pozycje_zamowienia VALUES (36,4316,41);
-INSERT INTO Pozycje_zamowienia VALUES (100,434,281);
-INSERT INTO Pozycje_zamowienia VALUES (60,1732,268);
-INSERT INTO Pozycje_zamowienia VALUES (66,1864,178);
-INSERT INTO Pozycje_zamowienia VALUES (8,1233,106);
-INSERT INTO Pozycje_zamowienia VALUES (20,6076,71);
-INSERT INTO Pozycje_zamowienia VALUES (9,6360,292);
-INSERT INTO Pozycje_zamowienia VALUES (36,5508,192);
-INSERT INTO Pozycje_zamowienia VALUES (40,3600,193);
-INSERT INTO Pozycje_zamowienia VALUES (36,3424,11);
-INSERT INTO Pozycje_zamowienia VALUES (8,2278,151);
-INSERT INTO Pozycje_zamowienia VALUES (10,216,264);
-INSERT INTO Pozycje_zamowienia VALUES (60,2347,116);
-INSERT INTO Pozycje_zamowienia VALUES (94,5736,118);
-INSERT INTO Pozycje_zamowienia VALUES (8,6185,216);
-INSERT INTO Pozycje_zamowienia VALUES (54,5904,250);
-INSERT INTO Pozycje_zamowienia VALUES (100,3338,124);
-INSERT INTO Pozycje_zamowienia VALUES (20,3203,1);
-INSERT INTO Pozycje_zamowienia VALUES (46,1172,288);
-INSERT INTO Pozycje_zamowienia VALUES (28,5824,4);
-INSERT INTO Pozycje_zamowienia VALUES (67,1161,270);
-INSERT INTO Pozycje_zamowienia VALUES (52,1193,64);
-INSERT INTO Pozycje_zamowienia VALUES (93,1559,39);
-INSERT INTO Pozycje_zamowienia VALUES (4,3739,302);
-INSERT INTO Pozycje_zamowienia VALUES (49,6068,313);
-INSERT INTO Pozycje_zamowienia VALUES (93,5285,190);
-INSERT INTO Pozycje_zamowienia VALUES (96,64,179);
-INSERT INTO Pozycje_zamowienia VALUES (82,1087,80);
-INSERT INTO Pozycje_zamowienia VALUES (10,4734,120);
-INSERT INTO Pozycje_zamowienia VALUES (77,94,95);
-INSERT INTO Pozycje_zamowienia VALUES (88,675,52);
-INSERT INTO Pozycje_zamowienia VALUES (79,6477,177);
-INSERT INTO Pozycje_zamowienia VALUES (90,6117,304);
-INSERT INTO Pozycje_zamowienia VALUES (23,4998,123);
-INSERT INTO Pozycje_zamowienia VALUES (9,2187,258);
-INSERT INTO Pozycje_zamowienia VALUES (50,2705,23);
-INSERT INTO Pozycje_zamowienia VALUES (93,598,145);
-INSERT INTO Pozycje_zamowienia VALUES (65,5170,294);
-INSERT INTO Pozycje_zamowienia VALUES (75,3732,85);
-INSERT INTO Pozycje_zamowienia VALUES (14,285,152);
-INSERT INTO Pozycje_zamowienia VALUES (89,2584,287);
-INSERT INTO Pozycje_zamowienia VALUES (9,5305,173);
-INSERT INTO Pozycje_zamowienia VALUES (78,6412,92);
-INSERT INTO Pozycje_zamowienia VALUES (92,5588,53);
-INSERT INTO Pozycje_zamowienia VALUES (38,4376,92);
-INSERT INTO Pozycje_zamowienia VALUES (57,5747,210);
-INSERT INTO Pozycje_zamowienia VALUES (70,2495,89);
-INSERT INTO Pozycje_zamowienia VALUES (43,3336,160);
-INSERT INTO Pozycje_zamowienia VALUES (88,5474,143);
-INSERT INTO Pozycje_zamowienia VALUES (83,4054,106);
-INSERT INTO Pozycje_zamowienia VALUES (21,4819,242);
-INSERT INTO Pozycje_zamowienia VALUES (95,4976,140);
-INSERT INTO Pozycje_zamowienia VALUES (86,3753,55);
-INSERT INTO Pozycje_zamowienia VALUES (21,3994,88);
-INSERT INTO Pozycje_zamowienia VALUES (86,482,280);
-INSERT INTO Pozycje_zamowienia VALUES (20,4885,88);
-INSERT INTO Pozycje_zamowienia VALUES (35,2975,110);
-INSERT INTO Pozycje_zamowienia VALUES (89,3437,264);
-INSERT INTO Pozycje_zamowienia VALUES (60,339,136);
-INSERT INTO Pozycje_zamowienia VALUES (34,6341,53);
-INSERT INTO Pozycje_zamowienia VALUES (64,5608,173);
-INSERT INTO Pozycje_zamowienia VALUES (87,1094,232);
-INSERT INTO Pozycje_zamowienia VALUES (53,1367,94);
-INSERT INTO Pozycje_zamowienia VALUES (43,60,194);
-INSERT INTO Pozycje_zamowienia VALUES (49,4858,181);
-INSERT INTO Pozycje_zamowienia VALUES (64,5486,273);
-INSERT INTO Pozycje_zamowienia VALUES (56,5077,164);
-INSERT INTO Pozycje_zamowienia VALUES (32,784,39);
-INSERT INTO Pozycje_zamowienia VALUES (68,2555,47);
-INSERT INTO Pozycje_zamowienia VALUES (79,281,202);
-INSERT INTO Pozycje_zamowienia VALUES (30,1811,57);
-INSERT INTO Pozycje_zamowienia VALUES (10,4612,223);
-INSERT INTO Pozycje_zamowienia VALUES (81,5807,28);
-INSERT INTO Pozycje_zamowienia VALUES (43,5456,30);
-INSERT INTO Pozycje_zamowienia VALUES (42,1295,129);
-INSERT INTO Pozycje_zamowienia VALUES (66,2428,257);
-INSERT INTO Pozycje_zamowienia VALUES (10,3283,143);
-INSERT INTO Pozycje_zamowienia VALUES (91,6374,174);
-INSERT INTO Pozycje_zamowienia VALUES (47,2287,241);
-INSERT INTO Pozycje_zamowienia VALUES (7,4549,255);
-INSERT INTO Pozycje_zamowienia VALUES (30,454,237);
-INSERT INTO Pozycje_zamowienia VALUES (12,3141,178);
-INSERT INTO Pozycje_zamowienia VALUES (47,5718,148);
-INSERT INTO Pozycje_zamowienia VALUES (1,2709,318);
-INSERT INTO Pozycje_zamowienia VALUES (96,4827,246);
-INSERT INTO Pozycje_zamowienia VALUES (28,5321,276);
-INSERT INTO Pozycje_zamowienia VALUES (4,6011,5);
-INSERT INTO Pozycje_zamowienia VALUES (81,3249,311);
-INSERT INTO Pozycje_zamowienia VALUES (80,1651,132);
-INSERT INTO Pozycje_zamowienia VALUES (61,3760,290);
-INSERT INTO Pozycje_zamowienia VALUES (55,3642,293);
-INSERT INTO Pozycje_zamowienia VALUES (87,763,6);
-INSERT INTO Pozycje_zamowienia VALUES (85,187,282);
-INSERT INTO Pozycje_zamowienia VALUES (10,5377,42);
-INSERT INTO Pozycje_zamowienia VALUES (25,5251,142);
-INSERT INTO Pozycje_zamowienia VALUES (48,2029,74);
-INSERT INTO Pozycje_zamowienia VALUES (15,4736,51);
-INSERT INTO Pozycje_zamowienia VALUES (74,477,205);
-INSERT INTO Pozycje_zamowienia VALUES (91,5450,268);
-INSERT INTO Pozycje_zamowienia VALUES (53,3694,224);
-INSERT INTO Pozycje_zamowienia VALUES (44,6070,3);
-INSERT INTO Pozycje_zamowienia VALUES (44,849,224);
-INSERT INTO Pozycje_zamowienia VALUES (10,5967,306);
-INSERT INTO Pozycje_zamowienia VALUES (15,3066,118);
-INSERT INTO Pozycje_zamowienia VALUES (66,3896,180);
-INSERT INTO Pozycje_zamowienia VALUES (91,6500,94);
-INSERT INTO Pozycje_zamowienia VALUES (99,6478,290);
-INSERT INTO Pozycje_zamowienia VALUES (99,4011,77);
-INSERT INTO Pozycje_zamowienia VALUES (63,3894,305);
-INSERT INTO Pozycje_zamowienia VALUES (69,307,153);
-INSERT INTO Pozycje_zamowienia VALUES (82,949,59);
-INSERT INTO Pozycje_zamowienia VALUES (96,5343,207);
-INSERT INTO Pozycje_zamowienia VALUES (91,213,35);
-INSERT INTO Pozycje_zamowienia VALUES (88,3002,285);
-INSERT INTO Pozycje_zamowienia VALUES (24,3347,186);
-INSERT INTO Pozycje_zamowienia VALUES (87,2825,180);
-INSERT INTO Pozycje_zamowienia VALUES (73,3532,138);
-INSERT INTO Pozycje_zamowienia VALUES (2,6025,310);
-INSERT INTO Pozycje_zamowienia VALUES (17,1896,272);
-INSERT INTO Pozycje_zamowienia VALUES (78,2161,85);
-INSERT INTO Pozycje_zamowienia VALUES (62,2045,124);
-INSERT INTO Pozycje_zamowienia VALUES (95,4132,155);
-INSERT INTO Pozycje_zamowienia VALUES (85,2081,19);
-INSERT INTO Pozycje_zamowienia VALUES (50,6126,152);
-INSERT INTO Pozycje_zamowienia VALUES (96,4639,247);
-INSERT INTO Pozycje_zamowienia VALUES (2,5083,224);
-INSERT INTO Pozycje_zamowienia VALUES (69,5085,12);
-INSERT INTO Pozycje_zamowienia VALUES (19,5038,53);
-INSERT INTO Pozycje_zamowienia VALUES (76,880,148);
-INSERT INTO Pozycje_zamowienia VALUES (38,3834,230);
-INSERT INTO Pozycje_zamowienia VALUES (39,4468,283);
-INSERT INTO Pozycje_zamowienia VALUES (100,994,239);
-INSERT INTO Pozycje_zamowienia VALUES (43,5944,50);
-INSERT INTO Pozycje_zamowienia VALUES (77,527,44);
-INSERT INTO Pozycje_zamowienia VALUES (80,861,220);
-INSERT INTO Pozycje_zamowienia VALUES (76,5771,251);
-INSERT INTO Pozycje_zamowienia VALUES (43,1016,172);
-INSERT INTO Pozycje_zamowienia VALUES (34,2151,48);
-INSERT INTO Pozycje_zamowienia VALUES (44,4179,28);
-INSERT INTO Pozycje_zamowienia VALUES (96,1667,230);
-INSERT INTO Pozycje_zamowienia VALUES (23,5727,19);
-INSERT INTO Pozycje_zamowienia VALUES (45,5285,14);
-INSERT INTO Pozycje_zamowienia VALUES (70,2210,12);
-INSERT INTO Pozycje_zamowienia VALUES (16,2491,113);
-INSERT INTO Pozycje_zamowienia VALUES (41,2116,88);
-INSERT INTO Pozycje_zamowienia VALUES (62,5150,73);
-INSERT INTO Pozycje_zamowienia VALUES (22,4172,23);
-INSERT INTO Pozycje_zamowienia VALUES (44,5517,2);
-INSERT INTO Pozycje_zamowienia VALUES (24,2823,59);
-INSERT INTO Pozycje_zamowienia VALUES (69,3668,92);
-INSERT INTO Pozycje_zamowienia VALUES (95,4216,276);
-INSERT INTO Pozycje_zamowienia VALUES (2,238,148);
-INSERT INTO Pozycje_zamowienia VALUES (75,4980,16);
-INSERT INTO Pozycje_zamowienia VALUES (65,1249,18);
-INSERT INTO Pozycje_zamowienia VALUES (6,2959,265);
-INSERT INTO Pozycje_zamowienia VALUES (69,4478,283);
-INSERT INTO Pozycje_zamowienia VALUES (49,1047,86);
-INSERT INTO Pozycje_zamowienia VALUES (87,4511,182);
-INSERT INTO Pozycje_zamowienia VALUES (91,5394,313);
-INSERT INTO Pozycje_zamowienia VALUES (3,3407,314);
-INSERT INTO Pozycje_zamowienia VALUES (73,3427,51);
-INSERT INTO Pozycje_zamowienia VALUES (100,5580,250);
-INSERT INTO Pozycje_zamowienia VALUES (75,470,42);
-INSERT INTO Pozycje_zamowienia VALUES (47,535,301);
-INSERT INTO Pozycje_zamowienia VALUES (60,1344,176);
-INSERT INTO Pozycje_zamowienia VALUES (56,131,85);
-INSERT INTO Pozycje_zamowienia VALUES (92,1221,140);
-INSERT INTO Pozycje_zamowienia VALUES (80,2925,292);
-INSERT INTO Pozycje_zamowienia VALUES (87,5596,75);
-INSERT INTO Pozycje_zamowienia VALUES (18,735,136);
-INSERT INTO Pozycje_zamowienia VALUES (70,5869,87);
-INSERT INTO Pozycje_zamowienia VALUES (52,3167,34);
-INSERT INTO Pozycje_zamowienia VALUES (53,6333,3);
-INSERT INTO Pozycje_zamowienia VALUES (4,2222,192);
-INSERT INTO Pozycje_zamowienia VALUES (71,4178,237);
-INSERT INTO Pozycje_zamowienia VALUES (49,3290,312);
-INSERT INTO Pozycje_zamowienia VALUES (15,923,195);
-INSERT INTO Pozycje_zamowienia VALUES (29,2750,123);
-INSERT INTO Pozycje_zamowienia VALUES (66,5976,186);
-INSERT INTO Pozycje_zamowienia VALUES (21,2181,310);
-INSERT INTO Pozycje_zamowienia VALUES (65,4868,173);
-INSERT INTO Pozycje_zamowienia VALUES (96,5460,118);
-INSERT INTO Pozycje_zamowienia VALUES (58,3871,82);
-INSERT INTO Pozycje_zamowienia VALUES (42,6424,2);
-INSERT INTO Pozycje_zamowienia VALUES (51,1736,107);
-INSERT INTO Pozycje_zamowienia VALUES (89,4660,313);
-INSERT INTO Pozycje_zamowienia VALUES (29,5348,147);
-INSERT INTO Pozycje_zamowienia VALUES (44,1689,97);
-INSERT INTO Pozycje_zamowienia VALUES (88,1416,255);
-INSERT INTO Pozycje_zamowienia VALUES (84,540,75);
-INSERT INTO Pozycje_zamowienia VALUES (5,838,111);
-INSERT INTO Pozycje_zamowienia VALUES (16,2632,163);
-INSERT INTO Pozycje_zamowienia VALUES (43,2145,307);
-INSERT INTO Pozycje_zamowienia VALUES (53,1996,92);
-INSERT INTO Pozycje_zamowienia VALUES (58,4560,267);
-INSERT INTO Pozycje_zamowienia VALUES (84,5556,128);
-INSERT INTO Pozycje_zamowienia VALUES (72,4782,279);
-INSERT INTO Pozycje_zamowienia VALUES (91,248,261);
-INSERT INTO Pozycje_zamowienia VALUES (50,2188,124);
-INSERT INTO Pozycje_zamowienia VALUES (22,6082,15);
-INSERT INTO Pozycje_zamowienia VALUES (90,4965,71);
-INSERT INTO Pozycje_zamowienia VALUES (1,2701,180);
-INSERT INTO Pozycje_zamowienia VALUES (95,2923,234);
-INSERT INTO Pozycje_zamowienia VALUES (46,2953,250);
-INSERT INTO Pozycje_zamowienia VALUES (67,4046,40);
-INSERT INTO Pozycje_zamowienia VALUES (29,5773,236);
-INSERT INTO Pozycje_zamowienia VALUES (74,6079,265);
-INSERT INTO Pozycje_zamowienia VALUES (40,3354,155);
-INSERT INTO Pozycje_zamowienia VALUES (44,1242,178);
-INSERT INTO Pozycje_zamowienia VALUES (17,3745,85);
-INSERT INTO Pozycje_zamowienia VALUES (73,2645,60);
-INSERT INTO Pozycje_zamowienia VALUES (78,2332,188);
-INSERT INTO Pozycje_zamowienia VALUES (22,1211,12);
-INSERT INTO Pozycje_zamowienia VALUES (20,3518,112);
-INSERT INTO Pozycje_zamowienia VALUES (24,5531,250);
-INSERT INTO Pozycje_zamowienia VALUES (75,4679,172);
-INSERT INTO Pozycje_zamowienia VALUES (2,4426,206);
-INSERT INTO Pozycje_zamowienia VALUES (66,5635,169);
-INSERT INTO Pozycje_zamowienia VALUES (52,201,271);
-INSERT INTO Pozycje_zamowienia VALUES (6,4405,233);
-INSERT INTO Pozycje_zamowienia VALUES (96,2010,263);
-INSERT INTO Pozycje_zamowienia VALUES (61,4909,150);
-INSERT INTO Pozycje_zamowienia VALUES (98,5769,187);
-INSERT INTO Pozycje_zamowienia VALUES (43,5873,298);
-INSERT INTO Pozycje_zamowienia VALUES (77,2450,105);
-INSERT INTO Pozycje_zamowienia VALUES (14,1173,57);
-INSERT INTO Pozycje_zamowienia VALUES (39,1540,36);
-INSERT INTO Pozycje_zamowienia VALUES (57,227,45);
-INSERT INTO Pozycje_zamowienia VALUES (6,3452,65);
-INSERT INTO Pozycje_zamowienia VALUES (29,1667,239);
-INSERT INTO Pozycje_zamowienia VALUES (31,972,252);
-INSERT INTO Pozycje_zamowienia VALUES (90,4524,117);
-INSERT INTO Pozycje_zamowienia VALUES (40,71,294);
-INSERT INTO Pozycje_zamowienia VALUES (85,3006,59);
-INSERT INTO Pozycje_zamowienia VALUES (95,5329,19);
-INSERT INTO Pozycje_zamowienia VALUES (21,1143,58);
-INSERT INTO Pozycje_zamowienia VALUES (18,5091,50);
-INSERT INTO Pozycje_zamowienia VALUES (35,1565,26);
-INSERT INTO Pozycje_zamowienia VALUES (9,3573,314);
-INSERT INTO Pozycje_zamowienia VALUES (53,3956,283);
-INSERT INTO Pozycje_zamowienia VALUES (23,2476,308);
-INSERT INTO Pozycje_zamowienia VALUES (40,6319,119);
-INSERT INTO Pozycje_zamowienia VALUES (89,143,169);
-INSERT INTO Pozycje_zamowienia VALUES (96,2521,243);
-INSERT INTO Pozycje_zamowienia VALUES (16,4859,134);
-INSERT INTO Pozycje_zamowienia VALUES (8,1961,155);
-INSERT INTO Pozycje_zamowienia VALUES (33,6449,181);
-INSERT INTO Pozycje_zamowienia VALUES (83,5496,88);
-INSERT INTO Pozycje_zamowienia VALUES (22,2057,209);
-INSERT INTO Pozycje_zamowienia VALUES (89,1393,203);
-INSERT INTO Pozycje_zamowienia VALUES (80,2843,311);
-INSERT INTO Pozycje_zamowienia VALUES (64,6149,123);
-INSERT INTO Pozycje_zamowienia VALUES (46,800,130);
-INSERT INTO Pozycje_zamowienia VALUES (45,491,134);
-INSERT INTO Pozycje_zamowienia VALUES (36,15,222);
-INSERT INTO Pozycje_zamowienia VALUES (52,5283,288);
-INSERT INTO Pozycje_zamowienia VALUES (88,1572,284);
-INSERT INTO Pozycje_zamowienia VALUES (29,2439,88);
-INSERT INTO Pozycje_zamowienia VALUES (93,5675,58);
-INSERT INTO Pozycje_zamowienia VALUES (60,2653,1);
-INSERT INTO Pozycje_zamowienia VALUES (61,4412,301);
-INSERT INTO Pozycje_zamowienia VALUES (50,348,85);
-INSERT INTO Pozycje_zamowienia VALUES (77,4990,296);
-INSERT INTO Pozycje_zamowienia VALUES (79,1931,157);
-INSERT INTO Pozycje_zamowienia VALUES (95,612,150);
-INSERT INTO Pozycje_zamowienia VALUES (72,5119,17);
-INSERT INTO Pozycje_zamowienia VALUES (11,6139,200);
-INSERT INTO Pozycje_zamowienia VALUES (22,3982,35);
-INSERT INTO Pozycje_zamowienia VALUES (45,2533,246);
-INSERT INTO Pozycje_zamowienia VALUES (81,5238,122);
-INSERT INTO Pozycje_zamowienia VALUES (36,3819,222);
-INSERT INTO Pozycje_zamowienia VALUES (3,840,191);
-INSERT INTO Pozycje_zamowienia VALUES (67,1662,222);
-INSERT INTO Pozycje_zamowienia VALUES (77,5360,106);
-INSERT INTO Pozycje_zamowienia VALUES (40,3138,99);
-INSERT INTO Pozycje_zamowienia VALUES (84,1844,171);
-INSERT INTO Pozycje_zamowienia VALUES (65,4170,217);
-INSERT INTO Pozycje_zamowienia VALUES (1,2478,97);
-INSERT INTO Pozycje_zamowienia VALUES (43,1125,256);
-INSERT INTO Pozycje_zamowienia VALUES (17,3734,128);
-INSERT INTO Pozycje_zamowienia VALUES (32,5570,196);
-INSERT INTO Pozycje_zamowienia VALUES (95,2274,72);
-INSERT INTO Pozycje_zamowienia VALUES (18,623,225);
-INSERT INTO Pozycje_zamowienia VALUES (60,235,49);
-INSERT INTO Pozycje_zamowienia VALUES (53,6249,1);
-INSERT INTO Pozycje_zamowienia VALUES (94,2252,189);
-INSERT INTO Pozycje_zamowienia VALUES (20,6069,95);
-INSERT INTO Pozycje_zamowienia VALUES (18,5391,131);
-INSERT INTO Pozycje_zamowienia VALUES (11,3067,41);
-INSERT INTO Pozycje_zamowienia VALUES (28,4112,70);
-INSERT INTO Pozycje_zamowienia VALUES (83,5834,6);
-INSERT INTO Pozycje_zamowienia VALUES (15,2050,300);
-INSERT INTO Pozycje_zamowienia VALUES (22,5051,107);
-INSERT INTO Pozycje_zamowienia VALUES (53,4036,155);
-INSERT INTO Pozycje_zamowienia VALUES (97,40,3);
-INSERT INTO Pozycje_zamowienia VALUES (3,2843,24);
-INSERT INTO Pozycje_zamowienia VALUES (35,4240,139);
-INSERT INTO Pozycje_zamowienia VALUES (26,5424,238);
-INSERT INTO Pozycje_zamowienia VALUES (64,5862,228);
-INSERT INTO Pozycje_zamowienia VALUES (80,1472,13);
-INSERT INTO Pozycje_zamowienia VALUES (29,2148,150);
-INSERT INTO Pozycje_zamowienia VALUES (65,2179,36);
-INSERT INTO Pozycje_zamowienia VALUES (47,2341,254);
-INSERT INTO Pozycje_zamowienia VALUES (94,1224,53);
-INSERT INTO Pozycje_zamowienia VALUES (96,5877,286);
-INSERT INTO Pozycje_zamowienia VALUES (90,3130,95);
-INSERT INTO Pozycje_zamowienia VALUES (65,5519,78);
-INSERT INTO Pozycje_zamowienia VALUES (84,3122,216);
-INSERT INTO Pozycje_zamowienia VALUES (92,309,9);
-INSERT INTO Pozycje_zamowienia VALUES (44,565,188);
-INSERT INTO Pozycje_zamowienia VALUES (20,2815,198);
-INSERT INTO Pozycje_zamowienia VALUES (35,6336,253);
-INSERT INTO Pozycje_zamowienia VALUES (75,3493,212);
-INSERT INTO Pozycje_zamowienia VALUES (91,6185,297);
-INSERT INTO Pozycje_zamowienia VALUES (16,3827,297);
-INSERT INTO Pozycje_zamowienia VALUES (17,1407,141);
-INSERT INTO Pozycje_zamowienia VALUES (15,5699,222);
-INSERT INTO Pozycje_zamowienia VALUES (75,1596,268);
-INSERT INTO Pozycje_zamowienia VALUES (19,664,74);
-INSERT INTO Pozycje_zamowienia VALUES (26,611,117);
-INSERT INTO Pozycje_zamowienia VALUES (47,1128,302);
-INSERT INTO Pozycje_zamowienia VALUES (73,3753,211);
-INSERT INTO Pozycje_zamowienia VALUES (61,595,83);
-INSERT INTO Pozycje_zamowienia VALUES (96,5165,237);
-INSERT INTO Pozycje_zamowienia VALUES (11,5041,245);
-INSERT INTO Pozycje_zamowienia VALUES (18,798,73);
-INSERT INTO Pozycje_zamowienia VALUES (38,3686,11);
-INSERT INTO Pozycje_zamowienia VALUES (44,3827,38);
-INSERT INTO Pozycje_zamowienia VALUES (39,4855,46);
-INSERT INTO Pozycje_zamowienia VALUES (52,3279,308);
-INSERT INTO Pozycje_zamowienia VALUES (79,5086,264);
-INSERT INTO Pozycje_zamowienia VALUES (29,6308,206);
-INSERT INTO Pozycje_zamowienia VALUES (39,1907,41);
-INSERT INTO Pozycje_zamowienia VALUES (72,2252,112);
-INSERT INTO Pozycje_zamowienia VALUES (51,643,175);
-INSERT INTO Pozycje_zamowienia VALUES (53,6413,236);
-INSERT INTO Pozycje_zamowienia VALUES (4,3196,133);
-INSERT INTO Pozycje_zamowienia VALUES (20,3987,165);
-INSERT INTO Pozycje_zamowienia VALUES (13,4435,75);
-INSERT INTO Pozycje_zamowienia VALUES (36,5607,263);
-INSERT INTO Pozycje_zamowienia VALUES (20,2328,234);
-INSERT INTO Pozycje_zamowienia VALUES (70,3790,254);
-INSERT INTO Pozycje_zamowienia VALUES (91,496,23);
-INSERT INTO Pozycje_zamowienia VALUES (79,137,285);
-INSERT INTO Pozycje_zamowienia VALUES (44,3262,295);
-INSERT INTO Pozycje_zamowienia VALUES (88,3408,201);
-INSERT INTO Pozycje_zamowienia VALUES (12,1,174);
-INSERT INTO Pozycje_zamowienia VALUES (16,182,179);
-INSERT INTO Pozycje_zamowienia VALUES (65,3567,255);
-INSERT INTO Pozycje_zamowienia VALUES (96,957,147);
-INSERT INTO Pozycje_zamowienia VALUES (2,3629,78);
-INSERT INTO Pozycje_zamowienia VALUES (60,2441,41);
-INSERT INTO Pozycje_zamowienia VALUES (88,1030,288);
-INSERT INTO Pozycje_zamowienia VALUES (69,5841,200);
-INSERT INTO Pozycje_zamowienia VALUES (39,3203,279);
-INSERT INTO Pozycje_zamowienia VALUES (42,4794,97);
-INSERT INTO Pozycje_zamowienia VALUES (100,2885,35);
-INSERT INTO Pozycje_zamowienia VALUES (42,5865,84);
-INSERT INTO Pozycje_zamowienia VALUES (54,6290,302);
-INSERT INTO Pozycje_zamowienia VALUES (20,2500,143);
-INSERT INTO Pozycje_zamowienia VALUES (50,4545,129);
-INSERT INTO Pozycje_zamowienia VALUES (97,4148,195);
-INSERT INTO Pozycje_zamowienia VALUES (22,4167,68);
-INSERT INTO Pozycje_zamowienia VALUES (14,3223,22);
-INSERT INTO Pozycje_zamowienia VALUES (1,4694,43);
-INSERT INTO Pozycje_zamowienia VALUES (55,2555,218);
-INSERT INTO Pozycje_zamowienia VALUES (29,1876,117);
-INSERT INTO Pozycje_zamowienia VALUES (80,152,81);
-INSERT INTO Pozycje_zamowienia VALUES (21,6146,161);
-INSERT INTO Pozycje_zamowienia VALUES (36,3818,65);
-INSERT INTO Pozycje_zamowienia VALUES (81,5309,213);
-INSERT INTO Pozycje_zamowienia VALUES (19,91,49);
-INSERT INTO Pozycje_zamowienia VALUES (52,3616,222);
-INSERT INTO Pozycje_zamowienia VALUES (14,1395,160);
-INSERT INTO Pozycje_zamowienia VALUES (75,3001,242);
-INSERT INTO Pozycje_zamowienia VALUES (48,3403,276);
-INSERT INTO Pozycje_zamowienia VALUES (25,4128,128);
-INSERT INTO Pozycje_zamowienia VALUES (40,5436,115);
-INSERT INTO Pozycje_zamowienia VALUES (70,3727,309);
-INSERT INTO Pozycje_zamowienia VALUES (6,1620,45);
-INSERT INTO Pozycje_zamowienia VALUES (16,5472,45);
-INSERT INTO Pozycje_zamowienia VALUES (68,6021,252);
-INSERT INTO Pozycje_zamowienia VALUES (25,772,198);
-INSERT INTO Pozycje_zamowienia VALUES (27,789,318);
-INSERT INTO Pozycje_zamowienia VALUES (48,421,74);
-INSERT INTO Pozycje_zamowienia VALUES (36,1049,9);
-INSERT INTO Pozycje_zamowienia VALUES (79,6245,109);
-INSERT INTO Pozycje_zamowienia VALUES (79,794,220);
-INSERT INTO Pozycje_zamowienia VALUES (18,4908,240);
-INSERT INTO Pozycje_zamowienia VALUES (39,6136,27);
-INSERT INTO Pozycje_zamowienia VALUES (93,3284,122);
-INSERT INTO Pozycje_zamowienia VALUES (19,4655,117);
-INSERT INTO Pozycje_zamowienia VALUES (1,6344,20);
-INSERT INTO Pozycje_zamowienia VALUES (51,440,72);
-INSERT INTO Pozycje_zamowienia VALUES (64,5898,283);
-INSERT INTO Pozycje_zamowienia VALUES (31,1355,245);
-INSERT INTO Pozycje_zamowienia VALUES (49,834,125);
-INSERT INTO Pozycje_zamowienia VALUES (22,254,59);
-INSERT INTO Pozycje_zamowienia VALUES (2,6010,103);
-INSERT INTO Pozycje_zamowienia VALUES (18,3766,50);
-INSERT INTO Pozycje_zamowienia VALUES (14,2505,293);
-INSERT INTO Pozycje_zamowienia VALUES (17,97,213);
-INSERT INTO Pozycje_zamowienia VALUES (37,2335,63);
-INSERT INTO Pozycje_zamowienia VALUES (60,3621,242);
-INSERT INTO Pozycje_zamowienia VALUES (15,4149,218);
-INSERT INTO Pozycje_zamowienia VALUES (42,5475,60);
-INSERT INTO Pozycje_zamowienia VALUES (80,3137,160);
-INSERT INTO Pozycje_zamowienia VALUES (34,3636,233);
-INSERT INTO Pozycje_zamowienia VALUES (99,3956,93);
-INSERT INTO Pozycje_zamowienia VALUES (46,6407,247);
-INSERT INTO Pozycje_zamowienia VALUES (89,2872,106);
-INSERT INTO Pozycje_zamowienia VALUES (17,1359,255);
-INSERT INTO Pozycje_zamowienia VALUES (61,4478,87);
-INSERT INTO Pozycje_zamowienia VALUES (66,3029,85);
-INSERT INTO Pozycje_zamowienia VALUES (95,2098,69);
-INSERT INTO Pozycje_zamowienia VALUES (33,3336,189);
-INSERT INTO Pozycje_zamowienia VALUES (59,5528,91);
-INSERT INTO Pozycje_zamowienia VALUES (88,2909,39);
-INSERT INTO Pozycje_zamowienia VALUES (49,3342,81);
-INSERT INTO Pozycje_zamowienia VALUES (88,1895,283);
-INSERT INTO Pozycje_zamowienia VALUES (31,4216,78);
-INSERT INTO Pozycje_zamowienia VALUES (40,317,174);
-INSERT INTO Pozycje_zamowienia VALUES (41,2057,26);
-INSERT INTO Pozycje_zamowienia VALUES (6,5846,105);
-INSERT INTO Pozycje_zamowienia VALUES (36,6223,191);
-INSERT INTO Pozycje_zamowienia VALUES (95,6351,294);
-INSERT INTO Pozycje_zamowienia VALUES (93,3718,42);
-INSERT INTO Pozycje_zamowienia VALUES (56,2873,115);
-INSERT INTO Pozycje_zamowienia VALUES (11,2216,1);
-INSERT INTO Pozycje_zamowienia VALUES (69,2041,66);
-INSERT INTO Pozycje_zamowienia VALUES (34,10,223);
-INSERT INTO Pozycje_zamowienia VALUES (54,1511,289);
-INSERT INTO Pozycje_zamowienia VALUES (44,5009,199);
-INSERT INTO Pozycje_zamowienia VALUES (10,4921,191);
-INSERT INTO Pozycje_zamowienia VALUES (67,3238,259);
-INSERT INTO Pozycje_zamowienia VALUES (73,3472,221);
-INSERT INTO Pozycje_zamowienia VALUES (70,5314,1);
-INSERT INTO Pozycje_zamowienia VALUES (98,4738,247);
-INSERT INTO Pozycje_zamowienia VALUES (19,4500,272);
-INSERT INTO Pozycje_zamowienia VALUES (58,3213,220);
-INSERT INTO Pozycje_zamowienia VALUES (83,573,141);
-INSERT INTO Pozycje_zamowienia VALUES (47,124,299);
-INSERT INTO Pozycje_zamowienia VALUES (22,2567,280);
-INSERT INTO Pozycje_zamowienia VALUES (1,1671,272);
-INSERT INTO Pozycje_zamowienia VALUES (89,4630,132);
-INSERT INTO Pozycje_zamowienia VALUES (53,4098,308);
-INSERT INTO Pozycje_zamowienia VALUES (3,1530,294);
-INSERT INTO Pozycje_zamowienia VALUES (16,174,45);
-INSERT INTO Pozycje_zamowienia VALUES (68,818,162);
-INSERT INTO Pozycje_zamowienia VALUES (31,3763,264);
-INSERT INTO Pozycje_zamowienia VALUES (57,5117,319);
-INSERT INTO Pozycje_zamowienia VALUES (32,944,132);
-INSERT INTO Pozycje_zamowienia VALUES (58,3594,292);
-INSERT INTO Pozycje_zamowienia VALUES (11,2282,318);
-INSERT INTO Pozycje_zamowienia VALUES (83,4528,169);
-INSERT INTO Pozycje_zamowienia VALUES (84,6324,186);
-INSERT INTO Pozycje_zamowienia VALUES (80,4792,220);
-INSERT INTO Pozycje_zamowienia VALUES (77,4710,70);
-INSERT INTO Pozycje_zamowienia VALUES (97,67,249);
-INSERT INTO Pozycje_zamowienia VALUES (89,3370,67);
-INSERT INTO Pozycje_zamowienia VALUES (73,4948,100);
-INSERT INTO Pozycje_zamowienia VALUES (24,783,122);
-INSERT INTO Pozycje_zamowienia VALUES (65,5915,167);
-INSERT INTO Pozycje_zamowienia VALUES (15,998,231);
-INSERT INTO Pozycje_zamowienia VALUES (73,4703,115);
-INSERT INTO Pozycje_zamowienia VALUES (32,4399,168);
-INSERT INTO Pozycje_zamowienia VALUES (83,5231,113);
-INSERT INTO Pozycje_zamowienia VALUES (23,1080,288);
-INSERT INTO Pozycje_zamowienia VALUES (29,4723,262);
-INSERT INTO Pozycje_zamowienia VALUES (48,2200,199);
-INSERT INTO Pozycje_zamowienia VALUES (77,1816,246);
-INSERT INTO Pozycje_zamowienia VALUES (60,5622,98);
-INSERT INTO Pozycje_zamowienia VALUES (70,6327,128);
-INSERT INTO Pozycje_zamowienia VALUES (56,1112,250);
-INSERT INTO Pozycje_zamowienia VALUES (82,1949,310);
-INSERT INTO Pozycje_zamowienia VALUES (84,6372,16);
-INSERT INTO Pozycje_zamowienia VALUES (77,932,88);
-INSERT INTO Pozycje_zamowienia VALUES (77,2920,132);
-INSERT INTO Pozycje_zamowienia VALUES (58,6408,143);
-INSERT INTO Pozycje_zamowienia VALUES (37,6026,174);
-INSERT INTO Pozycje_zamowienia VALUES (56,322,315);
-INSERT INTO Pozycje_zamowienia VALUES (36,1225,156);
-INSERT INTO Pozycje_zamowienia VALUES (35,2154,126);
-INSERT INTO Pozycje_zamowienia VALUES (16,3116,162);
-INSERT INTO Pozycje_zamowienia VALUES (33,4392,5);
-INSERT INTO Pozycje_zamowienia VALUES (51,440,104);
-INSERT INTO Pozycje_zamowienia VALUES (84,127,139);
-INSERT INTO Pozycje_zamowienia VALUES (14,574,84);
-INSERT INTO Pozycje_zamowienia VALUES (78,6247,187);
-INSERT INTO Pozycje_zamowienia VALUES (49,2488,53);
-INSERT INTO Pozycje_zamowienia VALUES (57,2680,29);
-INSERT INTO Pozycje_zamowienia VALUES (7,3981,198);
-INSERT INTO Pozycje_zamowienia VALUES (54,1446,147);
-INSERT INTO Pozycje_zamowienia VALUES (91,4231,207);
-INSERT INTO Pozycje_zamowienia VALUES (93,344,296);
-INSERT INTO Pozycje_zamowienia VALUES (39,6025,149);
-INSERT INTO Pozycje_zamowienia VALUES (96,6274,17);
-INSERT INTO Pozycje_zamowienia VALUES (26,1174,187);
-INSERT INTO Pozycje_zamowienia VALUES (42,6023,36);
-INSERT INTO Pozycje_zamowienia VALUES (35,662,122);
-INSERT INTO Pozycje_zamowienia VALUES (90,5209,223);
-INSERT INTO Pozycje_zamowienia VALUES (62,232,295);
-INSERT INTO Pozycje_zamowienia VALUES (18,4462,226);
-INSERT INTO Pozycje_zamowienia VALUES (24,3917,262);
-INSERT INTO Pozycje_zamowienia VALUES (17,5017,164);
-INSERT INTO Pozycje_zamowienia VALUES (84,5709,261);
-INSERT INTO Pozycje_zamowienia VALUES (28,1799,188);
-INSERT INTO Pozycje_zamowienia VALUES (94,2418,118);
-INSERT INTO Pozycje_zamowienia VALUES (22,1556,27);
-INSERT INTO Pozycje_zamowienia VALUES (79,2962,143);
-INSERT INTO Pozycje_zamowienia VALUES (35,2886,33);
-INSERT INTO Pozycje_zamowienia VALUES (9,1836,298);
-INSERT INTO Pozycje_zamowienia VALUES (89,3342,130);
-INSERT INTO Pozycje_zamowienia VALUES (88,4939,256);
-INSERT INTO Pozycje_zamowienia VALUES (28,5381,179);
-INSERT INTO Pozycje_zamowienia VALUES (1,3731,42);
-INSERT INTO Pozycje_zamowienia VALUES (12,3128,55);
-INSERT INTO Pozycje_zamowienia VALUES (88,5152,274);
-INSERT INTO Pozycje_zamowienia VALUES (9,5554,85);
-INSERT INTO Pozycje_zamowienia VALUES (24,3476,98);
-INSERT INTO Pozycje_zamowienia VALUES (76,6063,310);
-INSERT INTO Pozycje_zamowienia VALUES (73,6015,172);
-INSERT INTO Pozycje_zamowienia VALUES (76,4816,86);
-INSERT INTO Pozycje_zamowienia VALUES (10,6106,243);
-INSERT INTO Pozycje_zamowienia VALUES (15,4147,55);
-INSERT INTO Pozycje_zamowienia VALUES (42,2762,191);
-INSERT INTO Pozycje_zamowienia VALUES (23,2068,182);
-INSERT INTO Pozycje_zamowienia VALUES (30,4570,285);
-INSERT INTO Pozycje_zamowienia VALUES (87,1586,17);
-INSERT INTO Pozycje_zamowienia VALUES (86,885,115);
-INSERT INTO Pozycje_zamowienia VALUES (41,608,189);
-INSERT INTO Pozycje_zamowienia VALUES (56,55,236);
-INSERT INTO Pozycje_zamowienia VALUES (24,4194,178);
-INSERT INTO Pozycje_zamowienia VALUES (94,3556,111);
-INSERT INTO Pozycje_zamowienia VALUES (16,3793,134);
-INSERT INTO Pozycje_zamowienia VALUES (60,990,213);
-INSERT INTO Pozycje_zamowienia VALUES (22,1041,287);
-INSERT INTO Pozycje_zamowienia VALUES (60,3282,134);
-INSERT INTO Pozycje_zamowienia VALUES (36,2837,57);
-INSERT INTO Pozycje_zamowienia VALUES (64,4142,53);
-INSERT INTO Pozycje_zamowienia VALUES (79,4483,68);
-INSERT INTO Pozycje_zamowienia VALUES (25,3759,210);
-INSERT INTO Pozycje_zamowienia VALUES (59,6384,127);
-INSERT INTO Pozycje_zamowienia VALUES (27,1401,10);
-INSERT INTO Pozycje_zamowienia VALUES (57,3779,291);
-INSERT INTO Pozycje_zamowienia VALUES (65,3668,166);
-INSERT INTO Pozycje_zamowienia VALUES (20,3782,319);
-INSERT INTO Pozycje_zamowienia VALUES (6,1398,8);
-INSERT INTO Pozycje_zamowienia VALUES (83,867,125);
-INSERT INTO Pozycje_zamowienia VALUES (93,5883,231);
-INSERT INTO Pozycje_zamowienia VALUES (46,1100,40);
-INSERT INTO Pozycje_zamowienia VALUES (31,944,83);
-INSERT INTO Pozycje_zamowienia VALUES (61,2430,286);
-INSERT INTO Pozycje_zamowienia VALUES (100,3638,75);
-INSERT INTO Pozycje_zamowienia VALUES (91,3321,173);
-INSERT INTO Pozycje_zamowienia VALUES (26,5492,63);
-INSERT INTO Pozycje_zamowienia VALUES (24,6334,293);
-INSERT INTO Pozycje_zamowienia VALUES (75,4942,211);
-INSERT INTO Pozycje_zamowienia VALUES (52,1060,279);
-INSERT INTO Pozycje_zamowienia VALUES (70,1665,194);
-INSERT INTO Pozycje_zamowienia VALUES (59,5659,206);
-INSERT INTO Pozycje_zamowienia VALUES (48,4729,202);
-INSERT INTO Pozycje_zamowienia VALUES (10,5548,123);
-INSERT INTO Pozycje_zamowienia VALUES (73,5524,212);
-INSERT INTO Pozycje_zamowienia VALUES (50,4210,253);
-INSERT INTO Pozycje_zamowienia VALUES (82,4437,36);
-INSERT INTO Pozycje_zamowienia VALUES (46,6427,315);
-INSERT INTO Pozycje_zamowienia VALUES (28,167,158);
-INSERT INTO Pozycje_zamowienia VALUES (4,2857,162);
-INSERT INTO Pozycje_zamowienia VALUES (94,4313,207);
-INSERT INTO Pozycje_zamowienia VALUES (86,4839,8);
-INSERT INTO Pozycje_zamowienia VALUES (67,1655,307);
-INSERT INTO Pozycje_zamowienia VALUES (95,4814,175);
-INSERT INTO Pozycje_zamowienia VALUES (87,5221,223);
-INSERT INTO Pozycje_zamowienia VALUES (9,5040,82);
-INSERT INTO Pozycje_zamowienia VALUES (14,1922,246);
-INSERT INTO Pozycje_zamowienia VALUES (42,2089,110);
-INSERT INTO Pozycje_zamowienia VALUES (75,4833,160);
-INSERT INTO Pozycje_zamowienia VALUES (72,761,146);
-INSERT INTO Pozycje_zamowienia VALUES (89,4125,219);
-INSERT INTO Pozycje_zamowienia VALUES (15,35,195);
-INSERT INTO Pozycje_zamowienia VALUES (62,1350,10);
-INSERT INTO Pozycje_zamowienia VALUES (25,5343,12);
-INSERT INTO Pozycje_zamowienia VALUES (61,266,161);
-INSERT INTO Pozycje_zamowienia VALUES (84,827,112);
-INSERT INTO Pozycje_zamowienia VALUES (17,1567,275);
-INSERT INTO Pozycje_zamowienia VALUES (52,2029,201);
-INSERT INTO Pozycje_zamowienia VALUES (6,4743,193);
-INSERT INTO Pozycje_zamowienia VALUES (32,459,197);
-INSERT INTO Pozycje_zamowienia VALUES (22,1252,280);
-INSERT INTO Pozycje_zamowienia VALUES (68,4011,301);
-INSERT INTO Pozycje_zamowienia VALUES (28,161,124);
-INSERT INTO Pozycje_zamowienia VALUES (69,4658,271);
-INSERT INTO Pozycje_zamowienia VALUES (94,4649,171);
-INSERT INTO Pozycje_zamowienia VALUES (80,2557,66);
-INSERT INTO Pozycje_zamowienia VALUES (2,185,143);
-INSERT INTO Pozycje_zamowienia VALUES (61,4353,217);
-INSERT INTO Pozycje_zamowienia VALUES (61,1246,126);
-INSERT INTO Pozycje_zamowienia VALUES (45,2556,304);
-INSERT INTO Pozycje_zamowienia VALUES (41,1555,57);
-INSERT INTO Pozycje_zamowienia VALUES (78,30,5);
-INSERT INTO Pozycje_zamowienia VALUES (38,5396,160);
-INSERT INTO Pozycje_zamowienia VALUES (94,1130,186);
-INSERT INTO Pozycje_zamowienia VALUES (69,714,69);
-INSERT INTO Pozycje_zamowienia VALUES (13,4575,116);
-INSERT INTO Pozycje_zamowienia VALUES (26,1060,175);
-INSERT INTO Pozycje_zamowienia VALUES (8,4224,239);
-INSERT INTO Pozycje_zamowienia VALUES (77,5362,295);
-INSERT INTO Pozycje_zamowienia VALUES (35,2826,98);
-INSERT INTO Pozycje_zamowienia VALUES (86,2871,318);
-INSERT INTO Pozycje_zamowienia VALUES (15,2798,167);
-INSERT INTO Pozycje_zamowienia VALUES (62,3395,253);
-INSERT INTO Pozycje_zamowienia VALUES (50,2068,280);
-INSERT INTO Pozycje_zamowienia VALUES (28,1931,279);
-INSERT INTO Pozycje_zamowienia VALUES (21,5835,2);
-INSERT INTO Pozycje_zamowienia VALUES (43,4639,190);
-INSERT INTO Pozycje_zamowienia VALUES (7,1049,19);
-INSERT INTO Pozycje_zamowienia VALUES (74,3917,241);
-INSERT INTO Pozycje_zamowienia VALUES (37,956,312);
-INSERT INTO Pozycje_zamowienia VALUES (28,3659,159);
-INSERT INTO Pozycje_zamowienia VALUES (11,394,57);
-INSERT INTO Pozycje_zamowienia VALUES (13,3196,283);
-INSERT INTO Pozycje_zamowienia VALUES (30,582,64);
-INSERT INTO Pozycje_zamowienia VALUES (68,4929,105);
-INSERT INTO Pozycje_zamowienia VALUES (53,4610,140);
-INSERT INTO Pozycje_zamowienia VALUES (27,3526,8);
-INSERT INTO Pozycje_zamowienia VALUES (22,3834,64);
-INSERT INTO Pozycje_zamowienia VALUES (94,1459,96);
-INSERT INTO Pozycje_zamowienia VALUES (10,3825,301);
-INSERT INTO Pozycje_zamowienia VALUES (65,3486,310);
-INSERT INTO Pozycje_zamowienia VALUES (83,1082,213);
-INSERT INTO Pozycje_zamowienia VALUES (55,3581,194);
-INSERT INTO Pozycje_zamowienia VALUES (7,5395,26);
-INSERT INTO Pozycje_zamowienia VALUES (6,69,267);
-INSERT INTO Pozycje_zamowienia VALUES (22,6150,164);
-INSERT INTO Pozycje_zamowienia VALUES (31,3650,213);
-INSERT INTO Pozycje_zamowienia VALUES (68,2005,146);
-INSERT INTO Pozycje_zamowienia VALUES (46,3063,190);
-INSERT INTO Pozycje_zamowienia VALUES (23,6269,220);
-INSERT INTO Pozycje_zamowienia VALUES (28,6342,3);
-INSERT INTO Pozycje_zamowienia VALUES (56,5626,173);
-INSERT INTO Pozycje_zamowienia VALUES (26,4121,207);
-INSERT INTO Pozycje_zamowienia VALUES (28,6125,215);
-INSERT INTO Pozycje_zamowienia VALUES (76,6394,268);
-INSERT INTO Pozycje_zamowienia VALUES (14,5003,133);
-INSERT INTO Pozycje_zamowienia VALUES (69,4953,315);
-INSERT INTO Pozycje_zamowienia VALUES (34,1069,215);
-INSERT INTO Pozycje_zamowienia VALUES (85,1961,272);
-INSERT INTO Pozycje_zamowienia VALUES (68,2996,51);
-INSERT INTO Pozycje_zamowienia VALUES (78,1142,283);
-INSERT INTO Pozycje_zamowienia VALUES (79,653,124);
-INSERT INTO Pozycje_zamowienia VALUES (30,446,61);
-INSERT INTO Pozycje_zamowienia VALUES (51,2194,89);
-INSERT INTO Pozycje_zamowienia VALUES (59,2701,239);
-INSERT INTO Pozycje_zamowienia VALUES (77,6491,286);
-INSERT INTO Pozycje_zamowienia VALUES (76,4372,298);
-INSERT INTO Pozycje_zamowienia VALUES (69,1206,40);
-INSERT INTO Pozycje_zamowienia VALUES (76,5227,122);
-INSERT INTO Pozycje_zamowienia VALUES (52,3124,218);
-INSERT INTO Pozycje_zamowienia VALUES (65,755,160);
-INSERT INTO Pozycje_zamowienia VALUES (73,5996,76);
-INSERT INTO Pozycje_zamowienia VALUES (62,5820,120);
-INSERT INTO Pozycje_zamowienia VALUES (83,1054,9);
-INSERT INTO Pozycje_zamowienia VALUES (68,1635,88);
-INSERT INTO Pozycje_zamowienia VALUES (48,2728,120);
-INSERT INTO Pozycje_zamowienia VALUES (8,5873,97);
-INSERT INTO Pozycje_zamowienia VALUES (13,4262,246);
-INSERT INTO Pozycje_zamowienia VALUES (14,158,141);
-INSERT INTO Pozycje_zamowienia VALUES (10,940,287);
-INSERT INTO Pozycje_zamowienia VALUES (7,4780,85);
-INSERT INTO Pozycje_zamowienia VALUES (49,1885,287);
-INSERT INTO Pozycje_zamowienia VALUES (64,4805,238);
-INSERT INTO Pozycje_zamowienia VALUES (84,4268,56);
-INSERT INTO Pozycje_zamowienia VALUES (98,4652,10);
-INSERT INTO Pozycje_zamowienia VALUES (59,1112,77);
-INSERT INTO Pozycje_zamowienia VALUES (49,3672,295);
-INSERT INTO Pozycje_zamowienia VALUES (75,5444,205);
-INSERT INTO Pozycje_zamowienia VALUES (32,2873,162);
-INSERT INTO Pozycje_zamowienia VALUES (76,4026,173);
-INSERT INTO Pozycje_zamowienia VALUES (50,1,240);
-INSERT INTO Pozycje_zamowienia VALUES (86,303,62);
-INSERT INTO Pozycje_zamowienia VALUES (50,5119,256);
-INSERT INTO Pozycje_zamowienia VALUES (2,4144,241);
-INSERT INTO Pozycje_zamowienia VALUES (53,2643,174);
-INSERT INTO Pozycje_zamowienia VALUES (80,5903,94);
-INSERT INTO Pozycje_zamowienia VALUES (14,1646,256);
-INSERT INTO Pozycje_zamowienia VALUES (20,5965,228);
-INSERT INTO Pozycje_zamowienia VALUES (48,711,33);
-INSERT INTO Pozycje_zamowienia VALUES (55,4872,172);
-INSERT INTO Pozycje_zamowienia VALUES (82,6204,15);
-INSERT INTO Pozycje_zamowienia VALUES (65,2325,47);
-INSERT INTO Pozycje_zamowienia VALUES (98,6011,40);
-INSERT INTO Pozycje_zamowienia VALUES (92,615,230);
-INSERT INTO Pozycje_zamowienia VALUES (78,4768,82);
-INSERT INTO Pozycje_zamowienia VALUES (75,1979,184);
-INSERT INTO Pozycje_zamowienia VALUES (82,2911,319);
-INSERT INTO Pozycje_zamowienia VALUES (79,1773,286);
-INSERT INTO Pozycje_zamowienia VALUES (85,2970,222);
-INSERT INTO Pozycje_zamowienia VALUES (67,6255,80);
-INSERT INTO Pozycje_zamowienia VALUES (90,2501,158);
-INSERT INTO Pozycje_zamowienia VALUES (100,3755,237);
-INSERT INTO Pozycje_zamowienia VALUES (6,180,193);
-INSERT INTO Pozycje_zamowienia VALUES (7,4589,85);
-INSERT INTO Pozycje_zamowienia VALUES (26,1942,307);
-INSERT INTO Pozycje_zamowienia VALUES (14,4838,233);
-INSERT INTO Pozycje_zamowienia VALUES (23,3905,6);
-INSERT INTO Pozycje_zamowienia VALUES (73,6062,237);
-INSERT INTO Pozycje_zamowienia VALUES (85,2394,291);
-INSERT INTO Pozycje_zamowienia VALUES (90,1841,38);
-INSERT INTO Pozycje_zamowienia VALUES (46,2028,39);
-INSERT INTO Pozycje_zamowienia VALUES (64,1958,54);
-INSERT INTO Pozycje_zamowienia VALUES (46,4168,232);
-INSERT INTO Pozycje_zamowienia VALUES (1,405,291);
-INSERT INTO Pozycje_zamowienia VALUES (48,5373,184);
-INSERT INTO Pozycje_zamowienia VALUES (67,302,86);
-INSERT INTO Pozycje_zamowienia VALUES (88,5347,38);
-INSERT INTO Pozycje_zamowienia VALUES (21,229,301);
-INSERT INTO Pozycje_zamowienia VALUES (36,4168,99);
-INSERT INTO Pozycje_zamowienia VALUES (3,3363,180);
-INSERT INTO Pozycje_zamowienia VALUES (87,113,77);
-INSERT INTO Pozycje_zamowienia VALUES (63,4605,265);
-INSERT INTO Pozycje_zamowienia VALUES (65,5861,176);
-INSERT INTO Pozycje_zamowienia VALUES (43,2833,277);
-INSERT INTO Pozycje_zamowienia VALUES (99,3195,164);
-INSERT INTO Pozycje_zamowienia VALUES (28,2422,230);
-INSERT INTO Pozycje_zamowienia VALUES (19,5175,196);
-INSERT INTO Pozycje_zamowienia VALUES (81,3068,60);
-INSERT INTO Pozycje_zamowienia VALUES (26,6160,147);
-INSERT INTO Pozycje_zamowienia VALUES (41,6491,37);
-INSERT INTO Pozycje_zamowienia VALUES (66,880,178);
-INSERT INTO Pozycje_zamowienia VALUES (32,5265,249);
-INSERT INTO Pozycje_zamowienia VALUES (61,2784,121);
-INSERT INTO Pozycje_zamowienia VALUES (65,4862,130);
-INSERT INTO Pozycje_zamowienia VALUES (41,4763,292);
-INSERT INTO Pozycje_zamowienia VALUES (94,5232,220);
-INSERT INTO Pozycje_zamowienia VALUES (55,720,197);
-INSERT INTO Pozycje_zamowienia VALUES (100,27,131);
-INSERT INTO Pozycje_zamowienia VALUES (70,1520,32);
-INSERT INTO Pozycje_zamowienia VALUES (55,1997,21);
-INSERT INTO Pozycje_zamowienia VALUES (87,2918,264);
-INSERT INTO Pozycje_zamowienia VALUES (57,3386,319);
-INSERT INTO Pozycje_zamowienia VALUES (9,6416,38);
-INSERT INTO Pozycje_zamowienia VALUES (33,3081,84);
-INSERT INTO Pozycje_zamowienia VALUES (21,3540,169);
-INSERT INTO Pozycje_zamowienia VALUES (43,6103,65);
-INSERT INTO Pozycje_zamowienia VALUES (30,5335,204);
-INSERT INTO Pozycje_zamowienia VALUES (73,2601,284);
-INSERT INTO Pozycje_zamowienia VALUES (91,2739,168);
-INSERT INTO Pozycje_zamowienia VALUES (14,3933,57);
-INSERT INTO Pozycje_zamowienia VALUES (62,654,126);
-INSERT INTO Pozycje_zamowienia VALUES (12,3790,116);
-INSERT INTO Pozycje_zamowienia VALUES (96,5798,233);
-INSERT INTO Pozycje_zamowienia VALUES (2,4789,30);
-INSERT INTO Pozycje_zamowienia VALUES (61,4777,287);
-INSERT INTO Pozycje_zamowienia VALUES (71,6215,211);
-INSERT INTO Pozycje_zamowienia VALUES (93,1656,75);
-INSERT INTO Pozycje_zamowienia VALUES (71,4663,295);
-INSERT INTO Pozycje_zamowienia VALUES (52,6106,145);
-INSERT INTO Pozycje_zamowienia VALUES (96,968,219);
-INSERT INTO Pozycje_zamowienia VALUES (40,3771,118);
-INSERT INTO Pozycje_zamowienia VALUES (76,1015,163);
-INSERT INTO Pozycje_zamowienia VALUES (26,803,222);
-INSERT INTO Pozycje_zamowienia VALUES (1,2322,318);
-INSERT INTO Pozycje_zamowienia VALUES (85,3305,110);
-INSERT INTO Pozycje_zamowienia VALUES (53,1154,280);
-INSERT INTO Pozycje_zamowienia VALUES (4,3474,174);
-INSERT INTO Pozycje_zamowienia VALUES (99,5601,119);
-INSERT INTO Pozycje_zamowienia VALUES (52,4761,106);
-INSERT INTO Pozycje_zamowienia VALUES (56,3097,213);
-INSERT INTO Pozycje_zamowienia VALUES (19,3201,275);
-INSERT INTO Pozycje_zamowienia VALUES (37,391,251);
-INSERT INTO Pozycje_zamowienia VALUES (79,1894,76);
-INSERT INTO Pozycje_zamowienia VALUES (68,3761,120);
-INSERT INTO Pozycje_zamowienia VALUES (53,3868,146);
-INSERT INTO Pozycje_zamowienia VALUES (87,1604,290);
-INSERT INTO Pozycje_zamowienia VALUES (70,3565,223);
-INSERT INTO Pozycje_zamowienia VALUES (68,5394,209);
-INSERT INTO Pozycje_zamowienia VALUES (66,1485,21);
-INSERT INTO Pozycje_zamowienia VALUES (73,2901,312);
-INSERT INTO Pozycje_zamowienia VALUES (26,3855,209);
-INSERT INTO Pozycje_zamowienia VALUES (46,5880,179);
-INSERT INTO Pozycje_zamowienia VALUES (10,2671,306);
-INSERT INTO Pozycje_zamowienia VALUES (5,3971,193);
-INSERT INTO Pozycje_zamowienia VALUES (50,3485,142);
-INSERT INTO Pozycje_zamowienia VALUES (75,4154,17);
-INSERT INTO Pozycje_zamowienia VALUES (53,4708,262);
-INSERT INTO Pozycje_zamowienia VALUES (18,674,162);
-INSERT INTO Pozycje_zamowienia VALUES (63,5583,78);
-INSERT INTO Pozycje_zamowienia VALUES (44,3557,211);
-INSERT INTO Pozycje_zamowienia VALUES (56,1565,129);
-INSERT INTO Pozycje_zamowienia VALUES (89,5755,67);
-INSERT INTO Pozycje_zamowienia VALUES (60,6176,307);
-INSERT INTO Pozycje_zamowienia VALUES (32,1022,301);
-INSERT INTO Pozycje_zamowienia VALUES (24,4119,224);
-INSERT INTO Pozycje_zamowienia VALUES (53,2543,223);
-INSERT INTO Pozycje_zamowienia VALUES (29,3555,117);
-INSERT INTO Pozycje_zamowienia VALUES (4,4969,103);
-INSERT INTO Pozycje_zamowienia VALUES (3,3507,319);
-INSERT INTO Pozycje_zamowienia VALUES (54,3804,7);
-INSERT INTO Pozycje_zamowienia VALUES (47,5507,56);
-INSERT INTO Pozycje_zamowienia VALUES (34,5538,63);
-INSERT INTO Pozycje_zamowienia VALUES (88,555,160);
-INSERT INTO Pozycje_zamowienia VALUES (36,918,43);
-INSERT INTO Pozycje_zamowienia VALUES (57,5515,307);
-INSERT INTO Pozycje_zamowienia VALUES (2,2789,245);
-INSERT INTO Pozycje_zamowienia VALUES (71,3037,193);
-INSERT INTO Pozycje_zamowienia VALUES (83,1395,78);
-INSERT INTO Pozycje_zamowienia VALUES (92,2922,60);
-INSERT INTO Pozycje_zamowienia VALUES (22,5404,299);
-INSERT INTO Pozycje_zamowienia VALUES (85,1697,142);
-INSERT INTO Pozycje_zamowienia VALUES (14,6434,243);
-INSERT INTO Pozycje_zamowienia VALUES (5,3949,166);
-INSERT INTO Pozycje_zamowienia VALUES (20,1537,194);
-INSERT INTO Pozycje_zamowienia VALUES (61,5435,97);
-INSERT INTO Pozycje_zamowienia VALUES (50,1851,81);
-INSERT INTO Pozycje_zamowienia VALUES (34,4372,255);
-INSERT INTO Pozycje_zamowienia VALUES (44,3725,111);
-INSERT INTO Pozycje_zamowienia VALUES (93,3168,74);
-INSERT INTO Pozycje_zamowienia VALUES (37,2901,229);
-INSERT INTO Pozycje_zamowienia VALUES (82,1941,124);
-INSERT INTO Pozycje_zamowienia VALUES (65,2483,79);
-INSERT INTO Pozycje_zamowienia VALUES (90,6377,165);
-INSERT INTO Pozycje_zamowienia VALUES (58,2611,27);
-INSERT INTO Pozycje_zamowienia VALUES (20,1973,100);
-INSERT INTO Pozycje_zamowienia VALUES (72,6360,158);
-INSERT INTO Pozycje_zamowienia VALUES (72,3806,161);
-INSERT INTO Pozycje_zamowienia VALUES (42,1786,74);
-INSERT INTO Pozycje_zamowienia VALUES (30,5652,153);
-INSERT INTO Pozycje_zamowienia VALUES (60,730,129);
-INSERT INTO Pozycje_zamowienia VALUES (83,6039,315);
-INSERT INTO Pozycje_zamowienia VALUES (36,820,233);
-INSERT INTO Pozycje_zamowienia VALUES (46,2761,187);
-INSERT INTO Pozycje_zamowienia VALUES (35,4312,245);
-INSERT INTO Pozycje_zamowienia VALUES (21,4392,314);
-INSERT INTO Pozycje_zamowienia VALUES (53,4127,158);
-INSERT INTO Pozycje_zamowienia VALUES (74,1863,220);
-INSERT INTO Pozycje_zamowienia VALUES (48,4743,202);
-INSERT INTO Pozycje_zamowienia VALUES (90,4384,43);
-INSERT INTO Pozycje_zamowienia VALUES (57,2271,278);
-INSERT INTO Pozycje_zamowienia VALUES (61,5818,276);
-INSERT INTO Pozycje_zamowienia VALUES (4,616,258);
-INSERT INTO Pozycje_zamowienia VALUES (44,5094,200);
-INSERT INTO Pozycje_zamowienia VALUES (80,1102,40);
-INSERT INTO Pozycje_zamowienia VALUES (58,3995,301);
-INSERT INTO Pozycje_zamowienia VALUES (75,133,268);
-INSERT INTO Pozycje_zamowienia VALUES (53,3308,61);
-INSERT INTO Pozycje_zamowienia VALUES (63,6254,259);
-INSERT INTO Pozycje_zamowienia VALUES (56,4727,244);
-INSERT INTO Pozycje_zamowienia VALUES (66,4320,213);
-INSERT INTO Pozycje_zamowienia VALUES (94,4149,318);
-INSERT INTO Pozycje_zamowienia VALUES (22,5626,103);
-INSERT INTO Pozycje_zamowienia VALUES (93,3935,11);
-INSERT INTO Pozycje_zamowienia VALUES (13,4312,224);
-INSERT INTO Pozycje_zamowienia VALUES (5,4247,239);
-INSERT INTO Pozycje_zamowienia VALUES (99,4611,110);
-INSERT INTO Pozycje_zamowienia VALUES (100,5679,232);
-INSERT INTO Pozycje_zamowienia VALUES (98,73,90);
-INSERT INTO Pozycje_zamowienia VALUES (56,6469,25);
-INSERT INTO Pozycje_zamowienia VALUES (46,3802,111);
-INSERT INTO Pozycje_zamowienia VALUES (23,744,254);
-INSERT INTO Pozycje_zamowienia VALUES (59,4350,48);
-INSERT INTO Pozycje_zamowienia VALUES (89,4982,183);
+INSERT INTO Pozycje_zamowienia VALUES (10,3604,212),
+(3,2163,276),
+(41,3247,173),
+(66,2853,167),
+(16,1602,272),
+(5,1874,115),
+(66,729,205),
+(18,5613,132),
+(97,4034,69),
+(35,2642,95),
+(12,4070,168),
+(61,2576,41),
+(68,212,14),
+(40,6492,298),
+(9,3544,285),
+(20,4639,271),
+(76,4335,316),
+(94,5017,77),
+(81,5802,91),
+(56,3742,100),
+(92,4431,160),
+(90,845,279),
+(86,3961,298),
+(30,4269,126),
+(91,2992,179),
+(64,2066,288),
+(98,4257,222),
+(23,316,86),
+(51,5557,13),
+(50,158,188),
+(74,624,108),
+(49,2181,215),
+(49,2634,47),
+(1,3186,206),
+(78,1942,13),
+(83,4143,217),
+(77,4561,261),
+(61,1123,291),
+(88,668,270),
+(76,551,269),
+(20,3147,261),
+(82,5109,106),
+(4,989,32),
+(51,503,36),
+(67,4864,116),
+(73,1764,299),
+(73,2625,116),
+(72,5279,167),
+(17,2245,291),
+(91,1422,125),
+(81,5092,136),
+(73,2982,154),
+(92,205,143),
+(80,972,37),
+(36,3162,84),
+(35,2064,64),
+(3,4636,156),
+(42,5692,162),
+(52,5762,111),
+(83,6277,11),
+(22,5478,73),
+(38,3012,138),
+(27,47,25),
+(62,252,123),
+(48,6283,164),
+(3,5216,30),
+(35,6427,234),
+(21,4856,195),
+(31,6189,295),
+(85,5118,307),
+(26,5942,273),
+(60,4474,34),
+(14,4745,144),
+(54,3283,120),
+(44,4085,20),
+(5,5527,13),
+(91,2859,63),
+(96,4943,88),
+(48,544,187),
+(27,4085,318),
+(52,4460,124),
+(39,3690,97),
+(100,1134,153),
+(52,4972,2),
+(90,5560,173),
+(8,4693,254),
+(84,2040,207),
+(56,1052,250),
+(52,1453,245),
+(73,356,201),
+(52,491,164),
+(45,4734,114),
+(54,2954,227),
+(45,4438,248),
+(97,507,67),
+(62,5377,295),
+(41,2773,44),
+(10,5079,100),
+(46,4977,311),
+(87,2923,107),
+(62,4342,64),
+(44,2087,298),
+(64,2804,135),
+(74,4064,142),
+(59,671,52),
+(11,6300,229),
+(72,3073,272),
+(7,1078,63),
+(44,2140,17),
+(91,889,73),
+(26,3096,182),
+(60,3141,144),
+(40,5013,97),
+(63,2616,278),
+(61,3564,302),
+(89,4912,94),
+(70,3062,63),
+(23,5333,204),
+(4,5452,303),
+(60,472,50),
+(85,5816,284),
+(72,3183,40),
+(55,6205,279),
+(7,4077,162),
+(7,5083,152),
+(91,230,191),
+(3,2413,158),
+(49,2221,86),
+(12,1763,76),
+(42,2420,225),
+(3,3786,117),
+(2,5946,206),
+(44,3126,7),
+(44,4049,261),
+(4,939,193),
+(93,1481,65),
+(25,3318,220),
+(91,2700,63),
+(66,1725,179),
+(38,3999,28),
+(25,4485,171),
+(14,5111,207),
+(77,3700,130),
+(81,186,221),
+(2,3077,18),
+(66,3168,307),
+(53,2361,13),
+(37,5745,27),
+(7,479,282),
+(24,5391,312),
+(64,1409,170),
+(63,2784,314),
+(55,551,58),
+(65,1126,83),
+(57,3983,223),
+(29,4100,18),
+(28,4321,111),
+(9,5823,138),
+(99,4876,198),
+(15,583,121),
+(15,6200,88),
+(36,3654,34),
+(60,1860,263),
+(37,187,245),
+(39,5961,37),
+(100,1573,267),
+(98,2556,263),
+(59,6396,286),
+(64,472,103),
+(46,4952,157),
+(55,3779,277),
+(53,4048,284),
+(21,1224,306),
+(20,2155,312),
+(52,2792,59),
+(14,378,153),
+(89,955,234),
+(90,3658,6),
+(14,5079,146),
+(42,3088,92),
+(49,5731,79),
+(27,1712,293),
+(30,6004,228),
+(4,1283,186),
+(79,1022,92),
+(79,1981,74),
+(18,1273,218),
+(28,3406,81),
+(48,4087,41),
+(91,4123,255),
+(65,2552,227),
+(9,2939,116),
+(70,3727,245),
+(94,4560,37),
+(95,2060,113),
+(27,2968,160),
+(6,1400,97),
+(43,3952,223),
+(32,3654,149),
+(92,188,31),
+(100,3438,176),
+(39,1142,313),
+(79,2797,144),
+(98,893,116),
+(87,6409,272),
+(26,4619,195),
+(76,1528,316),
+(69,4600,169),
+(32,576,219),
+(51,3236,19),
+(8,1173,267),
+(3,994,236),
+(1,3645,4),
+(85,1339,6),
+(75,6193,55),
+(67,5234,262),
+(44,4220,167),
+(34,2237,140),
+(43,3064,216),
+(66,4473,163),
+(95,2565,92),
+(26,1865,159),
+(30,6060,65),
+(37,1433,93),
+(59,1778,309),
+(2,3852,160),
+(2,2139,222),
+(42,4497,270),
+(77,5060,114),
+(99,2667,295),
+(28,801,305),
+(61,4637,241),
+(56,3085,93),
+(41,5974,253),
+(58,5497,89),
+(31,2942,75),
+(31,950,3),
+(44,5312,302),
+(19,3229,184),
+(14,1537,142),
+(88,4423,244),
+(89,3574,154),
+(61,5334,14),
+(65,5879,89),
+(100,373,233),
+(67,2199,74),
+(43,822,74),
+(50,2084,180),
+(24,2170,200),
+(26,3417,293),
+(4,3340,76),
+(13,1750,66),
+(31,397,137),
+(89,1064,286),
+(82,650,109),
+(37,754,253),
+(32,4140,258),
+(9,3378,147),
+(39,825,248),
+(59,3999,31),
+(8,3457,228),
+(69,406,315),
+(37,5562,230),
+(18,4726,226),
+(53,6199,180),
+(9,3835,160),
+(28,1055,201),
+(35,2898,5),
+(16,5023,50),
+(57,3964,240),
+(8,4323,146),
+(80,4847,60),
+(69,4979,218),
+(57,3295,281),
+(80,4423,227),
+(2,5685,316),
+(22,6115,133),
+(73,3291,137),
+(70,5679,188),
+(60,5494,97),
+(95,771,145),
+(33,6466,277),
+(50,2619,148),
+(64,1581,162),
+(6,2578,4),
+(96,6305,217),
+(64,3851,180),
+(59,1275,78),
+(81,5354,288),
+(26,4966,187),
+(99,3870,188),
+(36,610,18),
+(14,5154,316),
+(68,5700,173),
+(29,4820,252),
+(36,1474,70),
+(84,3269,301),
+(45,2159,281),
+(23,3140,165),
+(3,125,238),
+(84,5510,181),
+(11,5238,191),
+(81,1239,266),
+(26,2846,284),
+(62,952,226),
+(77,5581,11),
+(70,5361,76),
+(54,3137,181),
+(61,5505,301),
+(83,6315,304),
+(7,2380,217),
+(27,1737,248),
+(31,4185,310),
+(80,4053,214),
+(41,397,168),
+(43,2765,135),
+(27,13,32),
+(71,4953,105),
+(96,6033,210),
+(61,1985,156),
+(33,3231,243),
+(39,1801,93),
+(100,2133,175),
+(85,4564,230),
+(21,2056,174),
+(35,6466,118),
+(88,5393,232),
+(99,4616,138),
+(71,1537,247),
+(32,123,196),
+(31,2245,47),
+(83,99,143),
+(90,6239,247),
+(42,2200,48),
+(15,459,58),
+(70,4723,25),
+(97,1541,63),
+(81,4397,226),
+(22,2309,285),
+(45,5367,105),
+(3,2357,160),
+(93,6232,312),
+(31,3352,62),
+(13,1275,273),
+(14,4608,58),
+(95,4334,251),
+(75,5582,239),
+(30,6067,248),
+(93,6365,107),
+(97,717,42),
+(9,169,125),
+(88,1115,31),
+(68,3657,218),
+(82,1757,82),
+(31,5486,42),
+(43,670,32),
+(56,5639,194),
+(72,1151,141),
+(25,94,124),
+(47,6232,165),
+(14,2539,173),
+(87,2404,79),
+(88,465,245),
+(47,6019,9),
+(38,624,95),
+(64,447,105),
+(29,4821,148),
+(97,3287,316),
+(63,3663,157),
+(71,1919,131),
+(84,6121,149),
+(72,274,12),
+(63,241,317),
+(10,4442,38),
+(63,6414,237),
+(60,2491,219),
+(48,2295,19),
+(31,1072,264),
+(91,5386,104),
+(93,1985,188),
+(12,5698,131),
+(48,836,48),
+(49,3347,31),
+(29,634,118),
+(32,4358,95),
+(27,5543,8),
+(57,5895,305),
+(70,81,222),
+(89,5877,38),
+(15,3211,291),
+(16,6446,88),
+(49,3870,263),
+(73,4872,154),
+(7,5697,98),
+(49,2528,51),
+(76,2401,268),
+(8,3717,40),
+(38,799,62),
+(44,589,16),
+(57,5303,101),
+(56,1503,187),
+(37,4661,272),
+(37,733,78),
+(15,4079,234),
+(27,882,272),
+(56,2670,81),
+(57,2685,160),
+(93,3887,63),
+(76,4404,6),
+(69,4153,301),
+(87,5904,223),
+(93,2892,147),
+(28,252,12),
+(42,5487,217),
+(2,4607,115),
+(29,4954,96),
+(72,669,93),
+(17,4269,179),
+(98,753,34),
+(93,5528,24),
+(91,2405,221),
+(71,5026,100),
+(82,3721,143),
+(28,2467,93),
+(74,2180,120),
+(38,3460,261),
+(48,3189,301),
+(96,5908,101),
+(55,921,304),
+(39,6369,318),
+(41,5839,203),
+(12,4130,253),
+(88,2303,143),
+(81,2420,42),
+(41,1156,85),
+(34,2002,84),
+(45,6119,52),
+(60,477,98),
+(94,900,233),
+(1,5765,174),
+(80,3142,269),
+(53,1883,200),
+(8,3976,60),
+(87,5985,122),
+(94,992,192),
+(27,4023,237),
+(14,1191,213),
+(27,5024,304),
+(26,6141,177),
+(1,530,319),
+(96,6209,239),
+(72,6020,27),
+(46,1744,302),
+(34,3880,86),
+(82,977,33),
+(27,20,239),
+(95,92,97),
+(51,5097,42),
+(4,5141,111),
+(87,4302,116),
+(71,119,208),
+(46,6057,129),
+(92,2600,236),
+(27,84,219),
+(84,2630,55),
+(66,5891,40),
+(64,3361,240),
+(3,1900,223),
+(85,1740,184),
+(5,5239,215),
+(22,3380,69),
+(18,1073,116),
+(95,177,21),
+(16,409,36),
+(65,5252,200),
+(50,4177,77),
+(26,5121,258),
+(20,5826,254),
+(82,3076,138),
+(18,787,12),
+(41,388,75),
+(47,1763,206),
+(42,1936,98),
+(93,4240,17),
+(50,154,216),
+(19,260,36),
+(92,603,138),
+(97,908,243),
+(46,195,220),
+(45,1136,269),
+(55,2643,272),
+(56,3123,115),
+(43,2179,223),
+(35,6306,57),
+(3,6134,124),
+(100,2455,177),
+(61,4679,275),
+(3,4363,246),
+(52,5319,51),
+(2,1185,268),
+(15,5933,62),
+(59,4884,264),
+(46,4656,190),
+(81,2407,268),
+(93,1165,255),
+(33,1531,65),
+(47,4089,242),
+(93,5628,211),
+(31,3043,267),
+(14,853,58),
+(3,4628,137),
+(84,5259,53),
+(25,3939,100),
+(88,1479,281),
+(55,1960,301),
+(4,3078,309),
+(17,6393,157),
+(55,2210,62),
+(6,6003,312),
+(45,3301,298),
+(14,1459,139),
+(97,1860,288),
+(51,5378,27),
+(66,1217,19),
+(67,5332,103),
+(86,5522,20),
+(33,3405,255),
+(10,4453,67),
+(52,2953,128),
+(66,5183,167),
+(72,4507,11),
+(68,1750,203),
+(1,2484,66),
+(28,410,35),
+(83,1953,217),
+(96,4545,308),
+(74,2386,273),
+(23,364,56),
+(43,6454,279),
+(47,3387,4),
+(90,1720,270),
+(64,1883,18),
+(38,5905,48),
+(4,2611,306),
+(44,3548,209),
+(22,5143,43),
+(89,2357,300),
+(28,4112,89),
+(40,1917,139),
+(4,2410,49),
+(94,2941,99),
+(25,3464,159),
+(35,6172,163),
+(4,6486,77),
+(3,4119,67),
+(3,1871,239),
+(69,3494,249),
+(42,5777,138),
+(53,4873,108),
+(92,3704,253),
+(100,924,30),
+(63,1201,192),
+(2,6287,82),
+(75,4533,297),
+(33,2987,185),
+(42,1153,2),
+(22,246,152),
+(37,4479,173),
+(84,3195,116),
+(67,5635,1),
+(80,1573,176),
+(100,2625,148),
+(37,3532,182),
+(19,171,292),
+(15,5246,149),
+(27,4489,304),
+(23,2376,277),
+(36,6385,64),
+(5,5575,23),
+(50,3970,225),
+(63,5511,63),
+(4,1166,105),
+(56,5862,82),
+(50,6471,178),
+(96,3465,53),
+(68,6228,145),
+(91,535,72),
+(82,1818,28),
+(64,5781,130),
+(84,1563,235),
+(41,928,152),
+(28,4604,284),
+(97,2278,94),
+(15,4328,251),
+(100,982,217),
+(1,4861,182),
+(79,4305,77),
+(42,4233,189),
+(19,3010,169),
+(55,5807,232),
+(76,5153,152),
+(67,2845,17),
+(72,2568,156),
+(91,3874,282),
+(6,2318,155),
+(53,2881,115),
+(84,2316,223),
+(19,6058,96),
+(100,1368,15),
+(89,3537,273),
+(61,1932,272),
+(13,4450,141),
+(19,2041,80),
+(25,4406,217),
+(39,2697,222),
+(48,4477,276),
+(21,3162,290),
+(62,4802,84),
+(84,5817,177),
+(67,2704,167),
+(70,1041,231),
+(74,5771,7),
+(74,2737,161),
+(14,5712,202),
+(99,4700,279),
+(25,6040,97),
+(8,1014,86),
+(37,2681,58),
+(36,1294,67),
+(47,1794,3),
+(2,5315,49),
+(53,4939,308),
+(73,1344,163),
+(55,1193,267),
+(47,1071,241),
+(46,5082,97),
+(56,3476,137),
+(44,4694,118),
+(17,4928,190),
+(30,3360,109),
+(39,582,280),
+(23,6302,245),
+(69,4614,161),
+(44,4569,265),
+(25,1022,306),
+(21,4405,66),
+(17,3237,125),
+(98,6323,36),
+(88,1795,117),
+(38,3114,11),
+(91,4421,97),
+(91,5753,205),
+(5,6237,9),
+(39,2056,12),
+(32,3651,133),
+(89,4939,92),
+(61,3153,202),
+(87,1394,295),
+(88,4206,226),
+(74,1554,198),
+(29,4487,55),
+(4,171,255),
+(89,4403,211),
+(100,205,130),
+(87,5205,93),
+(11,3235,243),
+(61,2564,259),
+(26,5413,163),
+(71,300,100),
+(54,5951,105),
+(53,5745,76),
+(22,1153,92),
+(92,1597,30),
+(69,5449,264),
+(30,2625,124),
+(36,1870,52),
+(85,90,267),
+(23,5799,184),
+(65,4207,237),
+(20,1674,127),
+(48,208,292),
+(26,1010,184),
+(14,1015,248),
+(98,4303,77),
+(56,23,242),
+(97,3346,277),
+(58,3976,314),
+(18,4176,29),
+(85,2622,124),
+(16,273,119),
+(54,6227,164),
+(42,239,124),
+(43,5050,112),
+(57,488,307),
+(37,2392,177),
+(7,6233,265),
+(78,3976,236),
+(76,2614,131),
+(19,1703,209),
+(32,1366,304),
+(68,3090,70),
+(40,2574,248),
+(1,254,119),
+(32,468,111),
+(48,1035,119),
+(20,4243,41),
+(7,2390,181),
+(46,3742,224),
+(66,521,97),
+(62,3741,231),
+(85,6271,121),
+(42,2117,189),
+(69,2407,76),
+(73,2629,262),
+(49,3631,258),
+(95,2978,184),
+(87,3627,251),
+(83,3252,246),
+(67,3849,137),
+(16,6171,85),
+(90,401,182),
+(86,5622,166),
+(94,3672,27),
+(38,1964,245),
+(42,4475,215),
+(86,5593,319),
+(97,4579,191),
+(29,2630,37),
+(32,5355,69),
+(4,3309,6),
+(73,6087,39),
+(82,3530,179),
+(4,432,147),
+(50,3792,244),
+(30,1761,280),
+(43,548,256),
+(88,3043,155),
+(27,458,207),
+(100,4831,80),
+(46,3192,30),
+(8,3119,7),
+(86,920,206),
+(82,6074,263),
+(90,1348,5),
+(3,4726,132),
+(67,5472,260),
+(62,2396,303),
+(52,3300,28),
+(73,5129,219),
+(49,1576,152),
+(56,2170,64),
+(78,5945,319),
+(4,24,157),
+(92,5797,248),
+(82,3011,268),
+(48,6163,220),
+(26,5,88),
+(24,1239,104),
+(59,712,80),
+(7,2544,26),
+(10,1570,168),
+(4,4575,230),
+(54,4771,281),
+(74,2134,282),
+(11,2959,81),
+(39,1320,170),
+(69,3497,262),
+(11,6325,170),
+(45,1882,320),
+(35,1353,115),
+(63,2329,119),
+(20,4709,199),
+(48,4784,317),
+(2,1510,303),
+(15,3163,308),
+(93,5818,251),
+(17,2500,274),
+(96,3801,40),
+(50,4423,158),
+(93,1337,250),
+(54,4739,218),
+(29,5540,10),
+(22,3001,157),
+(11,3049,185),
+(25,408,26),
+(34,1021,310),
+(17,6415,133),
+(48,2211,312),
+(81,469,255),
+(85,563,26),
+(87,3171,13),
+(75,5960,63),
+(69,1838,18),
+(50,4907,30),
+(75,3195,25),
+(64,1139,235),
+(38,1315,177),
+(39,4548,124),
+(63,2290,67),
+(29,1789,250),
+(33,1974,17),
+(77,1212,309),
+(7,5738,220),
+(70,737,117),
+(77,4012,131),
+(16,5080,65),
+(6,3802,299),
+(13,2871,29),
+(61,3347,13),
+(8,3187,213),
+(68,2773,38),
+(52,497,90),
+(45,4834,60),
+(18,3681,200),
+(37,3037,302),
+(48,1674,302),
+(43,4677,54),
+(92,2389,142),
+(81,865,256),
+(55,1420,132),
+(23,5738,14),
+(91,1263,158),
+(32,1370,137),
+(3,1880,4),
+(34,55,186),
+(81,851,201),
+(78,3484,262),
+(90,220,14),
+(26,5422,218),
+(58,3498,20),
+(52,5722,287),
+(74,2030,168),
+(93,3869,191),
+(49,102,17),
+(64,4052,192),
+(88,4214,308),
+(56,784,199),
+(35,4609,63),
+(56,676,191),
+(84,1426,251),
+(22,5288,124),
+(35,6138,205),
+(28,5920,140),
+(54,1254,238),
+(6,1579,17),
+(78,3171,94),
+(51,3608,220),
+(58,709,257),
+(99,5907,314),
+(92,5484,5),
+(48,5023,299),
+(49,1331,206),
+(66,6106,210),
+(61,1323,293),
+(15,1496,195),
+(41,3271,186),
+(48,2284,243),
+(11,689,312),
+(36,3515,56),
+(11,3695,3),
+(96,3263,90),
+(43,4480,305),
+(68,1271,234),
+(47,5967,70),
+(22,327,184),
+(89,3173,11),
+(72,4086,287),
+(4,5164,238),
+(86,43,30),
+(52,894,28),
+(27,1967,56),
+(16,4866,60),
+(60,3223,206),
+(7,2676,198),
+(47,5945,224),
+(10,6244,12),
+(41,888,63),
+(89,2883,204),
+(86,5281,104),
+(8,231,305),
+(37,3999,267),
+(87,2770,304),
+(82,6268,279),
+(92,2884,39),
+(46,6344,227),
+(96,2332,230),
+(27,880,40),
+(55,1262,126),
+(12,4662,236),
+(97,1650,70),
+(53,3498,87),
+(16,4753,57),
+(21,3834,277),
+(91,1296,60),
+(39,1132,122),
+(24,6103,199),
+(63,3612,301),
+(58,1762,169),
+(94,587,208),
+(49,317,223),
+(13,5331,65),
+(15,5982,158),
+(89,3015,52),
+(57,362,316),
+(14,2704,196),
+(71,3873,133),
+(34,5669,289),
+(45,5236,7),
+(88,3054,43),
+(77,3001,65),
+(7,1935,209),
+(4,1483,231),
+(80,5167,220),
+(71,5122,168),
+(46,9,272),
+(19,5269,57),
+(58,477,29),
+(3,3880,99),
+(96,5172,41),
+(53,3284,256),
+(68,3189,314),
+(2,3391,2),
+(43,511,319),
+(77,97,39),
+(78,2507,82),
+(12,6347,78),
+(78,5639,147),
+(44,566,261),
+(95,5182,169),
+(79,1610,224),
+(60,5279,228),
+(35,6336,206),
+(57,829,161),
+(34,3710,150),
+(42,2742,144),
+(1,3962,157),
+(23,6359,104),
+(25,2622,47),
+(11,3435,275),
+(32,1963,63),
+(83,2043,188),
+(96,3726,49),
+(12,2944,8),
+(98,5271,306),
+(93,4756,206),
+(25,3799,191),
+(51,758,138),
+(86,25,69),
+(4,5199,57),
+(57,2040,284),
+(66,5749,10),
+(18,1892,277),
+(51,3462,154),
+(85,2638,286),
+(33,2146,241),
+(63,767,18),
+(94,4276,141),
+(56,4619,108),
+(95,10,266),
+(36,2952,195),
+(40,4028,249),
+(26,1868,49),
+(36,5377,283),
+(86,216,90),
+(87,3314,12),
+(30,5172,275),
+(99,4558,234),
+(54,4217,158),
+(35,1925,90),
+(16,4828,293),
+(38,2151,176),
+(94,4200,109),
+(5,5793,196),
+(31,2477,47),
+(36,5077,19),
+(31,431,189),
+(62,5530,152),
+(52,3213,159),
+(70,5310,173),
+(84,6385,216),
+(87,4153,254),
+(7,4281,195),
+(8,2835,255),
+(1,6059,181),
+(82,862,318),
+(23,3163,83),
+(62,760,296),
+(10,5403,37),
+(46,2908,30),
+(96,1709,249),
+(42,461,248),
+(94,4598,265),
+(56,3119,296),
+(83,543,94),
+(61,5296,164),
+(6,2926,228),
+(57,3387,122),
+(43,3360,189),
+(18,3846,227),
+(50,4326,17),
+(30,3304,16),
+(50,3029,187),
+(93,5694,267),
+(72,58,142),
+(64,2359,197),
+(20,6000,74),
+(42,4539,279),
+(38,5682,290),
+(30,4203,270),
+(1,4896,38),
+(84,2624,255),
+(19,1209,281),
+(91,1100,101),
+(35,4903,278),
+(71,6382,35),
+(48,4768,265),
+(81,288,159),
+(88,1576,61),
+(31,545,182),
+(76,471,316),
+(100,2721,132),
+(99,5101,168),
+(96,546,242),
+(91,4471,136),
+(98,2061,67),
+(52,4714,116),
+(8,5626,137),
+(91,5756,71),
+(15,2679,302),
+(45,5108,285),
+(42,4044,315),
+(59,2433,93),
+(33,1135,240),
+(93,1537,79),
+(93,1879,91),
+(47,4910,194),
+(74,2906,272),
+(27,2127,193),
+(78,4034,158),
+(4,4907,213),
+(28,463,67),
+(61,2943,257),
+(12,60,132),
+(50,1460,262),
+(3,4944,7),
+(62,615,96),
+(71,4021,283),
+(5,4366,258),
+(75,4055,227),
+(59,1218,105),
+(68,3492,96),
+(23,5638,35),
+(73,4706,92),
+(4,5441,116),
+(92,5097,280),
+(46,736,128),
+(56,3306,259),
+(12,2991,62),
+(83,3572,152),
+(52,486,243),
+(57,3618,10),
+(9,5820,169),
+(40,3308,288),
+(89,1205,228),
+(14,1508,319),
+(95,2325,48),
+(17,4972,78),
+(26,1973,235),
+(18,2422,227),
+(95,2107,188),
+(34,1896,180),
+(51,4783,72),
+(9,4079,241),
+(71,2801,213),
+(100,961,283),
+(84,4459,110),
+(67,6156,11),
+(80,5587,176),
+(79,5699,144),
+(39,1193,138),
+(16,728,60),
+(17,1963,164),
+(77,6495,156),
+(6,3064,159),
+(58,2770,28),
+(4,3100,308),
+(47,5413,250),
+(17,2578,307),
+(4,2611,141),
+(49,2963,295),
+(80,4011,45),
+(7,3699,154),
+(19,3376,88),
+(95,4799,286),
+(75,5644,315),
+(74,30,273),
+(71,4157,100),
+(84,2301,11),
+(5,6287,154),
+(96,294,277),
+(85,1243,71),
+(69,2521,56),
+(61,6034,231),
+(33,4748,142),
+(61,1258,18),
+(24,3510,39),
+(47,5438,200),
+(84,4149,44),
+(90,2866,9),
+(30,143,104),
+(40,4496,53),
+(5,2786,204),
+(98,6469,88),
+(38,6363,139),
+(42,4428,103),
+(4,4315,12),
+(39,5904,71),
+(62,3331,20),
+(1,4612,244),
+(67,910,69),
+(28,2366,109),
+(92,4246,248),
+(56,1390,234),
+(66,2465,30),
+(4,2885,238),
+(4,1153,313),
+(32,2627,160),
+(28,1570,179),
+(77,3390,112),
+(62,3931,261),
+(44,93,249),
+(25,2129,244),
+(5,3282,216),
+(38,2065,118),
+(86,3530,91),
+(33,4589,313),
+(12,5919,163),
+(16,286,87),
+(59,1394,117),
+(86,2439,124),
+(28,6227,122),
+(14,631,308),
+(92,4030,292),
+(42,1059,25),
+(15,2551,248),
+(97,586,172),
+(22,155,58),
+(100,2358,317),
+(2,6150,73),
+(95,1523,241),
+(76,4785,241),
+(31,599,299),
+(46,2676,50),
+(28,4503,139),
+(91,1944,229),
+(97,3218,184),
+(13,4185,144),
+(14,6327,312),
+(18,5748,305),
+(90,626,302),
+(26,637,206),
+(40,1685,177),
+(84,5881,23),
+(90,4706,141),
+(50,976,38),
+(44,4936,273),
+(16,2833,114),
+(84,6098,172),
+(22,3001,249),
+(8,3368,285),
+(87,6274,276),
+(57,4524,25),
+(53,5878,192),
+(48,6198,113),
+(81,2884,93),
+(44,5402,119),
+(12,2394,163),
+(52,3884,207),
+(59,1917,310),
+(91,1385,31),
+(73,6045,298),
+(99,5576,273),
+(59,4885,257),
+(74,905,77),
+(82,5688,316),
+(6,2411,148),
+(28,2414,179),
+(63,464,284),
+(60,4236,210),
+(27,5125,151),
+(25,1030,318),
+(81,354,7),
+(88,1451,88),
+(7,233,89),
+(57,3968,179),
+(14,6415,86),
+(91,6440,149),
+(100,2590,180),
+(52,5573,69),
+(99,2545,218),
+(28,1600,32),
+(96,5694,168),
+(4,2222,34),
+(7,1114,263),
+(56,2152,192),
+(69,5208,49),
+(79,1743,307),
+(2,686,108),
+(45,4748,23),
+(7,5590,191),
+(20,2743,284),
+(28,2487,193),
+(85,1694,52),
+(88,4648,299),
+(10,980,83),
+(4,4843,289),
+(80,1062,263),
+(76,2421,195),
+(42,5989,33),
+(30,5299,270),
+(60,4361,68),
+(42,464,293),
+(2,3747,148),
+(43,4236,318),
+(71,4301,157),
+(79,334,302),
+(56,3781,180),
+(79,1104,262),
+(71,6360,91),
+(40,5710,308),
+(78,2809,68),
+(33,2920,296),
+(37,1528,92),
+(34,2989,200),
+(67,4099,46),
+(97,4133,247),
+(6,5855,18),
+(26,3446,20),
+(25,3351,201),
+(83,5839,220),
+(78,4566,47),
+(94,1154,130),
+(56,4756,195),
+(12,1931,112),
+(88,6452,80),
+(21,4635,245),
+(17,2720,181),
+(65,2944,278),
+(50,4001,39),
+(36,6047,303),
+(73,5719,135),
+(49,1453,182),
+(18,3815,264),
+(99,3177,186),
+(91,5439,234),
+(11,3360,200),
+(71,3093,35),
+(73,1949,56),
+(41,184,183),
+(72,516,295),
+(60,3797,299),
+(86,955,1),
+(62,4100,279),
+(86,1402,243),
+(20,6295,195),
+(78,2967,229),
+(32,4998,129),
+(36,4854,312),
+(70,6353,60),
+(13,4108,149),
+(63,6467,207),
+(1,465,34),
+(6,2034,213),
+(33,3961,162),
+(60,5180,234),
+(15,5032,319),
+(88,1574,158),
+(27,4314,73),
+(31,1238,20),
+(27,6052,125),
+(35,5801,243),
+(32,2033,309),
+(17,4474,18),
+(78,6090,75),
+(57,5501,242),
+(92,5951,102),
+(65,585,272),
+(59,5609,149),
+(73,2573,161),
+(48,5575,290),
+(17,5844,149),
+(2,3492,155),
+(41,2305,122),
+(22,5016,144),
+(41,3983,158),
+(63,5101,216),
+(5,402,80),
+(52,5356,320),
+(56,4422,219),
+(89,1727,225),
+(99,1757,148),
+(91,3775,186),
+(90,837,82),
+(34,1211,178),
+(27,5115,319),
+(10,2166,255),
+(16,6349,317),
+(54,5524,43),
+(69,3297,210),
+(62,1892,44),
+(17,5388,320),
+(82,4966,176),
+(23,692,81),
+(41,695,307),
+(64,3763,164),
+(86,3804,105),
+(14,2304,241),
+(11,5350,150),
+(52,3155,262),
+(42,6321,53),
+(52,4568,114),
+(95,6096,237),
+(37,3423,265),
+(87,3339,89),
+(11,4401,17),
+(60,245,43),
+(59,5236,14),
+(87,3944,172),
+(55,1920,43),
+(8,3277,25),
+(5,5752,12),
+(61,3587,143),
+(94,1339,232),
+(86,5392,249),
+(24,5988,209),
+(65,3229,300),
+(43,4536,297),
+(48,236,312),
+(80,6192,251),
+(7,4106,100),
+(65,4656,115),
+(78,2531,92),
+(56,5130,36),
+(9,1944,55),
+(23,2410,40),
+(40,1991,240),
+(5,1700,107),
+(17,551,213),
+(70,319,189),
+(20,3806,289),
+(31,3108,235),
+(53,4396,282),
+(50,5674,219),
+(52,614,172),
+(72,5718,5),
+(41,2906,44),
+(46,2562,280),
+(80,6448,119),
+(32,4945,168),
+(89,776,124),
+(91,3043,92),
+(48,4495,151),
+(86,2363,120),
+(96,830,173),
+(94,1836,275),
+(84,416,282),
+(73,4230,254),
+(20,5864,165),
+(48,8,193),
+(90,280,203),
+(66,5163,309),
+(24,1007,211),
+(80,5927,223),
+(32,3960,5),
+(73,4597,101),
+(66,3390,258),
+(99,6416,144),
+(12,1286,136),
+(76,4066,50),
+(78,2761,233),
+(93,554,254),
+(59,4412,22),
+(59,4720,74),
+(66,3582,221),
+(21,2479,15),
+(74,1562,186),
+(62,4042,4),
+(62,6351,18),
+(88,2234,275),
+(10,2566,152),
+(30,5786,186),
+(32,5627,231),
+(24,1678,155),
+(5,4428,63),
+(7,3777,116),
+(35,3960,171),
+(49,2462,92),
+(24,597,45),
+(21,5897,255),
+(40,3903,213),
+(67,751,179),
+(34,2588,310),
+(68,108,237),
+(100,5419,210),
+(43,202,289),
+(47,4000,229),
+(59,3615,134),
+(79,1297,129),
+(86,4117,277),
+(22,2139,306),
+(1,4110,47),
+(17,1622,71),
+(22,4676,126),
+(94,5245,243),
+(64,3352,53),
+(39,4178,255),
+(72,189,209),
+(56,5927,85),
+(64,3307,169),
+(34,5763,309),
+(78,2320,29),
+(92,2019,261),
+(65,5708,129),
+(8,4380,290),
+(62,770,187),
+(35,412,234),
+(16,6439,311),
+(53,2562,68),
+(36,3430,17),
+(22,2635,218),
+(63,472,25),
+(20,5809,117),
+(92,2684,163),
+(93,3849,320),
+(94,4260,116),
+(100,70,214),
+(79,3627,243),
+(23,1577,159),
+(51,601,285),
+(56,5758,240),
+(35,2230,251),
+(16,5713,138),
+(90,3501,209),
+(15,2012,157),
+(97,3614,267),
+(67,1270,286),
+(70,5109,102),
+(96,6108,229),
+(82,4782,168),
+(21,3876,53),
+(53,2667,80),
+(75,4730,117),
+(80,1476,277),
+(78,1518,269),
+(13,4248,94),
+(71,3671,212),
+(46,5243,53),
+(11,3824,178),
+(95,6212,166),
+(94,3770,189),
+(34,5220,162),
+(40,2075,296),
+(51,1295,135),
+(36,619,278),
+(9,5577,223),
+(70,5898,144),
+(1,3776,291),
+(29,6279,52),
+(35,6261,86),
+(51,122,294),
+(24,6123,305),
+(48,1954,314),
+(35,6008,276),
+(36,4870,312),
+(44,1047,19),
+(100,1101,120),
+(17,5627,320),
+(71,6119,229),
+(73,5208,263),
+(81,1470,217),
+(79,369,23),
+(27,5143,210),
+(42,3012,77),
+(2,6315,257),
+(88,2498,92),
+(18,4203,291),
+(57,328,250),
+(99,3077,203),
+(45,6076,297),
+(16,3449,176),
+(4,4813,285),
+(51,5170,266),
+(21,5696,164),
+(53,2379,87),
+(6,3541,23),
+(1,5448,138),
+(93,5924,105),
+(91,3375,220),
+(65,5931,308),
+(76,2004,3),
+(42,2753,271),
+(53,2026,183),
+(74,2335,71),
+(75,936,247),
+(41,5841,12),
+(92,6497,171),
+(51,6242,99),
+(86,4199,270),
+(23,6046,206),
+(23,5259,200),
+(88,3409,40),
+(19,2955,174),
+(42,5190,210),
+(16,5495,159),
+(44,1862,306),
+(94,232,150),
+(4,1988,211),
+(16,1571,320),
+(92,2793,108),
+(26,657,72),
+(98,5714,47),
+(29,2018,157),
+(68,25,78),
+(58,2929,34),
+(4,4554,34),
+(14,4483,296),
+(46,4107,168),
+(73,5443,288),
+(70,4599,1),
+(100,3477,11),
+(23,2378,234),
+(80,3506,40),
+(31,3890,219),
+(78,5172,299),
+(26,1933,101),
+(45,2412,292),
+(64,5065,109),
+(70,1438,161),
+(83,6048,270),
+(90,5873,319),
+(39,5316,93),
+(26,4309,216),
+(28,970,197),
+(73,1774,249),
+(55,5288,118),
+(17,3617,256),
+(78,4337,292),
+(16,1974,62),
+(93,2510,198),
+(83,310,266),
+(39,803,136),
+(12,5507,30),
+(94,5372,176),
+(12,4153,144),
+(37,5826,272),
+(15,3569,125),
+(6,4399,117),
+(94,356,305),
+(71,2019,177),
+(10,2064,315),
+(61,2208,245),
+(29,4545,44),
+(62,6017,310),
+(84,6271,59),
+(68,3355,273),
+(81,3568,300),
+(70,2374,318),
+(9,5433,157),
+(40,1793,60),
+(66,4463,89),
+(95,5544,46),
+(94,3477,257),
+(43,3286,211),
+(86,175,304),
+(61,1126,26),
+(23,5464,209),
+(39,3510,33),
+(67,3983,178),
+(1,5419,57),
+(10,5561,231),
+(46,347,53),
+(37,4483,314),
+(17,3415,74),
+(9,3346,277),
+(48,2199,86),
+(100,2011,284),
+(25,4687,196),
+(37,3605,1),
+(90,1809,185),
+(94,4448,137),
+(43,3877,261),
+(92,5052,120),
+(78,5216,230),
+(35,4750,43),
+(10,3524,182),
+(67,3149,160),
+(8,1023,197),
+(65,5956,129),
+(22,1876,86),
+(57,6001,217),
+(16,3955,260),
+(50,798,199),
+(97,3242,168),
+(82,4683,174),
+(20,384,137),
+(57,1451,53),
+(57,4476,26),
+(50,5316,164),
+(6,5883,80),
+(22,465,149),
+(72,3721,300),
+(88,3025,177),
+(75,2874,228),
+(30,19,22),
+(61,1886,65),
+(26,6394,235),
+(59,1406,316),
+(39,4177,32),
+(29,577,128),
+(8,5548,37),
+(93,5202,67),
+(82,4720,238),
+(98,3514,76),
+(78,1163,297),
+(6,3068,229),
+(75,1043,81),
+(26,4144,43),
+(77,156,53),
+(46,1454,68),
+(34,4279,128),
+(38,1083,246),
+(49,667,251),
+(42,3158,78),
+(24,5406,175),
+(35,4720,241),
+(7,1213,58),
+(50,1421,119),
+(95,6292,26),
+(20,872,119),
+(53,6045,112),
+(69,1525,123),
+(66,6185,53),
+(74,4017,320),
+(26,5895,174),
+(12,330,215),
+(54,6495,224),
+(26,2801,21),
+(18,5562,28),
+(20,1065,147),
+(98,1918,268),
+(70,4597,33),
+(5,5789,191),
+(60,502,26),
+(32,3866,53),
+(81,6107,111),
+(55,1876,29),
+(82,3906,82),
+(97,4459,190),
+(36,1900,156),
+(84,5103,127),
+(79,1080,310),
+(12,5243,297),
+(57,2253,56),
+(97,4025,136),
+(22,1632,295),
+(14,5311,158),
+(82,5605,105),
+(80,2662,99),
+(41,3926,130),
+(58,3269,22),
+(33,6198,88),
+(67,2226,262),
+(98,6284,59),
+(97,2787,273),
+(63,53,97),
+(45,5753,48),
+(67,1225,10),
+(75,2053,4),
+(99,6041,9),
+(77,2910,211),
+(77,848,127),
+(82,1700,88),
+(32,227,25),
+(34,4802,279),
+(42,2792,22),
+(70,2705,125),
+(66,190,310),
+(68,2021,197),
+(85,4764,32),
+(71,3684,268),
+(37,4098,139),
+(50,4162,120),
+(28,1523,291),
+(24,44,278),
+(77,4593,266),
+(5,3651,296),
+(58,4232,179),
+(48,5419,42),
+(75,6127,139),
+(91,2698,49),
+(79,6295,176),
+(58,75,209),
+(78,2157,154),
+(53,516,240),
+(84,5628,95),
+(100,4517,47),
+(5,3595,82),
+(36,5863,55),
+(20,15,119),
+(59,1289,72),
+(64,3361,118),
+(2,2881,150),
+(11,5450,259),
+(78,4484,261),
+(57,3701,99),
+(66,1506,17),
+(88,6120,147),
+(63,2048,136),
+(99,143,176),
+(49,1840,153),
+(97,1545,268),
+(19,2368,241),
+(37,3881,135),
+(46,1135,311),
+(6,2490,99),
+(99,741,317),
+(45,6491,257),
+(32,4958,264),
+(3,5893,270),
+(58,4902,136),
+(59,1043,98),
+(91,1799,26),
+(78,5229,250),
+(80,2651,167),
+(67,1455,213),
+(53,6475,282),
+(81,1483,41),
+(57,4488,132),
+(7,4762,65),
+(98,3625,290),
+(21,5405,279),
+(16,3473,77),
+(57,5095,134),
+(89,4089,112),
+(20,3855,273),
+(39,861,86),
+(1,4856,163),
+(97,832,134),
+(98,4542,85),
+(32,4125,86),
+(14,5434,178),
+(32,624,184),
+(24,1995,193),
+(45,2558,137),
+(76,539,66),
+(67,3818,69),
+(6,960,239),
+(23,2770,189),
+(85,4340,254),
+(67,185,174),
+(78,2781,134),
+(38,5021,70),
+(34,4514,68),
+(3,5815,105),
+(89,2097,214),
+(14,3329,146),
+(40,3688,24),
+(43,1274,103),
+(90,2404,110),
+(94,2734,151),
+(32,6253,188),
+(73,1051,213),
+(63,1797,312),
+(16,2371,268),
+(26,276,59),
+(30,1090,293),
+(84,1443,143),
+(83,5140,44),
+(67,5164,248),
+(14,6379,40),
+(94,1068,8),
+(66,4824,1),
+(46,3228,187),
+(35,4298,210),
+(6,1935,31),
+(30,963,93),
+(81,684,103),
+(28,4636,48),
+(15,1521,114),
+(6,466,258),
+(65,3003,282),
+(49,2227,189),
+(14,153,250),
+(5,3389,12),
+(7,5548,50),
+(12,4677,225),
+(49,4751,166),
+(42,4942,147),
+(39,528,119),
+(18,6103,162),
+(31,1017,176),
+(68,601,129),
+(19,1556,70),
+(5,3130,300),
+(37,6206,60),
+(69,3379,174),
+(45,717,316),
+(41,2991,197),
+(71,1283,139),
+(27,4933,55),
+(92,5714,157),
+(63,2470,177),
+(70,1656,64),
+(34,3566,45),
+(97,1652,61),
+(29,3298,172),
+(60,568,104),
+(20,4698,257),
+(12,6493,19),
+(71,388,313),
+(54,6093,103),
+(16,2171,117),
+(20,966,239),
+(98,6258,257),
+(37,3578,287),
+(86,5602,82),
+(63,2359,50),
+(61,4668,83),
+(53,827,242),
+(98,4798,168),
+(98,2576,21),
+(5,3624,247),
+(13,4544,216),
+(10,5887,314),
+(59,935,312),
+(55,6221,46),
+(53,952,193),
+(19,4015,258),
+(22,5374,113),
+(64,4458,267),
+(94,2984,299),
+(69,2074,31),
+(53,1667,20),
+(14,2663,266),
+(36,4571,49),
+(68,3215,190),
+(66,3994,275),
+(15,974,13),
+(7,1467,285),
+(86,3893,16),
+(11,123,156),
+(36,4336,243),
+(62,1825,302),
+(24,2610,11),
+(45,666,33),
+(94,6401,60),
+(35,3804,319),
+(46,2272,23),
+(51,3544,231),
+(34,2682,121),
+(14,1145,115),
+(96,6453,210),
+(14,5235,171),
+(14,4433,99),
+(56,4785,135),
+(29,5724,304),
+(78,6087,202),
+(76,6240,164),
+(76,88,197),
+(65,4665,213),
+(23,41,146),
+(26,1772,244),
+(48,5434,96),
+(14,4629,271),
+(22,4340,307),
+(19,5143,248),
+(63,5466,22),
+(68,2851,281),
+(62,3640,183),
+(30,346,228),
+(22,5666,262),
+(31,593,96),
+(22,5841,110),
+(61,582,313),
+(10,3902,220),
+(62,1473,148),
+(91,867,152),
+(23,5270,156),
+(49,5149,127),
+(11,2895,190),
+(50,5452,303),
+(77,4486,162),
+(73,992,297),
+(93,5406,152),
+(35,5947,308),
+(71,4138,65),
+(28,4192,41),
+(44,5302,263),
+(81,4773,232),
+(89,2040,212),
+(75,5302,30),
+(14,459,274),
+(32,1664,291),
+(55,3687,250),
+(76,200,314),
+(38,1600,320),
+(9,2325,163),
+(24,6325,195),
+(26,2186,281),
+(47,4897,226),
+(49,3311,122),
+(31,4014,55),
+(12,1491,318),
+(48,2113,258),
+(63,1384,64),
+(2,3716,171),
+(3,5624,303),
+(52,1178,178),
+(53,3188,52),
+(26,124,156),
+(20,5798,278),
+(2,3609,104),
+(74,2621,103),
+(17,1548,283),
+(17,6254,163),
+(79,5068,243),
+(60,5573,50),
+(25,283,64),
+(79,4425,236),
+(89,3301,158),
+(63,4660,172),
+(36,4360,277),
+(76,1481,40),
+(28,1267,309),
+(19,2302,296),
+(9,4983,94),
+(69,4301,241),
+(35,3268,257),
+(41,3254,69),
+(100,6444,247),
+(95,4099,207),
+(13,396,180),
+(90,810,14),
+(74,446,184),
+(44,1458,73),
+(93,184,166),
+(41,2108,83),
+(21,1534,188),
+(7,4327,154),
+(88,4859,213),
+(23,1649,316),
+(12,3368,73),
+(68,5296,161),
+(29,178,93),
+(18,3718,260),
+(71,4552,219),
+(43,984,278),
+(70,6350,122),
+(68,3007,76),
+(27,5522,88),
+(17,6053,308),
+(64,861,48),
+(40,1310,90),
+(91,3129,20),
+(89,4581,77),
+(88,3233,105),
+(96,952,297),
+(42,4421,196),
+(40,1384,212),
+(70,6342,273),
+(53,2335,263),
+(97,2650,108),
+(24,4289,92),
+(87,4218,37),
+(96,1907,74),
+(70,3648,279),
+(91,2923,81),
+(10,4273,51),
+(83,5895,261),
+(56,593,76),
+(78,2434,121),
+(57,3107,76),
+(100,3983,229),
+(81,5402,305),
+(35,2331,212),
+(91,4408,224),
+(38,498,276),
+(89,2349,193),
+(83,4286,265),
+(14,1369,2),
+(42,4663,154),
+(66,6428,64),
+(70,2751,138),
+(69,1570,234),
+(18,4559,183),
+(88,6447,163),
+(93,899,245),
+(88,3639,49),
+(35,1173,263),
+(57,1379,247),
+(40,4673,165),
+(75,2720,271),
+(84,2271,34),
+(2,657,74),
+(42,2375,130),
+(61,5932,96),
+(33,5823,74),
+(5,6076,231),
+(60,202,315),
+(83,634,187),
+(34,5302,286),
+(25,5506,99),
+(18,6272,245),
+(8,4376,126),
+(27,2184,113),
+(31,1628,267),
+(1,2874,206),
+(68,4908,1),
+(21,3954,163),
+(20,2712,124),
+(26,1011,128),
+(6,1768,152),
+(25,990,36),
+(97,3209,7),
+(42,3349,156),
+(22,900,53),
+(28,547,187),
+(75,280,200),
+(58,5389,279),
+(70,1472,171),
+(1,1191,166),
+(72,3769,209),
+(65,4686,66),
+(88,2439,151),
+(57,6180,98),
+(83,3482,98),
+(61,707,68),
+(14,6020,191),
+(2,4055,240),
+(79,2262,46),
+(97,835,3),
+(34,474,7),
+(69,328,6),
+(64,1522,62),
+(55,2,66),
+(45,1876,84),
+(18,2242,84),
+(9,3820,212),
+(8,398,87),
+(60,5346,118),
+(29,4453,233),
+(78,3507,136),
+(26,1950,227),
+(89,4491,82),
+(80,2629,121),
+(48,2883,80),
+(54,2353,54),
+(19,4543,213),
+(50,2396,296),
+(59,5927,13),
+(35,936,200),
+(12,3627,274),
+(36,6260,50),
+(20,6306,282),
+(50,1214,309),
+(52,6371,310),
+(31,5691,66),
+(11,647,224),
+(22,718,266),
+(2,5228,51),
+(21,2775,200),
+(45,5646,215),
+(32,4542,57),
+(83,6406,155),
+(36,136,142),
+(87,4241,290),
+(42,4199,103),
+(6,2491,294),
+(73,5312,76),
+(92,1940,71),
+(89,5867,296),
+(36,4082,158),
+(86,872,15),
+(60,401,270),
+(74,5076,279),
+(39,5808,139),
+(70,3936,60),
+(31,5203,164),
+(75,3045,300),
+(10,1086,312),
+(67,3785,319),
+(46,5756,1),
+(58,6164,215),
+(70,1022,30),
+(71,2676,152),
+(96,2936,182),
+(7,6254,228),
+(90,5362,317),
+(48,1436,291),
+(25,812,55),
+(74,5863,163),
+(51,3987,111),
+(86,3861,245),
+(66,3911,261),
+(89,2016,277),
+(56,5691,237),
+(23,400,21),
+(21,2451,14),
+(99,2608,134),
+(24,4465,8),
+(35,5463,243),
+(91,2503,287),
+(24,6347,16),
+(1,1047,144),
+(11,1084,260),
+(96,375,196),
+(70,159,112),
+(98,3455,89),
+(45,331,271),
+(42,2621,260),
+(80,2512,69),
+(7,719,264),
+(4,3858,164),
+(72,1791,247),
+(49,3710,107),
+(93,3367,145),
+(82,578,232),
+(30,5739,21),
+(65,3737,99),
+(6,3479,65),
+(2,1832,30),
+(69,3017,276),
+(98,5108,98),
+(22,5805,260),
+(1,2896,138),
+(82,2020,316),
+(92,2675,117),
+(2,3077,7),
+(32,2109,33),
+(82,6428,252),
+(22,2413,190),
+(30,5787,72),
+(20,2518,235),
+(99,5659,41),
+(75,4450,161),
+(64,1815,149),
+(35,2694,299),
+(46,4459,169),
+(34,4667,73),
+(33,3932,206),
+(15,2350,208),
+(94,2546,30),
+(88,674,127),
+(40,818,36),
+(100,5153,180),
+(58,5956,70),
+(41,767,175),
+(10,2423,22),
+(46,3180,259),
+(34,3026,191),
+(24,3139,220),
+(58,5815,234),
+(55,3603,286),
+(76,689,75),
+(13,3967,122),
+(18,5720,45),
+(5,306,98),
+(80,959,296),
+(50,2051,225),
+(31,758,244),
+(97,4920,231),
+(77,2953,125),
+(51,3624,181),
+(85,6028,134),
+(8,4302,116),
+(10,1080,102),
+(75,1205,163),
+(8,4444,266),
+(49,5912,88),
+(33,3503,220),
+(77,5123,219),
+(82,3822,94),
+(73,1394,183),
+(32,508,39),
+(3,1737,178),
+(55,4256,220),
+(27,6124,207),
+(94,3618,51),
+(44,143,301),
+(66,6049,188),
+(36,5151,73),
+(13,637,96),
+(62,4832,201),
+(49,1010,165),
+(1,2183,139),
+(99,2877,231),
+(19,1483,113),
+(92,924,254),
+(31,562,48),
+(100,5948,26),
+(17,5310,227),
+(82,709,13),
+(39,2655,142),
+(46,4500,21),
+(30,2759,203),
+(52,2445,65),
+(25,4207,195),
+(43,304,16),
+(84,6482,84),
+(23,3865,25),
+(85,2674,311),
+(88,621,210),
+(87,4489,159),
+(22,3697,212),
+(29,4984,31),
+(25,3658,17),
+(63,5381,151),
+(52,2400,40),
+(6,2585,64),
+(14,4161,98),
+(78,4554,273),
+(19,2860,181),
+(24,6095,132),
+(53,1163,42),
+(86,1757,273),
+(15,968,216),
+(17,2426,107),
+(55,661,31),
+(71,5105,142),
+(62,2144,143),
+(83,3061,281),
+(35,1227,178),
+(65,5896,206),
+(98,981,185),
+(53,3388,151),
+(13,3046,203),
+(87,2595,288),
+(38,3841,103),
+(13,5562,128),
+(70,2136,319),
+(81,3460,288),
+(74,1155,252),
+(6,922,246),
+(61,4493,235),
+(65,5487,178),
+(41,1137,100),
+(35,4827,33),
+(47,6126,198),
+(27,768,277),
+(92,3491,304),
+(40,6222,145),
+(45,2795,221),
+(80,3311,275),
+(42,3746,67),
+(62,4153,95),
+(36,5382,89),
+(42,6419,293),
+(51,2350,94),
+(77,6325,71),
+(59,4507,62),
+(96,6448,150),
+(82,3563,114),
+(48,4674,271),
+(94,2038,235),
+(72,5503,75),
+(42,2083,24),
+(72,2540,168),
+(33,6265,247),
+(65,892,298),
+(68,5229,66),
+(67,861,172),
+(10,3540,227),
+(97,2657,33),
+(10,1955,311),
+(85,2920,300),
+(26,1034,134),
+(70,176,146),
+(49,3191,274),
+(15,2727,207),
+(58,2760,292),
+(14,1696,273),
+(8,5403,72),
+(21,5076,191),
+(97,4606,57),
+(28,1316,310),
+(58,3993,204),
+(73,6040,291),
+(27,3042,22),
+(83,3684,265),
+(57,136,56),
+(67,1576,318),
+(50,5065,118),
+(64,5363,295),
+(49,1074,73),
+(2,1600,244),
+(14,4409,219),
+(8,754,114),
+(67,503,301),
+(15,2788,133),
+(89,3625,7),
+(56,5849,14),
+(75,5314,80),
+(75,140,44),
+(42,3532,260),
+(60,4103,291),
+(58,3463,315),
+(3,1764,262),
+(64,6035,38),
+(30,1559,302),
+(80,1582,55),
+(9,2777,172),
+(84,1215,257),
+(17,3650,265),
+(48,1594,245),
+(89,5452,81),
+(100,1135,292),
+(23,5157,40),
+(19,6371,255),
+(73,2623,247),
+(65,3246,65),
+(74,3344,206),
+(48,5356,173),
+(95,832,220),
+(96,2999,316),
+(45,5334,62),
+(53,554,164),
+(15,679,163),
+(41,3931,209),
+(65,3953,238),
+(7,5038,296),
+(17,2072,44),
+(21,1036,22),
+(46,1894,14),
+(50,2982,141),
+(2,6100,301),
+(74,4622,50),
+(29,3910,221),
+(5,1488,220),
+(39,2508,155),
+(59,6494,116),
+(85,4198,242),
+(93,5074,154),
+(48,1718,309),
+(1,1340,58),
+(46,1042,259),
+(60,4721,243),
+(12,6286,232),
+(51,110,317),
+(14,5393,244),
+(84,906,147),
+(22,3574,132),
+(73,528,4),
+(74,1375,74),
+(73,1768,92),
+(14,5608,15),
+(11,678,107),
+(21,6379,131),
+(66,6161,199),
+(32,5866,288),
+(39,4543,111),
+(12,4463,229),
+(4,2634,290),
+(86,5029,211),
+(81,1282,1),
+(77,162,108),
+(23,6267,98),
+(22,3752,245),
+(15,129,58),
+(99,1728,317),
+(62,3510,282),
+(57,2473,49),
+(56,5789,207),
+(49,2680,298),
+(93,4574,172),
+(4,5657,143),
+(30,1831,131),
+(80,2027,163),
+(37,3107,241),
+(72,886,90),
+(64,5531,247),
+(12,2559,75),
+(73,3320,309),
+(90,1074,223),
+(32,1247,278),
+(87,6115,184),
+(95,4067,193),
+(32,1130,276),
+(45,4944,143),
+(76,1212,13),
+(54,5802,149),
+(26,437,18),
+(82,5677,210),
+(52,2920,175),
+(55,3262,228),
+(8,1806,44),
+(18,3229,190),
+(100,2327,161),
+(37,1620,213),
+(11,1984,47),
+(33,1425,55),
+(18,5334,71),
+(47,2093,22),
+(34,4499,4),
+(45,1294,227),
+(3,5473,214),
+(61,5758,67),
+(38,8,131),
+(38,738,217),
+(2,234,124),
+(42,579,181),
+(48,5999,68),
+(60,2317,3),
+(78,3800,210),
+(34,533,159),
+(81,2170,208),
+(68,2924,144),
+(50,456,141),
+(48,2496,26),
+(17,5429,297),
+(61,2899,99),
+(17,3678,208),
+(86,4090,30),
+(81,4636,293),
+(69,2623,252),
+(11,6089,259),
+(82,2036,9),
+(68,4714,73),
+(73,806,295),
+(20,2047,172),
+(40,22,108),
+(80,1886,211),
+(35,4606,207),
+(71,6238,152),
+(1,569,316),
+(72,479,282),
+(87,1370,217),
+(40,2367,113),
+(16,1131,283),
+(83,2587,132),
+(45,156,101),
+(72,626,280),
+(78,6089,154),
+(64,102,91),
+(41,1990,42),
+(13,1199,56),
+(18,659,157),
+(79,4146,95),
+(72,5101,223),
+(49,2816,26),
+(41,6390,268),
+(56,2420,310),
+(90,328,274),
+(45,1374,146),
+(90,4030,198),
+(98,291,82),
+(26,2894,132),
+(83,5373,209),
+(62,4118,38),
+(42,2551,172),
+(47,6406,282),
+(79,4211,58),
+(22,6436,116),
+(65,6048,272),
+(13,5295,29),
+(12,1352,148),
+(64,5760,9),
+(34,2304,242),
+(49,2108,198),
+(82,631,45),
+(78,1040,144),
+(73,3893,245),
+(95,1518,319),
+(21,3122,7),
+(39,2265,274),
+(86,4371,13),
+(36,3788,112),
+(73,4544,215),
+(44,4742,195),
+(78,860,21),
+(63,3619,230),
+(56,2195,56),
+(21,5563,42),
+(87,1350,251),
+(41,5634,227),
+(47,902,320),
+(96,884,70),
+(52,4835,242),
+(9,4325,95),
+(28,1251,242),
+(84,423,239),
+(8,3979,101),
+(42,3041,296),
+(61,5131,294),
+(89,2379,236),
+(88,4876,149),
+(55,2020,182),
+(45,5674,109),
+(26,1787,90),
+(97,569,228),
+(64,1732,135),
+(40,4168,239),
+(49,4452,208),
+(29,4379,47),
+(33,5911,151),
+(65,868,6),
+(66,3609,303),
+(52,6075,103),
+(93,256,148),
+(23,1306,239),
+(65,180,91),
+(98,5138,248),
+(64,1623,21),
+(12,2866,190),
+(21,2867,156),
+(81,5559,74),
+(47,2393,249),
+(81,5178,230),
+(37,2699,160),
+(22,1179,172),
+(85,2835,175),
+(71,6052,281),
+(64,1264,181),
+(39,1573,67),
+(72,3112,161),
+(35,1576,177),
+(7,1684,4),
+(3,1384,204),
+(34,4984,266),
+(60,6135,216),
+(78,1003,280),
+(96,2772,22),
+(80,4473,189),
+(86,2637,51),
+(52,2988,176),
+(37,5547,19),
+(46,4675,206),
+(34,2024,297),
+(14,3813,303),
+(93,4574,152),
+(41,1062,59),
+(41,2974,34),
+(81,4568,245),
+(68,6197,66),
+(13,3433,149),
+(60,554,21),
+(51,6313,238),
+(32,6433,36),
+(100,4194,316),
+(71,3298,302),
+(47,4429,217),
+(3,3545,238),
+(53,2921,5),
+(61,3781,220),
+(87,936,199),
+(34,331,73),
+(47,4690,229),
+(37,5648,280),
+(1,3661,75),
+(4,721,251),
+(54,4090,156),
+(7,3860,273),
+(26,1741,62),
+(47,6233,35),
+(9,2238,212),
+(47,920,89),
+(62,3400,52),
+(22,1721,194),
+(28,4586,135),
+(4,4405,57),
+(38,900,85),
+(12,5856,57),
+(82,3397,47),
+(1,1686,69),
+(15,5975,25),
+(10,6495,109),
+(14,1651,235),
+(21,3140,277),
+(78,4118,196),
+(38,1306,255),
+(71,3617,206),
+(59,1082,89),
+(85,5617,123),
+(30,6011,282),
+(51,4856,108),
+(29,4708,252),
+(63,1594,158),
+(78,5405,169),
+(6,2646,163),
+(32,221,1),
+(93,2997,148),
+(61,5454,19),
+(33,3504,309),
+(65,552,65),
+(35,3766,69),
+(77,6310,180),
+(20,806,136),
+(54,6047,290),
+(47,648,139),
+(87,2620,74),
+(51,3014,102),
+(23,6339,12),
+(30,3218,315),
+(45,2095,85),
+(95,1422,52),
+(68,6380,294),
+(45,1328,41),
+(49,2844,7),
+(3,1611,302),
+(100,5585,267),
+(54,2535,85),
+(98,2950,310),
+(88,4399,80),
+(97,4982,149),
+(24,2795,65),
+(5,4560,30),
+(77,2698,55),
+(75,514,257),
+(81,2260,112),
+(90,654,11),
+(52,1848,61),
+(62,4844,213),
+(60,3918,240),
+(20,1168,46),
+(4,3408,156),
+(53,2176,89),
+(89,1199,38),
+(76,2427,4),
+(70,5600,107),
+(61,5622,38),
+(88,1291,305),
+(37,3994,211),
+(45,5324,66),
+(51,1602,50),
+(43,2560,24),
+(32,5344,153),
+(15,4586,187),
+(46,1948,44),
+(49,5398,234),
+(33,2357,261),
+(79,1969,186),
+(83,5908,165),
+(91,997,145),
+(89,5827,3),
+(54,5411,50),
+(32,5247,293),
+(36,3048,152),
+(62,3714,61),
+(4,1050,233),
+(42,4620,205),
+(85,6463,178),
+(14,4210,108),
+(81,2317,266),
+(100,1675,36),
+(7,6042,132),
+(92,2577,239),
+(57,3075,92),
+(90,3770,58),
+(67,5629,264),
+(64,5532,269),
+(66,4324,62),
+(74,3039,125),
+(30,5991,11),
+(82,6215,272),
+(34,4855,271),
+(91,4004,33),
+(10,4658,169),
+(43,3365,260),
+(38,2181,32),
+(10,5167,224),
+(68,4891,276),
+(68,4516,139),
+(71,2432,286),
+(80,985,187),
+(43,2288,290),
+(33,4439,310),
+(75,601,208),
+(74,6496,48),
+(58,3772,281),
+(19,2223,290),
+(88,2337,256),
+(99,21,15),
+(86,2271,122),
+(19,5270,203),
+(97,4251,319),
+(64,6400,284),
+(67,6377,268),
+(6,3386,20),
+(34,6374,115),
+(85,3066,182),
+(58,4861,266),
+(21,3642,136),
+(81,397,200),
+(12,2419,267),
+(65,4731,17),
+(82,3206,308),
+(53,3727,315),
+(35,5159,13),
+(42,5095,300),
+(21,1736,138),
+(70,5060,76),
+(51,1344,149),
+(72,5131,274),
+(54,6296,23),
+(72,5934,54),
+(11,4757,150),
+(65,1327,305),
+(9,5079,36),
+(60,5483,164),
+(63,1359,175),
+(63,369,58),
+(39,5066,16),
+(22,1858,155),
+(72,5726,290),
+(27,4257,95),
+(58,3051,17),
+(15,3763,93),
+(43,3117,145),
+(13,6119,138),
+(62,3940,179),
+(40,2112,33),
+(2,90,20),
+(16,18,81),
+(36,1765,257),
+(96,1364,222),
+(90,2562,15),
+(81,4236,293),
+(53,1988,313),
+(93,175,3),
+(98,5571,157),
+(23,6368,316),
+(71,3450,89),
+(26,353,193),
+(8,4862,245),
+(100,5189,257),
+(36,3384,99),
+(60,4704,234),
+(3,258,311),
+(64,1322,32),
+(86,765,5),
+(39,2983,69),
+(69,2349,280),
+(22,1577,265),
+(35,483,293),
+(49,6324,53),
+(62,4616,134),
+(49,3605,61),
+(19,2859,28),
+(15,1820,148),
+(17,2120,301),
+(1,845,74),
+(76,3972,320),
+(71,4820,126),
+(64,1661,124),
+(6,5752,287),
+(6,2039,215),
+(46,927,7),
+(47,656,119),
+(67,698,115),
+(21,1396,237),
+(9,3017,72),
+(72,113,256),
+(44,3577,291),
+(37,1357,217),
+(6,4426,123),
+(34,6286,292),
+(28,1044,271),
+(93,4677,290),
+(73,6441,74),
+(78,3211,319),
+(8,3025,159),
+(62,4794,193),
+(56,2931,210),
+(74,3951,78),
+(79,3988,112),
+(56,6058,231),
+(10,5233,273),
+(76,2647,306),
+(35,2890,188),
+(1,6370,231),
+(2,2996,136),
+(98,2993,184),
+(53,1211,56),
+(67,4175,281),
+(24,3294,234),
+(10,863,61),
+(11,4577,98),
+(13,2757,296),
+(59,295,184),
+(39,1041,8),
+(50,1711,137),
+(66,1658,316),
+(60,6154,124),
+(73,2722,11),
+(50,2959,71),
+(45,5300,197),
+(39,1833,261),
+(57,1340,280),
+(2,5236,182),
+(1,3071,75),
+(56,2709,248),
+(60,252,242),
+(80,2874,97),
+(10,2400,47),
+(31,305,125),
+(11,4367,151),
+(2,5028,305),
+(41,4339,308),
+(33,5069,184),
+(66,1191,131),
+(43,1844,82),
+(93,4423,30),
+(25,3290,110),
+(44,5485,249),
+(32,3698,27),
+(52,488,88),
+(67,550,298),
+(43,4087,260),
+(52,5844,78),
+(50,5461,187),
+(72,3921,87),
+(62,2550,267),
+(100,1120,257),
+(68,1772,204),
+(28,4421,71),
+(41,1833,181),
+(10,2349,227),
+(83,538,203),
+(15,5200,314),
+(68,3408,260),
+(39,189,177),
+(83,3806,204),
+(61,2928,29),
+(12,3106,176),
+(54,3187,171),
+(92,3321,49),
+(41,4615,177),
+(2,540,297),
+(92,4658,43),
+(85,5634,138),
+(16,3364,116),
+(99,4537,310),
+(2,3816,222),
+(8,1827,158),
+(94,3101,87),
+(97,211,252),
+(8,6135,135),
+(48,1203,298),
+(62,6241,280),
+(77,3542,178),
+(88,4811,164),
+(74,2785,92),
+(31,6174,273),
+(12,5476,23),
+(76,3068,99),
+(45,2869,7),
+(9,416,222),
+(57,5218,124),
+(75,1590,128),
+(30,4411,231),
+(14,3435,47),
+(15,172,2),
+(4,6499,288),
+(65,2578,20),
+(61,4268,2),
+(71,2955,312),
+(3,296,168),
+(57,2079,60),
+(83,3160,194),
+(81,860,267),
+(96,375,300),
+(25,618,229),
+(5,6294,269),
+(22,6299,80),
+(97,2806,44),
+(48,1563,116),
+(27,475,151),
+(78,2871,195),
+(41,2937,237),
+(60,3908,190),
+(99,1042,136),
+(78,5303,129),
+(74,2520,84),
+(91,1005,220),
+(19,2209,283),
+(80,5573,46),
+(96,2634,99),
+(52,3954,282),
+(41,3596,269),
+(60,5817,54),
+(100,4584,193),
+(27,6248,118),
+(95,3977,299),
+(80,4985,205),
+(91,1357,29),
+(66,5596,268),
+(9,2082,80),
+(68,4734,88),
+(87,2226,259),
+(3,1147,60),
+(96,4182,258),
+(28,2559,77),
+(46,3270,307),
+(41,3155,168),
+(88,1780,269),
+(84,4405,268),
+(18,6216,198),
+(56,1717,167),
+(23,951,283),
+(40,4672,159),
+(47,3668,58),
+(71,6098,4),
+(17,6453,219),
+(59,154,221),
+(43,1851,315),
+(32,5531,21),
+(97,799,187),
+(68,712,171),
+(58,1777,39),
+(91,2357,27),
+(73,4703,264),
+(81,1336,41),
+(41,26,256),
+(87,6418,23),
+(27,679,195),
+(44,3587,229),
+(65,4421,259),
+(28,2864,190),
+(47,5354,183),
+(90,2856,116),
+(2,5549,242),
+(57,1288,168),
+(76,5476,215),
+(7,1321,13),
+(15,3402,94),
+(94,2023,2),
+(1,4299,271),
+(95,5538,237),
+(59,5735,235),
+(53,816,190),
+(12,2548,186),
+(15,4317,300),
+(51,4647,143),
+(17,346,6),
+(33,1143,56),
+(64,6226,282),
+(77,5574,53),
+(26,4396,280),
+(11,3393,138),
+(12,2505,259),
+(86,2676,18),
+(89,6279,101),
+(61,5603,309),
+(31,833,91),
+(33,1157,112),
+(42,1416,109),
+(10,1032,279),
+(9,2301,7),
+(83,1040,306),
+(42,1616,5),
+(50,2752,276),
+(26,2656,5),
+(79,4017,196),
+(46,1623,54),
+(67,1393,55),
+(78,709,281),
+(30,1307,52),
+(80,6054,98),
+(67,2445,95),
+(21,1831,93),
+(68,665,294),
+(76,861,198),
+(97,5,204),
+(94,4029,205),
+(57,598,152),
+(79,3496,262),
+(81,2121,56),
+(11,5969,259),
+(63,3152,88),
+(64,3270,31),
+(6,4127,143),
+(40,3770,213),
+(93,2190,87),
+(12,5635,210),
+(88,2992,61),
+(18,276,227),
+(72,2553,87),
+(94,5488,42),
+(94,4683,233),
+(74,4773,186),
+(43,2767,307),
+(30,5327,21),
+(27,1475,43),
+(11,4291,169),
+(10,4343,263),
+(14,5585,222),
+(16,1211,193),
+(11,2290,60),
+(62,4267,99),
+(97,1481,199),
+(28,5741,83),
+(57,659,132),
+(47,3607,310),
+(65,4174,168),
+(94,4240,60),
+(16,2469,100),
+(20,5314,148),
+(69,2810,40),
+(69,5720,187),
+(39,2733,169),
+(46,709,275),
+(97,5091,132),
+(34,5123,24),
+(73,2354,160),
+(5,2223,216),
+(1,4920,38),
+(91,1119,160),
+(99,2441,219),
+(92,344,278),
+(14,5412,245),
+(95,6281,101),
+(77,1153,23),
+(40,1085,138),
+(59,6266,103),
+(93,5014,94),
+(29,1896,231),
+(58,1258,167),
+(35,4541,209),
+(84,2685,128),
+(15,146,36),
+(8,929,89),
+(43,1410,276),
+(83,1125,232),
+(84,4869,199),
+(98,3222,291),
+(49,4108,285),
+(15,6330,245),
+(97,5648,73),
+(83,67,165),
+(71,6325,237),
+(76,2377,170),
+(19,4984,147),
+(23,6394,253),
+(26,5155,275),
+(100,2702,117),
+(19,968,240),
+(48,501,30),
+(91,6222,279),
+(41,5313,113),
+(18,6157,76),
+(61,6175,277),
+(65,5495,109),
+(6,1665,276),
+(77,4627,147),
+(88,5201,277),
+(59,4769,211),
+(79,4245,56),
+(70,3244,31),
+(50,3475,11),
+(66,4505,311),
+(38,4803,4),
+(45,4245,165),
+(52,3647,70),
+(94,5037,137),
+(85,4754,250),
+(82,3327,146),
+(36,850,275),
+(4,1300,123),
+(63,945,122),
+(24,4020,4),
+(38,2623,243),
+(50,4214,243),
+(80,6222,68),
+(90,1812,279),
+(5,5647,65),
+(1,4286,60),
+(72,6239,89),
+(63,1490,188),
+(31,5995,69),
+(9,910,57),
+(67,5499,56),
+(26,6263,117),
+(94,5472,310),
+(19,6144,231),
+(6,3013,71),
+(76,4638,251),
+(68,5536,262),
+(51,5517,115),
+(4,5796,141),
+(39,2052,251),
+(61,1559,41),
+(52,5734,36),
+(68,3815,159),
+(69,2751,115),
+(94,1471,266),
+(98,3505,130),
+(77,2450,142),
+(28,1428,67),
+(100,728,276),
+(3,3429,260),
+(45,86,305),
+(47,2810,203),
+(75,160,97),
+(25,4652,177),
+(89,2724,137),
+(77,3221,9),
+(12,2649,18),
+(32,255,41),
+(79,2037,288),
+(42,4466,256),
+(1,2677,282),
+(98,3258,101),
+(85,2664,32),
+(64,4141,111),
+(46,1335,254),
+(68,3052,208),
+(63,2833,163),
+(14,4921,232),
+(45,975,127),
+(50,962,98),
+(19,5380,191),
+(45,2109,283),
+(95,6206,185),
+(90,4806,180),
+(55,4831,34),
+(93,5656,141),
+(11,4645,75),
+(29,4818,269),
+(32,4977,252),
+(30,3809,98),
+(55,6249,211),
+(64,435,39),
+(16,2014,11),
+(62,1418,278),
+(83,3434,120),
+(22,1468,255),
+(99,5171,134),
+(92,4325,17),
+(36,191,279),
+(63,4550,244),
+(55,1668,222),
+(92,2846,81),
+(81,5377,206),
+(53,145,26),
+(23,5044,319),
+(12,3211,185),
+(85,1392,268),
+(81,3270,203),
+(29,6387,117),
+(39,6333,46),
+(54,4945,302),
+(93,3080,39),
+(18,4363,310),
+(1,1412,283),
+(71,760,283),
+(12,159,216),
+(28,5718,248),
+(81,275,178),
+(87,1715,19),
+(11,3881,158),
+(45,1648,72),
+(31,4635,104),
+(81,6032,84),
+(20,2718,127),
+(75,2165,81),
+(39,5021,97),
+(29,6266,118),
+(61,916,208),
+(28,3341,236),
+(1,5258,227),
+(12,660,158),
+(47,4938,226),
+(38,5694,169),
+(51,2691,203),
+(91,2169,186),
+(97,4108,111),
+(61,2801,269),
+(53,2036,277),
+(75,3060,27),
+(59,6185,11),
+(2,3067,48),
+(64,5248,83),
+(2,3648,202),
+(91,4193,253),
+(19,2913,294),
+(66,3415,192),
+(69,5166,217),
+(40,883,277),
+(78,1211,9),
+(43,4176,98),
+(67,814,4),
+(89,6364,210),
+(96,4686,122),
+(80,8,309),
+(90,1997,113),
+(82,5769,287),
+(54,1382,188),
+(29,427,199),
+(42,3715,28),
+(38,6347,301),
+(36,4764,22),
+(92,3997,237),
+(4,6237,217),
+(89,3311,171),
+(23,6129,17),
+(15,3450,274),
+(7,4831,284),
+(67,933,280),
+(45,5305,18),
+(85,6085,313),
+(22,2723,206),
+(46,1490,151),
+(20,6467,60),
+(39,1258,231),
+(24,5207,227),
+(24,5841,148),
+(36,5236,103),
+(55,1567,190),
+(74,4427,98),
+(43,1208,129),
+(2,4404,306),
+(48,6239,109),
+(45,607,161),
+(72,5718,17),
+(16,35,216),
+(92,3035,211),
+(30,705,24),
+(88,5566,113),
+(27,4872,80),
+(96,1416,46),
+(52,5580,245),
+(5,117,100),
+(3,3785,19),
+(38,5621,204),
+(50,2387,78),
+(35,574,54),
+(91,4445,215),
+(53,5563,103),
+(91,135,298),
+(59,3075,84),
+(83,932,13),
+(48,784,230),
+(44,2838,273),
+(49,2274,169),
+(29,375,132),
+(95,2393,278),
+(27,5177,186),
+(73,856,46),
+(2,588,245),
+(83,523,31),
+(84,5383,113),
+(89,5598,194),
+(44,1167,114),
+(81,4290,247),
+(65,2886,127),
+(39,5284,265),
+(56,416,296),
+(50,3467,97),
+(58,2083,319),
+(20,1572,156),
+(45,1560,199),
+(57,6269,250),
+(75,1180,95),
+(94,2304,146),
+(40,5511,283),
+(74,3471,259),
+(70,3796,225),
+(46,648,55),
+(67,1637,119),
+(87,4946,206),
+(46,6269,67),
+(49,2879,319),
+(31,2188,12),
+(100,3791,211),
+(62,1206,150),
+(24,5175,36),
+(15,4470,233),
+(16,1044,190),
+(20,5584,104),
+(84,3307,61),
+(70,4893,292),
+(82,3638,262),
+(92,6498,38),
+(94,1227,247),
+(17,3757,156),
+(98,3633,129),
+(91,3276,226),
+(51,4689,2),
+(31,4505,122),
+(73,5206,265),
+(63,112,246),
+(74,3368,119),
+(66,6490,263),
+(71,4360,99),
+(97,3972,69),
+(75,688,150),
+(50,3038,89),
+(91,2498,57),
+(71,4355,167),
+(55,1915,98),
+(54,3856,61),
+(94,5035,1),
+(17,4239,137),
+(23,731,152),
+(73,2379,47),
+(11,4641,134),
+(18,3152,162),
+(49,4177,67),
+(42,202,278),
+(6,5279,263),
+(37,3748,103),
+(33,610,8),
+(1,4295,140),
+(96,4447,278),
+(14,4526,264),
+(98,5075,158),
+(55,2832,170),
+(36,598,294),
+(89,4476,212),
+(68,3021,92),
+(39,6016,249),
+(6,632,263),
+(60,4899,21),
+(40,5232,319),
+(84,3825,83),
+(16,3316,198),
+(57,5903,7),
+(18,5157,58),
+(49,4302,4),
+(63,2917,267),
+(13,893,289),
+(14,3010,206),
+(23,205,96),
+(82,593,305),
+(77,2063,47),
+(58,4891,232),
+(88,4381,125),
+(25,3140,220),
+(40,2759,10),
+(33,4048,171),
+(87,1608,77),
+(1,4513,172),
+(2,1910,3),
+(64,3345,316),
+(74,768,217),
+(68,469,240),
+(9,3303,75),
+(92,3818,75),
+(92,3747,229),
+(47,700,66),
+(97,3095,89),
+(44,2210,207),
+(78,6407,199),
+(77,2401,288),
+(1,4086,201),
+(80,4505,119),
+(69,2114,296),
+(62,5077,282),
+(21,3554,134),
+(64,717,77),
+(13,1287,227),
+(21,4303,81),
+(67,3109,125),
+(12,6199,155),
+(38,3797,299),
+(63,5193,23),
+(71,3247,112),
+(26,1618,58),
+(13,2876,301),
+(28,1575,269),
+(52,4309,263),
+(98,3984,12),
+(13,6483,23),
+(66,4992,145),
+(92,2982,263),
+(62,5188,41),
+(96,2053,1),
+(65,1201,316),
+(59,2015,300),
+(81,4386,225),
+(89,5756,64),
+(55,5257,76),
+(55,737,66),
+(25,1011,31),
+(25,3990,122),
+(15,3113,228),
+(94,774,299),
+(76,2347,257),
+(3,3577,293),
+(21,1934,47),
+(63,2303,305),
+(58,6247,278),
+(32,2971,18),
+(54,3192,192),
+(85,466,119),
+(71,6084,144),
+(50,4413,109),
+(67,4716,153),
+(54,4968,169),
+(65,2485,230),
+(19,2900,25),
+(97,6045,288),
+(90,472,278),
+(48,832,228),
+(44,4234,11),
+(11,6363,159),
+(75,1155,240),
+(71,2925,239),
+(36,1698,252),
+(85,6401,295),
+(50,4798,21),
+(85,931,248),
+(86,3092,84),
+(38,5714,108),
+(73,4076,274),
+(54,1046,27),
+(52,3689,13),
+(45,6213,177),
+(96,5932,174),
+(67,1082,263),
+(6,6228,158),
+(99,6216,179),
+(12,5028,108),
+(35,202,8),
+(42,2809,40),
+(80,795,34),
+(30,468,103),
+(35,2640,75),
+(50,1296,227),
+(80,764,61),
+(59,3354,24),
+(99,5672,183),
+(92,6332,228),
+(13,4646,180),
+(3,929,36),
+(5,2730,171),
+(10,4205,78),
+(90,1959,115),
+(43,4869,169),
+(76,2641,268),
+(78,1292,160),
+(28,5992,94),
+(29,1677,138),
+(61,952,305),
+(70,6338,276),
+(30,1316,39),
+(97,2233,98),
+(68,719,169),
+(13,4016,214),
+(62,6251,298),
+(3,365,285),
+(7,3790,14),
+(11,1585,211),
+(79,4151,105),
+(48,1597,216),
+(18,3026,11),
+(19,4823,13),
+(87,5783,87),
+(78,2251,214),
+(100,6118,83),
+(49,6437,161),
+(49,6361,183),
+(97,6494,213),
+(47,190,290),
+(98,1533,195),
+(9,711,177),
+(97,3247,142),
+(18,2419,219),
+(56,3452,221),
+(10,1214,52),
+(21,960,275),
+(45,150,60),
+(53,23,46),
+(15,834,26),
+(33,6471,305),
+(22,2777,146),
+(73,1,68),
+(6,6397,88),
+(62,2525,297),
+(45,5704,70),
+(53,5824,292),
+(76,3450,203),
+(40,878,14),
+(55,137,43),
+(25,2079,172),
+(64,6399,303),
+(100,4046,158),
+(43,6497,171),
+(12,6109,87),
+(70,1539,49),
+(49,2334,263),
+(69,4147,63),
+(14,4095,252),
+(53,2492,82),
+(69,2758,122),
+(58,1112,59),
+(72,1426,184),
+(94,1217,28),
+(22,757,96),
+(52,3642,227),
+(76,2320,116),
+(64,5898,60),
+(16,87,92),
+(41,2295,52),
+(3,1118,179),
+(30,88,48),
+(2,2614,211),
+(21,5896,159),
+(18,2350,137),
+(95,1218,176),
+(98,4459,40),
+(50,4811,159),
+(75,4525,14),
+(5,6041,25),
+(35,263,41),
+(64,6458,13),
+(64,3612,292),
+(61,748,127),
+(3,3022,180),
+(48,6101,133),
+(11,4605,279),
+(60,5145,35),
+(99,4359,257),
+(39,4338,215),
+(50,5189,49),
+(90,5062,295),
+(47,5349,129),
+(64,3864,201),
+(8,6031,288),
+(78,1563,37),
+(87,1147,97),
+(27,3287,74),
+(97,3051,20),
+(78,3216,265),
+(9,4890,270),
+(79,108,44),
+(74,2783,204),
+(9,4091,22),
+(14,294,243),
+(81,1767,71),
+(46,5861,219),
+(9,1002,310),
+(55,5688,160),
+(100,3755,84),
+(11,126,114),
+(6,6411,185),
+(20,5851,120),
+(75,2832,110),
+(64,179,8),
+(4,2547,50),
+(88,2502,16),
+(87,1552,259),
+(21,604,176),
+(95,1780,279),
+(61,2785,183),
+(24,851,255),
+(73,2240,61),
+(29,859,137),
+(30,4359,260),
+(64,3672,238),
+(67,3449,258),
+(21,3853,276),
+(23,3563,162),
+(6,4156,29),
+(55,2387,136),
+(40,4542,126),
+(91,385,203),
+(57,3344,285),
+(23,2296,254),
+(85,4088,46),
+(58,1038,218),
+(50,4321,136),
+(91,2744,108),
+(75,3884,191),
+(75,3124,200),
+(53,1196,242),
+(99,4396,144),
+(100,1602,243),
+(92,1548,225),
+(37,481,208),
+(37,5961,252),
+(90,2476,38),
+(92,2361,67),
+(14,4660,309),
+(35,3518,146),
+(73,3369,33),
+(71,4409,32),
+(94,4871,183),
+(20,4595,320),
+(60,1409,23),
+(92,6101,53),
+(95,456,277),
+(86,3675,287),
+(21,6144,288),
+(34,2620,172),
+(11,1576,75),
+(69,5940,153),
+(1,5893,9),
+(16,5607,120),
+(23,5458,60),
+(79,6456,91),
+(92,3922,47),
+(78,244,56),
+(87,5505,251),
+(2,6321,77),
+(92,2201,284),
+(46,3510,161),
+(52,4308,230),
+(20,1699,134),
+(83,5786,265),
+(79,1810,161),
+(46,6005,279),
+(22,4507,129),
+(47,944,58),
+(66,2412,171),
+(90,4017,188),
+(6,5975,282),
+(73,4625,30),
+(39,5202,76),
+(1,2294,88),
+(83,3418,67),
+(29,868,317),
+(28,5103,263),
+(21,6494,80),
+(57,1729,222),
+(70,3739,101),
+(11,3337,320),
+(62,3526,93),
+(37,1887,237),
+(28,5037,232),
+(48,2365,280),
+(25,5500,135),
+(83,6487,110),
+(4,2948,232),
+(8,457,245),
+(12,3136,218),
+(11,4805,311),
+(39,6103,28),
+(36,4156,245),
+(11,4774,120),
+(22,1509,190),
+(13,2691,31),
+(98,2073,73),
+(12,2647,98),
+(89,6036,33),
+(55,2280,162),
+(57,4694,233),
+(18,1590,315),
+(55,552,293),
+(42,4065,40),
+(19,220,131),
+(61,4972,83),
+(51,4652,112),
+(69,1620,60),
+(95,4934,236),
+(76,2355,128),
+(37,1372,5),
+(13,5362,17),
+(26,6058,233),
+(13,5997,193),
+(44,4297,170),
+(63,2551,259),
+(71,5758,57),
+(8,767,120),
+(81,5419,121),
+(82,6463,201),
+(17,793,78),
+(2,5837,153),
+(10,2489,103),
+(26,2160,7),
+(92,4680,154),
+(18,2067,107),
+(63,1938,79),
+(38,50,99),
+(81,5643,263),
+(90,5081,313),
+(68,6316,12),
+(98,2734,315),
+(89,2353,76),
+(84,4846,129),
+(31,1733,107),
+(73,254,85),
+(10,3687,257),
+(13,634,28),
+(45,4543,92),
+(79,2272,244),
+(46,1315,135),
+(13,5122,46),
+(94,4553,208),
+(13,1773,96),
+(98,1662,309),
+(19,3007,297),
+(73,4823,96),
+(14,3696,134),
+(55,6306,252),
+(91,5009,73),
+(80,2935,99),
+(37,4807,256),
+(48,4842,10),
+(59,5772,237),
+(20,1885,55),
+(78,247,279),
+(90,6085,37),
+(70,5258,48),
+(62,6494,263),
+(28,2429,189),
+(77,3656,313),
+(6,4466,81),
+(36,6098,310),
+(51,2772,228),
+(39,5378,47),
+(86,4066,207),
+(73,2138,315),
+(21,5609,310),
+(30,5923,253),
+(97,362,213),
+(84,737,209),
+(77,2206,150),
+(20,5218,187),
+(59,605,252),
+(25,907,309),
+(33,17,178),
+(88,3595,56),
+(89,826,145),
+(28,3678,185),
+(12,4899,257),
+(88,3805,47),
+(4,2866,304),
+(30,227,165),
+(31,6152,97),
+(52,2447,237),
+(39,2039,18),
+(31,5169,22),
+(41,1981,14),
+(50,6031,245),
+(53,3775,2),
+(91,1984,11),
+(64,1725,208),
+(43,4036,211),
+(13,1377,163),
+(1,2308,257),
+(27,2074,127),
+(90,3233,218),
+(74,4847,203),
+(56,6276,46),
+(41,527,193),
+(80,4736,198),
+(84,4802,134),
+(98,1159,237),
+(23,5287,136),
+(28,5372,15),
+(87,6486,101),
+(34,1521,251),
+(8,4062,66),
+(60,1307,71),
+(56,5710,19),
+(9,6073,258),
+(1,1567,36),
+(26,1021,164),
+(94,5139,36),
+(88,5034,112),
+(94,2967,320),
+(57,2922,181),
+(17,2745,148),
+(43,5436,310),
+(15,1540,267),
+(13,3762,49),
+(78,5289,2),
+(23,2372,310),
+(18,1938,52),
+(51,3034,26),
+(36,6468,122),
+(76,4866,232),
+(82,2745,117),
+(65,6297,289),
+(73,4093,136),
+(48,6012,93),
+(97,4032,246),
+(49,899,227),
+(32,4235,189),
+(68,287,216),
+(10,2126,211),
+(70,5213,66),
+(46,1319,233),
+(76,3841,298),
+(3,5969,198),
+(40,1051,14),
+(33,3584,220),
+(74,6390,174),
+(53,5144,249),
+(56,1766,185),
+(92,5750,271),
+(94,5804,15),
+(5,1464,256),
+(21,6093,154),
+(95,549,195),
+(17,6440,287),
+(80,5955,58),
+(29,6132,195),
+(55,1875,210),
+(80,2640,219),
+(41,4478,273),
+(5,3960,245),
+(69,97,275),
+(83,2391,255),
+(52,5455,94),
+(8,1654,81),
+(77,1137,270),
+(50,761,162),
+(86,4269,164),
+(9,1925,66),
+(90,467,116),
+(23,2914,154),
+(60,6034,282),
+(44,4218,251),
+(51,3967,9),
+(73,5755,138),
+(46,3274,173),
+(55,1093,40),
+(42,35,247),
+(65,4150,11),
+(29,3880,102),
+(94,3842,314),
+(14,3309,235),
+(17,5786,107),
+(55,5146,312),
+(90,55,27),
+(87,3694,293),
+(4,2895,235),
+(11,3340,212),
+(52,6116,88),
+(56,6012,224),
+(69,2959,165),
+(55,4141,158),
+(23,4402,122),
+(60,5524,305),
+(6,6114,264),
+(16,286,307),
+(69,5613,294),
+(60,1651,24),
+(4,6245,16),
+(90,3521,127),
+(75,5649,61),
+(76,3029,245),
+(15,3266,86),
+(32,854,167),
+(22,747,141),
+(42,1041,221),
+(93,3820,107),
+(55,2505,176),
+(63,3257,54),
+(96,5068,235),
+(19,6053,229),
+(71,3625,232),
+(58,5981,192),
+(96,234,284),
+(61,2522,270),
+(36,1819,98),
+(64,2831,306),
+(10,829,288),
+(67,2927,27),
+(36,2706,91),
+(85,5826,71),
+(38,1176,309),
+(2,2177,124),
+(34,5333,260),
+(32,4766,4),
+(81,3329,108),
+(98,4843,68),
+(87,4866,206),
+(99,4990,159),
+(85,2931,61),
+(3,5234,172),
+(17,5393,125),
+(38,5076,320),
+(26,5770,21),
+(17,1781,46),
+(42,3931,94),
+(73,4972,58),
+(95,3608,208),
+(100,2367,87),
+(81,2605,95),
+(40,1265,113),
+(72,5208,118),
+(61,1260,97),
+(54,6340,52),
+(97,2019,265),
+(20,71,309),
+(7,551,202),
+(78,4307,252),
+(76,941,154),
+(75,511,121),
+(61,4862,171),
+(39,5343,29),
+(99,2996,162),
+(56,6043,29),
+(69,6356,41),
+(73,2411,186),
+(40,1415,38),
+(18,194,281),
+(67,877,141),
+(32,416,110),
+(39,920,106),
+(11,4136,5),
+(28,149,284),
+(45,3570,306),
+(98,2729,51),
+(2,2829,289),
+(9,5632,148),
+(23,714,106),
+(14,2993,186),
+(89,3440,229),
+(16,109,88),
+(99,5429,176),
+(27,768,87),
+(27,2446,305),
+(79,1904,166),
+(23,3252,295),
+(74,4878,288),
+(20,3676,26),
+(51,3822,221),
+(84,5549,197),
+(14,659,2),
+(4,3343,237),
+(21,3750,105),
+(58,2628,110),
+(51,309,62),
+(78,70,294),
+(87,3322,244),
+(8,1833,210),
+(38,2868,284),
+(48,6048,230),
+(70,3404,139),
+(4,485,311),
+(36,5290,173),
+(56,2635,114),
+(62,920,62),
+(37,3661,236),
+(13,663,250),
+(6,6426,150),
+(48,5042,205),
+(78,1124,80),
+(19,4799,72),
+(36,4152,204),
+(63,1657,314),
+(29,4034,252),
+(83,6291,58),
+(32,1033,95),
+(11,3010,84),
+(15,1209,219),
+(27,6487,63),
+(97,5334,132),
+(46,5609,209),
+(96,1171,154),
+(56,2822,16),
+(2,4680,98),
+(60,5040,84),
+(78,1638,245),
+(65,2628,186),
+(32,5148,290),
+(99,2891,167),
+(31,5100,108),
+(16,3150,275),
+(82,3678,262),
+(84,2907,192),
+(95,1573,142),
+(99,1410,13),
+(41,5015,175),
+(7,4591,230),
+(99,4604,90),
+(28,477,123),
+(29,2364,316),
+(17,4016,120),
+(25,676,151),
+(93,3975,83),
+(49,2729,67),
+(19,2087,255),
+(35,5700,30),
+(15,312,102),
+(75,1396,133),
+(93,3476,44),
+(55,3063,110),
+(30,5063,171),
+(48,5682,107),
+(11,2477,253),
+(5,3667,54),
+(60,359,171),
+(60,4926,284),
+(95,4897,131),
+(58,2832,207),
+(61,255,133),
+(43,2512,45),
+(48,5616,20),
+(29,2558,170),
+(57,4605,5),
+(17,5400,215),
+(92,1024,104),
+(96,59,110),
+(96,1010,238),
+(96,5109,238),
+(25,1245,226),
+(7,3574,248),
+(58,3939,243),
+(17,40,175),
+(3,2042,216),
+(31,3123,101),
+(39,4528,130),
+(72,4600,97),
+(28,3517,60),
+(48,6287,109),
+(22,3135,222),
+(53,3154,119),
+(11,2304,270),
+(55,3865,155),
+(86,315,310),
+(24,676,119),
+(35,270,27),
+(20,4208,289),
+(13,2920,79),
+(51,578,91),
+(9,4893,169),
+(96,3559,68),
+(97,5078,283),
+(98,3985,80),
+(11,5116,294),
+(45,911,70),
+(14,105,26),
+(70,4329,294),
+(95,6452,206),
+(91,3821,317),
+(52,341,186),
+(84,536,13),
+(63,3273,81),
+(84,6283,251),
+(26,5077,254),
+(81,4672,195),
+(86,180,45),
+(97,4484,309),
+(78,3657,216),
+(36,1041,127),
+(10,2714,211),
+(39,3291,248),
+(90,1454,289),
+(67,4797,300),
+(50,3636,35),
+(95,4095,276),
+(23,3660,84),
+(4,4713,263),
+(92,5661,12),
+(72,2754,118),
+(22,530,97),
+(31,3599,102),
+(37,3735,123),
+(58,652,275),
+(23,2118,242),
+(22,6251,5),
+(28,4832,279),
+(29,1457,147),
+(98,4787,319),
+(17,4189,141),
+(10,2436,138),
+(41,4429,70),
+(54,4583,306),
+(47,6173,159),
+(57,2151,72),
+(59,2499,19),
+(37,1711,179),
+(98,6058,159),
+(25,6275,71),
+(18,2743,228),
+(22,2736,201),
+(71,5980,34),
+(41,917,121),
+(38,2129,246),
+(97,5571,67),
+(39,416,1),
+(5,5496,223),
+(82,443,170),
+(84,4060,2),
+(80,486,177),
+(18,1952,12),
+(80,404,199),
+(84,3626,86),
+(26,2625,94),
+(87,4005,98),
+(49,4530,108),
+(71,3111,205),
+(30,1169,268),
+(82,1124,288),
+(62,4119,8),
+(98,1086,23),
+(98,4469,177),
+(28,2840,288),
+(82,1844,123),
+(11,658,260),
+(62,4584,67),
+(78,530,128),
+(18,3479,170),
+(37,4039,36),
+(91,3385,34),
+(60,5710,51),
+(55,560,135),
+(98,1945,185),
+(43,5951,99),
+(33,11,236),
+(66,5903,30),
+(1,3140,10),
+(68,3492,260),
+(33,523,238),
+(80,16,297),
+(85,5617,172),
+(38,6481,285),
+(99,681,157),
+(47,4553,83),
+(20,3135,159),
+(22,333,129),
+(29,3389,229),
+(97,3230,277),
+(23,3513,106),
+(11,2579,293),
+(57,3725,313),
+(12,2323,269),
+(69,5494,98),
+(78,2049,202),
+(49,841,50),
+(86,1058,141),
+(99,6160,133),
+(3,733,294),
+(45,1053,229),
+(9,5918,236),
+(7,1540,151),
+(45,3076,38),
+(60,126,93),
+(74,2300,189),
+(93,1371,285),
+(79,1694,286),
+(21,1045,87),
+(2,4876,144),
+(27,6097,264),
+(36,4316,41),
+(100,434,281),
+(60,1732,268),
+(66,1864,178),
+(8,1233,106),
+(20,6076,71),
+(9,6360,292),
+(36,5508,192),
+(40,3600,193),
+(36,3424,11),
+(8,2278,151),
+(10,216,264),
+(60,2347,116),
+(94,5736,118),
+(8,6185,216),
+(54,5904,250),
+(100,3338,124),
+(20,3203,1),
+(46,1172,288),
+(28,5824,4),
+(67,1161,270),
+(52,1193,64),
+(93,1559,39),
+(4,3739,302),
+(49,6068,313),
+(93,5285,190),
+(96,64,179),
+(82,1087,80),
+(10,4734,120),
+(77,94,95),
+(88,675,52),
+(79,6477,177),
+(90,6117,304),
+(23,4998,123),
+(9,2187,258),
+(50,2705,23),
+(93,598,145),
+(65,5170,294),
+(75,3732,85),
+(14,285,152),
+(89,2584,287),
+(9,5305,173),
+(78,6412,92),
+(92,5588,53),
+(38,4376,92),
+(57,5747,210),
+(70,2495,89),
+(43,3336,160),
+(88,5474,143),
+(83,4054,106),
+(21,4819,242),
+(95,4976,140),
+(86,3753,55),
+(21,3994,88),
+(86,482,280),
+(20,4885,88),
+(35,2975,110),
+(89,3437,264),
+(60,339,136),
+(34,6341,53),
+(64,5608,173),
+(87,1094,232),
+(53,1367,94),
+(43,60,194),
+(49,4858,181),
+(64,5486,273),
+(56,5077,164),
+(32,784,39),
+(68,2555,47),
+(79,281,202),
+(30,1811,57),
+(10,4612,223),
+(81,5807,28),
+(43,5456,30),
+(42,1295,129),
+(66,2428,257),
+(10,3283,143),
+(91,6374,174),
+(47,2287,241),
+(7,4549,255),
+(30,454,237),
+(12,3141,178),
+(47,5718,148),
+(1,2709,318),
+(96,4827,246),
+(28,5321,276),
+(4,6011,5),
+(81,3249,311),
+(80,1651,132),
+(61,3760,290),
+(55,3642,293),
+(87,763,6),
+(85,187,282),
+(10,5377,42),
+(25,5251,142),
+(48,2029,74),
+(15,4736,51),
+(74,477,205),
+(91,5450,268),
+(53,3694,224),
+(44,6070,3),
+(44,849,224),
+(10,5967,306),
+(15,3066,118),
+(66,3896,180),
+(91,6500,94),
+(99,6478,290),
+(99,4011,77),
+(63,3894,305),
+(69,307,153),
+(82,949,59),
+(96,5343,207),
+(91,213,35),
+(88,3002,285),
+(24,3347,186),
+(87,2825,180),
+(73,3532,138),
+(2,6025,310),
+(17,1896,272),
+(78,2161,85),
+(62,2045,124),
+(95,4132,155),
+(85,2081,19),
+(50,6126,152),
+(96,4639,247),
+(2,5083,224),
+(69,5085,12),
+(19,5038,53),
+(76,880,148),
+(38,3834,230),
+(39,4468,283),
+(100,994,239),
+(43,5944,50),
+(77,527,44),
+(80,861,220),
+(76,5771,251),
+(43,1016,172),
+(34,2151,48),
+(44,4179,28),
+(96,1667,230),
+(23,5727,19),
+(45,5285,14),
+(70,2210,12),
+(16,2491,113),
+(41,2116,88),
+(62,5150,73),
+(22,4172,23),
+(44,5517,2),
+(24,2823,59),
+(69,3668,92),
+(95,4216,276),
+(2,238,148),
+(75,4980,16),
+(65,1249,18),
+(6,2959,265),
+(69,4478,283),
+(49,1047,86),
+(87,4511,182),
+(91,5394,313),
+(3,3407,314),
+(73,3427,51),
+(100,5580,250),
+(75,470,42),
+(47,535,301),
+(60,1344,176),
+(56,131,85),
+(92,1221,140),
+(80,2925,292),
+(87,5596,75),
+(18,735,136),
+(70,5869,87),
+(52,3167,34),
+(53,6333,3),
+(4,2222,192),
+(71,4178,237),
+(49,3290,312),
+(15,923,195),
+(29,2750,123),
+(66,5976,186),
+(21,2181,310),
+(65,4868,173),
+(96,5460,118),
+(58,3871,82),
+(42,6424,2),
+(51,1736,107),
+(89,4660,313),
+(29,5348,147),
+(44,1689,97),
+(88,1416,255),
+(84,540,75),
+(5,838,111),
+(16,2632,163),
+(43,2145,307),
+(53,1996,92),
+(58,4560,267),
+(84,5556,128),
+(72,4782,279),
+(91,248,261),
+(50,2188,124),
+(22,6082,15),
+(90,4965,71),
+(1,2701,180),
+(95,2923,234),
+(46,2953,250),
+(67,4046,40),
+(29,5773,236),
+(74,6079,265),
+(40,3354,155),
+(44,1242,178),
+(17,3745,85),
+(73,2645,60),
+(78,2332,188),
+(22,1211,12),
+(20,3518,112),
+(24,5531,250),
+(75,4679,172),
+(2,4426,206),
+(66,5635,169),
+(52,201,271),
+(6,4405,233),
+(96,2010,263),
+(61,4909,150),
+(98,5769,187),
+(43,5873,298),
+(77,2450,105),
+(14,1173,57),
+(39,1540,36),
+(57,227,45),
+(6,3452,65),
+(29,1667,239),
+(31,972,252),
+(90,4524,117),
+(40,71,294),
+(85,3006,59),
+(95,5329,19),
+(21,1143,58),
+(18,5091,50),
+(35,1565,26),
+(9,3573,314),
+(53,3956,283),
+(23,2476,308),
+(40,6319,119),
+(89,143,169),
+(96,2521,243),
+(16,4859,134),
+(8,1961,155),
+(33,6449,181),
+(83,5496,88),
+(22,2057,209),
+(89,1393,203),
+(80,2843,311),
+(64,6149,123),
+(46,800,130),
+(45,491,134),
+(36,15,222),
+(52,5283,288),
+(88,1572,284),
+(29,2439,88),
+(93,5675,58),
+(60,2653,1),
+(61,4412,301),
+(50,348,85),
+(77,4990,296),
+(79,1931,157),
+(95,612,150),
+(72,5119,17),
+(11,6139,200),
+(22,3982,35),
+(45,2533,246),
+(81,5238,122),
+(36,3819,222),
+(3,840,191),
+(67,1662,222),
+(77,5360,106),
+(40,3138,99),
+(84,1844,171),
+(65,4170,217),
+(1,2478,97),
+(43,1125,256),
+(17,3734,128),
+(32,5570,196),
+(95,2274,72),
+(18,623,225),
+(60,235,49),
+(53,6249,1),
+(94,2252,189),
+(20,6069,95),
+(18,5391,131),
+(11,3067,41),
+(28,4112,70),
+(83,5834,6),
+(15,2050,300),
+(22,5051,107),
+(53,4036,155),
+(97,40,3),
+(3,2843,24),
+(35,4240,139),
+(26,5424,238),
+(64,5862,228),
+(80,1472,13),
+(29,2148,150),
+(65,2179,36),
+(47,2341,254),
+(94,1224,53),
+(96,5877,286),
+(90,3130,95),
+(65,5519,78),
+(84,3122,216),
+(92,309,9),
+(44,565,188),
+(20,2815,198),
+(35,6336,253),
+(75,3493,212),
+(91,6185,297),
+(16,3827,297),
+(17,1407,141),
+(15,5699,222),
+(75,1596,268),
+(19,664,74),
+(26,611,117),
+(47,1128,302),
+(73,3753,211),
+(61,595,83),
+(96,5165,237),
+(11,5041,245),
+(18,798,73),
+(38,3686,11),
+(44,3827,38),
+(39,4855,46),
+(52,3279,308),
+(79,5086,264),
+(29,6308,206),
+(39,1907,41),
+(72,2252,112),
+(51,643,175),
+(53,6413,236),
+(4,3196,133),
+(20,3987,165),
+(13,4435,75),
+(36,5607,263),
+(20,2328,234),
+(70,3790,254),
+(91,496,23),
+(79,137,285),
+(44,3262,295),
+(88,3408,201),
+(12,1,174),
+(16,182,179),
+(65,3567,255),
+(96,957,147),
+(2,3629,78),
+(60,2441,41),
+(88,1030,288),
+(69,5841,200),
+(39,3203,279),
+(42,4794,97),
+(100,2885,35),
+(42,5865,84),
+(54,6290,302),
+(20,2500,143),
+(50,4545,129),
+(97,4148,195),
+(22,4167,68),
+(14,3223,22),
+(1,4694,43),
+(55,2555,218),
+(29,1876,117),
+(80,152,81),
+(21,6146,161),
+(36,3818,65),
+(81,5309,213),
+(19,91,49),
+(52,3616,222),
+(14,1395,160),
+(75,3001,242),
+(48,3403,276),
+(25,4128,128),
+(40,5436,115),
+(70,3727,309),
+(6,1620,45),
+(16,5472,45),
+(68,6021,252),
+(25,772,198),
+(27,789,318),
+(48,421,74),
+(36,1049,9),
+(79,6245,109),
+(79,794,220),
+(18,4908,240),
+(39,6136,27),
+(93,3284,122),
+(19,4655,117),
+(1,6344,20),
+(51,440,72),
+(64,5898,283),
+(31,1355,245),
+(49,834,125),
+(22,254,59),
+(2,6010,103),
+(18,3766,50),
+(14,2505,293),
+(17,97,213),
+(37,2335,63),
+(60,3621,242),
+(15,4149,218),
+(42,5475,60),
+(80,3137,160),
+(34,3636,233),
+(99,3956,93),
+(46,6407,247),
+(89,2872,106),
+(17,1359,255),
+(61,4478,87),
+(66,3029,85),
+(95,2098,69),
+(33,3336,189),
+(59,5528,91),
+(88,2909,39),
+(49,3342,81),
+(88,1895,283),
+(31,4216,78),
+(40,317,174),
+(41,2057,26),
+(6,5846,105),
+(36,6223,191),
+(95,6351,294),
+(93,3718,42),
+(56,2873,115),
+(11,2216,1),
+(69,2041,66),
+(34,10,223),
+(54,1511,289),
+(44,5009,199),
+(10,4921,191),
+(67,3238,259),
+(73,3472,221),
+(70,5314,1),
+(98,4738,247),
+(19,4500,272),
+(58,3213,220),
+(83,573,141),
+(47,124,299),
+(22,2567,280),
+(1,1671,272),
+(89,4630,132),
+(53,4098,308),
+(3,1530,294),
+(16,174,45),
+(68,818,162),
+(31,3763,264),
+(57,5117,319),
+(32,944,132),
+(58,3594,292),
+(11,2282,318),
+(83,4528,169),
+(84,6324,186),
+(80,4792,220),
+(77,4710,70),
+(97,67,249),
+(89,3370,67),
+(73,4948,100),
+(24,783,122),
+(65,5915,167),
+(15,998,231),
+(73,4703,115),
+(32,4399,168),
+(83,5231,113),
+(23,1080,288),
+(29,4723,262),
+(48,2200,199),
+(77,1816,246),
+(60,5622,98),
+(70,6327,128),
+(56,1112,250),
+(82,1949,310),
+(84,6372,16),
+(77,932,88),
+(77,2920,132),
+(58,6408,143),
+(37,6026,174),
+(56,322,315),
+(36,1225,156),
+(35,2154,126),
+(16,3116,162),
+(33,4392,5),
+(51,440,104),
+(84,127,139),
+(14,574,84),
+(78,6247,187),
+(49,2488,53),
+(57,2680,29),
+(7,3981,198),
+(54,1446,147),
+(91,4231,207),
+(93,344,296),
+(39,6025,149),
+(96,6274,17),
+(26,1174,187),
+(42,6023,36),
+(35,662,122),
+(90,5209,223),
+(62,232,295),
+(18,4462,226),
+(24,3917,262),
+(17,5017,164),
+(84,5709,261),
+(28,1799,188),
+(94,2418,118),
+(22,1556,27),
+(79,2962,143),
+(35,2886,33),
+(9,1836,298),
+(89,3342,130),
+(88,4939,256),
+(28,5381,179),
+(1,3731,42),
+(12,3128,55),
+(88,5152,274),
+(9,5554,85),
+(24,3476,98),
+(76,6063,310),
+(73,6015,172),
+(76,4816,86),
+(10,6106,243),
+(15,4147,55),
+(42,2762,191),
+(23,2068,182),
+(30,4570,285),
+(87,1586,17),
+(86,885,115),
+(41,608,189),
+(56,55,236),
+(24,4194,178),
+(94,3556,111),
+(16,3793,134),
+(60,990,213),
+(22,1041,287),
+(60,3282,134),
+(36,2837,57),
+(64,4142,53),
+(79,4483,68),
+(25,3759,210),
+(59,6384,127),
+(27,1401,10),
+(57,3779,291),
+(65,3668,166),
+(20,3782,319),
+(6,1398,8),
+(83,867,125),
+(93,5883,231),
+(46,1100,40),
+(31,944,83),
+(61,2430,286),
+(100,3638,75),
+(91,3321,173),
+(26,5492,63),
+(24,6334,293),
+(75,4942,211),
+(52,1060,279),
+(70,1665,194),
+(59,5659,206),
+(48,4729,202),
+(10,5548,123),
+(73,5524,212),
+(50,4210,253),
+(82,4437,36),
+(46,6427,315),
+(28,167,158),
+(4,2857,162),
+(94,4313,207),
+(86,4839,8),
+(67,1655,307),
+(95,4814,175),
+(87,5221,223),
+(9,5040,82),
+(14,1922,246),
+(42,2089,110),
+(75,4833,160),
+(72,761,146),
+(89,4125,219),
+(15,35,195),
+(62,1350,10),
+(25,5343,12),
+(61,266,161),
+(84,827,112),
+(17,1567,275),
+(52,2029,201),
+(6,4743,193),
+(32,459,197),
+(22,1252,280),
+(68,4011,301),
+(28,161,124),
+(69,4658,271),
+(94,4649,171),
+(80,2557,66),
+(2,185,143),
+(61,4353,217),
+(61,1246,126),
+(45,2556,304),
+(41,1555,57),
+(78,30,5),
+(38,5396,160),
+(94,1130,186),
+(69,714,69),
+(13,4575,116),
+(26,1060,175),
+(8,4224,239),
+(77,5362,295),
+(35,2826,98),
+(86,2871,318),
+(15,2798,167),
+(62,3395,253),
+(50,2068,280),
+(28,1931,279),
+(21,5835,2),
+(43,4639,190),
+(7,1049,19),
+(74,3917,241),
+(37,956,312),
+(28,3659,159),
+(11,394,57),
+(13,3196,283),
+(30,582,64),
+(68,4929,105),
+(53,4610,140),
+(27,3526,8),
+(22,3834,64),
+(94,1459,96),
+(10,3825,301),
+(65,3486,310),
+(83,1082,213),
+(55,3581,194),
+(7,5395,26),
+(6,69,267),
+(22,6150,164),
+(31,3650,213),
+(68,2005,146),
+(46,3063,190),
+(23,6269,220),
+(28,6342,3),
+(56,5626,173),
+(26,4121,207),
+(28,6125,215),
+(76,6394,268),
+(14,5003,133),
+(69,4953,315),
+(34,1069,215),
+(85,1961,272),
+(68,2996,51),
+(78,1142,283),
+(79,653,124),
+(30,446,61),
+(51,2194,89),
+(59,2701,239),
+(77,6491,286),
+(76,4372,298),
+(69,1206,40),
+(76,5227,122),
+(52,3124,218),
+(65,755,160),
+(73,5996,76),
+(62,5820,120),
+(83,1054,9),
+(68,1635,88),
+(48,2728,120),
+(8,5873,97),
+(13,4262,246),
+(14,158,141),
+(10,940,287),
+(7,4780,85),
+(49,1885,287),
+(64,4805,238),
+(84,4268,56),
+(98,4652,10),
+(59,1112,77),
+(49,3672,295),
+(75,5444,205),
+(32,2873,162),
+(76,4026,173),
+(50,1,240),
+(86,303,62),
+(50,5119,256),
+(2,4144,241),
+(53,2643,174),
+(80,5903,94),
+(14,1646,256),
+(20,5965,228),
+(48,711,33),
+(55,4872,172),
+(82,6204,15),
+(65,2325,47),
+(98,6011,40),
+(92,615,230),
+(78,4768,82),
+(75,1979,184),
+(82,2911,319),
+(79,1773,286),
+(85,2970,222),
+(67,6255,80),
+(90,2501,158),
+(100,3755,237),
+(6,180,193),
+(7,4589,85),
+(26,1942,307),
+(14,4838,233),
+(23,3905,6),
+(73,6062,237),
+(85,2394,291),
+(90,1841,38),
+(46,2028,39),
+(64,1958,54),
+(46,4168,232),
+(1,405,291),
+(48,5373,184),
+(67,302,86),
+(88,5347,38),
+(21,229,301),
+(36,4168,99),
+(3,3363,180),
+(87,113,77),
+(63,4605,265),
+(65,5861,176),
+(43,2833,277),
+(99,3195,164),
+(28,2422,230),
+(19,5175,196),
+(81,3068,60),
+(26,6160,147),
+(41,6491,37),
+(66,880,178),
+(32,5265,249),
+(61,2784,121),
+(65,4862,130),
+(41,4763,292),
+(94,5232,220),
+(55,720,197),
+(100,27,131),
+(70,1520,32),
+(55,1997,21),
+(87,2918,264),
+(57,3386,319),
+(9,6416,38),
+(33,3081,84),
+(21,3540,169),
+(43,6103,65),
+(30,5335,204),
+(73,2601,284),
+(91,2739,168),
+(14,3933,57),
+(62,654,126),
+(12,3790,116),
+(96,5798,233),
+(2,4789,30),
+(61,4777,287),
+(71,6215,211),
+(93,1656,75),
+(71,4663,295),
+(52,6106,145),
+(96,968,219),
+(40,3771,118),
+(76,1015,163),
+(26,803,222),
+(1,2322,318),
+(85,3305,110),
+(53,1154,280),
+(4,3474,174),
+(99,5601,119),
+(52,4761,106),
+(56,3097,213),
+(19,3201,275),
+(37,391,251),
+(79,1894,76),
+(68,3761,120),
+(53,3868,146),
+(87,1604,290),
+(70,3565,223),
+(68,5394,209),
+(66,1485,21),
+(73,2901,312),
+(26,3855,209),
+(46,5880,179),
+(10,2671,306),
+(5,3971,193),
+(50,3485,142),
+(75,4154,17),
+(53,4708,262),
+(18,674,162),
+(63,5583,78),
+(44,3557,211),
+(56,1565,129),
+(89,5755,67),
+(60,6176,307),
+(32,1022,301),
+(24,4119,224),
+(53,2543,223),
+(29,3555,117),
+(4,4969,103),
+(3,3507,319),
+(54,3804,7),
+(47,5507,56),
+(34,5538,63),
+(88,555,160),
+(36,918,43),
+(57,5515,307),
+(2,2789,245),
+(71,3037,193),
+(83,1395,78),
+(92,2922,60),
+(22,5404,299),
+(85,1697,142),
+(14,6434,243),
+(5,3949,166),
+(20,1537,194),
+(61,5435,97),
+(50,1851,81),
+(34,4372,255),
+(44,3725,111),
+(93,3168,74),
+(37,2901,229),
+(82,1941,124),
+(65,2483,79),
+(90,6377,165),
+(58,2611,27),
+(20,1973,100),
+(72,6360,158),
+(72,3806,161),
+(42,1786,74),
+(30,5652,153),
+(60,730,129),
+(83,6039,315),
+(36,820,233),
+(46,2761,187),
+(35,4312,245),
+(21,4392,314),
+(53,4127,158),
+(74,1863,220),
+(48,4743,202),
+(90,4384,43),
+(57,2271,278),
+(61,5818,276),
+(4,616,258),
+(44,5094,200),
+(80,1102,40),
+(58,3995,301),
+(75,133,268),
+(53,3308,61),
+(63,6254,259),
+(56,4727,244),
+(66,4320,213),
+(94,4149,318),
+(22,5626,103),
+(93,3935,11),
+(13,4312,224),
+(5,4247,239),
+(99,4611,110),
+(100,5679,232),
+(98,73,90),
+(56,6469,25),
+(46,3802,111),
+(23,744,254),
+(59,4350,48),
+(89,4982,183);
