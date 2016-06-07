@@ -21,16 +21,12 @@ Wykonywanie skryptów w postgresql:
 \i queries.sql
 
 
-Getting error: Peer authentication failed for user “postgres”, when trying to get pgsql working with rails:
-http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge
-
-
-
 USTAWIANIE FORMATU DATY W POSTGRESIE (dane wygenerowalem w formacie MDY):
+tymczasowe (nie dziala, jak chcemy wklepytac z shella skrypty):
 SET datestyle TO "ISO, MDY";
-
-POKAZ FORMAT DATY:
 SHOW datestyle;
+pelne (skrypty z shella dzialaja)
+ALTER DATABASE "szpital-nad-styksem" SET datestyle TO "ISO, MDY";
 
 
 - dodalem CASCADE do DELETE

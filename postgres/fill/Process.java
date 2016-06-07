@@ -15,6 +15,7 @@ class Process {
 // 1 - wstawianie plci
 // 2 - ekstrakcja numeru lekarza rodzinnego
 // 3 - przetworzenie wielu INSERT na jeden INSERT
+// 4 - zamiana daty z formatu MDY na MDY: TODO
 public static void main(String[] args) {
 
 	String file = args[0];
