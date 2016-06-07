@@ -1,4 +1,5 @@
--- Tworzenie struktury bazy
+-- Tworzenie struktury bazy oraz pozniejsze nakladanie kluczy obcych
+
 CREATE TABLE Osoby (
 Numer integer,
 Imie varchar(50) NOT NULL,
@@ -136,14 +137,16 @@ Data_zgloszenia date NOT NULL,
 Data_otrzymania date,
 Pracownik_Numer integer NOT NULL,
 Oddzial_Numer integer,
+Pozycja_zamowienia_Lp integer NOT NULL,
 CONSTRAINT Formularz_zapotrzebowania_PK PRIMARY KEY (Numer)
 );
 
 CREATE TABLE Pozycje_zamowienia (
+Lp integer NOT NULL,
 Liczba integer NOT NULL,
 Material_Numer integer NOT NULL,
 Formularz integer NOT NULL,
-CONSTRAINT Pozycje_zamowienia_PK PRIMARY KEY (Formularz, Material_Numer)
+CONSTRAINT Pozycja_zamowienia_PK PRIMARY KEY (Lp)
 );
 
 CREATE TABLE Pracownicy (
@@ -201,4 +204,198 @@ Pracownik_Numer integer NOT NULL,
 CONSTRAINT Doswiadczenie_zawodowe_PK PRIMARY KEY (Id)
 );
 
-
+
+-- nakladanie wszystkich kluczy obcych
+
+-- 3 Pokrewienstwa
+ALTER TABLE Pokrewienstwa
+	ADD CONSTRAINT Pokrewienstwo_Typ_Pokrewienstwa_FK
+	FOREIGN KEY (Typ_Pokrewienstwa_Typ)
+	REFERENCES Typy_pokrewienstwa(Typ);
+
+ALTER TABLE Pokrewienstwa
+	ADD CONSTRAINT Pokrewienstwo_Pacjent_FK
+	FOREIGN KEY (Pacjent_Numer)
+	REFERENCES Pacjenci(Numer);
+
+ALTER TABLE Pokrewienstwa
+	ADD CONSTRAINT Pokrewienstwo_Osoba_FK
+	FOREIGN KEY (Osoba_Numer)
+	REFERENCES Osoby(Numer);
+
+-- 4 Lekarze_rodzinni
+ALTER TABLE Lekarze_rodzinni
+	ADD CONSTRAINT Lekarz_rodzinny_Osoba_FK
+	FOREIGN KEY (Numer)
+	REFERENCES Osoby(Numer);
+
+-- 6 Dostawy
+ALTER TABLE Dostawy
+	ADD CONSTRAINT Dostawa_Dostawca_FK
+	FOREIGN KEY (Dostawca_Numer)
+	REFERENCES Dostawcy(Numer);
+
+ALTER TABLE Dostawy
+	ADD CONSTRAINT Material_Dostawca_FK
+	FOREIGN KEY (Material_Numer)
+	REFERENCES Materialy(Numer);
+
+-- 8 Dozowania_leku
+ALTER TABLE Dozowania_leku
+	ADD CONSTRAINT Dozowanie_leku_Pacjent_FK
+	FOREIGN KEY (Pacjent_Numer)
+	REFERENCES Pacjenci(Numer);
+
+ALTER TABLE Dozowania_leku
+	ADD CONSTRAINT Dozowanie_leku_Lek_FK
+	FOREIGN KEY (Lek_Numer)
+	REFERENCES Leki(Numer);
+
+-- 11 Pacjenci
+ALTER TABLE Pacjenci
+	ADD CONSTRAINT Pacjent_Osoba_FK
+	FOREIGN KEY (Numer)
+	REFERENCES Osoby(Numer);
+
+ALTER TABLE Pacjenci
+	ADD CONSTRAINT Pacjent_Lekarz_rodzinny_FK
+	FOREIGN KEY (Lekarz_rodzinny_Numer)
+	REFERENCES Lekarze_rodzinni(Numer);
+
+ALTER TABLE Pacjenci
+	ADD CONSTRAINT Pacjent_Stan_cywilny_FK
+	FOREIGN KEY (Stan_cywilny_Typ)
+	REFERENCES Stany_cywilne(Typ);
+
+-- 12 Hospitalizacje_ambulatoryjne
+ALTER TABLE Hospitalizacje_ambulatoryjne
+	ADD CONSTRAINT Hospitalizacja_ambulatoryjna_Hospitalizacja_FK
+	FOREIGN KEY (Numer)
+	REFERENCES Hospitalizacje(Numer);
+
+-- 14 Hospitalizacje
+ALTER TABLE Hospitalizacje
+	ADD CONSTRAINT Hospitalizacja_Pacjent_FK
+	FOREIGN KEY (Pacjent_Numer)
+	REFERENCES Pacjenci(Numer);
+
+ALTER TABLE Hospitalizacje
+	ADD CONSTRAINT Hospitalizacja_Lozko_FK
+	FOREIGN KEY (Lozko_Numer)
+	REFERENCES Lozka(Numer);
+
+-- 16 Pacjenci_oczekujacy
+ALTER TABLE Pacjenci_oczekujacy
+	ADD CONSTRAINT Pacjent_oczekujacy_Odzial_FK
+	FOREIGN KEY (Oddzial_Numer)
+	REFERENCES Oddzialy(Numer);
+
+ALTER TABLE Pacjenci_oczekujacy
+	ADD CONSTRAINT Pacjent_oczekujacy_Pacjent_FK
+	FOREIGN KEY (Pacjent_Numer)
+	REFERENCES Pacjenci(Numer);
+
+-- 18 Wizyty
+ALTER TABLE Wizyty
+	ADD CONSTRAINT Wizyta_Pacjent_FK
+	FOREIGN KEY (Pacjent_Numer)
+	REFERENCES Pacjenci(Numer);
+
+ALTER TABLE Wizyty
+	ADD CONSTRAINT Wizyta_Pracownik_FK
+	FOREIGN KEY (Pracownik_Numer)
+	REFERENCES Pracownicy(Numer);
+
+-- 19 Lozka
+ALTER TABLE Lozka
+	ADD CONSTRAINT Lozko_Oddzial_FK
+	FOREIGN KEY (Oddzial_Numer)
+	REFERENCES Oddzialy(Numer);
+
+
+-- 21 Pracownicy_na_oddziale
+ALTER TABLE Pracownicy_na_oddziale
+	ADD CONSTRAINT Pracownicy_na_oddziale_Oddzial_FK
+	FOREIGN KEY (Oddzial_Numer)
+	REFERENCES Oddzialy(Numer);
+
+ALTER TABLE Pracownicy_na_oddziale
+	ADD CONSTRAINT Pracownicy_na_oddziale_Pracownik_FK
+	FOREIGN KEY (Pracownik_Numer)
+	REFERENCES Pracownicy(Numer);
+
+-- 23 Pracownicy
+ALTER TABLE Pracownicy
+	ADD CONSTRAINT Pracownick_Osoba_FK
+	FOREIGN KEY (Numer)
+	REFERENCES Osoby(Numer);
+
+ALTER TABLE Pracownicy
+	ADD CONSTRAINT Pracownik_Rodzaj_pracownika_FK
+	FOREIGN KEY (Rodzaj_pracownika_Typ)
+	REFERENCES Rodzaje_pracownikow(Typ);
+
+-- 25 Zatrudnienia
+ALTER TABLE Zatrudnienia
+	ADD CONSTRAINT Zatrudnienie_Rodzaj_umowy_FK
+	FOREIGN KEY (Rodzaj_umowy_Typ)
+	REFERENCES Rodzaje_umowy(Typ);
+
+ALTER TABLE Zatrudnienia
+	ADD CONSTRAINT Zatrudnienie_Pracownik_FK
+	FOREIGN KEY (Pracownik_Numer)
+	REFERENCES Pracownicy(Numer);
+
+-- 26 Kwalifikacje
+ALTER TABLE Kwalifikacje
+	ADD CONSTRAINT Kwalifikacja_Pracownik_FK
+	FOREIGN KEY (Pracownik_Numer)
+	REFERENCES Pracownicy(Numer);
+
+-- 27 Doswiadczenia_zawodowe
+ALTER TABLE Doswiadczenia_zawodowe
+	ADD CONSTRAINT Doswiadczenie_zawodowe_Pracownik_FK
+	FOREIGN KEY (Pracownik_Numer)
+	REFERENCES Pracownicy(Numer);
+
+-- 30 Formularze_zapotrzebowania
+ALTER TABLE Formularze_zapotrzebowania
+	ADD CONSTRAINT Formularz_zapotrzebowania_Oddzial_FK
+	FOREIGN KEY (Oddzial_Numer)
+	REFERENCES Oddzialy(Numer);
+
+ALTER TABLE Formularze_zapotrzebowania
+	ADD CONSTRAINT Formularz_zapotrzebowania_Pracownik_FK
+	FOREIGN KEY (Pracownik_Numer)
+	REFERENCES Pracownicy(Numer);
+
+ALTER TABLE Formularze_zapotrzebowania
+	ADD CONSTRAINT Formularz_zapotrzebowania_Pozycja_zamowienia_FK
+	FOREIGN KEY (Pozycja_zamowienia_Lp)
+	REFERENCES Pozycje_zamowienia(Lp);
+
+-- 32 Pozycje_zamowienia
+ALTER TABLE Pozycje_zamowienia
+	ADD CONSTRAINT Pozycja_zamowienia_Material_FK
+	FOREIGN KEY (Material_Numer)
+	REFERENCES Materialy(Numer);
+
+ALTER TABLE Pozycje_zamowienia
+	ADD CONSTRAINT Pozycja_zamowienia_Formularze_Zapotrzebowania_FK
+	FOREIGN KEY (Formularz)
+	REFERENCES Formularze_Zapotrzebowania(Numer);
+
+-- 33 Leki
+ALTER TABLE Leki
+	ADD CONSTRAINT Lek_Material_FK
+	FOREIGN KEY (Numer)
+	REFERENCES Materialy(Numer);
+
+
+
+
+
+
+
+
+
