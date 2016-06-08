@@ -137,16 +137,14 @@ Data_zgloszenia date NOT NULL,
 Data_otrzymania date,
 Pracownik_Numer integer NOT NULL,
 Oddzial_Numer integer,
-Pozycja_zamowienia_Lp integer NOT NULL,
 CONSTRAINT Formularz_zapotrzebowania_PK PRIMARY KEY (Numer)
 );
 
 CREATE TABLE Pozycje_zamowienia (
-Lp integer NOT NULL,
 Liczba integer NOT NULL,
 Material_Numer integer NOT NULL,
 Formularz integer NOT NULL,
-CONSTRAINT Pozycja_zamowienia_PK PRIMARY KEY (Lp)
+CONSTRAINT Pozycja_zamowienia_PK PRIMARY KEY (Material_Numer,Formularz)
 );
 
 CREATE TABLE Pracownicy (
@@ -358,7 +356,7 @@ ALTER TABLE Doswiadczenia_zawodowe
 	FOREIGN KEY (Pracownik_Numer)
 	REFERENCES Pracownicy(Numer);
 
--- 30 Formularze_zapotrzebowania
+-- 29 Formularze_zapotrzebowania
 ALTER TABLE Formularze_zapotrzebowania
 	ADD CONSTRAINT Formularz_zapotrzebowania_Oddzial_FK
 	FOREIGN KEY (Oddzial_Numer)
@@ -369,12 +367,8 @@ ALTER TABLE Formularze_zapotrzebowania
 	FOREIGN KEY (Pracownik_Numer)
 	REFERENCES Pracownicy(Numer);
 
-ALTER TABLE Formularze_zapotrzebowania
-	ADD CONSTRAINT Formularz_zapotrzebowania_Pozycja_zamowienia_FK
-	FOREIGN KEY (Pozycja_zamowienia_Lp)
-	REFERENCES Pozycje_zamowienia(Lp);
 
--- 32 Pozycje_zamowienia
+-- 31 Pozycje_zamowienia
 ALTER TABLE Pozycje_zamowienia
 	ADD CONSTRAINT Pozycja_zamowienia_Material_FK
 	FOREIGN KEY (Material_Numer)
@@ -385,7 +379,7 @@ ALTER TABLE Pozycje_zamowienia
 	FOREIGN KEY (Formularz)
 	REFERENCES Formularze_Zapotrzebowania(Numer);
 
--- 33 Leki
+-- 32 Leki
 ALTER TABLE Leki
 	ADD CONSTRAINT Lek_Material_FK
 	FOREIGN KEY (Numer)

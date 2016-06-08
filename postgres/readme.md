@@ -9,7 +9,16 @@ Jeśli nazwa twojego użytkownika jest inna od administratora bazy, to dodaj jes
 do powyższych komend.
 
 
-Wykonywanie skryptów w postgresql:
+- JAK ZROBIĆ, ŻEBY DZIAŁAŁO:
+
+psql -U postgres
+\c szpital-nad-styksem
+ALTER DATABASE "szpital-nad-styksem" SET datestyle TO "ISO, MDY";
+\i create.sql
+./fill.sh
+
+
+- Skrypty:
 
 1) Tworzenie tabeli, kluczy glownych, kluczy obcych:
 \i create.sql
@@ -20,8 +29,12 @@ Wykonywanie skryptów w postgresql:
 3) Dodawanie przykladowych transakcji z zadania:
 \i queries.sql
 
+4) Wypełnianie tabeli (z shella):
+./fill.sh
 
-USTAWIANIE FORMATU DATY W POSTGRESIE (dane wygenerowalem w formacie MDY):
+
+- USTAWIANIE FORMATU DATY W POSTGRESIE (dane wygenerowalem w formacie MDY):
+
 tymczasowe (nie dziala, jak chcemy wklepytac z shella skrypty):
 SET datestyle TO "ISO, MDY";
 SHOW datestyle;
@@ -29,6 +42,4 @@ pelne (skrypty z shella dzialaja)
 ALTER DATABASE "szpital-nad-styksem" SET datestyle TO "ISO, MDY";
 
 
-- dodalem CASCADE do DELETE
-- dodalem klucz obcy "Formularz" do Tabeli "Pozycje_Zamowienia"
 
