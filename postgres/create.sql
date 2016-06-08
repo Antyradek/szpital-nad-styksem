@@ -170,7 +170,7 @@ Okres_umowy integer NOT NULL,
 Tryb_rozliczenia_wynagrodzenia varchar(100) NOT NULL,
 Rodzaj_umowy_Typ varchar(100) NOT NULL,
 Pracownik_Numer integer NOT NULL,
-CONSTRAINT Zatrudnienie_PK PRIMARY KEY (Id)
+CONSTRAINT Zatrudnienia_PK PRIMARY KEY (Id)
 );
 
 CREATE TABLE Pracownicy_na_oddziale (
@@ -201,7 +201,7 @@ Nazwa_placowki varchar(400),
 Data_od date,
 Data_do date,
 Pracownik_Numer integer NOT NULL,
-CONSTRAINT Doswiadczenie_zawodowe_PK PRIMARY KEY (Id)
+CONSTRAINT Doswiadczenia_zawodowe_PK PRIMARY KEY (Id)
 );
 
 
@@ -326,7 +326,7 @@ ALTER TABLE Pracownicy_na_oddziale
 
 -- 23 Pracownicy
 ALTER TABLE Pracownicy
-	ADD CONSTRAINT Pracownick_Osoba_FK
+	ADD CONSTRAINT Pracownik_Osoba_FK
 	FOREIGN KEY (Numer)
 	REFERENCES Osoby(Numer);
 
