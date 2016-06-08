@@ -1,220 +1,220 @@
-INSERT INTO Pokrewienstwa VALUES ('Babcia',10432,3440);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',11063,4105);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',11605,1738);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczek',6048,8);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',8789,1950);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',7000,2377);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',10448,4703);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',9087,3776);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',7169,3419);
-INSERT INTO Pokrewienstwa VALUES ('Syn',11459,3554);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',9960,3899);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',5759,2634);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',6458,462);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',12959,1334);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',10338,4046);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',11180,1756);
-INSERT INTO Pokrewienstwa VALUES ('Matka',7002,3258);
-INSERT INTO Pokrewienstwa VALUES ('Matka',7228,1859);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',14927,1220);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',10998,987);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',8389,2406);
-INSERT INTO Pokrewienstwa VALUES ('Wujek',8851,1319);
-INSERT INTO Pokrewienstwa VALUES ('Syn',9782,1055);
-INSERT INTO Pokrewienstwa VALUES ('Syn',9751,2494);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',9806,3636);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',9286,3284);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',14323,3446);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',8786,2676);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',10335,1407);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',12278,1451);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',5803,1616);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',14713,3663);
-INSERT INTO Pokrewienstwa VALUES ('Matka',9375,4866);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',10088,4320);
-INSERT INTO Pokrewienstwa VALUES ('Wujek',7050,4973);
-INSERT INTO Pokrewienstwa VALUES ('Matka',7908,4303);
-INSERT INTO Pokrewienstwa VALUES ('Matka',6762,4772);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',5505,4274);
-INSERT INTO Pokrewienstwa VALUES ('Matka',13146,1031);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',10095,3069);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',10993,1727);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczek',11619,637);
-INSERT INTO Pokrewienstwa VALUES ('Brat',6539,4909);
-INSERT INTO Pokrewienstwa VALUES ('Corka',11683,4949);
-INSERT INTO Pokrewienstwa VALUES ('Matka',5548,2199);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',7802,1918);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',14438,2707);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',10080,1183);
-INSERT INTO Pokrewienstwa VALUES ('Brat',14427,836);
-INSERT INTO Pokrewienstwa VALUES ('Corka',9989,547);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',12538,114);
-INSERT INTO Pokrewienstwa VALUES ('Matka',14030,291);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',11815,3531);
-INSERT INTO Pokrewienstwa VALUES ('Matka',13828,2475);
-INSERT INTO Pokrewienstwa VALUES ('Matka',8407,1461);
-INSERT INTO Pokrewienstwa VALUES ('Brat',14319,2926);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',8825,2044);
-INSERT INTO Pokrewienstwa VALUES ('Syn',6462,854);
-INSERT INTO Pokrewienstwa VALUES ('Corka',7808,1891);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',5762,2802);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',11392,4392);
-INSERT INTO Pokrewienstwa VALUES ('Syn',12489,2075);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',6678,2828);
-INSERT INTO Pokrewienstwa VALUES ('Matka',9244,1358);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',7725,853);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',13850,3874);
-INSERT INTO Pokrewienstwa VALUES ('Wujek',5365,1453);
-INSERT INTO Pokrewienstwa VALUES ('Brat',8421,1313);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',12808,668);
-INSERT INTO Pokrewienstwa VALUES ('Syn',6520,1388);
-INSERT INTO Pokrewienstwa VALUES ('Wujek',7234,1581);
-INSERT INTO Pokrewienstwa VALUES ('Brat',12908,1134);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',10298,1433);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',6695,2363);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',6403,1884);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',5060,3562);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',8427,548);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',10559,1479);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',9703,4420);
-INSERT INTO Pokrewienstwa VALUES ('Syn',14390,2933);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',10377,4069);
-INSERT INTO Pokrewienstwa VALUES ('Corka',11492,1299);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',12484,3997);
-INSERT INTO Pokrewienstwa VALUES ('Matka',9714,4317);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczek',9115,4093);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',11406,703);
-INSERT INTO Pokrewienstwa VALUES ('Matka',7681,1256);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',12773,1467);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',14822,1074);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',5911,4218);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',10458,2825);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',12768,3502);
-INSERT INTO Pokrewienstwa VALUES ('Wujek',11008,944);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',11891,2144);
-INSERT INTO Pokrewienstwa VALUES ('Corka',5267,3130);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',10163,4546);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',8892,4048);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',9224,2365);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczek',11646,4132);
-INSERT INTO Pokrewienstwa VALUES ('Syn',8762,3538);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',10571,2550);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',10100,1913);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',5853,4947);
-INSERT INTO Pokrewienstwa VALUES ('Matka',10341,1400);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',11467,643);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',5584,1281);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',8013,2971);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczek',6314,3372);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczek',6657,3072);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',7454,4305);
-INSERT INTO Pokrewienstwa VALUES ('Syn',6900,754);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',5708,3618);
-INSERT INTO Pokrewienstwa VALUES ('Syn',9326,3681);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',7371,755);
-INSERT INTO Pokrewienstwa VALUES ('Matka',13910,2455);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',10367,1);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',13253,2369);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',12947,1935);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',12523,1733);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',5116,1390);
-INSERT INTO Pokrewienstwa VALUES ('Brat',13316,2988);
-INSERT INTO Pokrewienstwa VALUES ('Brat',10315,3413);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczek',14050,4934);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',14147,3088);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',8164,2041);
-INSERT INTO Pokrewienstwa VALUES ('Matka',8670,4368);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',14851,4619);
-INSERT INTO Pokrewienstwa VALUES ('Brat',6385,2550);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',9689,49);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',9447,1549);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczek',8810,4258);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',10738,1601);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',12938,4386);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',9485,533);
-INSERT INTO Pokrewienstwa VALUES ('Syn',11212,2980);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczek',6422,2250);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',14152,1474);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',5684,2954);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',8437,162);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',5711,749);
-INSERT INTO Pokrewienstwa VALUES ('Brat',14284,3587);
-INSERT INTO Pokrewienstwa VALUES ('Wujek',5624,1917);
-INSERT INTO Pokrewienstwa VALUES ('Syn',5786,673);
-INSERT INTO Pokrewienstwa VALUES ('Wujek',9778,1518);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',7447,621);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',12864,80);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',9041,4068);
-INSERT INTO Pokrewienstwa VALUES ('Brat',11903,4847);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczek',14209,2977);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',14261,1093);
-INSERT INTO Pokrewienstwa VALUES ('Brat',13953,1796);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',6161,51);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',6913,1243);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',12424,3882);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',6404,4414);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',10929,4969);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',7215,2254);
-INSERT INTO Pokrewienstwa VALUES ('Brat',13387,3300);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',10522,1231);
-INSERT INTO Pokrewienstwa VALUES ('Syn',11116,4396);
-INSERT INTO Pokrewienstwa VALUES ('Ciotka',8983,4612);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',5432,668);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',12592,816);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',11683,2004);
-INSERT INTO Pokrewienstwa VALUES ('Matka',7242,1239);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',13063,436);
-INSERT INTO Pokrewienstwa VALUES ('Corka',12251,1792);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',11613,3551);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',10735,3277);
-INSERT INTO Pokrewienstwa VALUES ('Matka',10680,1752);
-INSERT INTO Pokrewienstwa VALUES ('Wujek',9930,1727);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',11878,2291);
-INSERT INTO Pokrewienstwa VALUES ('Wujek',5621,2459);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',11539,2349);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',10251,3819);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',10993,478);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',8005,1061);
-INSERT INTO Pokrewienstwa VALUES ('Brat',6581,4714);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',10561,3459);
-INSERT INTO Pokrewienstwa VALUES ('Brat',12767,3577);
-INSERT INTO Pokrewienstwa VALUES ('Matka',8698,228);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',5984,1943);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',13205,173);
-INSERT INTO Pokrewienstwa VALUES ('Matka',8123,3576);
-INSERT INTO Pokrewienstwa VALUES ('Brat',10716,1308);
-INSERT INTO Pokrewienstwa VALUES ('Syn',8014,1619);
-INSERT INTO Pokrewienstwa VALUES ('Brat',5625,4422);
-INSERT INTO Pokrewienstwa VALUES ('Syn',6160,1031);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',7969,3702);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',12698,1302);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',10988,3079);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',11922,4015);
-INSERT INTO Pokrewienstwa VALUES ('Matka',12677,3893);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',9256,1632);
-INSERT INTO Pokrewienstwa VALUES ('Matka',12160,4537);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',6850,1716);
-INSERT INTO Pokrewienstwa VALUES ('Matka',5505,642);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',9613,2051);
-INSERT INTO Pokrewienstwa VALUES ('Matka',7872,4257);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',6483,2792);
-INSERT INTO Pokrewienstwa VALUES ('Brat',7533,2337);
-INSERT INTO Pokrewienstwa VALUES ('Kuzyn',5802,3632);
-INSERT INTO Pokrewienstwa VALUES ('Brat',14311,793);
-INSERT INTO Pokrewienstwa VALUES ('Brat',6624,1612);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',9388,1576);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',9028,1837);
-INSERT INTO Pokrewienstwa VALUES ('Babcia',6875,1095);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',13399,166);
-INSERT INTO Pokrewienstwa VALUES ('Ojciec',13702,1103);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',10754,4413);
-INSERT INTO Pokrewienstwa VALUES ('Siostra',13880,1354);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',6655,2973);
-INSERT INTO Pokrewienstwa VALUES ('Siostrzeniec',13936,1882);
-INSERT INTO Pokrewienstwa VALUES ('Corka',9875,1574);
-INSERT INTO Pokrewienstwa VALUES ('Dziadek',10570,3084);
-INSERT INTO Pokrewienstwa VALUES ('Brat',5778,1137);
-INSERT INTO Pokrewienstwa VALUES ('Wujek',11377,3064);
-INSERT INTO Pokrewienstwa VALUES ('Wujek',5412,2034);
-INSERT INTO Pokrewienstwa VALUES ('Matka',7216,805);
-INSERT INTO Pokrewienstwa VALUES ('Wnuczka',14085,2515);
+INSERT INTO Pokrewienstwa VALUES ('Babcia',10432,3440),
+('Dziadek',11063,4105),
+('Siostra',11605,1738),
+('Wnuczek',6048,8),
+('Kuzyn',8789,1950),
+('Kuzyn',7000,2377),
+('Wnuczka',10448,4703),
+('Dziadek',9087,3776),
+('Siostra',7169,3419),
+('Syn',11459,3554),
+('Dziadek',9960,3899),
+('Wnuczka',5759,2634),
+('Siostra',6458,462),
+('Dziadek',12959,1334),
+('Kuzyn',10338,4046),
+('Kuzyn',11180,1756),
+('Matka',7002,3258),
+('Matka',7228,1859),
+('Babcia',14927,1220),
+('Kuzyn',10998,987),
+('Wnuczka',8389,2406),
+('Wujek',8851,1319),
+('Syn',9782,1055),
+('Syn',9751,2494),
+('Siostrzeniec',9806,3636),
+('Wnuczka',9286,3284),
+('Kuzyn',14323,3446),
+('Ojciec',8786,2676),
+('Dziadek',10335,1407),
+('Kuzyn',12278,1451),
+('Wnuczka',5803,1616),
+('Dziadek',14713,3663),
+('Matka',9375,4866),
+('Siostra',10088,4320),
+('Wujek',7050,4973),
+('Matka',7908,4303),
+('Matka',6762,4772),
+('Kuzyn',5505,4274),
+('Matka',13146,1031),
+('Ciotka',10095,3069),
+('Kuzyn',10993,1727),
+('Wnuczek',11619,637),
+('Brat',6539,4909),
+('Corka',11683,4949),
+('Matka',5548,2199),
+('Ciotka',7802,1918),
+('Babcia',14438,2707),
+('Kuzyn',10080,1183),
+('Brat',14427,836),
+('Corka',9989,547),
+('Siostra',12538,114),
+('Matka',14030,291),
+('Wnuczka',11815,3531),
+('Matka',13828,2475),
+('Matka',8407,1461),
+('Brat',14319,2926),
+('Siostrzeniec',8825,2044),
+('Syn',6462,854),
+('Corka',7808,1891),
+('Ciotka',5762,2802),
+('Siostra',11392,4392),
+('Syn',12489,2075),
+('Dziadek',6678,2828),
+('Matka',9244,1358),
+('Babcia',7725,853),
+('Babcia',13850,3874),
+('Wujek',5365,1453),
+('Brat',8421,1313),
+('Ojciec',12808,668),
+('Syn',6520,1388),
+('Wujek',7234,1581),
+('Brat',12908,1134),
+('Kuzyn',10298,1433),
+('Siostra',6695,2363),
+('Dziadek',6403,1884),
+('Babcia',5060,3562),
+('Kuzyn',8427,548),
+('Ciotka',10559,1479),
+('Wnuczka',9703,4420),
+('Syn',14390,2933),
+('Kuzyn',10377,4069),
+('Corka',11492,1299),
+('Babcia',12484,3997),
+('Matka',9714,4317),
+('Wnuczek',9115,4093),
+('Ojciec',11406,703),
+('Matka',7681,1256),
+('Siostra',12773,1467),
+('Siostrzeniec',14822,1074),
+('Dziadek',5911,4218),
+('Kuzyn',10458,2825),
+('Dziadek',12768,3502),
+('Wujek',11008,944),
+('Babcia',11891,2144),
+('Corka',5267,3130),
+('Dziadek',10163,4546),
+('Ojciec',8892,4048),
+('Ciotka',9224,2365),
+('Wnuczek',11646,4132),
+('Syn',8762,3538),
+('Siostrzeniec',10571,2550),
+('Siostra',10100,1913),
+('Kuzyn',5853,4947),
+('Matka',10341,1400),
+('Ciotka',11467,643),
+('Kuzyn',5584,1281),
+('Ciotka',8013,2971),
+('Wnuczek',6314,3372),
+('Wnuczek',6657,3072),
+('Wnuczka',7454,4305),
+('Syn',6900,754),
+('Ojciec',5708,3618),
+('Syn',9326,3681),
+('Wnuczka',7371,755),
+('Matka',13910,2455),
+('Siostrzeniec',10367,1),
+('Ciotka',13253,2369),
+('Wnuczka',12947,1935),
+('Ciotka',12523,1733),
+('Ojciec',5116,1390),
+('Brat',13316,2988),
+('Brat',10315,3413),
+('Wnuczek',14050,4934),
+('Dziadek',14147,3088),
+('Kuzyn',8164,2041),
+('Matka',8670,4368),
+('Siostrzeniec',14851,4619),
+('Brat',6385,2550),
+('Siostra',9689,49),
+('Siostrzeniec',9447,1549),
+('Wnuczek',8810,4258),
+('Kuzyn',10738,1601),
+('Siostrzeniec',12938,4386),
+('Ciotka',9485,533),
+('Syn',11212,2980),
+('Wnuczek',6422,2250),
+('Siostrzeniec',14152,1474),
+('Ojciec',5684,2954),
+('Ojciec',8437,162),
+('Kuzyn',5711,749),
+('Brat',14284,3587),
+('Wujek',5624,1917),
+('Syn',5786,673),
+('Wujek',9778,1518),
+('Babcia',7447,621),
+('Dziadek',12864,80),
+('Ciotka',9041,4068),
+('Brat',11903,4847),
+('Wnuczek',14209,2977),
+('Wnuczka',14261,1093),
+('Brat',13953,1796),
+('Ojciec',6161,51),
+('Siostrzeniec',6913,1243),
+('Ojciec',12424,3882),
+('Dziadek',6404,4414),
+('Babcia',10929,4969),
+('Ciotka',7215,2254),
+('Brat',13387,3300),
+('Siostrzeniec',10522,1231),
+('Syn',11116,4396),
+('Ciotka',8983,4612),
+('Ojciec',5432,668),
+('Kuzyn',12592,816),
+('Dziadek',11683,2004),
+('Matka',7242,1239),
+('Siostra',13063,436),
+('Corka',12251,1792),
+('Ojciec',11613,3551),
+('Siostra',10735,3277),
+('Matka',10680,1752),
+('Wujek',9930,1727),
+('Wnuczka',11878,2291),
+('Wujek',5621,2459),
+('Ojciec',11539,2349),
+('Dziadek',10251,3819),
+('Siostra',10993,478),
+('Babcia',8005,1061),
+('Brat',6581,4714),
+('Dziadek',10561,3459),
+('Brat',12767,3577),
+('Matka',8698,228),
+('Wnuczka',5984,1943),
+('Dziadek',13205,173),
+('Matka',8123,3576),
+('Brat',10716,1308),
+('Syn',8014,1619),
+('Brat',5625,4422),
+('Syn',6160,1031),
+('Ojciec',7969,3702),
+('Siostra',12698,1302),
+('Dziadek',10988,3079),
+('Siostrzeniec',11922,4015),
+('Matka',12677,3893),
+('Siostrzeniec',9256,1632),
+('Matka',12160,4537),
+('Ojciec',6850,1716),
+('Matka',5505,642),
+('Babcia',9613,2051),
+('Matka',7872,4257),
+('Ojciec',6483,2792),
+('Brat',7533,2337),
+('Kuzyn',5802,3632),
+('Brat',14311,793),
+('Brat',6624,1612),
+('Wnuczka',9388,1576),
+('Dziadek',9028,1837),
+('Babcia',6875,1095),
+('Siostra',13399,166),
+('Ojciec',13702,1103),
+('Siostra',10754,4413),
+('Siostra',13880,1354),
+('Dziadek',6655,2973),
+('Siostrzeniec',13936,1882),
+('Corka',9875,1574),
+('Dziadek',10570,3084),
+('Brat',5778,1137),
+('Wujek',11377,3064),
+('Wujek',5412,2034),
+('Matka',7216,805),
+('Wnuczka',14085,2515);

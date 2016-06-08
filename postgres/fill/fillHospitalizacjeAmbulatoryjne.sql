@@ -1,550 +1,550 @@
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (864,'17:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (546,'15:31');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (945,'19:09');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (806,'10:14');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (527,'11:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (766,'10:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (167,'16:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (921,'11:02');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (897,'10:03');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (403,'17:03');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1132,'10:22');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (618,'06:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (468,'13:29');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (909,'06:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (73,'15:09');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1204,'10:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (340,'08:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (638,'17:09');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (972,'17:15');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1076,'11:55');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (971,'16:44');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (335,'20:29');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1235,'09:50');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (305,'06:14');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1179,'08:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1093,'11:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (857,'09:54');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (131,'15:25');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (806,'08:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (519,'18:07');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (691,'15:06');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (20,'11:49');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (496,'11:02');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (690,'11:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (190,'11:16');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (453,'18:34');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (851,'06:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1144,'15:49');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1083,'06:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1077,'16:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (396,'12:05');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (925,'09:24');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (641,'09:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (372,'07:59');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (942,'06:02');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1009,'13:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1157,'19:00');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (418,'12:02');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (492,'07:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1142,'09:55');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (972,'09:24');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (518,'17:52');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (784,'17:14');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1044,'09:45');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (889,'17:44');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1068,'19:32');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (813,'20:42');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1192,'16:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1093,'05:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (348,'10:03');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (523,'09:41');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1074,'10:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (791,'11:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (858,'18:06');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (13,'14:33');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1254,'17:45');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1155,'08:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (774,'10:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (722,'15:31');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (120,'13:11');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (348,'06:43');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (155,'06:32');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (180,'13:20');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (647,'05:45');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (828,'07:53');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (745,'16:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (542,'07:00');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (71,'20:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (462,'19:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (224,'13:38');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1242,'05:30');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (340,'14:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (207,'20:25');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (437,'17:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1281,'06:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (150,'16:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (77,'17:57');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (951,'17:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1289,'07:09');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (902,'11:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (215,'12:15');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (240,'09:35');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (759,'14:19');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1088,'11:04');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (34,'16:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (923,'18:16');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (47,'16:59');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (801,'17:33');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (975,'14:32');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1162,'08:25');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (523,'18:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (571,'09:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (929,'20:37');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1032,'06:31');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (590,'06:25');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (831,'08:09');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1116,'06:30');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1262,'07:35');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (708,'17:15');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (96,'05:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (273,'16:50');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1258,'17:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (455,'19:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (657,'17:41');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1273,'06:07');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1125,'10:26');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (519,'19:33');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1193,'12:04');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (476,'07:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (969,'07:52');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1216,'10:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1116,'16:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1277,'10:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (750,'16:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (842,'06:45');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (865,'07:20');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (372,'10:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1070,'07:26');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (321,'19:41');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (763,'16:03');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (776,'20:28');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (97,'17:29');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (165,'06:24');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (272,'11:55');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (109,'19:40');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (743,'11:24');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1181,'06:00');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (622,'10:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (350,'15:45');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1154,'10:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (83,'12:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1006,'09:13');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (365,'07:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (528,'19:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (81,'17:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (65,'20:56');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1001,'08:48');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (313,'14:16');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (196,'14:29');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (920,'11:35');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (424,'07:54');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (513,'07:43');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1160,'09:49');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (217,'15:59');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (123,'16:31');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (808,'19:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (718,'09:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (89,'18:11');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1102,'17:55');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (427,'10:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (582,'16:06');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (270,'18:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (152,'08:44');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (122,'19:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1020,'11:01');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1154,'13:19');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (129,'18:37');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (213,'10:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (612,'19:56');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1210,'09:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1187,'08:38');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (523,'07:04');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (63,'16:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (860,'16:44');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (848,'06:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (661,'15:39');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (294,'11:09');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (738,'07:55');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (227,'09:00');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (802,'13:53');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (736,'12:52');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (11,'16:24');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (369,'19:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (613,'16:01');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1220,'08:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (88,'09:13');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (300,'17:32');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (14,'09:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1145,'05:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (872,'11:32');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (570,'14:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (142,'13:43');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (585,'10:33');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (672,'14:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (399,'14:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (486,'16:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (370,'08:34');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (738,'18:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1212,'13:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (117,'20:16');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (249,'18:19');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (507,'13:30');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (492,'11:53');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (662,'13:10');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1285,'19:34');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (77,'12:55');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (959,'09:10');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (729,'17:01');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (882,'07:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1124,'10:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1189,'08:35');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (284,'19:06');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (260,'15:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1242,'10:54');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1012,'16:42');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1180,'11:50');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (563,'12:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1079,'10:05');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (249,'11:01');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (501,'18:05');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (5,'19:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (663,'10:59');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1026,'06:30');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (134,'08:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1271,'16:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (869,'17:42');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (553,'05:44');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (513,'05:56');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (989,'09:37');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1107,'11:15');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1058,'19:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (179,'06:03');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1189,'10:06');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (491,'19:28');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (247,'18:38');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (877,'07:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (462,'10:05');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (73,'19:06');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1081,'18:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1,'12:06');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (890,'17:16');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (577,'10:34');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (770,'11:33');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (965,'18:05');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (904,'10:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (705,'19:03');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (468,'20:53');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (438,'18:56');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (437,'19:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (154,'17:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (598,'05:02');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (593,'12:53');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1240,'16:54');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (333,'07:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (752,'13:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1163,'12:25');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (598,'17:43');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (209,'13:06');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (644,'09:44');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (443,'07:03');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1204,'17:49');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (382,'11:28');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (51,'07:30');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (946,'07:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (97,'17:50');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (171,'06:29');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (225,'12:26');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (359,'16:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (118,'16:54');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (349,'16:28');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (190,'14:05');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1043,'05:55');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (795,'16:56');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (929,'08:30');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (961,'20:01');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (805,'08:25');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1110,'19:15');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (952,'09:35');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (324,'11:45');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (817,'15:01');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (219,'17:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (269,'10:13');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (967,'17:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (690,'07:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (65,'14:38');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (871,'20:24');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (102,'18:49');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (276,'20:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (955,'06:22');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (76,'11:50');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (877,'06:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1228,'10:31');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (360,'16:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (139,'15:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (807,'19:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (897,'12:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (699,'05:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (534,'14:13');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (108,'05:53');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (265,'05:06');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (286,'16:04');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (27,'07:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (792,'07:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (761,'11:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (798,'07:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (801,'16:09');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (235,'11:16');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1167,'09:33');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (894,'08:01');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (375,'16:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (370,'16:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1015,'06:35');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (393,'11:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1023,'20:40');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (216,'08:56');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (212,'15:59');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (667,'08:20');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (426,'06:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (498,'11:07');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1111,'20:55');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (152,'15:28');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (338,'11:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (466,'08:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (618,'10:04');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (159,'13:44');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (49,'20:37');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (272,'10:20');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (910,'15:48');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (131,'09:30');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (639,'09:22');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (480,'10:03');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1033,'16:55');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1034,'14:20');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (877,'12:10');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1151,'18:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (678,'08:39');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (723,'18:02');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (229,'09:39');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (202,'16:44');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (328,'20:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1259,'20:14');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (494,'14:07');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1191,'16:33');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1206,'09:00');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (341,'20:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (433,'08:29');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (692,'12:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1007,'10:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (336,'12:28');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (218,'14:15');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (312,'17:19');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (651,'15:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (595,'14:15');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (550,'19:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (495,'08:43');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (526,'10:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (56,'09:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1081,'19:40');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (505,'12:49');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1266,'12:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (825,'17:28');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (938,'08:49');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (716,'13:43');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1210,'15:54');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1261,'10:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (162,'13:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (716,'07:01');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1207,'11:01');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (64,'06:24');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (957,'07:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (472,'06:06');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (407,'17:50');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (506,'13:42');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (172,'15:57');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (367,'09:38');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (135,'10:16');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1264,'10:20');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (739,'19:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (508,'13:31');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (621,'10:06');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (603,'12:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (826,'16:49');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (101,'10:39');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (996,'17:38');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1220,'15:02');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (656,'05:40');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (149,'14:05');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (207,'09:42');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (504,'10:30');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (207,'20:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (493,'14:15');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1100,'20:41');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (523,'08:09');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1251,'08:15');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1179,'16:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (509,'07:52');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (618,'15:48');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (616,'15:12');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (221,'07:40');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (98,'07:41');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1,'17:54');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (689,'10:56');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (7,'19:34');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (517,'08:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (922,'12:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (2,'16:29');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (945,'20:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (304,'09:49');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (458,'12:05');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (158,'20:13');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (360,'08:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (436,'20:19');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (202,'18:00');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (614,'09:43');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (758,'07:29');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (579,'05:59');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (703,'05:23');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1268,'11:10');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (519,'14:02');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (629,'17:26');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (805,'06:14');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1293,'12:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (454,'19:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (443,'20:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (893,'19:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (664,'16:29');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (915,'08:03');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (408,'12:33');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (795,'10:22');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (514,'16:55');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (226,'12:11');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (238,'09:45');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (38,'19:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (253,'09:38');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1287,'17:59');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (906,'16:48');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (284,'16:48');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1228,'10:31');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (598,'18:19');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (58,'08:30');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (944,'16:25');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (51,'12:13');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (145,'12:19');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (314,'17:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (43,'15:30');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (398,'12:31');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1091,'09:11');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (526,'16:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (655,'16:50');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (618,'08:04');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1099,'09:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (168,'16:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (24,'06:37');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (890,'10:56');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1038,'18:37');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (889,'17:08');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1204,'15:04');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (349,'13:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (43,'16:52');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (777,'13:54');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (794,'09:14');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (930,'07:25');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (8,'19:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (618,'09:42');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (558,'05:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (712,'19:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1026,'16:03');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1146,'17:37');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (220,'20:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (528,'06:42');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (608,'16:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (89,'19:11');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (735,'11:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1235,'05:31');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (938,'16:29');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (454,'19:34');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (47,'10:54');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (13,'08:39');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (809,'10:37');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1193,'10:28');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (453,'10:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (248,'19:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (894,'09:32');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (119,'07:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (226,'11:48');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (486,'15:21');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1176,'15:05');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1193,'19:57');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (859,'10:57');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (430,'16:19');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1070,'08:38');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (494,'13:19');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1181,'15:56');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1257,'12:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (830,'17:38');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (102,'14:57');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (31,'07:38');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (712,'08:35');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (691,'10:33');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (10,'13:24');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (602,'13:52');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (998,'17:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (167,'14:39');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1162,'09:45');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1267,'10:45');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (658,'12:11');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1278,'15:07');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (79,'09:49');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (499,'16:15');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (374,'13:57');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1207,'08:22');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1116,'16:42');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1162,'19:04');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (560,'12:15');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1297,'20:50');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1065,'13:35');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (755,'18:22');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (561,'14:47');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (507,'08:51');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (169,'10:52');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1043,'10:42');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (755,'07:04');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (753,'14:31');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1171,'16:44');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1263,'16:05');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (308,'12:35');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (416,'12:50');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (829,'08:24');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (880,'07:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (58,'19:46');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1236,'18:58');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (107,'11:18');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (343,'12:48');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (46,'18:41');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (769,'14:39');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (919,'05:27');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (327,'11:48');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1215,'06:36');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (317,'15:03');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (900,'09:55');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (745,'20:41');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (513,'06:50');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1023,'16:07');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (773,'15:00');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1130,'17:31');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (869,'09:49');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (800,'17:14');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (421,'12:17');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (454,'18:42');
-INSERT INTO Hospitalizacje_ambulatoryjne VALUES (52,'16:05');
+INSERT INTO Hospitalizacje_ambulatoryjne VALUES (1,'11:36'),
+(2,'08:31'),
+(3,'20:18'),
+(4,'10:02'),
+(5,'14:39'),
+(6,'14:20'),
+(7,'10:23'),
+(8,'14:23'),
+(9,'06:55'),
+(10,'11:22'),
+(11,'12:02'),
+(12,'20:45'),
+(13,'10:31'),
+(14,'17:37'),
+(15,'19:43'),
+(16,'08:17'),
+(17,'16:52'),
+(18,'11:44'),
+(19,'09:11'),
+(20,'19:56'),
+(21,'15:11'),
+(22,'19:18'),
+(23,'17:53'),
+(24,'06:32'),
+(25,'16:50'),
+(26,'14:49'),
+(27,'15:52'),
+(28,'10:57'),
+(29,'16:38'),
+(30,'07:09'),
+(31,'13:05'),
+(32,'20:55'),
+(33,'12:31'),
+(34,'08:02'),
+(35,'12:28'),
+(36,'15:37'),
+(37,'16:29'),
+(38,'12:48'),
+(39,'12:24'),
+(40,'10:36'),
+(41,'15:32'),
+(42,'14:39'),
+(43,'19:39'),
+(44,'10:03'),
+(45,'15:30'),
+(46,'11:43'),
+(47,'08:45'),
+(48,'14:04'),
+(49,'08:45'),
+(50,'17:13'),
+(51,'06:46'),
+(52,'07:30'),
+(53,'17:38'),
+(54,'07:28'),
+(55,'17:24'),
+(56,'17:39'),
+(57,'15:07'),
+(58,'08:59'),
+(59,'16:11'),
+(60,'14:31'),
+(61,'14:08'),
+(62,'06:41'),
+(63,'17:18'),
+(64,'16:47'),
+(65,'18:35'),
+(66,'15:50'),
+(67,'09:33'),
+(68,'09:18'),
+(69,'09:08'),
+(70,'14:06'),
+(71,'12:04'),
+(72,'07:14'),
+(73,'20:12'),
+(74,'15:48'),
+(75,'10:29'),
+(76,'12:15'),
+(77,'19:32'),
+(78,'17:01'),
+(79,'08:03'),
+(80,'15:35'),
+(81,'20:15'),
+(82,'19:40'),
+(83,'07:30'),
+(84,'14:02'),
+(85,'09:27'),
+(86,'10:24'),
+(87,'13:12'),
+(88,'19:47'),
+(89,'20:10'),
+(90,'13:47'),
+(91,'14:59'),
+(92,'13:25'),
+(93,'16:19'),
+(94,'17:03'),
+(95,'11:58'),
+(96,'08:49'),
+(97,'13:36'),
+(98,'18:36'),
+(99,'12:37'),
+(100,'08:36'),
+(101,'12:16'),
+(102,'19:05'),
+(103,'09:01'),
+(104,'09:36'),
+(105,'12:24'),
+(106,'14:10'),
+(107,'20:46'),
+(108,'13:45'),
+(109,'19:05'),
+(110,'13:02'),
+(111,'17:29'),
+(112,'06:16'),
+(113,'16:30'),
+(114,'19:06'),
+(115,'13:24'),
+(116,'17:31'),
+(117,'15:24'),
+(118,'19:45'),
+(119,'08:15'),
+(120,'14:58'),
+(121,'11:43'),
+(122,'11:05'),
+(123,'11:13'),
+(124,'07:17'),
+(125,'12:56'),
+(126,'16:03'),
+(127,'09:22'),
+(128,'13:40'),
+(129,'10:01'),
+(130,'19:01'),
+(131,'12:49'),
+(132,'17:20'),
+(133,'11:05'),
+(134,'19:45'),
+(135,'16:54'),
+(136,'08:37'),
+(137,'12:59'),
+(138,'15:51'),
+(139,'10:45'),
+(140,'08:39'),
+(141,'12:27'),
+(142,'20:25'),
+(143,'16:26'),
+(144,'11:40'),
+(145,'13:11'),
+(146,'07:47'),
+(147,'06:15'),
+(148,'14:33'),
+(149,'17:36'),
+(150,'12:56'),
+(151,'11:50'),
+(152,'08:02'),
+(153,'07:45'),
+(154,'13:59'),
+(155,'13:42'),
+(156,'12:55'),
+(157,'09:50'),
+(158,'16:46'),
+(159,'17:37'),
+(160,'17:46'),
+(161,'16:15'),
+(162,'20:23'),
+(163,'17:02'),
+(164,'17:24'),
+(165,'08:58'),
+(166,'11:26'),
+(167,'14:09'),
+(168,'18:53'),
+(169,'06:31'),
+(170,'07:06'),
+(171,'19:51'),
+(172,'15:04'),
+(173,'19:08'),
+(174,'16:00'),
+(175,'12:54'),
+(176,'15:12'),
+(177,'06:39'),
+(178,'10:25'),
+(179,'12:09'),
+(180,'13:18'),
+(181,'16:25'),
+(182,'18:25'),
+(183,'06:33'),
+(184,'17:20'),
+(185,'19:34'),
+(186,'20:04'),
+(187,'09:34'),
+(188,'07:00'),
+(189,'10:38'),
+(190,'17:26'),
+(191,'18:29'),
+(192,'06:31'),
+(193,'13:51'),
+(194,'08:15'),
+(195,'08:09'),
+(196,'10:30'),
+(197,'17:04'),
+(198,'13:18'),
+(199,'17:15'),
+(200,'12:50'),
+(201,'08:39'),
+(202,'12:33'),
+(203,'09:48'),
+(204,'19:05'),
+(205,'14:12'),
+(206,'16:41'),
+(207,'19:15'),
+(208,'19:11'),
+(209,'13:08'),
+(210,'12:29'),
+(211,'17:04'),
+(212,'18:12'),
+(213,'13:16'),
+(214,'09:26'),
+(215,'07:20'),
+(216,'06:00'),
+(217,'17:55'),
+(218,'18:21'),
+(219,'12:25'),
+(220,'08:42'),
+(221,'08:09'),
+(222,'11:34'),
+(223,'06:05'),
+(224,'19:50'),
+(225,'11:09'),
+(226,'10:58'),
+(227,'15:09'),
+(228,'19:16'),
+(229,'19:25'),
+(230,'16:34'),
+(231,'09:25'),
+(232,'09:13'),
+(233,'10:09'),
+(234,'17:00'),
+(235,'17:50'),
+(236,'10:20'),
+(237,'15:45'),
+(238,'18:46'),
+(239,'17:28'),
+(240,'13:52'),
+(241,'08:15'),
+(242,'20:46'),
+(243,'09:10'),
+(244,'18:23'),
+(245,'16:33'),
+(246,'18:57'),
+(247,'13:37'),
+(248,'15:34'),
+(249,'09:27'),
+(250,'08:16'),
+(251,'17:00'),
+(252,'15:04'),
+(253,'19:59'),
+(254,'08:04'),
+(255,'11:33'),
+(256,'07:28'),
+(257,'20:28'),
+(258,'07:41'),
+(259,'06:24'),
+(260,'19:49'),
+(261,'06:21'),
+(262,'08:09'),
+(263,'12:04'),
+(264,'18:15'),
+(265,'07:24'),
+(266,'08:41'),
+(267,'20:00'),
+(268,'12:04'),
+(269,'09:15'),
+(270,'10:55'),
+(271,'16:41'),
+(272,'09:31'),
+(273,'07:10'),
+(274,'17:41'),
+(275,'20:42'),
+(276,'14:03'),
+(277,'14:36'),
+(278,'13:22'),
+(279,'09:44'),
+(280,'11:27'),
+(281,'10:38'),
+(282,'10:03'),
+(283,'16:51'),
+(284,'10:43'),
+(285,'11:54'),
+(286,'09:07'),
+(287,'19:07'),
+(288,'12:59'),
+(289,'17:51'),
+(290,'11:50'),
+(291,'20:14'),
+(292,'18:02'),
+(293,'17:30'),
+(294,'19:07'),
+(295,'08:49'),
+(296,'13:46'),
+(297,'10:19'),
+(298,'20:02'),
+(299,'13:34'),
+(300,'14:09'),
+(301,'07:57'),
+(302,'06:17'),
+(303,'08:02'),
+(304,'09:59'),
+(305,'07:27'),
+(306,'09:06'),
+(307,'14:34'),
+(308,'14:19'),
+(309,'08:27'),
+(310,'12:26'),
+(311,'06:43'),
+(312,'10:36'),
+(313,'16:39'),
+(314,'17:56'),
+(315,'07:38'),
+(316,'08:40'),
+(317,'16:36'),
+(318,'06:02'),
+(319,'15:14'),
+(320,'14:23'),
+(321,'13:48'),
+(322,'10:24'),
+(323,'10:00'),
+(324,'15:21'),
+(325,'18:28'),
+(326,'09:51'),
+(327,'09:47'),
+(328,'20:19'),
+(329,'09:18'),
+(330,'17:52'),
+(331,'20:48'),
+(332,'20:18'),
+(333,'07:55'),
+(334,'11:26'),
+(335,'08:54'),
+(336,'12:17'),
+(337,'10:18'),
+(338,'08:05'),
+(339,'08:15'),
+(340,'19:00'),
+(341,'06:50'),
+(342,'09:44'),
+(343,'19:52'),
+(344,'06:40'),
+(345,'13:49'),
+(346,'16:44'),
+(347,'17:46'),
+(348,'20:14'),
+(349,'15:39'),
+(350,'09:17'),
+(351,'11:51'),
+(352,'19:46'),
+(353,'18:27'),
+(354,'10:31'),
+(355,'16:16'),
+(356,'14:54'),
+(357,'14:26'),
+(358,'13:51'),
+(359,'19:24'),
+(360,'19:54'),
+(361,'12:48'),
+(362,'17:11'),
+(363,'11:16'),
+(364,'11:34'),
+(365,'17:27'),
+(366,'15:33'),
+(367,'08:53'),
+(368,'17:18'),
+(369,'09:46'),
+(370,'19:35'),
+(371,'08:00'),
+(372,'07:48'),
+(373,'15:47'),
+(374,'14:46'),
+(375,'15:34'),
+(376,'15:51'),
+(377,'10:27'),
+(378,'14:58'),
+(379,'10:25'),
+(380,'09:30'),
+(381,'20:47'),
+(382,'17:11'),
+(383,'17:41'),
+(384,'18:30'),
+(385,'17:55'),
+(386,'20:39'),
+(387,'06:18'),
+(388,'08:35'),
+(389,'06:05'),
+(390,'11:11'),
+(391,'17:50'),
+(392,'10:01'),
+(393,'13:51'),
+(394,'08:05'),
+(395,'08:28'),
+(396,'10:41'),
+(397,'17:39'),
+(398,'18:26'),
+(399,'10:14'),
+(400,'09:36'),
+(401,'06:39'),
+(402,'18:09'),
+(403,'14:43'),
+(404,'20:14'),
+(405,'11:03'),
+(406,'16:58'),
+(407,'20:38'),
+(408,'17:04'),
+(409,'14:55'),
+(410,'09:21'),
+(411,'14:04'),
+(412,'11:21'),
+(413,'11:58'),
+(414,'17:56'),
+(415,'10:14'),
+(416,'10:10'),
+(417,'16:50'),
+(418,'18:45'),
+(419,'16:41'),
+(420,'07:36'),
+(421,'14:38'),
+(422,'12:31'),
+(423,'11:24'),
+(424,'15:31'),
+(425,'06:59'),
+(426,'07:48'),
+(427,'08:13'),
+(428,'06:47'),
+(429,'19:01'),
+(430,'09:02'),
+(431,'16:02'),
+(432,'20:12'),
+(433,'17:02'),
+(434,'20:37'),
+(435,'19:59'),
+(436,'15:55'),
+(437,'14:07'),
+(438,'06:06'),
+(439,'20:23'),
+(440,'09:49'),
+(441,'16:27'),
+(442,'06:17'),
+(443,'07:36'),
+(444,'13:59'),
+(445,'10:54'),
+(446,'20:02'),
+(447,'16:53'),
+(448,'18:34'),
+(449,'20:29'),
+(450,'13:48'),
+(451,'19:59'),
+(452,'20:33'),
+(453,'08:34'),
+(454,'14:59'),
+(455,'15:00'),
+(456,'17:33'),
+(457,'10:58'),
+(458,'13:13'),
+(459,'13:34'),
+(460,'07:20'),
+(461,'08:50'),
+(462,'10:15'),
+(463,'09:43'),
+(464,'17:47'),
+(465,'16:24'),
+(466,'10:31'),
+(467,'19:53'),
+(468,'15:33'),
+(469,'14:31'),
+(470,'16:05'),
+(471,'13:42'),
+(472,'12:58'),
+(473,'18:37'),
+(474,'10:54'),
+(475,'15:24'),
+(476,'12:41'),
+(477,'20:12'),
+(478,'08:41'),
+(479,'19:03'),
+(480,'10:47'),
+(481,'11:01'),
+(482,'12:44'),
+(483,'10:16'),
+(484,'09:07'),
+(485,'20:07'),
+(486,'10:02'),
+(487,'16:22'),
+(488,'07:53'),
+(489,'06:48'),
+(490,'18:14'),
+(491,'16:25'),
+(492,'20:42'),
+(493,'10:14'),
+(494,'19:33'),
+(495,'13:55'),
+(496,'15:10'),
+(497,'08:45'),
+(498,'06:15'),
+(499,'07:08'),
+(500,'15:17'),
+(501,'07:53'),
+(502,'13:31'),
+(503,'16:46'),
+(504,'15:16'),
+(505,'17:39'),
+(506,'09:16'),
+(507,'15:09'),
+(508,'07:48'),
+(509,'16:13'),
+(510,'11:53'),
+(511,'07:57'),
+(512,'10:36'),
+(513,'13:12'),
+(514,'11:46'),
+(515,'08:53'),
+(516,'15:08'),
+(517,'12:01'),
+(518,'15:34'),
+(519,'06:00'),
+(520,'13:36'),
+(521,'17:44'),
+(522,'06:25'),
+(523,'16:03'),
+(524,'19:32'),
+(525,'16:21'),
+(526,'08:09'),
+(527,'19:18'),
+(528,'07:23'),
+(529,'06:26'),
+(530,'20:09'),
+(531,'16:01'),
+(532,'17:47'),
+(533,'14:33'),
+(534,'09:03'),
+(535,'06:43'),
+(536,'12:12'),
+(537,'12:09'),
+(538,'11:05'),
+(539,'10:44'),
+(540,'20:45'),
+(541,'13:56'),
+(542,'17:21'),
+(543,'17:28'),
+(544,'15:45'),
+(545,'12:06'),
+(546,'07:29'),
+(547,'15:23'),
+(548,'12:05'),
+(549,'07:05'),
+(550,'14:51');

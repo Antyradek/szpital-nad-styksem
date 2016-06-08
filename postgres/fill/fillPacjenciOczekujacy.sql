@@ -1,3000 +1,3000 @@
-INSERT INTO Pacjenci_oczekujacy VALUES (10548,'7-16-02',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (6665,'1-22-04',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (13088,'8-7-03',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13275,'2-25-04',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (5460,'1-24-01',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7920,'8-14-11',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8997,'4-6-02',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10682,'3-12-01',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (6775,'4-20-11',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (12438,'3-5-09',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (9634,'3-2-02',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (12268,'1-5-13',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (8305,'8-19-10',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (9496,'2-19-08',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (6100,'9-21-04',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (11356,'9-17-15',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (5631,'4-24-10',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (11872,'8-17-13',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (12435,'5-2-07',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (9448,'5-18-06',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (12490,'8-8-01',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (9532,'2-21-03',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (12905,'2-25-09',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (9362,'10-3-01',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (9451,'8-28-03',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (13739,'5-24-05',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8587,'2-10-06',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (10034,'5-13-06',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (6572,'9-18-02',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (12663,'10-12-13',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7998,'12-1-12',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (9887,'11-25-02',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (9762,'2-14-11',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (11195,'9-16-11',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (5385,'8-25-06',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (14622,'3-17-14',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (11009,'10-27-07',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (6710,'12-25-12',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11183,'5-17-05',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (6099,'10-12-11',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (12162,'1-5-07',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (9906,'11-3-09',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13113,'2-4-08',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (12788,'3-28-11',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (10799,'7-8-14',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (13664,'12-26-02',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13322,'6-18-12',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (5583,'11-25-01',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (8049,'11-6-07',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (11340,'12-9-05',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (5559,'1-28-14',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (8486,'2-18-09',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (12115,'10-19-06',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (6309,'11-25-08',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (9376,'5-23-07',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (5625,'5-17-16',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (12546,'11-24-14',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (13913,'7-27-03',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (7023,'5-12-15',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (12259,'7-20-14',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (7556,'7-11-03',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (14456,'4-15-08',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (14796,'4-11-02',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (5053,'7-31-03',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (12480,'2-14-10',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (13463,'12-14-02',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (5163,'8-30-04',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (14369,'1-15-01',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (13840,'11-27-07',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (12502,'7-4-13',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (13894,'1-6-02',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (13187,'5-21-12',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12646,'5-11-07',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (6324,'4-12-13',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (13092,'9-30-11',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (13974,'12-10-13',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (12867,'2-4-11',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (7206,'8-12-06',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (14844,'1-31-11',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (6014,'3-19-13',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (9581,'9-16-08',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (14527,'2-2-15',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (8303,'10-12-14',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (9753,'4-7-04',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (5206,'10-9-06',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7839,'8-1-02',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (13995,'6-30-11',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (13290,'8-3-05',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (9196,'8-4-07',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5768,'2-3-09',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (6033,'8-15-09',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11164,'1-9-15',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (13267,'9-12-07',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12799,'2-16-06',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (14718,'7-3-04',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (10224,'5-13-08',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (9173,'6-9-00',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (13506,'12-19-10',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (7379,'5-21-13',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (14879,'2-28-14',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (8108,'11-26-10',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (5028,'11-8-05',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (7983,'2-27-10',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (13402,'7-17-13',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (13816,'1-11-04',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7620,'2-11-07',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10733,'2-26-02',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (5423,'5-6-16',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13302,'7-27-09',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (6240,'11-5-05',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (7220,'1-10-03',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (11457,'4-6-13',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (11908,'7-6-00',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (5860,'12-20-02',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (8502,'1-19-05',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (14716,'11-19-14',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (7319,'2-8-09',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (13894,'12-4-01',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (10376,'8-15-00',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (7059,'2-22-04',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (11701,'2-13-16',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (14820,'8-3-11',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (7372,'2-11-15',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (7108,'1-18-14',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13647,'4-20-03',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (8741,'3-8-14',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5431,'3-21-03',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14049,'10-2-10',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (5276,'2-11-07',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (12982,'12-28-09',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (11676,'3-20-03',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (6046,'7-6-04',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (8279,'12-27-08',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10437,'6-4-16',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (11273,'11-17-01',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (12393,'11-19-07',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (9267,'1-6-15',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (13994,'8-1-09',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (6760,'11-19-10',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (11111,'1-16-10',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (8547,'1-30-14',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (11639,'6-10-05',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (13148,'5-10-12',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (7363,'12-6-01',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (8877,'2-28-04',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13023,'1-14-15',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (9458,'2-5-09',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (7903,'6-30-13',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (14696,'12-25-05',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (8354,'4-27-11',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (7748,'12-8-01',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (10291,'11-9-12',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (5905,'10-2-08',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11156,'3-24-10',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (12754,'11-3-12',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (5361,'1-12-01',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11636,'2-11-03',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (11404,'11-24-01',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (14703,'11-19-10',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (10083,'10-5-09',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (5254,'6-29-08',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (13611,'9-9-11',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13821,'3-28-11',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (5119,'7-19-03',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (12975,'9-9-05',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (5093,'2-22-08',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10190,'5-24-04',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (6347,'4-24-02',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (8435,'1-16-07',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (6768,'7-29-06',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (7967,'5-30-12',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (5529,'8-22-15',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10530,'9-5-14',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (10097,'3-23-14',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (7684,'12-11-05',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (10329,'4-18-16',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (6973,'3-4-16',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (5723,'7-25-03',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (8846,'5-28-04',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (12559,'12-15-01',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10095,'10-15-08',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (12237,'3-30-15',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (11499,'9-20-12',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (14945,'11-1-11',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (11746,'9-19-02',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (5454,'9-18-05',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (9168,'8-20-15',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (11589,'6-29-03',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7663,'11-29-00',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (10554,'8-25-03',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (11880,'7-11-15',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (7809,'3-21-05',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (10220,'10-6-06',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (8276,'10-27-09',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (7637,'5-28-01',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (10963,'8-30-05',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (6523,'1-1-01',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (6905,'8-26-04',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7836,'1-6-11',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7064,'10-9-09',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (12116,'9-21-03',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (11973,'3-9-15',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8629,'8-19-07',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7765,'11-29-02',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (7987,'1-5-13',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (8372,'9-5-07',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (14213,'3-18-02',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (5482,'5-11-15',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (9471,'7-29-03',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13244,'1-27-10',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5673,'8-30-14',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14078,'8-30-12',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (5694,'5-18-10',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (13777,'2-14-05',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7956,'7-25-03',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (7334,'10-19-14',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (14150,'3-20-13',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (5943,'6-6-03',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (8116,'11-12-12',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10971,'1-10-12',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (9433,'12-26-13',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (13361,'11-15-01',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10990,'5-2-16',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (7306,'8-5-04',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (6722,'8-23-04',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (10163,'4-30-04',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14204,'12-20-04',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (6435,'5-22-14',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (5803,'1-26-04',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10515,'3-25-16',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (5078,'12-31-13',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (9934,'4-28-08',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (8125,'1-21-14',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (6425,'9-13-04',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (5511,'3-24-07',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (13657,'12-23-01',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (7136,'7-15-01',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (6568,'5-16-10',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (6199,'9-8-08',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (8123,'7-15-14',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (9754,'8-6-05',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (11605,'11-13-09',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (11490,'4-18-07',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (12273,'11-21-14',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8952,'3-27-02',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (11698,'3-8-09',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (14408,'2-16-11',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (8821,'11-22-09',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (6620,'6-30-08',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (10571,'11-6-08',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12054,'10-14-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (8837,'1-26-15',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (10965,'2-6-02',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (5605,'7-14-07',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (6545,'10-15-05',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10210,'5-23-09',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (5356,'6-4-03',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11922,'5-28-05',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (7938,'11-28-05',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (7651,'9-25-07',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (5824,'6-12-05',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (12947,'12-30-12',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (8913,'12-11-07',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (6173,'6-15-06',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (6051,'4-8-09',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7081,'10-31-07',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (8453,'3-12-15',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (13791,'1-24-01',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (12462,'10-31-11',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (12173,'1-11-08',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (9704,'8-7-09',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (5242,'11-24-00',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (11587,'1-24-09',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (12220,'6-29-07',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7800,'12-7-11',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14530,'6-10-05',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (5028,'6-21-07',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (13078,'12-13-00',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (13020,'10-22-06',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (8791,'9-25-02',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (12603,'5-3-05',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (11373,'5-9-08',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (8657,'2-23-15',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (12046,'4-20-02',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (14620,'9-28-02',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (5214,'12-23-00',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (5655,'3-4-09',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (12121,'6-7-02',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (10875,'3-1-04',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10572,'4-5-02',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (13342,'6-9-09',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (8729,'4-21-10',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (7610,'9-28-07',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7586,'2-10-04',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (8021,'4-18-13',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (10303,'7-20-12',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (9424,'4-8-12',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (6830,'4-9-09',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7759,'3-15-03',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (11180,'2-3-10',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10412,'5-3-16',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (10149,'10-13-00',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13982,'2-4-14',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14399,'8-8-15',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (7451,'4-20-08',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7464,'5-12-05',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13293,'6-15-11',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (12989,'8-19-05',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (12857,'10-7-08',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (11911,'9-28-12',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8941,'6-19-09',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7194,'11-16-08',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (11718,'6-10-02',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (10240,'11-16-06',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (7174,'9-24-04',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (11469,'12-27-02',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5262,'7-27-07',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13770,'2-9-09',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (13973,'1-7-04',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (8576,'9-2-12',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (5478,'2-16-12',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (9080,'9-6-06',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (11393,'2-3-02',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (5516,'9-26-15',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (6414,'9-20-07',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (9409,'8-8-02',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (13955,'3-8-02',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (8142,'6-8-05',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (9853,'4-7-16',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (12127,'8-21-13',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (6897,'6-4-07',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (10954,'11-5-09',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10958,'9-18-08',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (7528,'2-3-09',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (6833,'2-12-03',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10544,'12-22-10',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (9732,'2-18-01',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (8450,'3-25-11',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (8061,'7-4-14',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (5291,'2-5-05',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (6091,'12-5-03',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13799,'4-16-05',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10483,'7-13-06',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (7044,'1-12-16',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (8765,'11-3-09',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (13105,'6-21-06',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (6883,'11-25-00',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (10525,'5-8-14',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (5569,'1-8-09',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10850,'3-26-05',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (8761,'12-8-10',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (5896,'3-1-03',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (11722,'11-19-13',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8859,'12-14-11',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (8305,'1-27-09',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (9896,'11-13-05',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (12332,'5-8-02',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (14440,'6-16-12',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (11331,'10-27-06',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7372,'12-1-01',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (11665,'2-19-14',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11535,'12-5-15',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10814,'12-4-07',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (13576,'10-2-14',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (6414,'3-15-04',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (5118,'6-7-10',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10107,'11-25-05',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (7110,'8-4-04',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (13522,'5-17-12',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (12060,'11-2-03',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (14417,'11-4-01',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10280,'5-21-14',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (6211,'6-24-09',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (8282,'7-12-14',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (10016,'2-21-01',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (6762,'4-30-04',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (6398,'9-24-01',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13483,'3-31-13',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (5690,'9-20-04',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (12886,'7-25-14',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (14014,'8-6-02',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (13425,'11-21-07',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (8566,'12-3-00',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (13028,'11-29-09',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (7169,'2-26-03',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (7880,'11-14-02',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (14004,'8-6-01',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (13686,'12-6-01',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12343,'4-6-14',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (9212,'4-10-10',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10458,'5-29-11',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (8625,'12-5-01',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14044,'6-17-07',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (14685,'6-1-03',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (8811,'9-11-04',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (14542,'11-19-12',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (11011,'5-23-15',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (7384,'6-24-03',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (11084,'2-3-08',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14715,'8-25-12',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (11829,'2-18-02',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (10254,'8-15-07',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (5489,'5-17-02',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (9002,'10-24-10',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10274,'4-15-03',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12352,'5-17-10',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (13447,'9-1-01',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (11532,'5-22-16',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (8439,'4-28-14',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13817,'9-26-04',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (7792,'8-22-08',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (8650,'7-30-02',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (8847,'9-22-10',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (9260,'1-19-03',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (5408,'4-27-12',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10870,'3-26-06',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (6436,'6-4-01',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (6451,'2-9-01',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (13827,'10-8-15',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (10364,'11-24-12',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5684,'12-30-09',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (6857,'3-17-12',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (11620,'12-16-15',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (6237,'1-30-10',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (12410,'9-10-07',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (14180,'7-16-12',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (6307,'3-12-06',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (5848,'1-15-05',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (7226,'9-13-11',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (7929,'6-2-08',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (6308,'10-29-04',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (7485,'9-17-11',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (11010,'1-12-03',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (6167,'2-10-14',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (14522,'10-5-04',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (14221,'3-13-13',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (8407,'5-22-06',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13303,'4-3-02',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (5604,'9-5-03',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (9636,'6-14-06',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (10530,'4-6-09',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (11138,'7-10-06',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (9002,'8-14-11',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (11843,'8-11-12',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (13372,'12-17-07',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (6032,'4-20-12',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (13197,'3-25-10',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (5241,'3-18-04',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (13437,'7-3-13',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (11087,'4-4-14',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13874,'12-23-07',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (14449,'10-25-15',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (11720,'1-18-05',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (5328,'1-18-15',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10197,'4-3-06',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (7173,'6-8-13',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (9005,'2-1-14',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (7241,'9-17-11',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (6148,'6-26-02',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (8713,'4-1-04',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5333,'2-27-13',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (5497,'9-17-06',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (9454,'7-25-13',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (11839,'8-11-13',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (5946,'9-17-10',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (7867,'3-10-05',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14633,'7-18-15',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (10750,'7-12-00',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (10433,'8-22-01',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (12711,'12-14-06',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (10754,'3-30-06',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5945,'12-7-04',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (13978,'10-13-12',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (11385,'6-30-04',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (13336,'7-6-12',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (14935,'12-19-10',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (9699,'5-19-01',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (6754,'7-13-07',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (13108,'11-3-03',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (8467,'5-12-02',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (6050,'11-3-01',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (11054,'7-31-02',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (9318,'1-28-01',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13287,'4-20-03',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (11598,'5-8-04',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (11778,'11-12-12',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12213,'3-10-11',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (14096,'3-28-05',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (13534,'5-5-01',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (9101,'5-19-15',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10736,'5-18-09',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10736,'11-27-12',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (11539,'2-28-13',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11336,'12-23-08',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10057,'9-18-13',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (6093,'7-4-11',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (8849,'5-22-02',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (13576,'1-25-08',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12191,'9-27-07',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (10012,'12-31-15',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (13281,'10-7-06',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (8634,'2-15-04',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (13216,'10-29-11',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13363,'3-27-03',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (8615,'2-11-08',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (12228,'2-2-06',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (6379,'1-3-07',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (5369,'3-19-10',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (6212,'8-20-10',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (7169,'9-11-01',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (6160,'5-6-13',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (7357,'4-7-05',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (7361,'11-6-01',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (11102,'4-29-15',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (12382,'8-26-11',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (11163,'9-15-07',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (5679,'12-9-14',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (6908,'3-5-01',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (11366,'6-24-08',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (7425,'5-1-12',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (9555,'2-19-10',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (6543,'11-9-15',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (13630,'6-15-06',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (12681,'12-18-15',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (12142,'10-2-15',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (6443,'7-10-01',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (11255,'4-9-13',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (11138,'3-15-15',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (8557,'12-17-15',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (14174,'4-4-07',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (13243,'3-20-02',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (13083,'1-19-11',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (10162,'9-7-06',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (12764,'1-30-04',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (9202,'8-16-12',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (5706,'4-8-14',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (6498,'5-31-00',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (11859,'4-25-06',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (12848,'12-17-11',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (8292,'2-23-05',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (9085,'4-3-03',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7669,'5-26-04',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (11475,'8-24-10',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10057,'1-26-11',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (11674,'5-16-07',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (8551,'5-8-09',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (6121,'5-17-02',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12432,'9-25-14',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (7405,'6-21-14',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (9736,'2-19-15',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (10215,'3-29-13',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (8850,'5-13-04',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7960,'7-14-06',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11118,'6-3-00',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10696,'5-26-05',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (9413,'2-9-06',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (11320,'3-20-11',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (5724,'10-19-15',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (14769,'11-13-14',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (9101,'2-3-16',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (14440,'6-27-11',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (11849,'7-2-08',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (10167,'2-11-02',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14584,'5-26-06',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (5867,'11-30-00',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (5180,'1-31-12',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (13640,'4-12-01',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (13482,'7-7-07',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (13975,'11-4-01',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (9582,'8-20-13',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (10009,'5-18-06',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (11378,'11-26-13',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (12830,'10-19-13',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (5843,'3-9-12',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (5716,'11-27-03',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (11185,'4-20-11',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (7578,'5-26-09',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (8987,'4-2-06',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (14042,'6-6-04',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (9651,'12-2-04',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (11244,'9-6-05',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11665,'10-15-12',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (13848,'4-18-14',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (9367,'2-4-07',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (10936,'3-3-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (6285,'12-22-15',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12992,'10-23-03',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (13182,'12-8-05',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (12044,'9-19-13',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (12505,'3-31-16',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14821,'6-23-12',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (14590,'10-16-08',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10969,'11-6-13',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (6851,'6-5-16',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (10312,'1-9-06',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (14041,'7-25-07',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (13509,'8-24-15',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (7407,'12-4-00',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (11249,'1-4-16',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (6053,'5-20-10',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5249,'11-14-00',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (6558,'10-20-05',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13812,'4-1-14',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (11012,'10-26-13',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (8734,'6-13-10',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (9317,'5-21-15',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (12235,'2-27-01',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (6996,'8-20-03',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (6647,'2-16-10',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14924,'1-21-04',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (10068,'3-11-08',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (11538,'9-16-05',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (11585,'11-4-01',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (14914,'9-9-03',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (5670,'5-22-03',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5796,'8-1-11',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (8571,'7-19-04',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (8380,'4-22-07',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (10178,'6-12-08',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (12782,'5-9-15',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (6323,'10-25-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (7170,'11-13-06',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (9025,'9-12-09',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (10422,'12-25-05',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8610,'6-3-09',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (9115,'6-16-10',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (11156,'4-16-04',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (9329,'8-26-03',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (10779,'11-4-05',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (14916,'7-15-08',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (14414,'3-27-15',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10831,'10-13-08',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (9399,'3-14-03',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (5169,'5-16-08',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (10824,'3-11-04',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13382,'11-7-13',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (6072,'8-7-00',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (13157,'8-25-12',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (5350,'6-23-00',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (9838,'8-19-12',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (5315,'2-17-09',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (9242,'1-31-03',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (14044,'9-14-04',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (6491,'6-10-09',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (7412,'11-11-03',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (9471,'5-23-13',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (6179,'6-16-09',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (8697,'6-26-11',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (5858,'7-17-01',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (7611,'5-16-06',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (11053,'3-21-01',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (12785,'7-8-14',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (12050,'12-5-08',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (9996,'9-12-15',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (8741,'9-6-00',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (11141,'7-10-15',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (10148,'1-13-13',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11545,'3-2-09',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (5258,'4-9-03',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (7113,'2-18-05',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (5594,'10-26-01',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (8245,'9-18-06',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13061,'6-16-02',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (13178,'1-30-14',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (13218,'11-20-14',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13209,'1-28-05',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (9436,'5-1-01',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (5639,'2-19-11',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (9573,'11-18-08',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (7988,'2-5-03',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (13986,'10-3-08',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10667,'9-20-15',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (14819,'11-5-15',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (11838,'12-30-04',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10983,'2-19-01',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (6617,'8-25-01',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (13108,'3-10-01',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (9598,'5-22-12',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (10427,'9-22-10',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7130,'11-15-15',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (13091,'9-11-09',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8424,'2-4-15',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (8037,'11-8-06',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (14801,'8-26-13',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8546,'6-10-06',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5204,'7-11-03',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (13853,'4-3-02',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (8944,'4-6-01',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (10449,'4-1-08',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (6133,'9-15-13',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (12129,'6-10-01',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (9137,'2-7-03',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (7784,'1-9-06',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8952,'7-2-00',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7362,'12-21-15',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (9133,'9-28-08',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (11127,'2-13-11',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (9792,'7-30-13',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (11510,'1-26-07',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (11360,'1-29-02',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10104,'5-7-09',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (12993,'7-22-06',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11115,'10-27-09',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (11163,'5-27-06',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (11575,'2-26-12',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (9837,'10-9-09',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (13491,'3-27-10',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (8691,'6-6-00',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (12156,'5-28-14',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5040,'9-14-06',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (5185,'7-18-11',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5426,'4-27-08',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8042,'5-1-13',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (9300,'7-5-08',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (11464,'4-5-02',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (12981,'7-7-01',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (14796,'4-16-09',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (8777,'7-14-04',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (9588,'11-27-10',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (10536,'4-25-15',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13504,'12-31-00',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (5724,'5-10-13',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (9782,'9-1-07',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (10425,'2-10-14',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (7859,'6-3-01',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (13572,'5-27-01',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (6535,'3-9-04',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (14325,'7-27-04',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10157,'4-27-09',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (11288,'6-3-02',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (5536,'9-25-06',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (7307,'12-26-12',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (8180,'2-8-11',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (5447,'5-30-10',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (11553,'4-7-11',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8984,'10-31-08',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (8588,'2-16-07',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (13554,'9-22-13',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (6047,'7-6-14',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11129,'12-26-06',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (11369,'6-24-02',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8023,'11-28-02',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (7326,'10-1-11',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (5875,'2-3-16',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (6017,'3-23-13',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (5945,'8-16-13',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (11141,'9-23-01',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (13911,'3-2-15',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (8718,'4-30-02',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (9425,'9-16-09',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (10571,'6-16-06',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (11051,'6-3-01',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (5164,'8-25-09',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (12108,'9-14-04',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (8644,'7-8-12',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7082,'12-21-00',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (5527,'2-26-03',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (8943,'7-20-02',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13267,'2-11-06',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (9351,'10-30-06',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (14054,'1-22-06',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (5256,'3-3-16',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11819,'10-26-14',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (14559,'1-24-14',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (13817,'7-22-07',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8424,'9-2-14',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (9742,'3-1-14',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10810,'9-28-05',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (12767,'5-21-01',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (10699,'4-11-12',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (9203,'9-29-13',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7114,'5-25-03',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (10643,'4-8-10',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (10926,'7-23-14',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (6251,'4-9-10',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (7658,'3-10-02',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (12563,'8-29-09',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (13338,'3-24-16',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (12751,'8-14-15',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (7120,'9-1-05',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (5889,'4-20-11',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (10702,'12-3-06',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (8595,'3-30-13',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (5076,'4-3-16',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10443,'6-11-11',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7093,'9-22-10',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (9764,'11-4-07',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7503,'2-20-10',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (13986,'5-12-10',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12818,'5-24-04',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12626,'1-16-08',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (5721,'11-30-04',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (10837,'9-11-00',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (8862,'9-27-07',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13183,'4-1-14',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (5172,'7-23-03',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (9757,'11-18-08',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (6424,'11-18-03',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7954,'10-23-02',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (7996,'12-5-11',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11362,'12-24-09',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (8030,'9-1-06',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11519,'6-17-03',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (8426,'5-18-13',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8780,'6-24-05',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (11284,'3-28-16',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (12361,'6-15-01',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (5598,'2-27-02',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (5391,'11-18-02',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (5450,'6-17-14',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (14098,'10-21-02',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (9159,'7-22-13',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (10349,'5-22-07',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (6513,'2-26-02',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (13309,'1-25-16',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14457,'10-6-08',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (9358,'5-18-15',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (6922,'10-21-12',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10042,'1-25-01',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (13873,'9-2-12',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (8669,'9-10-08',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (11240,'5-14-03',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (13842,'2-21-09',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (11006,'4-22-12',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (9605,'7-31-08',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (14196,'6-28-00',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (14988,'5-3-14',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (10083,'5-8-10',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (10645,'11-11-03',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (13723,'3-11-11',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (12568,'7-4-09',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (7950,'5-9-14',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (7140,'4-19-09',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (11674,'9-10-13',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7694,'4-1-13',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5208,'1-6-06',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (14021,'8-17-14',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (12477,'10-28-14',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (13870,'9-2-04',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (7904,'3-13-15',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (11004,'7-15-06',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (14222,'5-5-14',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11029,'10-23-14',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (8359,'12-17-09',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (5722,'11-28-08',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (13925,'4-12-03',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (8778,'11-29-14',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (7193,'12-6-10',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (9738,'3-8-01',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (10081,'9-20-10',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (6078,'3-6-11',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (6836,'2-19-03',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (14487,'1-24-02',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (11327,'1-26-05',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (8355,'9-8-14',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (9870,'3-15-02',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (9678,'2-11-07',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (8506,'11-22-04',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (6847,'12-22-15',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12293,'7-29-09',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (12883,'8-24-09',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (5968,'12-18-01',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (8267,'4-23-10',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (11173,'4-23-07',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10630,'6-13-14',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (5064,'4-20-12',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (9209,'1-23-11',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (10837,'8-27-01',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (11263,'3-18-05',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (6857,'1-14-11',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8936,'2-10-04',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8050,'11-17-02',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (5440,'1-9-07',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (8836,'7-3-14',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (7399,'12-16-09',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (11656,'9-27-00',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5291,'7-31-03',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (9132,'11-7-11',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10064,'7-28-08',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (9111,'11-28-06',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14883,'8-29-08',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (7552,'7-1-12',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (6830,'10-11-11',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (12751,'1-22-02',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (11953,'8-28-15',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (7032,'4-6-09',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (7438,'7-21-14',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (8599,'10-30-12',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (5724,'4-20-08',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5193,'10-14-09',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (13625,'11-5-01',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (14907,'2-15-11',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (12423,'1-31-12',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (11985,'10-31-14',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (13071,'4-16-10',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13211,'9-6-09',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (10985,'2-20-03',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (9088,'8-14-04',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (14722,'4-15-11',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (13505,'2-4-02',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (11511,'11-17-10',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (14039,'6-30-09',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (8264,'6-3-11',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (14432,'4-11-03',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (11077,'6-19-06',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (6174,'4-18-13',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (11505,'7-20-12',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (10842,'8-23-15',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7850,'12-12-05',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (6905,'7-4-13',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (9947,'12-15-04',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (7560,'1-6-07',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (9945,'1-11-13',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (12205,'9-5-01',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (5911,'11-14-13',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (11151,'3-10-08',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5945,'4-9-16',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (5102,'5-13-16',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (9611,'12-23-07',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (11136,'6-30-00',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (10184,'9-18-00',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (9307,'5-31-05',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (5102,'12-14-12',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (14815,'9-25-11',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (12854,'12-6-04',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (8215,'3-22-08',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (9377,'5-27-04',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (9798,'5-10-06',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (9656,'12-9-15',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8571,'11-19-15',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (6662,'7-11-04',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (9912,'9-4-13',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (8990,'6-8-10',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (6080,'2-12-15',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (5325,'5-23-06',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8956,'12-29-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (9268,'7-29-00',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (14214,'1-29-06',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (10933,'4-28-14',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (9966,'7-31-13',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (14702,'8-15-11',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (5251,'5-11-03',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11463,'6-29-06',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (13579,'7-20-06',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (14339,'5-11-02',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (10153,'3-20-14',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (14530,'2-17-11',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (14669,'3-29-08',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (6033,'9-30-12',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (8736,'5-2-14',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (5605,'4-4-12',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (13550,'12-25-12',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (9711,'7-10-08',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13782,'2-26-07',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (5976,'8-13-09',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (12359,'9-22-09',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (11169,'10-26-07',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (14348,'11-1-11',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (5576,'2-1-01',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (5828,'12-25-12',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (13846,'2-9-07',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (8029,'5-11-07',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11179,'8-7-11',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (11739,'4-8-14',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10518,'7-1-11',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (5425,'10-3-12',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (12796,'4-30-08',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (14478,'11-21-06',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11772,'11-22-06',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8017,'5-7-12',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (13774,'4-18-06',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (8156,'9-25-09',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (7178,'8-30-11',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (7344,'1-27-03',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (6378,'10-21-02',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (5167,'11-13-13',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (5134,'1-30-03',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7676,'4-11-15',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (10034,'4-14-14',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (11106,'1-23-05',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (5008,'1-13-13',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (7319,'3-14-16',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (14756,'3-10-08',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (6207,'2-2-13',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (6139,'11-13-02',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (5264,'4-13-15',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (13145,'7-10-08',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (7175,'8-8-15',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (5157,'11-8-15',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (14383,'7-29-13',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (13586,'1-8-04',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (9139,'7-13-01',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (7843,'7-23-02',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (7155,'7-26-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (9757,'6-12-09',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (8006,'6-29-04',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (13483,'7-1-00',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (9000,'4-16-15',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (12740,'6-1-10',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (9308,'12-8-06',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (12536,'9-7-12',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (14768,'9-26-09',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (13755,'4-18-02',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (14187,'2-15-13',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (6693,'6-17-12',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (12209,'7-22-15',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (8142,'8-21-13',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (10777,'5-22-10',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (12258,'10-17-07',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (13741,'2-4-12',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10661,'2-22-11',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (12840,'9-28-07',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (6242,'3-30-07',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (12755,'6-13-02',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (9373,'11-22-08',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (6135,'11-10-01',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (11133,'7-12-15',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (11904,'9-1-04',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (6133,'3-29-01',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (9971,'10-23-09',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (8914,'10-7-15',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10807,'12-22-15',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7468,'9-9-14',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (11635,'4-24-04',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (11845,'9-3-11',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (9307,'1-5-02',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (9022,'11-7-14',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (9814,'9-28-12',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (6682,'5-28-03',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (13780,'11-27-06',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13810,'1-14-13',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (6166,'1-2-08',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (13254,'7-5-10',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (9308,'4-8-16',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7292,'7-19-13',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (5427,'6-25-06',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (9932,'7-4-10',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (8235,'5-18-01',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (8736,'10-19-15',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (8691,'5-14-08',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (14318,'10-23-12',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (9241,'8-26-06',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (9130,'11-4-12',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (10556,'7-10-10',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7630,'10-3-01',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (7766,'7-31-05',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13756,'4-9-14',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11399,'5-15-14',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (14695,'3-15-16',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13254,'9-8-11',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (6727,'12-1-05',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (10086,'1-21-14',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (8262,'2-3-15',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11804,'6-23-01',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (12721,'8-3-10',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13314,'10-16-01',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7378,'1-22-10',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (5293,'10-13-12',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (8860,'4-11-10',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (11414,'12-23-12',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (8612,'11-22-14',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (11181,'7-25-10',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (8034,'12-10-05',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (5318,'11-15-00',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (8797,'11-26-01',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (8830,'2-27-08',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10174,'3-23-11',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (14458,'4-29-14',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (5267,'4-23-09',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (6308,'5-6-01',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (13788,'10-10-05',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (6348,'7-28-13',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (13924,'7-26-10',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (12481,'8-21-15',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (5391,'9-9-13',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (9113,'3-11-01',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7215,'1-17-06',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (10033,'10-11-00',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (11113,'7-19-13',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (8354,'3-12-14',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (7494,'10-10-03',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (12845,'4-11-02',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (10099,'12-17-01',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (9232,'2-17-06',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (11153,'8-13-03',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (10277,'5-28-11',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (14011,'2-13-08',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (13614,'11-22-02',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (12695,'6-9-15',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (13403,'5-29-05',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (9380,'5-5-06',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (7099,'7-6-08',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (12185,'11-23-13',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (12806,'5-14-08',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (5012,'9-23-14',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8469,'1-24-14',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (5684,'2-10-01',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (13478,'9-7-07',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (8825,'6-18-08',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (9443,'1-23-05',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (5576,'10-30-07',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (6747,'4-11-08',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12852,'5-1-03',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (6772,'2-19-12',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (5787,'3-18-06',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (13478,'4-5-02',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (6562,'6-11-15',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (11352,'8-16-12',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (11266,'1-25-12',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (6000,'4-4-13',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (7810,'3-29-10',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (7903,'7-7-12',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (12454,'3-14-04',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12751,'6-19-03',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (14697,'11-23-05',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (11359,'6-14-06',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (8820,'3-18-16',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (14991,'12-23-06',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (12570,'6-11-05',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (11897,'5-28-03',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (13081,'9-15-08',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (8750,'6-24-15',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8472,'9-12-00',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (7784,'5-18-11',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (8893,'3-12-09',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (7098,'11-2-12',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (14225,'2-19-10',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (13788,'4-28-16',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (8669,'10-31-03',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (8847,'8-4-14',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (6277,'5-30-13',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (8500,'3-22-06',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (13045,'4-14-07',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (13039,'3-11-05',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (5618,'9-7-02',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (10060,'7-21-04',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8907,'1-24-05',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (14236,'9-19-13',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (7221,'8-2-11',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (14408,'3-30-10',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (8104,'6-16-06',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (5354,'11-6-09',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (9709,'4-5-13',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5375,'8-28-09',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (6384,'9-30-05',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (11068,'5-27-07',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (7885,'4-14-15',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (14940,'5-24-08',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (9246,'8-17-07',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (5686,'10-29-12',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (7516,'2-22-05',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (8357,'9-17-08',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13454,'12-17-10',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (9155,'5-12-02',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14720,'3-15-15',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (13367,'4-2-13',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (10572,'12-27-05',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (13035,'5-19-02',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5619,'3-28-06',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (12362,'5-28-10',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14431,'6-24-08',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (8455,'6-28-05',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (9739,'6-10-12',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (10341,'12-23-11',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (14867,'4-21-16',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (9161,'8-23-05',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (11712,'3-14-05',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (8495,'2-23-14',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (7054,'10-16-09',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (8046,'4-25-13',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (9371,'10-5-04',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (6047,'1-18-03',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (10821,'12-11-06',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (9842,'4-28-08',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (11055,'11-11-09',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (10477,'3-31-01',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12956,'9-22-11',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (5157,'6-1-10',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (9042,'3-25-11',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5802,'9-14-04',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (10861,'6-9-01',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (8589,'1-5-02',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (7556,'10-15-11',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (12242,'7-9-03',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (6725,'12-4-14',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (7567,'2-28-03',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (12208,'6-2-12',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (14915,'9-10-05',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (9575,'8-18-11',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (7626,'7-4-00',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (14510,'9-3-14',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (5576,'3-7-10',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (12123,'4-19-13',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (9249,'1-17-15',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11406,'6-15-11',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (7224,'5-24-05',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (6698,'11-28-01',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5728,'3-12-15',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (14547,'6-19-05',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8981,'2-19-16',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (12163,'12-13-06',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (10127,'12-26-11',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (14896,'5-6-12',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (10129,'4-24-16',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (9204,'1-20-15',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (12583,'3-6-08',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (7270,'11-9-15',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (7980,'9-12-04',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (13518,'3-20-08',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13624,'5-4-16',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (11618,'9-13-02',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (13690,'5-2-13',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (7355,'9-24-03',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (10173,'10-18-09',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (5823,'8-10-09',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (10359,'10-18-10',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (14998,'6-2-05',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (6273,'5-30-12',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (10107,'2-4-15',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12814,'3-11-02',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (6917,'4-25-08',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7536,'9-13-11',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (6455,'4-28-15',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (9375,'3-9-09',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (11787,'3-10-09',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (14603,'7-29-05',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (13483,'3-5-14',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (9724,'10-27-02',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (13154,'4-19-10',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (13772,'12-2-00',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (14133,'8-1-14',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (13505,'10-31-01',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (8237,'3-27-04',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (12875,'8-11-13',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (7765,'5-7-01',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (13314,'1-30-10',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (6755,'2-26-14',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (14912,'10-2-13',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (10333,'8-20-02',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11883,'9-10-00',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (14546,'8-31-07',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (8795,'3-7-15',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (8261,'7-2-05',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11123,'11-2-00',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (12001,'3-1-14',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (9409,'12-19-09',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (6275,'12-30-10',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (11897,'11-23-09',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (14769,'5-19-01',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (5411,'11-13-07',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (12465,'7-19-15',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (12931,'7-24-09',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (7282,'11-5-09',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (5422,'2-5-02',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (6393,'12-17-00',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (9130,'2-24-06',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (12540,'6-17-00',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (6947,'10-31-10',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8825,'10-25-07',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (7573,'5-5-05',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (8585,'9-18-12',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13021,'6-3-05',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (8732,'6-2-05',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (9272,'10-6-15',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (8934,'11-15-06',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (10644,'1-22-12',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13163,'4-14-12',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (8007,'3-29-07',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (9305,'6-17-11',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (12460,'3-14-02',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (9836,'6-24-05',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (7202,'2-2-01',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (14070,'4-4-03',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (14502,'5-26-07',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (11705,'1-24-12',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (12383,'6-25-15',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (8098,'6-12-07',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (13613,'5-17-08',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (11722,'8-22-12',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (6426,'7-8-04',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (7376,'11-22-08',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (5266,'6-16-03',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (14389,'11-2-13',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (10401,'8-15-00',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (13955,'12-14-09',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11992,'7-5-12',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (10797,'1-26-05',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (14544,'5-27-15',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (10150,'7-9-00',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5979,'9-4-03',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (9404,'4-26-14',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (11315,'6-29-10',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11578,'11-25-04',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (11124,'9-25-07',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (13957,'10-18-09',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (10086,'5-19-14',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (5640,'5-4-06',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (13743,'5-29-16',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (12952,'3-28-04',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12079,'2-26-06',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14157,'10-4-12',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (7621,'2-17-01',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (7772,'10-29-03',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (9807,'3-25-06',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (6660,'1-21-01',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (8301,'2-19-13',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (14646,'5-30-05',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (6062,'10-5-01',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10523,'11-7-02',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7507,'1-31-06',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (6241,'4-24-07',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (12247,'3-17-16',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (12014,'7-30-04',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (13330,'12-29-14',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (10805,'7-1-14',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (12712,'8-29-03',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (10937,'3-9-07',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (9981,'9-20-06',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (14852,'10-22-02',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (11414,'3-31-11',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (10495,'9-23-14',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10374,'2-11-05',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (11316,'4-26-06',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (11694,'6-17-03',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13500,'1-29-07',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (14816,'4-27-05',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (14825,'8-25-08',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (7149,'1-17-03',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (9293,'5-2-13',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (14562,'6-3-10',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (7345,'12-1-04',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (8897,'2-6-01',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (5922,'8-17-03',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (13950,'9-3-01',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (11641,'8-27-13',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (9162,'3-23-06',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12389,'7-19-13',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (9623,'5-28-14',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (5235,'5-1-08',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (5914,'12-18-12',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (13886,'5-11-15',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (5060,'12-3-13',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (5072,'5-31-00',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (11813,'2-5-03',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (13072,'8-27-06',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (8449,'7-30-09',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (14198,'7-26-13',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (11595,'6-3-16',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (13492,'10-4-09',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (6106,'8-15-01',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14609,'7-13-07',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (5501,'4-17-13',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (6019,'5-12-01',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (8866,'7-29-05',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (10022,'8-9-02',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (12259,'5-9-03',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10423,'7-17-02',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (13634,'8-2-12',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (6104,'10-22-06',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (5298,'11-29-14',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (11287,'8-25-13',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (6699,'7-16-01',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (14945,'6-13-10',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (5232,'8-15-13',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (7884,'1-28-15',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (8361,'5-13-08',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11073,'12-6-09',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (12060,'8-2-01',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (12527,'9-16-11',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (10219,'5-18-12',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (6911,'6-3-05',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (11336,'4-3-16',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (6249,'12-17-10',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13208,'1-3-10',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (10627,'2-21-07',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (6894,'5-2-07',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14749,'2-16-09',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (13307,'2-16-08',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7027,'8-15-12',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (13028,'4-5-13',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13042,'7-14-15',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (9425,'6-14-13',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (13741,'2-23-02',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (11540,'7-13-04',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (9497,'5-7-01',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (7882,'11-9-10',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13661,'1-20-16',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (8572,'6-22-10',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (6872,'7-2-07',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (6527,'9-8-09',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (5581,'1-19-09',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (14670,'8-16-05',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (14287,'7-31-10',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (7528,'9-2-09',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7910,'1-28-15',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (10361,'7-3-08',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (7720,'3-30-07',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (7000,'1-15-11',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (8325,'3-12-13',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (12108,'4-12-07',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (5946,'11-16-04',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (14672,'11-13-10',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (13557,'12-29-00',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (9522,'3-28-11',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (10936,'8-22-06',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (8225,'6-26-05',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (12993,'7-9-08',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (7397,'9-27-14',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (5488,'11-4-12',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8889,'4-3-02',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (10791,'4-25-01',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (9468,'9-17-10',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (5157,'3-25-06',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (13384,'4-27-12',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (9244,'1-5-15',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8016,'7-23-02',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (12918,'5-12-02',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8448,'8-25-09',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11418,'7-28-04',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (12178,'11-18-04',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12689,'9-12-06',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (12927,'9-29-12',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (5120,'7-8-05',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (14561,'8-17-12',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (14376,'12-22-00',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (8099,'12-22-02',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (9949,'7-24-01',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (11671,'10-27-03',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (5575,'9-2-10',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (11525,'7-5-06',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5855,'5-10-12',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (10104,'4-9-06',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8608,'4-10-10',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (11092,'5-12-08',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (6066,'8-31-06',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (13727,'6-5-10',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (8945,'12-10-02',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (14445,'7-23-05',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13519,'2-24-14',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (11911,'1-18-03',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8121,'3-5-06',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (8509,'6-4-09',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (6797,'7-2-10',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (7960,'10-5-14',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5406,'5-30-11',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (10679,'1-16-11',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (5483,'3-9-09',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (12573,'1-15-09',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (6038,'7-31-14',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (9631,'8-1-13',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (13657,'9-30-14',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (10670,'4-22-03',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (6996,'4-22-04',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (11293,'6-18-05',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (14667,'4-23-08',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (6331,'6-24-08',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (9679,'2-7-09',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (11339,'7-25-12',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (5423,'11-24-04',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (5215,'2-7-08',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (5385,'9-14-15',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (10839,'9-20-12',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14823,'10-10-02',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (14810,'5-21-05',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (12324,'12-24-15',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12264,'4-1-10',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (13644,'11-30-09',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (14803,'12-6-00',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (14604,'10-10-14',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (10011,'7-26-10',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (6597,'4-20-12',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5556,'4-20-04',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (13588,'7-3-04',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8138,'3-4-01',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (7770,'2-17-10',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (10232,'4-8-08',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (11065,'9-5-01',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (9365,'4-1-13',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14698,'5-15-08',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7805,'5-3-11',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (5246,'4-29-06',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (9664,'11-8-02',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13458,'10-15-05',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (8277,'6-10-13',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14449,'9-5-09',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (8345,'3-1-12',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (11733,'8-15-12',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (10690,'3-16-14',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (5235,'2-4-09',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5489,'1-26-16',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (6311,'8-27-11',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (5550,'6-21-08',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (5060,'3-21-16',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (9040,'6-5-03',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (14604,'6-17-13',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (11726,'12-17-14',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (10962,'1-13-07',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (10837,'2-17-11',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13078,'4-17-05',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (12874,'10-29-10',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (13066,'6-18-07',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10789,'8-6-08',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (13913,'3-8-03',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (7525,'6-23-10',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (5152,'11-14-11',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (14283,'1-1-14',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (14714,'3-6-05',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (5467,'12-28-03',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (10557,'1-3-05',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (9749,'6-20-14',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5511,'9-1-01',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (5064,'4-13-01',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (14819,'4-16-05',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (12697,'10-14-08',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (10411,'6-6-01',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (9107,'4-24-02',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (10989,'8-12-09',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (6433,'5-22-01',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10746,'6-23-05',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (12859,'9-9-13',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (6750,'12-24-07',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (10505,'1-9-05',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (13221,'1-15-01',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (8454,'3-8-01',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13964,'1-9-01',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (14002,'4-10-16',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (6584,'12-25-15',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (8451,'9-9-03',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (8751,'11-16-07',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (9635,'9-24-00',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7748,'7-27-11',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (14752,'2-5-11',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (5893,'11-9-13',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (8119,'1-1-16',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (7596,'2-2-08',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (5683,'9-22-08',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (6048,'3-2-02',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (14526,'8-4-01',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (14952,'10-8-09',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (7669,'10-17-12',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (9751,'9-8-07',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (12797,'8-19-15',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (9888,'7-31-13',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (11459,'8-5-10',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (9376,'5-18-13',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (10265,'6-22-15',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (14072,'7-15-09',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (8916,'10-3-08',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (13469,'12-15-07',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (8346,'6-4-14',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (13320,'10-1-08',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (13534,'12-26-02',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (8150,'12-11-14',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (10817,'6-6-02',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (12884,'5-23-09',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (11156,'2-17-06',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (8125,'10-9-11',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13323,'10-11-02',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (6378,'12-14-06',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8431,'3-5-12',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (12513,'8-19-15',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (10944,'4-19-06',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (8288,'5-9-12',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (9193,'2-8-06',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (9808,'9-23-08',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (10528,'2-4-09',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10222,'10-6-08',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11396,'9-8-03',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (14803,'11-6-00',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (7453,'9-19-12',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (8871,'2-18-01',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (8004,'1-22-05',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (12664,'8-6-04',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (13418,'1-29-01',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (5519,'3-14-08',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (9943,'3-9-04',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (12085,'9-21-11',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (7569,'10-10-07',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10335,'6-10-07',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (12719,'10-4-06',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14686,'5-14-01',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (12271,'11-23-00',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (10884,'1-23-09',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (14294,'8-19-15',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (12226,'11-14-01',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (7106,'1-5-04',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (10559,'5-28-06',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (12003,'5-6-15',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (9558,'4-22-15',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (12541,'7-2-02',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (9967,'12-23-13',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (6455,'4-6-14',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (6069,'11-20-14',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (11785,'5-14-06',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (14235,'11-30-15',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (7912,'5-24-15',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (12443,'7-21-10',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7862,'10-10-11',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14246,'11-16-00',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (14989,'12-29-00',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (10993,'11-9-13',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5845,'9-26-01',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (5601,'5-17-10',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (5504,'10-25-03',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (12408,'6-18-11',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10788,'4-4-01',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10371,'11-22-10',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (10085,'5-27-09',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (9909,'8-17-08',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (11750,'5-23-02',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (8879,'11-14-13',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (7535,'1-30-02',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (8826,'9-3-09',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (12265,'3-21-07',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (11953,'1-18-06',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (12268,'1-24-08',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (10210,'8-1-00',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (14157,'3-10-11',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (14081,'7-22-14',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13367,'1-21-16',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (7461,'1-29-01',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7500,'8-28-14',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (10502,'1-19-16',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12962,'6-30-08',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (10007,'10-21-06',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (7017,'6-9-15',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (12229,'10-11-14',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (7395,'8-8-04',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (6668,'5-8-15',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (13516,'9-5-10',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (12906,'12-1-11',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13411,'9-12-02',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (8382,'11-6-07',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (10695,'10-10-07',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (6739,'2-8-03',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (11945,'12-27-04',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (11029,'1-23-09',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (9753,'10-31-09',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5132,'3-22-13',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (14565,'7-15-08',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (11199,'3-5-15',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (12980,'6-20-07',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (9151,'7-12-14',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (14759,'12-11-03',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (6465,'2-6-02',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (9426,'4-20-08',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (11280,'10-18-13',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (6149,'8-21-05',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (12263,'11-16-11',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (5951,'11-27-00',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (10925,'12-6-00',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (10675,'4-21-02',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13828,'12-8-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (6551,'6-2-09',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (8844,'12-31-08',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (6932,'9-19-02',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (6166,'6-13-10',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7817,'2-28-16',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14505,'11-22-03',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (8961,'11-23-15',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (7091,'9-28-05',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (9281,'12-4-05',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (12462,'12-13-11',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (14590,'6-23-14',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (10340,'9-7-00',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (7502,'10-4-08',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8126,'10-27-10',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8050,'3-7-14',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (14712,'10-26-00',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (7078,'3-28-14',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (7228,'9-17-12',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (7758,'10-19-10',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (14154,'7-13-10',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (5028,'12-28-12',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (11495,'8-13-13',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (10009,'12-28-15',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (12237,'10-28-15',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (5448,'4-3-08',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (10888,'7-4-03',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (10313,'5-19-15',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (12066,'1-22-16',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (12224,'3-1-10',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (7736,'10-7-01',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14972,'5-31-15',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12722,'6-8-04',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (14688,'2-17-11',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (13291,'10-19-14',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5104,'12-27-00',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (8729,'9-1-09',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (13436,'6-13-08',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (7030,'2-13-11',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (5383,'6-18-11',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (9004,'6-10-00',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (12376,'5-2-01',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (14914,'3-6-06',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (6317,'1-26-05',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (14197,'2-11-01',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (8313,'2-20-11',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (8609,'7-9-05',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (10592,'2-20-04',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (5434,'7-1-00',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (14120,'3-13-10',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (7646,'4-30-15',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (12142,'1-1-15',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (8773,'11-29-09',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (7516,'4-21-11',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (7650,'8-12-06',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (12678,'3-30-05',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (8303,'5-24-10',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (14968,'12-25-03',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5765,'10-31-12',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (12054,'6-1-16',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (7250,'7-15-06',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (11987,'10-7-12',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (7714,'6-24-01',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (5775,'12-3-07',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10636,'1-4-06',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10585,'10-25-09',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (10608,'4-22-01',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (11209,'5-10-07',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (8905,'1-5-08',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (7552,'3-26-11',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10651,'8-26-07',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (14141,'8-14-06',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (7757,'6-15-10',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12424,'4-28-02',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (7023,'3-17-14',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (9939,'1-16-02',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (11714,'11-25-05',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (8562,'11-4-15',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14607,'7-13-11',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (9505,'2-19-16',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (7127,'3-28-04',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (5704,'10-31-12',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (13955,'5-17-04',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (14150,'12-2-11',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (7968,'10-23-12',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (13244,'5-28-09',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (9436,'1-14-11',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (5905,'4-12-08',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (6333,'6-15-05',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (12456,'12-6-14',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (9165,'11-5-12',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5185,'7-23-10',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (11117,'9-2-06',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11551,'3-25-15',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (10899,'3-4-06',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (14426,'9-20-13',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (10825,'6-3-14',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (6685,'4-30-01',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (12766,'9-15-09',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (6405,'12-14-01',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (6889,'12-20-00',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (13030,'6-7-08',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (8887,'1-15-03',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (14065,'7-17-01',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (5078,'3-7-16',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (10716,'6-7-02',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8384,'1-10-07',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11721,'4-18-13',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (11186,'1-10-10',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (7668,'8-6-04',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (12786,'8-28-08',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (9230,'11-30-05',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (13771,'6-7-06',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (12174,'12-10-15',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (7248,'2-12-03',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13356,'5-26-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (13985,'7-11-08',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5347,'9-29-11',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (9099,'12-21-00',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (13258,'12-2-02',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10505,'5-27-05',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (6714,'4-11-09',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (12270,'8-21-10',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (10320,'10-20-08',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (11792,'1-10-01',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (5555,'1-18-15',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (9719,'10-30-04',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (12678,'5-3-10',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5778,'3-28-04',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (13603,'2-23-03',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (10816,'8-10-04',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (7451,'4-9-11',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (12618,'1-18-14',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (9325,'12-14-12',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (8285,'11-29-00',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (9416,'12-31-10',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (9822,'3-22-01',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (14349,'6-26-00',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (14733,'9-22-09',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (8239,'10-22-14',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8453,'7-19-15',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8280,'12-25-14',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (6762,'6-28-15',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (7818,'5-17-12',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (14896,'6-24-12',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (6018,'10-19-03',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (7570,'2-6-15',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (9473,'5-14-14',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14211,'4-3-05',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5974,'8-13-02',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (6413,'2-22-02',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (13389,'2-26-01',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10347,'3-19-16',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (9994,'11-15-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (5316,'8-13-01',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13804,'12-10-10',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (8245,'9-12-06',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (8626,'9-16-14',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (5238,'6-1-15',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (8075,'8-22-13',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (11944,'10-20-03',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (11785,'11-9-15',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (13417,'4-20-09',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (7316,'5-6-16',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (9366,'9-4-03',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (9865,'7-6-09',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (9620,'11-2-13',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (9923,'12-27-12',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (14610,'8-6-15',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (5639,'9-27-07',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (7851,'8-24-01',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (14825,'10-30-08',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11641,'3-7-06',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (10429,'9-26-14',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (13227,'9-11-11',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13896,'11-17-09',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5418,'8-25-15',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10142,'12-26-02',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13294,'3-4-03',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12379,'10-22-08',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (6586,'2-2-01',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (13903,'2-14-01',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (7571,'5-2-09',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (7865,'5-30-08',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (12388,'3-6-16',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (10579,'1-23-01',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (11985,'7-17-05',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (7447,'9-14-05',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11384,'5-10-15',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (13633,'12-18-02',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13718,'12-11-06',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (8965,'3-7-08',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (14543,'5-13-08',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (5305,'7-24-10',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (14921,'7-24-10',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (11819,'11-14-00',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (7440,'5-8-11',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (14623,'3-15-09',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (12170,'1-8-14',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (7609,'12-4-06',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (13262,'9-10-03',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (12916,'9-25-14',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14791,'6-14-03',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10828,'7-28-04',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (13212,'8-29-09',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (8526,'12-10-04',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5658,'5-11-07',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (13801,'6-10-08',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10801,'1-9-02',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (9320,'4-5-11',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (5244,'10-7-14',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (11158,'11-10-07',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (6959,'2-16-06',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (6805,'4-2-08',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (11839,'11-26-04',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (12334,'10-3-15',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (13748,'10-31-00',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (5571,'1-11-14',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (10258,'8-24-02',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (12601,'4-28-09',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11241,'11-21-05',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (10234,'4-13-05',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (12929,'12-27-10',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (12606,'1-23-12',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (9696,'4-27-12',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (11238,'2-20-10',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (12794,'10-15-09',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (10572,'6-6-12',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (6803,'12-5-00',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (5566,'5-3-02',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (10090,'2-8-14',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (9062,'1-17-02',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (9777,'10-31-12',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (11767,'1-20-03',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10274,'6-19-02',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (11923,'7-24-11',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (6068,'10-8-09',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5293,'5-22-06',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10964,'7-9-01',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (12092,'11-7-11',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (11833,'3-10-08',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (12924,'8-4-04',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (14560,'6-26-07',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (10464,'5-26-15',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (9378,'3-6-13',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (9722,'1-10-11',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (12188,'1-21-06',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (7898,'7-2-07',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10307,'11-22-12',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (12434,'1-17-10',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (13589,'3-10-12',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (7437,'4-28-01',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10106,'6-15-15',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (6647,'7-29-15',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (8606,'4-23-09',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (9650,'9-18-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (11330,'5-3-05',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (10086,'1-20-13',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14926,'11-9-04',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (9371,'9-10-04',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (5283,'10-12-08',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (12224,'12-28-02',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (11674,'8-22-06',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8299,'3-25-05',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (6357,'5-28-03',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (7744,'9-14-11',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7160,'2-14-06',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (10915,'4-1-13',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (9570,'2-27-11',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (13547,'3-28-03',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (6804,'9-12-07',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (12067,'12-23-06',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (8431,'5-25-04',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (5203,'9-15-12',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (13562,'4-27-14',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (10737,'1-12-10',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (5504,'9-15-03',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7117,'12-1-03',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (13024,'1-1-04',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14912,'6-21-02',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (14185,'5-18-01',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (12293,'12-28-10',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (13091,'4-26-07',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (10376,'11-14-05',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (5785,'3-30-06',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (10282,'3-10-01',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (6539,'5-10-11',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (9193,'8-29-00',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10190,'9-9-11',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (7812,'7-22-01',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (5007,'4-27-08',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (13182,'8-14-02',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (14857,'6-26-14',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (11410,'9-25-14',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (9942,'2-7-08',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (14050,'6-13-05',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (14056,'11-18-00',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14144,'11-22-10',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11136,'10-8-04',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (12976,'12-14-09',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10071,'3-13-03',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (6863,'8-3-12',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7248,'1-10-14',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (10918,'4-19-15',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (8011,'3-27-13',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (9484,'8-3-08',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10513,'6-2-15',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (14490,'9-18-13',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12541,'5-10-05',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (7033,'6-28-13',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (9263,'4-5-13',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (11609,'8-8-04',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (6968,'11-13-15',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (6948,'7-21-09',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (10168,'12-2-03',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (11176,'1-17-16',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5488,'2-23-11',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (7718,'3-26-01',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (14691,'9-23-01',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (6470,'8-23-10',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (7461,'11-9-01',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (12270,'3-30-11',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (6032,'12-7-06',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (5094,'8-9-01',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (6902,'7-23-06',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (13630,'12-15-05',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7922,'5-28-16',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (11546,'6-8-12',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (7037,'11-5-14',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (7556,'11-2-10',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (5398,'6-25-01',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (8683,'3-30-05',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (11771,'12-25-10',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (9399,'7-23-01',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (12070,'8-16-12',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (11404,'8-15-00',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (8530,'5-29-09',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (6617,'1-27-09',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (5931,'5-25-16',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (14716,'11-1-05',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (8884,'1-26-11',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (11459,'6-13-02',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (12566,'6-3-07',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7133,'10-24-05',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (6903,'5-22-16',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (6315,'12-17-09',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10290,'9-19-03',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (12598,'2-6-05',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (5869,'12-28-15',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (12894,'12-23-02',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (6466,'9-23-05',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (10679,'1-24-09',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (11331,'9-18-13',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (8223,'8-11-10',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (8708,'5-22-16',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (13610,'4-16-15',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (13090,'2-26-04',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (11441,'4-10-09',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (7851,'6-25-07',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (8773,'5-21-13',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11429,'7-29-06',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (13904,'7-19-02',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11466,'3-8-07',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8502,'5-29-10',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10511,'5-27-15',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (11495,'8-4-04',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (12791,'4-5-08',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (6736,'4-24-08',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (10490,'4-7-01',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (11838,'5-12-14',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (6201,'1-8-15',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (12565,'5-8-03',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (10689,'6-19-13',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (8494,'11-27-10',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (13170,'6-29-03',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (5025,'11-10-02',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (7924,'3-18-09',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (10896,'8-2-00',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (11275,'12-29-03',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (9110,'10-2-13',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (10896,'4-11-05',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (14037,'9-11-13',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (13860,'10-18-00',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (9376,'6-27-05',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (6118,'7-5-02',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (7510,'10-28-02',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (13566,'8-8-13',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (11873,'6-27-12',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (5258,'10-19-10',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (13745,'7-5-15',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (11053,'2-20-03',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (9085,'2-12-04',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8325,'2-20-11',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (6362,'10-10-04',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (12943,'8-1-04',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (11444,'10-9-12',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (7685,'7-30-08',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (6116,'8-30-08',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (7193,'6-10-11',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (14824,'2-24-04',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5705,'9-23-04',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (9672,'1-31-16',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (9702,'2-4-10',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12362,'7-6-01',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (9556,'11-18-00',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (10968,'7-7-07',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (6344,'7-7-12',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (13276,'12-26-14',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7668,'5-11-06',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7447,'8-8-08',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10177,'2-5-05',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (8208,'4-6-06',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (8081,'1-27-07',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (6569,'4-9-14',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (8906,'1-9-12',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (11276,'9-17-00',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (13857,'4-17-01',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (6668,'5-18-07',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (5116,'7-8-14',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (10770,'12-13-07',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (9051,'1-10-14',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (10200,'2-22-06',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5414,'7-18-11',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (5981,'4-30-16',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (8479,'7-4-05',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (10857,'2-10-01',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (5149,'11-29-15',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10712,'1-15-01',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (7588,'6-2-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (8575,'7-14-09',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (6971,'6-29-13',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (14455,'5-2-12',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (12962,'8-23-07',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (9285,'5-17-09',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (7669,'1-18-12',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (14176,'11-13-02',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (9178,'2-27-12',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13981,'7-3-12',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (8332,'4-3-06',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (10603,'8-31-07',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8009,'12-5-00',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (12328,'9-17-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (8179,'8-29-07',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5304,'11-23-04',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (14652,'11-13-15',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (6526,'6-5-08',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (13203,'9-4-02',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (6398,'10-26-15',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (5920,'12-22-04',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8699,'9-12-09',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (10142,'6-21-14',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5975,'8-2-06',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (9145,'4-27-08',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (6550,'4-7-11',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (12841,'1-4-14',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (14806,'3-15-06',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (6436,'8-25-00',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7185,'3-14-05',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (7412,'11-11-14',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7704,'8-4-04',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (7031,'2-14-05',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (8800,'1-25-11',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13532,'8-12-08',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (12416,'2-25-07',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (11938,'10-11-00',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (10272,'7-7-07',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (9291,'10-21-08',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (12836,'4-13-02',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (14927,'5-30-03',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (9947,'12-12-00',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (8439,'5-18-10',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (10189,'12-29-11',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (7042,'12-26-13',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (7214,'6-18-14',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (8710,'7-16-02',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (10179,'3-19-12',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (7009,'12-23-15',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (5739,'9-7-13',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (10577,'2-22-15',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (10958,'4-6-13',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (13078,'2-19-15',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (5515,'12-25-03',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (9718,'5-7-11',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (11630,'4-18-07',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (11403,'1-23-09',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (8352,'11-16-00',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (5969,'2-3-13',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (5092,'11-6-11',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (9072,'8-14-14',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (6757,'11-1-04',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (8371,'10-6-13',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (11858,'9-6-01',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (9305,'11-22-03',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (10388,'10-5-05',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (10871,'9-2-07',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8698,'1-17-01',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (14405,'7-1-07',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (13545,'3-4-09',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (11575,'10-11-05',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (10094,'8-14-10',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (8813,'9-2-15',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (7168,'9-29-13',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (12142,'4-25-07',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (12935,'3-25-01',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (7001,'4-7-04',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (7548,'6-10-00',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (5411,'6-23-13',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (11850,'8-24-07',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (8650,'10-17-13',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (14985,'6-9-12',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (9843,'6-17-15',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5594,'8-12-14',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (11998,'1-5-04',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10627,'10-29-11',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (7843,'7-3-11',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (7565,'11-13-11',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (12413,'2-13-14',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (14912,'10-23-01',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (7988,'2-16-02',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14972,'3-4-08',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (6195,'12-4-11',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (9070,'9-25-10',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (5576,'3-26-16',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (12191,'1-1-10',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (9103,'9-11-15',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (11031,'8-17-02',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (7041,'7-31-04',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (14706,'10-8-13',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (13290,'2-22-14',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (8830,'6-22-09',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (11575,'12-19-13',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (10309,'6-30-07',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (11034,'5-6-12',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (7012,'3-6-15',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (10819,'7-16-06',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (10653,'5-20-09',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12485,'3-25-09',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (10957,'9-18-04',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (14778,'2-26-16',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (11167,'4-24-13',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13386,'4-18-11',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (9632,'4-2-14',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (6802,'9-15-09',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (5243,'8-14-08',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8521,'5-3-01',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (14845,'1-18-16',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (8657,'8-16-03',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10280,'1-26-06',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (14345,'7-4-05',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (5176,'6-15-03',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (11070,'6-22-01',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (5948,'1-24-16',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (10528,'8-2-05',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13687,'11-7-01',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (5340,'1-27-16',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (7600,'12-11-09',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10455,'3-28-02',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (6132,'6-2-10',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (14780,'8-18-07',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (5227,'4-21-15',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (10179,'4-27-02',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (6218,'7-13-08',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (10489,'3-30-14',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (6418,'4-12-11',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7911,'1-23-06',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (7600,'8-27-01',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (14807,'9-30-03',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12641,'2-19-09',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7582,'3-19-01',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (8387,'1-27-08',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (8288,'2-6-01',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11686,'4-10-07',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (10361,'2-5-03',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (8654,'9-7-15',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (12924,'11-7-15',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (8587,'12-1-00',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (8909,'9-16-08',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (12349,'6-19-12',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11337,'11-6-06',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (8366,'3-4-02',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (11238,'1-21-14',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (12344,'4-23-13',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (5974,'5-24-16',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (7391,'7-16-12',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (10949,'12-27-08',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (11598,'2-5-04',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (12898,'7-5-01',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (12363,'11-8-06',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (12471,'7-31-13',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (6325,'7-12-03',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13789,'11-1-07',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12229,'7-17-10',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (14703,'2-17-02',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (8747,'8-24-10',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (10502,'6-4-14',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (11601,'9-27-06',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (13743,'8-23-00',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (5199,'10-11-13',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (12002,'10-7-06',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (12172,'10-28-06',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10835,'3-20-14',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (12382,'10-26-05',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (14933,'6-20-11',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (6749,'4-7-08',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (7124,'10-29-10',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (7971,'9-25-08',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7353,'5-2-03',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11000,'6-1-07',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (14099,'8-20-06',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5310,'2-11-14',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (11302,'2-13-10',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14337,'4-3-06',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (11513,'7-27-00',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (14050,'7-1-12',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (12208,'1-19-01',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (5094,'3-19-13',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (9690,'12-10-00',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (7179,'12-12-00',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (6691,'6-15-06',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (13517,'11-28-10',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (7394,'4-17-10',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (9301,'8-23-10',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (14863,'1-7-04',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (10700,'8-27-12',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (14311,'3-28-03',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14998,'6-29-14',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (14669,'8-6-07',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (9140,'12-12-01',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11994,'9-1-08',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14164,'9-13-14',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (13647,'5-10-08',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (10936,'7-2-06',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (6530,'1-9-04',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (11637,'12-31-01',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (12246,'1-17-03',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (9186,'4-5-10',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (12867,'1-10-16',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (7303,'8-23-11',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (13042,'6-4-11',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (11466,'9-6-13',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (11462,'3-21-12',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (14154,'10-27-09',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11568,'9-23-09',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (13153,'5-23-07',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (11720,'12-29-12',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (7871,'3-1-13',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (11983,'10-5-05',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (10095,'10-27-11',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12563,'11-30-03',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (7711,'4-14-04',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13434,'6-7-08',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11416,'6-18-12',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (10515,'1-31-14',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (14933,'7-17-06',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12951,'5-30-07',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (11924,'9-14-15',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14747,'8-13-10',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (5270,'7-26-03',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (12970,'10-23-10',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (9438,'1-26-10',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7163,'1-4-16',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11718,'9-17-06',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (8930,'4-4-13',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (13724,'9-26-05',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (8886,'7-15-15',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (6737,'6-9-13',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (5770,'4-20-05',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (7667,'8-6-08',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (5540,'3-26-02',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5837,'3-18-04',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (13872,'2-13-14',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (7501,'8-11-06',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10212,'6-4-12',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (10809,'8-27-00',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (11621,'5-22-07',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (8298,'4-8-05',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (14366,'1-15-03',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (7610,'9-15-15',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13275,'1-8-16',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (10486,'1-1-09',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (11543,'9-3-00',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (10087,'11-8-00',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7994,'3-3-09',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (8905,'1-18-06',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (7817,'7-29-15',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (14307,'7-2-09',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (9376,'11-20-08',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (5619,'4-27-03',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (8795,'10-24-15',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (10022,'4-21-04',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (6438,'11-7-10',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (6746,'6-12-10',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (14269,'11-17-09',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14940,'6-12-14',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11333,'6-9-09',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (12405,'3-13-03',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (11726,'7-3-03',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (6621,'7-29-11',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10705,'2-28-05',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (12691,'5-27-16',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (11494,'5-1-03',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (8816,'2-19-14',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (9770,'12-3-13',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (6775,'8-15-11',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (11209,'10-18-02',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (10666,'9-20-12',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (6947,'7-2-15',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (11631,'12-23-02',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (13460,'8-23-01',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (7791,'4-10-04',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (13164,'11-30-07',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (9980,'2-28-03',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (13090,'11-16-09',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11246,'8-19-01',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11410,'9-10-09',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (7625,'6-22-13',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (7310,'11-2-03',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (14458,'1-20-09',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (9460,'1-3-02',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (5592,'7-16-04',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (6083,'5-7-16',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (6612,'10-12-02',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (14470,'7-3-05',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (12297,'8-31-00',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10662,'3-16-08',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14135,'9-21-00',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5201,'2-26-12',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7440,'7-4-01',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (8918,'9-22-07',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (9297,'5-15-09',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13271,'10-25-08',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12304,'11-3-06',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (5105,'11-9-15',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (11753,'6-19-11',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (6400,'5-31-00',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (5585,'7-24-10',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (11468,'3-19-16',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (9125,'12-13-15',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (5489,'6-29-14',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (13034,'8-23-02',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (9636,'10-7-07',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (7694,'4-19-11',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (13314,'10-12-06',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (14381,'4-10-09',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (12197,'6-10-07',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10971,'1-7-09',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (11182,'8-18-07',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (10775,'1-3-14',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (7386,'12-29-10',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (7835,'6-12-15',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (7419,'6-5-01',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (6964,'3-30-06',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (10380,'3-10-03',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (11459,'1-29-02',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13481,'3-18-13',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (8563,'5-23-15',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (11470,'9-23-06',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (6517,'11-21-08',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (6788,'1-25-15',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (12878,'10-25-04',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (6763,'3-13-10',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (14890,'2-21-06',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5309,'8-8-13',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5076,'2-12-11',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (11266,'3-8-02',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (14474,'3-13-02',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (6594,'8-2-14',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11686,'3-23-16',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (9222,'8-19-01',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (12142,'1-13-16',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (13323,'10-17-15',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (5698,'11-13-00',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (12880,'2-15-13',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (7681,'3-21-08',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (10807,'5-18-07',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11867,'2-28-04',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (7921,'6-20-05',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (13931,'10-23-11',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (8998,'2-17-04',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (8846,'10-15-13',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (6505,'4-16-08',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13847,'9-23-14',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (9556,'10-8-12',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (11071,'1-31-08',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (13534,'4-18-06',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (5037,'12-20-15',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (14550,'5-5-05',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (10680,'7-1-12',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (5498,'3-17-16',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (9652,'2-8-02',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12726,'8-2-03',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (13416,'9-30-00',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (10940,'6-21-10',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (9147,'8-11-03',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (8127,'11-25-02',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (6068,'8-22-02',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (12883,'10-15-13',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (10508,'5-8-09',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (13656,'5-20-08',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (6044,'1-18-03',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (6555,'2-3-01',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (5886,'6-30-14',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (14815,'7-2-07',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (9405,'1-23-13',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10951,'6-18-14',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7000,'3-6-06',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (5160,'4-1-03',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (12414,'10-21-07',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (14106,'9-12-11',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12365,'12-18-08',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (13267,'6-27-10',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (13857,'10-1-14',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (11074,'6-8-08',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (11303,'11-3-02',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11749,'7-7-14',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (6860,'7-6-09',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8504,'12-17-00',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (14941,'5-25-15',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (8683,'11-18-07',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (13171,'5-1-09',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (13000,'4-9-06',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (9230,'8-19-03',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8970,'5-13-08',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (12808,'3-21-01',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (5875,'9-15-13',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (13199,'11-1-10',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (11000,'11-4-14',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5506,'2-10-08',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (14825,'1-29-08',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (5523,'11-16-13',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (7156,'10-15-09',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (7468,'5-19-10',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (9644,'8-31-10',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (9633,'1-30-16',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8981,'12-30-11',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (14628,'8-28-01',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (8307,'9-6-01',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (7758,'5-30-16',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (10230,'12-20-01',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (13999,'10-4-02',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (7020,'5-12-15',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (10519,'9-16-11',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (13590,'1-30-04',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (13760,'3-2-07',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (8643,'6-3-11',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10001,'4-22-12',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (8003,'4-13-08',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (13392,'8-1-07',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (10273,'1-8-09',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7403,'4-7-16',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (12707,'8-3-13',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (8428,'2-13-03',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7432,'7-9-02',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (12257,'7-4-01',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (7438,'6-28-08',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (11650,'1-1-11',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (11693,'10-31-15',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7277,'8-28-06',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (7472,'5-10-05',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (13303,'3-13-02',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12865,'2-13-04',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (14070,'6-17-06',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (10029,'2-7-09',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (7595,'9-21-00',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (5897,'7-1-00',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (10074,'4-28-12',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (13963,'10-1-02',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (9038,'3-7-10',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8225,'6-30-12',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (6949,'1-19-03',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (11203,'5-15-05',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (8180,'6-4-08',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (5445,'1-23-14',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (8312,'6-23-00',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (12271,'3-11-08',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (14746,'3-13-04',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (9954,'12-19-10',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (6398,'10-3-11',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (9830,'8-2-05',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (8736,'12-1-01',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (14103,'10-31-05',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (12442,'9-14-15',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (7659,'9-6-01',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (8824,'4-12-05',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (6052,'3-14-15',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (10293,'12-14-13',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (13748,'2-16-04',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (13056,'11-19-04',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (14976,'7-13-08',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11445,'12-29-09',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (11787,'11-1-15',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (12305,'9-23-00',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (10449,'1-7-13',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (5855,'5-17-02',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (8747,'12-18-06',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10914,'1-13-04',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (12699,'5-10-06',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10834,'10-13-01',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5286,'7-10-05',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (12805,'6-25-13',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (6862,'11-18-13',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (13604,'4-18-16',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (8416,'8-5-01',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (12825,'5-20-03',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (6926,'12-23-08',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (6387,'5-29-15',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (9959,'6-22-05',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (14978,'4-20-05',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (13791,'3-9-01',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (11905,'12-24-01',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (6387,'9-4-09',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (13941,'1-24-13',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (14698,'7-13-06',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (12364,'11-24-01',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (14133,'12-1-12',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8327,'4-4-09',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (8747,'5-13-16',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (14340,'2-20-10',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (13670,'6-24-15',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (14300,'1-2-03',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (5020,'9-21-12',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (6283,'12-26-06',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (10942,'7-7-09',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (14670,'10-14-07',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (11389,'4-16-07',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (9084,'7-31-11',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11724,'3-1-11',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (12366,'1-22-09',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (11585,'9-15-06',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (9713,'9-25-12',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (14853,'5-27-07',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (11525,'6-3-09',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (6848,'8-27-02',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (10098,'11-29-06',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13462,'12-14-12',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (13158,'10-14-15',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (7131,'12-8-04',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10287,'9-4-01',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (11546,'12-25-06',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10109,'12-9-01',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (8081,'6-7-08',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (9956,'2-20-01',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (7208,'1-29-15',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (10573,'5-8-16',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (13785,'6-24-15',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (5758,'9-2-09',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (11655,'2-28-08',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (11085,'8-25-12',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (6616,'5-26-04',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (12555,'8-26-09',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (5634,'11-29-07',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (5073,'3-1-15',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (10087,'2-9-08',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (12695,'3-18-04',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (5631,'4-30-04',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (10317,'3-6-03',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (9211,'10-18-09',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (5816,'9-1-03',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (14763,'10-22-02',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (12211,'2-18-03',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (9872,'9-15-15',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14548,'7-22-04',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (12754,'4-22-12',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (11426,'6-26-13',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7508,'5-19-04',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (13591,'12-30-02',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (10316,'2-6-07',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (11803,'2-14-10',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (11952,'9-15-04',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (10095,'10-16-14',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (11971,'12-27-09',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (13737,'6-25-11',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (10674,'2-27-08',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (7413,'8-29-07',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (11092,'7-26-09',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (11881,'1-1-07',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (13683,'4-10-10',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (11689,'7-11-06',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (5524,'11-23-06',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (7447,'1-7-12',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (5032,'9-7-05',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (6079,'12-29-10',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10559,'6-17-09',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (12257,'7-1-01',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (6888,'9-13-14',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (6379,'8-25-02',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (14234,'12-15-05',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (9078,'1-3-10',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (5936,'3-8-09',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (14011,'10-2-12',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (7814,'9-16-05',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (7886,'3-16-16',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (10925,'5-13-13',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (9228,'5-1-04',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (7135,'3-11-06',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (14133,'5-27-15',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8969,'3-14-07',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (5682,'4-6-13',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (12017,'2-1-16',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (11341,'5-27-14',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (12060,'10-26-04',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (13154,'6-26-12',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (14590,'4-25-14',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (9477,'12-6-15',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (9550,'7-8-14',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (11903,'7-23-05',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (14509,'7-30-13',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (12785,'8-23-03',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (7785,'1-6-02',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (8409,'10-22-14',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5068,'3-13-06',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (5496,'4-6-12',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (11767,'9-22-05',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (5983,'10-28-07',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (5120,'11-13-04',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (6439,'5-28-12',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (14487,'10-7-05',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (14859,'11-8-03',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (11361,'7-2-10',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10114,'7-7-04',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (6817,'12-20-01',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (9313,'4-10-14',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5513,'10-19-15',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (7389,'12-31-11',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (9618,'7-16-11',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7320,'8-26-09',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (14209,'8-26-08',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8792,'7-11-00',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (12646,'10-25-13',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (5829,'5-19-09',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8574,'5-14-04',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7856,'2-15-01',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (14991,'2-8-15',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (11524,'12-26-15',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (14354,'7-21-05',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (7525,'6-26-08',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (9745,'8-8-07',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (5545,'12-4-02',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (6385,'6-17-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (6383,'5-14-11',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (9363,'9-12-06',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10557,'7-14-06',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10514,'8-6-02',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (5043,'10-12-06',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (10677,'12-10-01',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (5665,'11-10-15',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8737,'12-3-07',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (8637,'12-13-08',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (9245,'7-19-02',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (8367,'3-11-10',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (7688,'9-6-13',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (13567,'12-23-06',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (9747,'6-26-09',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (11917,'10-21-07',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7036,'4-8-01',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (12363,'5-27-14',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (9934,'1-4-07',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (7360,'8-20-03',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13353,'4-8-05',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (11302,'8-8-00',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5783,'10-13-11',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (12531,'5-27-10',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (14461,'1-28-14',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7055,'4-28-03',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (9160,'8-9-04',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (5287,'12-5-15',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (5111,'1-15-05',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (9669,'4-30-09',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (13166,'3-1-16',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10892,'5-11-10',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (14414,'1-8-02',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (5155,'11-9-06',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8922,'7-26-03',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (5985,'7-19-05',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (9509,'7-5-04',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (9182,'7-3-08',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (8757,'6-28-08',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (7932,'6-17-01',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (6370,'11-13-07',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (6293,'6-19-00',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10520,'2-5-15',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (5709,'2-14-02',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (11512,'7-26-10',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (9461,'1-20-05',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (9086,'2-29-16',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8197,'2-5-02',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (11574,'5-11-12',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (5724,'4-23-10',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (11625,'2-5-13',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (10190,'1-19-15',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (5368,'9-12-14',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (6158,'2-26-14',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8046,'3-21-07',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (13587,'12-25-03',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11888,'5-10-02',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (8809,'1-5-04',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (12820,'9-27-01',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (6650,'3-16-09',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (11469,'5-25-04',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (6046,'1-19-12',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12894,'6-4-06',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (9143,'1-10-01',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (11073,'10-16-15',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (10158,'11-8-13',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (6459,'7-30-03',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (7629,'2-1-14',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (8308,'1-7-08',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (12783,'3-25-10',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (11402,'12-10-10',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (12144,'7-28-04',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (9378,'12-27-10',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (14933,'7-10-06',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (12781,'4-5-01',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (8224,'10-15-08',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (7207,'9-18-08',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (12903,'7-30-15',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (13413,'5-17-07',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (12921,'5-23-04',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (12352,'2-21-11',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (7270,'11-14-07',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (6779,'10-26-00',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14658,'6-7-13',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (14182,'3-15-12',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (9651,'3-3-11',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (11604,'4-20-16',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (9967,'3-22-10',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (8829,'10-6-04',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (12050,'1-16-02',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (5372,'7-12-04',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (5382,'1-6-10',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (7040,'10-5-13',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (11011,'4-14-15',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (9205,'8-18-15',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (6355,'12-4-01',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (8326,'4-2-10',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (5627,'12-9-04',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (6879,'1-10-03',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (11176,'12-5-07',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (9678,'5-11-02',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11154,'10-19-03',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (9559,'3-16-01',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8854,'3-27-14',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (14998,'1-5-09',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7598,'9-14-06',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (13746,'3-8-02',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (10792,'3-20-03',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (5480,'2-26-11',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (12177,'7-29-14',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12414,'9-2-12',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12017,'8-11-02',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (13766,'11-30-06',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (8337,'9-4-13',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (7004,'4-9-09',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (12767,'12-5-06',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (14237,'1-28-09',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (10073,'10-14-13',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (11489,'12-8-03',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (8134,'6-17-13',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (8816,'3-24-14',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (12339,'2-26-16',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (14051,'9-5-01',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (11546,'1-20-03',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (5793,'6-24-04',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (6775,'5-3-01',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (7305,'12-31-12',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (10272,'8-12-03',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (7431,'11-30-08',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (9254,'12-9-14',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (11391,'3-4-13',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (6856,'10-29-14',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (8390,'10-7-12',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (8687,'2-19-02',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (11563,'11-17-10',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (14746,'1-29-05',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (11797,'3-5-15',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11898,'6-11-13',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (10845,'4-21-16',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (12021,'11-30-06',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (7570,'11-8-14',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (7837,'4-10-14',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (9179,'12-27-01',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (11264,'10-3-11',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (6877,'10-5-00',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (5746,'11-21-01',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (7422,'8-8-15',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (6216,'5-16-12',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (6832,'6-3-03',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (7186,'5-31-07',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7856,'1-24-06',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (13584,'5-20-08',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (8740,'12-16-12',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (14418,'12-3-01',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (7450,'8-21-12',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (12781,'1-17-12',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (10398,'9-27-14',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (14937,'7-19-02',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (7200,'4-21-02',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (13294,'12-12-03',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (5569,'4-19-09',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (7226,'10-25-15',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (7539,'10-14-04',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (8673,'6-20-12',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (8459,'2-12-06',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (12955,'5-29-15',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (5625,'8-24-02',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (9698,'4-3-09',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13248,'3-6-01',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (11306,'1-2-01',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11480,'3-12-15',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (5681,'7-5-11',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (11526,'6-7-04',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (8298,'11-9-12',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (9730,'8-29-06',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (10796,'1-7-02',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (5380,'11-30-07',15);
-INSERT INTO Pacjenci_oczekujacy VALUES (12782,'6-17-02',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (11960,'8-28-08',35);
-INSERT INTO Pacjenci_oczekujacy VALUES (10899,'11-20-08',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (13928,'10-4-04',4);
-INSERT INTO Pacjenci_oczekujacy VALUES (6109,'12-10-08',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (10899,'3-18-15',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (9429,'1-28-05',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (14306,'6-8-09',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (11275,'8-10-09',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (12953,'7-11-00',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (14159,'10-11-11',33);
-INSERT INTO Pacjenci_oczekujacy VALUES (11180,'6-2-02',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (10718,'10-18-08',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (14345,'12-13-03',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (7032,'9-11-06',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (13052,'10-22-13',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (7596,'5-2-11',25);
-INSERT INTO Pacjenci_oczekujacy VALUES (5994,'8-4-11',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13732,'1-11-13',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (7228,'1-17-08',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (14198,'8-29-02',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (5226,'9-9-08',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (11988,'10-29-15',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (11795,'8-25-14',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (11309,'5-4-07',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (12306,'4-20-12',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8493,'4-27-16',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (5680,'12-25-03',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (13112,'3-11-14',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (12484,'12-27-11',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (7604,'12-31-00',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (11167,'6-15-04',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (11854,'6-19-10',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (11125,'2-28-13',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (10957,'5-31-13',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (9275,'3-12-04',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (11264,'12-16-12',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (5273,'9-10-01',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (11156,'1-13-11',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (6849,'7-10-14',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (14390,'2-15-10',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (14583,'3-11-01',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (13615,'5-3-07',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (8110,'9-21-11',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (13188,'9-11-05',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (12614,'4-18-07',36);
-INSERT INTO Pacjenci_oczekujacy VALUES (14074,'12-13-12',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (13558,'9-29-05',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (7345,'7-4-12',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (10678,'2-1-01',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (12708,'10-16-07',6);
-INSERT INTO Pacjenci_oczekujacy VALUES (10241,'9-21-03',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (9459,'2-28-02',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (10124,'6-10-14',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10458,'8-8-15',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (7659,'8-9-12',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14401,'10-13-14',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (8716,'11-2-07',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (11963,'1-7-01',9);
-INSERT INTO Pacjenci_oczekujacy VALUES (14729,'10-19-10',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (5199,'11-19-12',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (11941,'8-7-14',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (7978,'1-25-15',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (14622,'2-26-02',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (13247,'11-27-05',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (13660,'3-8-01',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (10714,'7-25-00',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (10886,'6-27-00',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (5042,'6-11-05',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (13828,'8-2-04',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (14666,'1-4-12',24);
-INSERT INTO Pacjenci_oczekujacy VALUES (5799,'6-25-02',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (9731,'7-15-08',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (14666,'9-18-08',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (10024,'6-14-08',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (9646,'3-4-08',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (10858,'8-18-01',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (14533,'11-3-13',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (13074,'3-15-02',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (13480,'3-8-05',13);
-INSERT INTO Pacjenci_oczekujacy VALUES (12540,'4-23-09',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (8845,'12-26-01',8);
-INSERT INTO Pacjenci_oczekujacy VALUES (10088,'4-20-12',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (9083,'9-24-10',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (9828,'4-28-02',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (7824,'11-25-00',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (7501,'2-17-08',2);
-INSERT INTO Pacjenci_oczekujacy VALUES (9312,'11-18-08',37);
-INSERT INTO Pacjenci_oczekujacy VALUES (5460,'8-20-15',29);
-INSERT INTO Pacjenci_oczekujacy VALUES (5987,'1-24-13',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (7312,'9-28-00',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (12495,'11-11-04',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (9251,'6-8-15',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (13351,'12-14-05',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (8501,'2-5-02',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (7336,'6-7-10',38);
-INSERT INTO Pacjenci_oczekujacy VALUES (5699,'6-4-06',19);
-INSERT INTO Pacjenci_oczekujacy VALUES (13869,'9-17-02',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (10733,'10-24-01',1);
-INSERT INTO Pacjenci_oczekujacy VALUES (10616,'9-14-03',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (11426,'4-14-02',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (11791,'8-26-02',11);
-INSERT INTO Pacjenci_oczekujacy VALUES (12349,'1-24-03',34);
-INSERT INTO Pacjenci_oczekujacy VALUES (8444,'4-1-07',21);
-INSERT INTO Pacjenci_oczekujacy VALUES (13846,'12-4-06',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (8132,'6-15-15',26);
-INSERT INTO Pacjenci_oczekujacy VALUES (12554,'3-22-14',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (12198,'7-9-04',7);
-INSERT INTO Pacjenci_oczekujacy VALUES (11690,'2-13-04',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (10825,'2-13-11',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (5144,'8-12-03',40);
-INSERT INTO Pacjenci_oczekujacy VALUES (7566,'1-15-10',12);
-INSERT INTO Pacjenci_oczekujacy VALUES (8858,'8-8-02',31);
-INSERT INTO Pacjenci_oczekujacy VALUES (12292,'1-12-09',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (7142,'1-8-04',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (11449,'12-15-04',3);
-INSERT INTO Pacjenci_oczekujacy VALUES (5856,'12-23-14',39);
-INSERT INTO Pacjenci_oczekujacy VALUES (11096,'9-13-06',28);
-INSERT INTO Pacjenci_oczekujacy VALUES (9336,'4-15-13',23);
-INSERT INTO Pacjenci_oczekujacy VALUES (6087,'7-22-09',16);
-INSERT INTO Pacjenci_oczekujacy VALUES (9520,'9-20-06',27);
-INSERT INTO Pacjenci_oczekujacy VALUES (6775,'4-20-15',14);
-INSERT INTO Pacjenci_oczekujacy VALUES (8532,'3-29-04',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (7302,'10-27-12',22);
-INSERT INTO Pacjenci_oczekujacy VALUES (9653,'4-17-04',17);
-INSERT INTO Pacjenci_oczekujacy VALUES (10560,'2-4-12',18);
-INSERT INTO Pacjenci_oczekujacy VALUES (7286,'11-10-08',32);
-INSERT INTO Pacjenci_oczekujacy VALUES (10596,'6-13-08',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (10214,'3-28-14',30);
-INSERT INTO Pacjenci_oczekujacy VALUES (13376,'11-28-01',5);
-INSERT INTO Pacjenci_oczekujacy VALUES (14186,'4-23-02',20);
-INSERT INTO Pacjenci_oczekujacy VALUES (8036,'4-1-15',10);
-INSERT INTO Pacjenci_oczekujacy VALUES (8409,'6-18-06',7);
+INSERT INTO Pacjenci_oczekujacy VALUES (8198,'7-16-02',18),
+(12295,'1-22-04',15),
+(8201,'8-7-03',11),
+(12297,'2-25-04',11),
+(8202,'1-24-01',30),
+(12305,'8-14-11',34),
+(12308,'4-6-02',35),
+(8213,'3-12-01',18),
+(8214,'4-20-11',28),
+(12314,'3-5-09',12),
+(8219,'3-2-02',27),
+(12315,'1-5-13',9),
+(8227,'8-19-10',2),
+(12325,'2-19-08',26),
+(12329,'9-21-04',7),
+(8236,'9-17-15',12),
+(8237,'4-24-10',28),
+(12333,'8-17-13',21),
+(12334,'5-2-07',39),
+(8240,'5-18-06',12),
+(12336,'8-8-01',12),
+(8242,'2-21-03',34),
+(12341,'2-25-09',11),
+(8246,'10-3-01',6),
+(12343,'8-28-03',31),
+(8247,'5-24-05',17),
+(8250,'2-10-06',32),
+(8259,'5-13-06',31),
+(8260,'9-18-02',23),
+(8262,'10-12-13',2),
+(8266,'12-1-12',40),
+(12362,'11-25-02',39),
+(12363,'2-14-11',32),
+(12366,'9-16-11',7),
+(12367,'8-25-06',6),
+(12369,'3-17-14',28),
+(8275,'10-27-07',15),
+(12371,'12-25-12',20),
+(8276,'5-17-05',5),
+(12372,'10-12-11',11),
+(8277,'1-5-07',34),
+(12376,'11-3-09',39),
+(12377,'2-4-08',10),
+(8283,'3-28-11',7),
+(12381,'7-8-14',5),
+(12382,'12-26-02',30),
+(12384,'6-18-12',26),
+(8289,'11-25-01',39),
+(8290,'11-6-07',17),
+(8291,'12-9-05',4),
+(8294,'1-28-14',38),
+(12391,'2-18-09',5),
+(12392,'10-19-06',21),
+(8297,'11-25-08',4),
+(8298,'5-23-07',10),
+(12395,'5-17-16',3),
+(8299,'11-24-14',17),
+(12396,'7-27-03',8),
+(12398,'5-12-15',32),
+(12399,'7-20-14',26),
+(8303,'7-11-03',4),
+(8304,'4-15-08',28),
+(12400,'4-11-02',17),
+(12401,'7-31-03',17),
+(12405,'2-14-10',21),
+(12407,'12-14-02',23),
+(8313,'8-30-04',20),
+(8314,'1-15-01',4),
+(12410,'11-27-07',37),
+(8315,'7-4-13',37),
+(8321,'1-6-02',19),
+(12418,'5-21-12',25),
+(8322,'5-11-07',31),
+(12419,'4-12-13',33),
+(12420,'9-30-11',17),
+(12422,'12-10-13',34),
+(12423,'2-4-11',22),
+(8327,'8-12-06',17),
+(12424,'1-31-11',9),
+(8328,'3-19-13',17),
+(12426,'9-16-08',17),
+(8340,'2-2-15',1),
+(12437,'10-12-14',20),
+(8342,'4-7-04',39),
+(12438,'10-9-06',2),
+(8344,'8-1-02',5),
+(8345,'6-30-11',14),
+(12444,'8-3-05',19),
+(12448,'8-4-07',19),
+(12450,'2-3-09',20),
+(8354,'8-15-09',12),
+(12451,'1-9-15',28),
+(12453,'9-12-07',9),
+(8358,'2-16-06',11),
+(12456,'7-3-04',1),
+(8361,'5-13-08',32),
+(12457,'6-9-00',22),
+(8363,'12-19-10',6),
+(8367,'5-21-13',38),
+(12465,'2-28-14',3),
+(12466,'11-26-10',33),
+(12467,'11-8-05',23),
+(8376,'2-27-10',22),
+(8378,'7-17-13',32),
+(8379,'1-11-04',29),
+(12476,'2-11-07',34),
+(8380,'2-26-02',37),
+(8382,'5-6-16',29),
+(8383,'7-27-09',14),
+(12479,'11-5-05',19),
+(8385,'1-10-03',6),
+(12482,'4-6-13',19),
+(12483,'7-6-00',26),
+(8387,'12-20-02',15),
+(8388,'1-19-05',4),
+(8389,'11-19-14',24),
+(12486,'2-8-09',38),
+(8390,'12-4-01',18),
+(8391,'8-15-00',22),
+(12490,'2-22-04',36),
+(8398,'2-13-16',23),
+(8406,'8-3-11',4),
+(12503,'2-11-15',26),
+(12507,'1-18-14',29),
+(8412,'4-20-03',16),
+(12509,'3-8-14',8),
+(12511,'3-21-03',36),
+(8415,'10-2-10',21),
+(12513,'2-11-07',8),
+(12514,'12-28-09',19),
+(8419,'3-20-03',29),
+(12516,'7-6-04',33),
+(8421,'12-27-08',2),
+(8422,'6-4-16',7),
+(12518,'11-17-01',37),
+(12520,'11-19-07',17),
+(12521,'1-6-15',35),
+(12522,'8-1-09',5),
+(8426,'11-19-10',15),
+(8429,'1-16-10',26),
+(12526,'1-30-14',29),
+(12527,'6-10-05',6),
+(12528,'5-10-12',39),
+(8432,'12-6-01',35),
+(8435,'2-28-04',30),
+(8438,'1-14-15',14),
+(12534,'2-5-09',31),
+(8439,'6-30-13',3),
+(12535,'12-25-05',8),
+(12536,'4-27-11',40),
+(8441,'12-8-01',17),
+(8442,'11-9-12',22),
+(12540,'10-2-08',34),
+(12542,'3-24-10',8),
+(12544,'11-3-12',1),
+(12551,'1-12-01',20),
+(8456,'2-11-03',9),
+(8457,'11-24-01',13),
+(12554,'11-19-10',40),
+(12557,'10-5-09',6),
+(12559,'6-29-08',32),
+(12560,'9-9-11',30),
+(8466,'3-28-11',28),
+(8469,'7-19-03',1),
+(12565,'9-9-05',27),
+(12567,'2-22-08',22),
+(8475,'5-24-04',32),
+(8476,'4-24-02',3),
+(12573,'1-16-07',33),
+(8479,'7-29-06',7),
+(12576,'5-30-12',16),
+(8480,'8-22-15',29),
+(12577,'9-5-14',11),
+(8483,'3-23-14',4),
+(12580,'12-11-05',28),
+(12582,'4-18-16',39),
+(12583,'3-4-16',10),
+(8488,'7-25-03',29),
+(8491,'5-28-04',28),
+(12588,'12-15-01',2),
+(8493,'10-15-08',1),
+(8495,'3-30-15',40),
+(8496,'9-20-12',2),
+(8502,'11-1-11',1),
+(8503,'9-19-02',5),
+(8504,'9-18-05',38),
+(12600,'8-20-15',40),
+(8510,'6-29-03',15),
+(8512,'11-29-00',12),
+(12609,'8-25-03',22),
+(12610,'7-11-15',26),
+(8515,'3-21-05',25),
+(12611,'10-6-06',18),
+(12612,'10-27-09',12),
+(12613,'5-28-01',36),
+(12614,'8-30-05',26),
+(8518,'1-1-01',34),
+(8521,'8-26-04',15),
+(12617,'1-6-11',29),
+(8523,'10-9-09',19),
+(8525,'9-21-03',24),
+(12623,'3-9-15',34),
+(8528,'8-19-07',2),
+(12626,'11-29-02',23),
+(8532,'1-5-13',9),
+(12629,'9-5-07',9),
+(12630,'3-18-02',9),
+(8539,'5-11-15',24),
+(12641,'7-29-03',29),
+(8547,'1-27-10',19),
+(12646,'8-30-14',19),
+(8551,'8-30-12',17),
+(8553,'5-18-10',37),
+(8554,'2-14-05',30),
+(12650,'7-25-03',39),
+(8555,'10-19-14',27),
+(8557,'3-20-13',35),
+(12653,'6-6-03',23),
+(8558,'11-12-12',21),
+(12656,'1-10-12',3),
+(12659,'12-26-13',33),
+(12660,'11-15-01',29),
+(12661,'5-2-16',37),
+(8565,'8-5-04',9),
+(8568,'8-23-04',23),
+(8569,'4-30-04',19),
+(8571,'12-20-04',11),
+(8573,'5-22-14',28),
+(8576,'1-26-04',26),
+(12674,'3-25-16',10),
+(12677,'12-31-13',15),
+(8581,'4-28-08',13),
+(12678,'1-21-14',36),
+(8583,'9-13-04',22),
+(12679,'3-24-07',35),
+(8584,'12-23-01',39),
+(12680,'7-15-01',31),
+(8585,'5-16-10',21),
+(8590,'9-8-08',8),
+(12687,'7-15-14',3),
+(8591,'8-6-05',39),
+(12689,'11-13-09',6),
+(12691,'4-18-07',4),
+(12692,'11-21-14',17),
+(12693,'3-27-02',37),
+(12695,'3-8-09',35),
+(8601,'2-16-11',1),
+(8602,'11-22-09',10),
+(12698,'6-30-08',33),
+(12703,'11-6-08',9),
+(8607,'10-14-09',3),
+(8608,'1-26-15',18),
+(12704,'2-6-02',13),
+(12706,'7-14-07',40),
+(8611,'10-15-05',21),
+(12710,'5-23-09',29),
+(8616,'6-4-03',34),
+(12715,'5-28-05',34),
+(12721,'11-28-05',13),
+(8626,'9-25-07',40),
+(8628,'6-12-05',4),
+(12724,'12-30-12',5),
+(8629,'12-11-07',40),
+(8630,'6-15-06',26),
+(12727,'4-8-09',29),
+(8632,'10-31-07',11),
+(12729,'3-12-15',4),
+(12730,'1-24-01',34),
+(8637,'10-31-11',8),
+(8638,'1-11-08',23),
+(8639,'8-7-09',38),
+(8640,'11-24-00',33),
+(12737,'1-24-09',22),
+(8641,'6-29-07',29),
+(8642,'12-7-11',19),
+(12741,'6-10-05',21),
+(8646,'6-21-07',27),
+(12742,'12-13-00',15),
+(12743,'10-22-06',27),
+(8650,'9-25-02',36),
+(12748,'5-3-05',37),
+(8653,'5-9-08',5),
+(12750,'2-23-15',37),
+(8654,'4-20-02',6),
+(12752,'9-28-02',2),
+(12755,'12-23-00',38),
+(8659,'3-4-09',30),
+(12756,'6-7-02',20),
+(8661,'3-1-04',10),
+(12759,'4-5-02',27),
+(8666,'6-9-09',36),
+(12765,'4-21-10',6),
+(8670,'9-28-07',15),
+(8671,'2-10-04',23),
+(8674,'4-18-13',23),
+(12773,'7-20-12',34),
+(12774,'4-8-12',6),
+(12775,'4-9-09',30),
+(12776,'3-15-03',39),
+(8687,'2-3-10',29),
+(8688,'5-3-16',31),
+(12784,'10-13-00',11),
+(12785,'2-4-14',19),
+(8690,'8-8-15',23),
+(8696,'4-20-08',2),
+(12793,'5-12-05',29),
+(12796,'6-15-11',10),
+(8701,'8-19-05',20),
+(12798,'10-7-08',18),
+(12801,'9-28-12',10),
+(12802,'6-19-09',30),
+(12805,'11-16-08',10),
+(8709,'6-10-02',17),
+(12806,'11-16-06',21),
+(12807,'9-24-04',18),
+(8712,'12-27-02',31),
+(12809,'7-27-07',18),
+(8714,'2-9-09',8),
+(8715,'1-7-04',22),
+(8716,'9-2-12',27),
+(12813,'2-16-12',29),
+(12814,'9-6-06',9),
+(12815,'2-3-02',29),
+(8720,'9-26-15',5),
+(8723,'9-20-07',19),
+(12825,'8-8-02',24),
+(12826,'3-8-02',24),
+(12828,'6-8-05',9),
+(8737,'4-7-16',27),
+(12833,'8-21-13',19),
+(8738,'6-4-07',24),
+(8739,'11-5-09',34),
+(12835,'9-18-08',6),
+(12839,'2-3-09',26),
+(12844,'2-12-03',2),
+(12845,'12-22-10',18),
+(8750,'2-18-01',29),
+(12848,'3-25-11',26),
+(12851,'7-4-14',11),
+(12854,'2-5-05',32),
+(8758,'12-5-03',30),
+(8763,'4-16-05',35),
+(12861,'7-13-06',3),
+(8766,'1-12-16',31),
+(8767,'11-3-09',6),
+(12864,'6-21-06',22),
+(8774,'11-25-00',38),
+(12871,'5-8-14',33),
+(12873,'1-8-09',34),
+(12875,'3-26-05',28),
+(12876,'12-8-10',17),
+(8781,'3-1-03',24),
+(8782,'11-19-13',10),
+(12879,'12-14-11',27),
+(8786,'1-27-09',29),
+(12882,'11-13-05',21),
+(12883,'5-8-02',24),
+(8790,'6-16-12',11),
+(12886,'10-27-06',2),
+(12887,'12-1-01',9),
+(12888,'2-19-14',12),
+(8794,'12-5-15',34),
+(12890,'12-4-07',33),
+(12891,'10-2-14',1),
+(8796,'3-15-04',34),
+(12897,'6-7-10',22),
+(12898,'11-25-05',28),
+(12899,'8-4-04',17),
+(12902,'5-17-12',16),
+(8808,'11-2-03',29),
+(12905,'11-4-01',34),
+(8809,'5-21-14',8),
+(12906,'6-24-09',31),
+(12907,'7-12-14',30),
+(12908,'2-21-01',35),
+(8813,'4-30-04',2),
+(12912,'9-24-01',18),
+(12916,'3-31-13',35),
+(8821,'9-20-04',36),
+(8822,'7-25-14',32),
+(8824,'8-6-02',25),
+(12920,'11-21-07',9),
+(8827,'12-3-00',35),
+(12925,'11-29-09',26),
+(12926,'2-26-03',23),
+(12927,'11-14-02',31),
+(12928,'8-6-01',38),
+(12929,'12-6-01',29),
+(12930,'4-6-14',14),
+(12933,'4-10-10',35),
+(8839,'5-29-11',18),
+(8840,'12-5-01',10),
+(12936,'6-17-07',33),
+(12937,'6-1-03',8),
+(8842,'9-11-04',21),
+(12938,'11-19-12',9),
+(8847,'5-23-15',24),
+(12943,'6-24-03',25),
+(8850,'2-3-08',36),
+(12946,'8-25-12',35),
+(8854,'2-18-02',38),
+(8857,'8-15-07',2),
+(12954,'5-17-02',28),
+(8859,'10-24-10',35),
+(8861,'4-15-03',25),
+(12957,'5-17-10',25),
+(8862,'9-1-01',13),
+(12959,'5-22-16',2),
+(8863,'4-28-14',29),
+(12960,'9-26-04',5),
+(8865,'8-22-08',5),
+(8866,'7-30-02',35),
+(12964,'9-22-10',24),
+(12965,'1-19-03',17),
+(12966,'4-27-12',35),
+(12967,'3-26-06',17),
+(8871,'6-4-01',20),
+(8872,'2-9-01',35),
+(8873,'10-8-15',39),
+(12970,'11-24-12',19),
+(8876,'12-30-09',27),
+(12974,'3-17-12',6),
+(8880,'12-16-15',20),
+(12976,'1-30-10',30),
+(8886,'9-10-07',20),
+(8888,'7-16-12',20),
+(8891,'3-12-06',26),
+(8895,'1-15-05',20),
+(12992,'9-13-11',26),
+(8897,'6-2-08',20),
+(12995,'10-29-04',20),
+(12997,'9-17-11',25),
+(8901,'1-12-03',36),
+(8910,'2-10-14',29),
+(13011,'10-5-04',15),
+(8916,'3-13-13',1),
+(8917,'5-22-06',29),
+(8918,'4-3-02',27),
+(13016,'9-5-03',19),
+(13017,'6-14-06',8),
+(8924,'4-6-09',28),
+(13021,'7-10-06',1),
+(8925,'8-14-11',4),
+(8926,'8-11-12',12),
+(8931,'12-17-07',16),
+(8932,'4-20-12',37),
+(13030,'3-25-10',7),
+(8935,'3-18-04',4),
+(8938,'7-3-13',8),
+(8940,'4-4-14',29),
+(13037,'12-23-07',30),
+(8943,'10-25-15',27),
+(13042,'1-18-05',18),
+(13043,'1-18-15',29),
+(8948,'4-3-06',36),
+(8952,'6-8-13',18),
+(8954,'2-1-14',38),
+(13053,'9-17-11',22),
+(8957,'6-26-02',16),
+(8958,'4-1-04',19),
+(13055,'2-27-13',27),
+(8961,'9-17-06',16),
+(8964,'7-25-13',38),
+(13060,'8-11-13',18),
+(8965,'9-17-10',10),
+(8969,'3-10-05',19),
+(13071,'7-18-15',24),
+(13072,'7-12-00',17),
+(8977,'8-22-01',13),
+(13074,'12-14-06',36),
+(8978,'3-30-06',31),
+(13076,'12-7-04',32),
+(8981,'10-13-12',35),
+(13079,'6-30-04',1),
+(8985,'7-6-12',28),
+(13081,'12-19-10',24),
+(13082,'5-19-01',11),
+(8986,'7-13-07',15),
+(13083,'11-3-03',15),
+(8987,'5-12-02',5),
+(8990,'11-3-01',19),
+(13089,'7-31-02',2),
+(8994,'1-28-01',30),
+(8997,'4-20-03',17),
+(8998,'5-8-04',1),
+(13101,'11-12-12',29),
+(9007,'3-10-11',1),
+(13103,'3-28-05',2),
+(13109,'5-5-01',6),
+(9016,'5-19-15',10),
+(9018,'5-18-09',2),
+(13115,'11-27-12',7),
+(13116,'2-28-13',31),
+(13118,'12-23-08',21),
+(13122,'9-18-13',40),
+(13124,'7-4-11',15),
+(9029,'5-22-02',5),
+(13126,'1-25-08',25),
+(9030,'9-27-07',38),
+(9033,'12-31-15',33),
+(9034,'10-7-06',33),
+(13131,'2-15-04',22),
+(9035,'10-29-11',39),
+(9037,'3-27-03',38),
+(13134,'2-11-08',40),
+(9039,'2-2-06',9),
+(13139,'1-3-07',39),
+(9045,'3-19-10',16),
+(13142,'8-20-10',32),
+(13146,'9-11-01',22),
+(13149,'5-6-13',24),
+(13150,'4-7-05',12),
+(9055,'11-6-01',14),
+(13153,'4-29-15',28),
+(9057,'8-26-11',37),
+(13155,'9-15-07',33),
+(9061,'12-9-14',19),
+(9065,'3-5-01',39),
+(13161,'6-24-08',37),
+(9067,'5-1-12',15),
+(13165,'2-19-10',23),
+(9072,'11-9-15',28),
+(13170,'6-15-06',12),
+(9076,'12-18-15',12),
+(9077,'10-2-15',30),
+(9080,'7-10-01',15),
+(13179,'4-9-13',15),
+(9083,'3-15-15',23),
+(13180,'12-17-15',16),
+(9084,'4-4-07',23),
+(9086,'3-20-02',23),
+(13183,'1-19-11',39),
+(13186,'9-7-06',38),
+(13187,'1-30-04',25),
+(13188,'8-16-12',6),
+(13189,'4-8-14',34),
+(9093,'5-31-00',18),
+(15000,'4-25-06',39),
+(9097,'12-17-11',14),
+(13193,'2-23-05',28),
+(13194,'4-3-03',27),
+(5002,'5-26-04',23),
+(13196,'8-24-10',34),
+(9101,'1-26-11',27),
+(9102,'5-16-07',24),
+(9103,'5-8-09',24),
+(5007,'5-17-02',29),
+(13201,'9-25-14',38),
+(9106,'6-21-14',35),
+(13202,'2-19-15',25),
+(13203,'3-29-13',9),
+(9107,'5-13-04',27),
+(13204,'7-14-06',31),
+(9108,'6-3-00',22),
+(13205,'5-26-05',6),
+(5017,'2-9-06',37),
+(13209,'3-20-11',36),
+(5021,'10-19-15',32),
+(13213,'11-13-14',22),
+(13214,'2-3-16',32),
+(9119,'6-27-11',4),
+(9120,'7-2-08',5),
+(13216,'2-11-02',19),
+(5025,'5-26-06',1),
+(13218,'11-30-00',6),
+(9122,'1-31-12',9),
+(13220,'4-12-01',28),
+(13221,'7-7-07',7),
+(5029,'11-4-01',25),
+(13222,'8-20-13',37),
+(5030,'5-18-06',15),
+(13223,'11-26-13',14),
+(13225,'10-19-13',30),
+(9129,'3-9-12',13),
+(9130,'11-27-03',32),
+(13226,'4-20-11',39),
+(13228,'5-26-09',11),
+(9133,'4-2-06',4),
+(5037,'6-6-04',27),
+(9134,'12-2-04',23),
+(5038,'9-6-05',31),
+(13231,'10-15-12',23),
+(9136,'4-18-14',33),
+(9137,'2-4-07',24),
+(5041,'3-3-09',3),
+(9139,'12-22-15',29),
+(5043,'10-23-03',9),
+(13237,'12-8-05',2),
+(5046,'9-19-13',33),
+(13239,'3-31-16',10),
+(9143,'6-23-12',31),
+(9144,'10-16-08',26),
+(9145,'11-6-13',36),
+(13242,'6-5-16',37),
+(5051,'1-9-06',34),
+(5052,'7-25-07',37),
+(9148,'8-24-15',8),
+(9149,'12-4-00',1),
+(5054,'1-4-16',18),
+(9151,'5-20-10',8),
+(13249,'11-14-00',19),
+(13250,'10-20-05',30),
+(5060,'4-1-14',27),
+(9157,'10-26-13',23),
+(5061,'6-13-10',34),
+(13255,'5-21-15',28),
+(5066,'2-27-01',22),
+(13258,'8-20-03',4),
+(5068,'2-16-10',36),
+(9164,'1-21-04',6),
+(9165,'3-11-08',21),
+(9166,'9-16-05',19),
+(13263,'11-4-01',14),
+(5071,'9-9-03',7),
+(5072,'5-22-03',8),
+(5073,'8-1-11',7),
+(13265,'7-19-04',3),
+(9169,'4-22-07',17),
+(13266,'6-12-08',21),
+(5074,'5-9-15',12),
+(9171,'10-25-09',3),
+(5075,'11-13-06',20),
+(9172,'9-12-09',11),
+(9173,'12-25-05',34),
+(5077,'6-3-09',34),
+(13270,'6-16-10',11),
+(9175,'4-16-04',37),
+(13272,'8-26-03',3),
+(13273,'11-4-05',1),
+(5082,'7-15-08',40),
+(5083,'3-27-15',21),
+(9179,'10-13-08',19),
+(9182,'3-14-03',18),
+(13279,'5-16-08',11),
+(5089,'3-11-04',29),
+(9185,'11-7-13',5),
+(13284,'8-7-00',24),
+(9188,'8-25-12',16),
+(9190,'6-23-00',8),
+(5094,'8-19-12',25),
+(9191,'2-17-09',6),
+(5096,'1-31-03',20),
+(13289,'9-14-04',17),
+(13290,'6-10-09',1),
+(9196,'11-11-03',5),
+(9198,'5-23-13',8),
+(5102,'6-16-09',35),
+(9199,'6-26-11',22),
+(13295,'7-17-01',40),
+(5104,'5-16-06',16),
+(9201,'3-21-01',7),
+(5105,'7-8-14',16),
+(5106,'12-5-08',18),
+(9202,'9-12-15',32),
+(13298,'9-6-00',6),
+(13299,'7-10-15',31),
+(5107,'1-13-13',12),
+(13302,'3-2-09',13),
+(13305,'4-9-03',24),
+(9209,'2-18-05',12),
+(13307,'10-26-01',31),
+(9213,'9-18-06',29),
+(5118,'6-16-02',15),
+(5120,'1-30-14',34),
+(13314,'11-20-14',18),
+(5123,'1-28-05',11),
+(9222,'5-1-01',29),
+(5128,'2-19-11',15),
+(5129,'11-18-08',7),
+(5130,'2-5-03',36),
+(9227,'10-3-08',10),
+(13324,'9-20-15',21),
+(5132,'11-5-15',29),
+(5136,'12-30-04',35),
+(5138,'2-19-01',29),
+(13330,'8-25-01',38),
+(13331,'3-10-01',4),
+(13332,'5-22-12',1),
+(13333,'9-22-10',33),
+(5141,'11-15-15',37),
+(9239,'9-11-09',17),
+(13337,'2-4-15',20),
+(5147,'11-8-06',4),
+(5148,'8-26-13',12),
+(13341,'6-10-06',19),
+(13342,'7-11-03',24),
+(5151,'4-3-02',11),
+(9248,'4-6-01',20),
+(9249,'4-1-08',17),
+(9251,'9-15-13',23),
+(5157,'6-10-01',3),
+(13351,'2-7-03',18),
+(13353,'1-9-06',12),
+(5161,'7-2-00',33),
+(9264,'12-21-15',36),
+(5170,'9-28-08',22),
+(9266,'2-13-11',1),
+(9267,'7-30-13',11),
+(13363,'1-26-07',18),
+(9268,'1-29-02',26),
+(9269,'5-7-09',7),
+(13366,'7-22-06',20),
+(5176,'10-27-09',24),
+(13368,'5-27-06',10),
+(9274,'2-26-12',25),
+(9275,'10-9-09',17),
+(13372,'3-27-10',19),
+(9277,'6-6-00',14),
+(5182,'5-28-14',19),
+(13374,'9-14-06',36),
+(9279,'7-18-11',31),
+(9280,'4-27-08',12),
+(5185,'5-1-13',33),
+(9281,'7-5-08',2),
+(13378,'4-5-02',26),
+(9282,'7-7-01',38),
+(13379,'4-16-09',25),
+(5188,'7-14-04',26),
+(13380,'11-27-10',36),
+(5189,'4-25-15',39),
+(9286,'12-31-00',30),
+(13382,'5-10-13',30),
+(9289,'9-1-07',28),
+(13386,'2-10-14',34),
+(5195,'6-3-01',31),
+(9291,'5-27-01',30),
+(9293,'3-9-04',28),
+(9295,'7-27-04',21),
+(13394,'4-27-09',22),
+(9300,'6-3-02',32),
+(5205,'9-25-06',14),
+(9308,'12-26-12',11),
+(5213,'2-8-11',9),
+(5215,'5-30-10',6),
+(13408,'4-7-11',10),
+(9314,'10-31-08',4),
+(5220,'2-16-07',32),
+(5222,'9-22-13',14),
+(9318,'7-6-14',12),
+(5223,'12-26-06',27),
+(9319,'6-24-02',17),
+(5224,'11-28-02',23),
+(9320,'10-1-11',32),
+(13417,'2-3-16',39),
+(5226,'3-23-13',9),
+(5227,'8-16-13',18),
+(5228,'9-23-01',40),
+(13420,'3-2-15',1),
+(9325,'4-30-02',16),
+(5230,'9-16-09',30),
+(13422,'6-16-06',33),
+(5231,'6-3-01',6),
+(5232,'8-25-09',22),
+(13424,'9-14-04',37),
+(5233,'7-8-12',29),
+(13425,'12-21-00',40),
+(9330,'2-26-03',36),
+(5234,'7-20-02',11),
+(9331,'2-11-06',32),
+(13428,'10-30-06',4),
+(9332,'1-22-06',5),
+(5237,'3-3-16',12),
+(13429,'10-26-14',17),
+(9333,'1-24-14',12),
+(5240,'7-22-07',17),
+(5243,'9-2-14',19),
+(9340,'3-1-14',26),
+(13437,'9-28-05',38),
+(5245,'5-21-01',40),
+(13438,'4-11-12',11),
+(13440,'9-29-13',29),
+(13441,'5-25-03',31),
+(13443,'4-8-10',9),
+(9354,'7-23-14',38),
+(13451,'4-9-10',38),
+(13452,'3-10-02',19),
+(9356,'8-29-09',13),
+(9359,'3-24-16',5),
+(9360,'8-14-15',24),
+(5268,'9-1-05',14),
+(13461,'4-20-11',16),
+(9366,'12-3-06',27),
+(9367,'3-30-13',36),
+(13464,'4-3-16',21),
+(5277,'6-11-11',33),
+(13469,'9-22-10',7),
+(9374,'11-4-07',29),
+(13470,'2-20-10',8),
+(9376,'5-12-10',29),
+(5281,'5-24-04',25),
+(9377,'1-16-08',2),
+(5282,'11-30-04',30),
+(13476,'9-11-00',7),
+(9381,'9-27-07',11),
+(5285,'4-1-14',23),
+(5286,'7-23-03',8),
+(9384,'11-18-08',17),
+(5289,'11-18-03',15),
+(9387,'10-23-02',11),
+(5293,'12-5-11',20),
+(13485,'12-24-09',33),
+(9389,'9-1-06',20),
+(9390,'6-17-03',4),
+(13487,'5-18-13',6),
+(5295,'6-24-05',40),
+(13488,'3-28-16',34),
+(9395,'6-15-01',39),
+(9396,'2-27-02',21),
+(9397,'11-18-02',15),
+(9398,'6-17-14',16),
+(13494,'10-21-02',38),
+(9399,'7-22-13',31),
+(9404,'5-22-07',35),
+(13500,'2-26-02',15),
+(13501,'1-25-16',36),
+(9408,'10-6-08',4),
+(5312,'5-18-15',37),
+(13505,'10-21-12',10),
+(13506,'1-25-01',40),
+(5315,'9-2-12',18),
+(5317,'9-10-08',36),
+(13512,'5-14-03',5),
+(9417,'2-21-09',39),
+(13513,'4-22-12',18),
+(9418,'7-31-08',25),
+(13514,'6-28-00',38),
+(9419,'5-3-14',7),
+(13515,'5-8-10',31),
+(13520,'11-11-03',28),
+(5330,'3-11-11',1),
+(13522,'7-4-09',4),
+(13524,'5-9-14',24),
+(9429,'4-19-09',15),
+(5334,'9-10-13',15),
+(9431,'4-1-13',19),
+(5336,'1-6-06',29),
+(9433,'8-17-14',27),
+(13530,'10-28-14',3),
+(9435,'9-2-04',16),
+(5339,'3-13-15',2),
+(9439,'7-15-06',15),
+(5344,'5-5-14',12),
+(9443,'10-23-14',3),
+(5347,'12-17-09',18),
+(13541,'11-28-08',3),
+(5349,'4-12-03',27),
+(5350,'11-29-14',20),
+(13544,'12-6-10',25),
+(5357,'3-8-01',27),
+(13550,'9-20-10',20),
+(5359,'3-6-11',12),
+(5363,'2-19-03',9),
+(9459,'1-24-02',3),
+(9460,'1-26-05',9),
+(13557,'9-8-14',14),
+(5366,'3-15-02',16),
+(5367,'2-11-07',40),
+(5369,'11-22-04',26),
+(13563,'12-22-15',25),
+(9468,'7-29-09',31),
+(5372,'8-24-09',29),
+(5373,'12-18-01',33),
+(13567,'4-23-10',3),
+(9473,'4-23-07',10),
+(13571,'6-13-14',28),
+(5379,'4-20-12',27),
+(5380,'1-23-11',40),
+(13573,'8-27-01',2),
+(5382,'3-18-05',6),
+(9479,'1-14-11',34),
+(9481,'2-10-04',10),
+(9482,'11-17-02',7),
+(13579,'1-9-07',22),
+(9483,'7-3-14',6),
+(13581,'12-16-09',6),
+(13582,'9-27-00',19),
+(9487,'7-31-03',30),
+(5391,'11-7-11',35),
+(5392,'7-28-08',9),
+(5393,'11-28-06',10),
+(9490,'8-29-08',9),
+(5394,'7-1-12',22),
+(5395,'10-11-11',22),
+(13588,'1-22-02',15),
+(9493,'8-28-15',35),
+(13589,'4-6-09',5),
+(13590,'7-21-14',38),
+(9495,'10-30-12',25),
+(5399,'4-20-08',31),
+(13592,'10-14-09',19),
+(5401,'11-5-01',13),
+(5402,'2-15-11',34),
+(13595,'1-31-12',37),
+(9500,'10-31-14',12),
+(5405,'4-16-10',30),
+(9502,'9-6-09',6),
+(9503,'2-20-03',23),
+(5407,'8-14-04',14),
+(9504,'4-15-11',7),
+(13602,'2-4-02',30),
+(13604,'11-17-10',30),
+(13605,'6-30-09',30),
+(13607,'6-3-11',12),
+(5415,'4-11-03',15),
+(9518,'6-19-06',40),
+(5423,'4-18-13',29),
+(9519,'7-20-12',15),
+(9520,'8-23-15',33),
+(5424,'12-12-05',12),
+(13616,'7-4-13',16),
+(9521,'12-15-04',24),
+(5426,'1-6-07',18),
+(5428,'1-11-13',30),
+(9524,'9-5-01',14),
+(5429,'11-14-13',16),
+(9526,'3-10-08',31),
+(9527,'4-9-16',9),
+(9528,'5-13-16',18),
+(13625,'12-23-07',26),
+(5434,'6-30-00',4),
+(9533,'9-18-00',35),
+(9534,'5-31-05',3),
+(13630,'12-14-12',40),
+(9535,'9-25-11',4),
+(5440,'12-6-04',39),
+(5442,'3-22-08',3),
+(9540,'5-27-04',31),
+(5446,'5-10-06',17),
+(13639,'12-9-15',34),
+(5448,'11-19-15',19),
+(5449,'7-11-04',23),
+(13641,'9-4-13',27),
+(13642,'6-8-10',11),
+(13643,'2-12-15',29),
+(5453,'5-23-06',17),
+(13647,'12-29-09',3),
+(13648,'7-29-00',26),
+(5456,'1-29-06',23),
+(5457,'4-28-14',22),
+(13650,'7-31-13',8),
+(13653,'8-15-11',10),
+(5461,'5-11-03',34),
+(5463,'6-29-06',26),
+(13655,'7-20-06',20),
+(13656,'5-11-02',30),
+(5464,'3-20-14',15),
+(13657,'2-17-11',34),
+(13659,'3-29-08',32),
+(13660,'9-30-12',18),
+(9564,'5-2-14',34),
+(5469,'4-4-12',12),
+(9565,'12-25-12',30),
+(5470,'7-10-08',29),
+(9567,'2-26-07',35),
+(5471,'8-13-09',30),
+(9568,'9-22-09',5),
+(13666,'10-26-07',37),
+(9570,'11-1-11',28),
+(5478,'2-1-01',27),
+(9575,'12-25-12',26),
+(9576,'2-9-07',32),
+(13673,'5-11-07',34),
+(5482,'8-7-11',36),
+(5484,'4-8-14',34),
+(5485,'7-1-11',5),
+(5486,'10-3-12',31),
+(13680,'4-30-08',5),
+(9584,'11-21-06',12),
+(5490,'11-22-06',6),
+(13682,'5-7-12',25),
+(9586,'4-18-06',5),
+(13683,'9-25-09',34),
+(5496,'8-30-11',17),
+(13689,'1-27-03',19),
+(9593,'10-21-02',18),
+(5498,'11-13-13',32),
+(5500,'1-30-03',15),
+(13693,'4-11-15',25),
+(5501,'4-14-14',35),
+(13694,'1-23-05',9),
+(9598,'1-13-13',4),
+(5502,'3-14-16',35),
+(9600,'3-10-08',3),
+(5504,'2-2-13',31),
+(13697,'11-13-02',7),
+(9601,'4-13-15',26),
+(9603,'7-10-08',22),
+(5510,'8-8-15',3),
+(13702,'11-8-15',33),
+(9606,'7-29-13',14),
+(13703,'1-8-04',33),
+(5511,'7-13-01',20),
+(9608,'7-23-02',1),
+(13704,'7-26-09',3),
+(13705,'6-12-09',37),
+(5513,'6-29-04',23),
+(5514,'7-1-00',12),
+(5515,'4-16-15',22),
+(9613,'6-1-10',21),
+(13710,'12-8-06',2),
+(5519,'9-7-12',5),
+(5520,'9-26-09',38),
+(9616,'4-18-02',4),
+(13712,'2-15-13',20),
+(5522,'6-17-12',5),
+(13715,'7-22-15',18),
+(5524,'8-21-13',27),
+(9621,'5-22-10',35),
+(5526,'10-17-07',28),
+(13721,'2-4-12',22),
+(5531,'2-22-11',17),
+(13724,'9-28-07',21),
+(9628,'3-30-07',30),
+(13725,'6-13-02',9),
+(9629,'11-22-08',37),
+(5535,'11-10-01',7),
+(9637,'7-12-15',4),
+(13733,'9-1-04',19),
+(9640,'3-29-01',19),
+(5546,'10-23-09',31),
+(5547,'10-7-15',22),
+(9643,'12-22-15',15),
+(5549,'9-9-14',10),
+(13742,'4-24-04',33),
+(5551,'9-3-11',40),
+(9647,'1-5-02',38),
+(9648,'11-7-14',34),
+(5552,'9-28-12',37),
+(13744,'5-28-03',14),
+(9650,'11-27-06',18),
+(13747,'1-14-13',13),
+(9652,'1-2-08',28),
+(5556,'7-5-10',21),
+(5558,'4-8-16',15),
+(13751,'7-19-13',33),
+(13752,'6-25-06',34),
+(9656,'7-4-10',39),
+(13753,'5-18-01',11),
+(9660,'10-19-15',22),
+(5564,'5-14-08',38),
+(13757,'10-23-12',30),
+(13759,'8-26-06',10),
+(13760,'11-4-12',24),
+(13761,'7-10-10',27),
+(5569,'10-3-01',37),
+(9665,'7-31-05',11),
+(9668,'4-9-14',20),
+(5573,'5-15-14',4),
+(5574,'3-15-16',39),
+(13766,'9-8-11',36),
+(5576,'12-1-05',11),
+(9675,'1-21-14',32),
+(13775,'2-3-15',12),
+(13776,'6-23-01',13),
+(9680,'8-3-10',30),
+(5585,'10-16-01',30),
+(13778,'1-22-10',18),
+(5586,'10-13-12',14),
+(13779,'4-11-10',26),
+(5589,'12-23-12',29),
+(9686,'11-22-14',4),
+(13783,'7-25-10',1),
+(5592,'12-10-05',36),
+(5593,'11-15-00',22),
+(13788,'11-26-01',33),
+(9692,'2-27-08',10),
+(5597,'3-23-11',35),
+(5600,'4-29-14',3),
+(13793,'4-23-09',36),
+(13794,'5-6-01',22),
+(5603,'10-10-05',34),
+(9699,'7-28-13',37),
+(13795,'7-26-10',12),
+(5605,'8-21-15',23),
+(5606,'9-9-13',24),
+(13798,'3-11-01',2),
+(13799,'1-17-06',13),
+(9704,'10-11-00',17),
+(5609,'7-19-13',1),
+(9706,'3-12-14',8),
+(13802,'10-10-03',33),
+(5610,'4-11-02',32),
+(5612,'12-17-01',27),
+(13804,'2-17-06',32),
+(13805,'8-13-03',25),
+(13807,'5-28-11',34),
+(5616,'2-13-08',37),
+(13809,'11-22-02',18),
+(5617,'6-9-15',4),
+(13810,'5-29-05',25),
+(9716,'5-5-06',8),
+(5621,'7-6-08',17),
+(13815,'11-23-13',4),
+(5624,'5-14-08',34),
+(9721,'9-23-14',10),
+(5625,'1-24-14',18),
+(9723,'2-10-01',15),
+(13821,'9-7-07',37),
+(9726,'6-18-08',38),
+(13822,'1-23-05',32),
+(9727,'10-30-07',34),
+(5633,'4-11-08',9),
+(9729,'5-1-03',15),
+(9730,'2-19-12',27),
+(13826,'3-18-06',24),
+(9732,'4-5-02',27),
+(13828,'6-11-15',39),
+(9733,'8-16-12',21),
+(13831,'1-25-12',14),
+(13832,'4-4-13',24),
+(9737,'3-29-10',39),
+(13834,'7-7-12',35),
+(9738,'3-14-04',29),
+(9739,'6-19-03',26),
+(13836,'11-23-05',6),
+(9742,'6-14-06',40),
+(9743,'3-18-16',13),
+(5647,'12-23-06',7),
+(5649,'6-11-05',40),
+(9747,'5-28-03',19),
+(13844,'9-15-08',4),
+(13846,'6-24-15',12),
+(13848,'9-12-00',32),
+(9752,'5-18-11',8),
+(5658,'3-12-09',5),
+(5661,'11-2-12',38),
+(9757,'2-19-10',9),
+(9758,'4-28-16',16),
+(13858,'10-31-03',16),
+(13859,'8-4-14',34),
+(5668,'5-30-13',7),
+(9765,'3-22-06',4),
+(13863,'4-14-07',38),
+(9767,'3-11-05',9),
+(9768,'9-7-02',14),
+(13865,'7-21-04',10),
+(5674,'1-24-05',4),
+(13867,'9-19-13',36),
+(5675,'8-2-11',23),
+(9771,'3-30-10',35),
+(5676,'6-16-06',1),
+(13869,'11-6-09',31),
+(5677,'4-5-13',8),
+(5681,'8-28-09',2),
+(9778,'9-30-05',30),
+(5682,'5-27-07',31),
+(13875,'4-14-15',39),
+(9781,'5-24-08',37),
+(13878,'8-17-07',2),
+(5689,'10-29-12',34),
+(9786,'2-22-05',7),
+(5691,'9-17-08',30),
+(9787,'12-17-10',18),
+(9788,'5-12-02',19),
+(5692,'3-15-15',33),
+(13885,'4-2-13',12),
+(5693,'12-27-05',38),
+(13887,'5-19-02',19),
+(13888,'3-28-06',36),
+(5697,'5-28-10',10),
+(13890,'6-24-08',19),
+(13891,'6-28-05',32),
+(5700,'6-10-12',9),
+(9796,'12-23-11',26),
+(9799,'4-21-16',31),
+(5703,'8-23-05',22),
+(13896,'3-14-05',20),
+(5706,'2-23-14',11),
+(9802,'10-16-09',23),
+(13898,'4-25-13',9),
+(13899,'10-5-04',3),
+(5708,'1-18-03',11),
+(5709,'12-11-06',39),
+(9807,'4-28-08',14),
+(13908,'11-11-09',37),
+(9812,'3-31-01',29),
+(13909,'9-22-11',5),
+(5719,'6-1-10',33),
+(13912,'3-25-11',8),
+(13914,'9-14-04',11),
+(5724,'6-9-01',1),
+(13919,'1-5-02',6),
+(9824,'10-15-11',10),
+(5728,'7-9-03',1),
+(13920,'12-4-14',36),
+(9825,'2-28-03',15),
+(5729,'6-2-12',2),
+(5730,'9-10-05',33),
+(9826,'8-18-11',23),
+(5731,'7-4-00',13),
+(5733,'9-3-14',7),
+(13926,'3-7-10',31),
+(13927,'4-19-13',15),
+(5736,'1-17-15',12),
+(13929,'6-15-11',10),
+(9835,'5-24-05',4),
+(13934,'11-28-01',31),
+(9838,'3-12-15',22),
+(5743,'6-19-05',12),
+(9840,'2-19-16',26),
+(5744,'12-13-06',9),
+(5745,'12-26-11',22),
+(9842,'5-6-12',20),
+(5746,'4-24-16',18),
+(9844,'1-20-15',27),
+(9845,'3-6-08',37),
+(9846,'11-9-15',36),
+(5750,'9-12-04',4),
+(9847,'3-20-08',11),
+(9848,'5-4-16',32),
+(13944,'9-13-02',22),
+(5753,'5-2-13',7),
+(9849,'9-24-03',13),
+(13947,'10-18-09',17),
+(9852,'8-10-09',7),
+(13950,'10-18-10',22),
+(13952,'6-2-05',34),
+(9856,'5-30-12',24),
+(13953,'2-4-15',9),
+(13954,'3-11-02',33),
+(5763,'4-25-08',27),
+(9861,'9-13-11',30),
+(5765,'4-28-15',29),
+(13959,'3-9-09',38),
+(13960,'3-10-09',22),
+(5772,'7-29-05',6),
+(13964,'3-5-14',31),
+(5774,'10-27-02',13),
+(13966,'4-19-10',4),
+(9871,'12-2-00',1),
+(5776,'8-1-14',16),
+(9873,'10-31-01',37),
+(13970,'3-27-04',2),
+(9874,'8-11-13',17),
+(5780,'5-7-01',15),
+(9877,'1-30-10',39),
+(5784,'2-26-14',14),
+(9880,'10-2-13',1),
+(9881,'8-20-02',20),
+(9882,'9-10-00',6),
+(5786,'8-31-07',39),
+(13978,'3-7-15',19),
+(5787,'7-2-05',20),
+(13980,'11-2-00',4),
+(13981,'3-1-14',26),
+(13982,'12-19-09',1),
+(9887,'12-30-10',19),
+(5791,'11-23-09',25),
+(5792,'5-19-01',9),
+(9888,'11-13-07',33),
+(9890,'7-19-15',5),
+(13988,'7-24-09',20),
+(5796,'11-5-09',40),
+(13989,'2-5-02',23),
+(5798,'12-17-00',34),
+(9894,'2-24-06',34),
+(5799,'6-17-00',2),
+(9895,'10-31-10',17),
+(13992,'10-25-07',18),
+(9897,'5-5-05',8),
+(13993,'9-18-12',18),
+(5803,'6-3-05',27),
+(5804,'6-2-05',4),
+(5805,'10-6-15',31),
+(5807,'11-15-06',39),
+(9903,'1-22-12',11),
+(5808,'4-14-12',32),
+(9904,'3-29-07',15),
+(14002,'6-17-11',18),
+(9907,'3-14-02',22),
+(5815,'6-24-05',7),
+(5817,'2-2-01',32),
+(9914,'4-4-03',3),
+(14010,'5-26-07',22),
+(9915,'1-24-12',39),
+(9916,'6-25-15',2),
+(5820,'6-12-07',27),
+(9918,'5-17-08',7),
+(9919,'8-22-12',38),
+(5825,'7-8-04',20),
+(9921,'11-22-08',33),
+(9922,'6-16-03',26),
+(5827,'11-2-13',18),
+(5829,'8-15-00',23),
+(5830,'12-14-09',12),
+(9926,'7-5-12',23),
+(14022,'1-26-05',26),
+(14023,'5-27-15',32),
+(14024,'7-9-00',24),
+(14025,'9-4-03',30),
+(5834,'4-26-14',8),
+(5837,'6-29-10',12),
+(5839,'11-25-04',25),
+(5840,'9-25-07',36),
+(9938,'10-18-09',6),
+(5843,'5-19-14',27),
+(14035,'5-4-06',13),
+(9940,'5-29-16',7),
+(14038,'3-28-04',29),
+(5848,'2-26-06',19),
+(5851,'10-4-12',18),
+(9948,'2-17-01',23),
+(14047,'10-29-03',25),
+(14048,'3-25-06',11),
+(9952,'1-21-01',8),
+(9953,'2-19-13',23),
+(9954,'5-30-05',35),
+(14053,'10-5-01',2),
+(5862,'11-7-02',2),
+(9959,'1-31-06',7),
+(14056,'4-24-07',35),
+(9963,'3-17-16',28),
+(14061,'7-30-04',7),
+(9965,'12-29-14',8),
+(14062,'7-1-14',40),
+(5871,'8-29-03',5),
+(5872,'3-9-07',37),
+(9968,'9-20-06',12),
+(14065,'10-22-02',5),
+(5876,'3-31-11',16),
+(9974,'9-23-14',2),
+(5879,'2-11-05',13),
+(9976,'4-26-06',2),
+(14072,'6-17-03',11),
+(9977,'1-29-07',33),
+(5881,'4-27-05',2),
+(14076,'8-25-08',38),
+(9981,'1-17-03',11),
+(9982,'5-2-13',30),
+(5886,'6-3-10',32),
+(9983,'12-1-04',27),
+(5890,'2-6-01',1),
+(9986,'8-17-03',25),
+(14082,'9-3-01',24),
+(5891,'8-27-13',27),
+(9987,'3-23-06',9),
+(14084,'7-19-13',1),
+(5892,'5-28-14',17),
+(5893,'5-1-08',6),
+(9992,'12-18-12',23),
+(5897,'5-11-15',12),
+(9994,'12-3-13',5),
+(5898,'5-31-00',18),
+(14091,'2-5-03',6),
+(14092,'8-27-06',26),
+(5900,'7-30-09',30),
+(9996,'7-26-13',26),
+(14093,'6-3-16',14),
+(9998,'10-4-09',28),
+(14094,'8-15-01',19),
+(9999,'7-13-07',15),
+(10000,'4-17-13',29),
+(14097,'5-12-01',4),
+(14098,'7-29-05',30),
+(5907,'8-9-02',23),
+(5908,'5-9-03',2),
+(10005,'7-17-02',9),
+(14101,'8-2-12',19),
+(10007,'10-22-06',10),
+(5912,'11-29-14',3),
+(10010,'8-25-13',17),
+(14106,'7-16-01',14),
+(14108,'6-13-10',13),
+(5916,'8-15-13',3),
+(10013,'1-28-15',3),
+(10015,'5-13-08',34),
+(14111,'12-6-09',10),
+(14112,'8-2-01',1),
+(10017,'9-16-11',23),
+(14113,'5-18-12',6),
+(14114,'6-3-05',23),
+(10019,'4-3-16',10),
+(5923,'12-17-10',11),
+(14116,'1-3-10',33),
+(5925,'2-21-07',32),
+(14117,'5-2-07',10),
+(10022,'2-16-09',20),
+(10023,'2-16-08',33),
+(10025,'8-15-12',24),
+(10027,'4-5-13',30),
+(10030,'7-14-15',9),
+(5935,'6-14-13',35),
+(5936,'2-23-02',23),
+(14129,'7-13-04',24),
+(10033,'5-7-01',10),
+(5938,'11-9-10',39),
+(14130,'1-20-16',7),
+(10034,'6-22-10',9),
+(5939,'7-2-07',39),
+(10036,'9-8-09',7),
+(14133,'1-19-09',11),
+(5942,'8-16-05',23),
+(5943,'7-31-10',37),
+(14138,'9-2-09',33),
+(14139,'1-28-15',23),
+(5947,'7-3-08',9),
+(14140,'3-30-07',22),
+(14141,'1-15-11',20),
+(5949,'3-12-13',20),
+(10047,'4-12-07',13),
+(14144,'11-16-04',40),
+(14145,'11-13-10',33),
+(5953,'12-29-00',29),
+(10050,'3-28-11',31),
+(14148,'8-22-06',18),
+(14149,'6-26-05',17),
+(5959,'7-9-08',10),
+(5960,'9-27-14',29),
+(10056,'11-4-12',17),
+(10058,'4-3-02',38),
+(14154,'4-25-01',12),
+(5963,'9-17-10',35),
+(14159,'3-25-06',6),
+(14160,'4-27-12',33),
+(10065,'1-5-15',6),
+(5971,'7-23-02',31),
+(14165,'5-12-02',34),
+(14166,'8-25-09',20),
+(10073,'7-28-04',2),
+(10074,'11-18-04',9),
+(5978,'9-12-06',18),
+(10075,'9-29-12',35),
+(5979,'7-8-05',8),
+(5980,'8-17-12',5),
+(14173,'12-22-00',15),
+(14175,'12-22-02',18),
+(10082,'7-24-01',26),
+(5987,'10-27-03',36),
+(14180,'9-2-10',1),
+(10087,'7-5-06',24),
+(5993,'5-10-12',23),
+(10089,'4-9-06',17),
+(14189,'4-10-10',36),
+(10093,'5-12-08',33),
+(5999,'8-31-06',38),
+(14193,'6-5-10',25),
+(10098,'12-10-02',29),
+(10100,'7-23-05',11),
+(6005,'2-24-14',17),
+(6008,'1-18-03',12),
+(10104,'3-5-06',38),
+(10105,'6-4-09',14),
+(10106,'7-2-10',35),
+(14205,'10-5-14',24),
+(6014,'5-30-11',28),
+(10111,'1-16-11',37),
+(10113,'3-9-09',2),
+(6017,'1-15-09',14),
+(10114,'7-31-14',5),
+(14210,'8-1-13',17),
+(10115,'9-30-14',40),
+(14211,'4-22-03',9),
+(6019,'4-22-04',2),
+(10116,'6-18-05',6),
+(6020,'4-23-08',15),
+(10117,'6-24-08',15),
+(14216,'2-7-09',13),
+(6024,'7-25-12',37),
+(10124,'11-24-04',29),
+(6028,'2-7-08',22),
+(10125,'9-14-15',31),
+(6031,'9-20-12',10),
+(6033,'10-10-02',9),
+(10131,'5-21-05',2),
+(10133,'12-24-15',29),
+(6037,'4-1-10',2),
+(10135,'11-30-09',15),
+(6039,'12-6-00',7),
+(14231,'10-10-14',39),
+(10137,'7-26-10',33),
+(10139,'4-20-12',8),
+(6045,'4-20-04',38),
+(14238,'7-3-04',12),
+(10142,'3-4-01',22),
+(6047,'2-17-10',17),
+(10145,'4-8-08',5),
+(6050,'9-5-01',29),
+(10146,'4-1-13',36),
+(14244,'5-15-08',15),
+(10149,'5-3-11',34),
+(14246,'4-29-06',25),
+(6055,'11-8-02',11),
+(10151,'10-15-05',22),
+(10152,'6-10-13',36),
+(6056,'9-5-09',39),
+(14248,'3-1-12',5),
+(6059,'8-15-12',36),
+(14252,'3-16-14',3),
+(14253,'2-4-09',19),
+(6062,'1-26-16',10),
+(10158,'8-27-11',39),
+(14255,'6-21-08',1),
+(14256,'3-21-16',24),
+(10162,'6-5-03',22),
+(6066,'6-17-13',5),
+(6067,'12-17-14',1),
+(6068,'1-13-07',20),
+(6070,'2-17-11',11),
+(10167,'4-17-05',28),
+(6071,'10-29-10',37),
+(14264,'6-18-07',2),
+(6074,'8-6-08',32),
+(6075,'3-8-03',8),
+(6076,'6-23-10',4),
+(10172,'11-14-11',25),
+(10174,'1-1-14',35),
+(14272,'3-6-05',27),
+(6080,'12-28-03',5),
+(6081,'1-3-05',33),
+(14273,'6-20-14',8),
+(14276,'9-1-01',10),
+(6088,'4-13-01',16),
+(6089,'4-16-05',32),
+(14283,'10-14-08',12),
+(10187,'6-6-01',17),
+(6092,'4-24-02',9),
+(10188,'8-12-09',26),
+(14286,'5-22-01',22),
+(6096,'6-23-05',30),
+(10193,'9-9-13',2),
+(6097,'12-24-07',39),
+(14291,'1-9-05',26),
+(14292,'1-15-01',28),
+(10196,'3-8-01',29),
+(14293,'1-9-01',4),
+(6102,'4-10-16',11),
+(10198,'12-25-15',23),
+(6104,'9-9-03',38),
+(14296,'11-16-07',6),
+(10200,'9-24-00',29),
+(10201,'7-27-11',1),
+(14298,'2-5-11',38),
+(6106,'11-9-13',35),
+(6107,'1-1-16',21),
+(14300,'2-2-08',5),
+(10206,'9-22-08',40),
+(6110,'3-2-02',32),
+(10208,'8-4-01',33),
+(14304,'10-8-09',13),
+(14305,'10-17-12',23),
+(10213,'9-8-07',14),
+(10215,'8-19-15',38),
+(14314,'7-31-13',28),
+(6124,'8-5-10',17),
+(10220,'5-18-13',27),
+(14317,'6-22-15',15),
+(10222,'7-15-09',26),
+(14320,'10-3-08',20),
+(14321,'12-15-07',28),
+(14323,'6-4-14',7),
+(6131,'10-1-08',4),
+(6132,'12-26-02',5),
+(14324,'12-11-14',3),
+(6133,'6-6-02',28),
+(10230,'5-23-09',1),
+(6134,'2-17-06',30),
+(14326,'10-9-11',18),
+(14327,'10-11-02',17),
+(14330,'12-14-06',12),
+(14334,'3-5-12',14),
+(14335,'8-19-15',40),
+(10241,'4-19-06',8),
+(6145,'5-9-12',31),
+(14337,'2-8-06',24),
+(6146,'9-23-08',14),
+(10242,'2-4-09',35),
+(14339,'10-6-08',31),
+(10245,'9-8-03',30),
+(10246,'11-6-00',37),
+(14342,'9-19-12',1),
+(6150,'2-18-01',31),
+(6151,'1-22-05',30),
+(14345,'8-6-04',32),
+(6154,'1-29-01',12),
+(10251,'3-14-08',14),
+(14348,'3-9-04',34),
+(6160,'9-21-11',21),
+(10256,'10-10-07',35),
+(6161,'6-10-07',15),
+(10258,'10-4-06',10),
+(14355,'5-14-01',2),
+(6165,'11-23-00',25),
+(14358,'1-23-09',13),
+(10263,'8-19-15',3),
+(14364,'11-14-01',1),
+(10268,'1-5-04',19),
+(6173,'5-28-06',13),
+(14365,'5-6-15',19),
+(14366,'4-22-15',8),
+(10271,'7-2-02',11),
+(6175,'12-23-13',13),
+(10272,'4-6-14',18),
+(10274,'11-20-14',36),
+(6178,'5-14-06',27),
+(10278,'11-30-15',39),
+(6183,'5-24-15',3),
+(10279,'7-21-10',15),
+(10280,'10-10-11',10),
+(14376,'11-16-00',3),
+(14377,'12-29-00',30),
+(10282,'11-9-13',19),
+(6186,'9-26-01',7),
+(14379,'5-17-10',38),
+(6188,'10-25-03',34),
+(14381,'6-18-11',29),
+(10286,'4-4-01',10),
+(14383,'11-22-10',12),
+(14385,'5-27-09',4),
+(6193,'8-17-08',18),
+(6194,'5-23-02',18),
+(6199,'11-14-13',32),
+(14391,'1-30-02',30),
+(6202,'9-3-09',36),
+(14395,'3-21-07',7),
+(6203,'1-18-06',14),
+(10300,'1-24-08',5),
+(14397,'8-1-00',8),
+(6206,'3-10-11',16),
+(10302,'7-22-14',18),
+(14399,'1-21-16',40),
+(10303,'1-29-01',33),
+(6207,'8-28-14',40),
+(10304,'1-19-16',29),
+(14400,'6-30-08',12),
+(6212,'10-21-06',8),
+(14405,'6-9-15',21),
+(14407,'10-11-14',38),
+(10312,'8-8-04',13),
+(14411,'5-8-15',36),
+(10315,'9-5-10',23),
+(6220,'12-1-11',30),
+(14412,'9-12-02',11),
+(10317,'11-6-07',40),
+(6223,'10-10-07',37),
+(10320,'2-8-03',13),
+(6224,'12-27-04',9),
+(14420,'1-23-09',15),
+(6228,'10-31-09',31),
+(14422,'3-22-13',35),
+(10327,'7-15-08',27),
+(10328,'3-5-15',26),
+(14424,'6-20-07',27),
+(10329,'7-12-14',15),
+(6233,'12-11-03',30),
+(6234,'2-6-02',21),
+(10330,'4-20-08',38),
+(10331,'10-18-13',30),
+(6235,'8-21-05',32),
+(10332,'11-16-11',13),
+(6237,'11-27-00',4),
+(6238,'12-6-00',33),
+(6239,'4-21-02',39),
+(14431,'12-8-09',3),
+(14432,'6-2-09',37),
+(6241,'12-31-08',35),
+(6242,'9-19-02',25),
+(6245,'6-13-10',30),
+(10341,'2-28-16',10),
+(14437,'11-22-03',16),
+(14438,'11-23-15',6),
+(6247,'9-28-05',7),
+(14439,'12-4-05',8),
+(14441,'12-13-11',13),
+(10346,'6-23-14',39),
+(10347,'9-7-00',9),
+(14443,'10-4-08',34),
+(14444,'10-27-10',6),
+(10348,'3-7-14',40),
+(6252,'10-26-00',16),
+(14446,'3-28-14',18),
+(10351,'9-17-12',6),
+(10352,'10-19-10',13),
+(14449,'7-13-10',2),
+(14450,'12-28-12',9),
+(10354,'8-13-13',38),
+(6259,'12-28-15',35),
+(14451,'10-28-15',1),
+(14456,'4-3-08',15),
+(6264,'7-4-03',40),
+(10360,'5-19-15',39),
+(6265,'1-22-16',13),
+(10361,'3-1-10',22),
+(14458,'10-7-01',36),
+(10363,'5-31-15',25),
+(6267,'6-8-04',2),
+(6268,'2-17-11',3),
+(10364,'10-19-14',31),
+(6269,'12-27-00',24),
+(6270,'9-1-09',19),
+(14464,'6-13-08',3),
+(6272,'2-13-11',5),
+(10368,'6-18-11',37),
+(10369,'6-10-00',5),
+(6273,'5-2-01',28),
+(14465,'3-6-06',7),
+(10370,'1-26-05',37),
+(14466,'2-11-01',25),
+(10371,'2-20-11',28),
+(14469,'7-9-05',39),
+(10375,'2-20-04',17),
+(10380,'7-1-00',4),
+(14476,'3-13-10',11),
+(14477,'4-30-15',8),
+(6286,'1-1-15',8),
+(6287,'11-29-09',26),
+(6290,'4-21-11',34),
+(6292,'8-12-06',10),
+(14485,'3-30-05',37),
+(10389,'5-24-10',21),
+(6294,'12-25-03',19),
+(14487,'10-31-12',6),
+(6295,'6-1-16',36),
+(10392,'7-15-06',28),
+(14488,'10-7-12',36),
+(10393,'6-24-01',34),
+(6297,'12-3-07',2),
+(10394,'1-4-06',21),
+(10395,'10-25-09',36),
+(6300,'4-22-01',23),
+(10399,'5-10-07',4),
+(6304,'1-5-08',23),
+(6305,'3-26-11',26),
+(6306,'8-26-07',28),
+(6309,'8-14-06',28),
+(14501,'6-15-10',25),
+(14503,'4-28-02',17),
+(14505,'3-17-14',37),
+(6315,'1-16-02',32),
+(10411,'11-25-05',19),
+(6316,'11-4-15',19),
+(10415,'7-13-11',13),
+(6320,'2-19-16',20),
+(14513,'3-28-04',4),
+(6324,'10-31-12',16),
+(14517,'5-17-04',34),
+(10421,'12-2-11',18),
+(14518,'10-23-12',22),
+(6326,'5-28-09',35),
+(10423,'1-14-11',23),
+(6328,'4-12-08',21),
+(10426,'6-15-05',18),
+(6330,'12-6-14',39),
+(10427,'11-5-12',8),
+(10429,'7-23-10',2),
+(6333,'9-2-06',12),
+(6335,'3-25-15',39),
+(10431,'3-4-06',35),
+(10432,'9-20-13',36),
+(10433,'6-3-14',27),
+(10439,'4-30-01',24),
+(6344,'9-15-09',5),
+(14537,'12-14-01',3),
+(10441,'12-20-00',9),
+(6345,'6-7-08',13),
+(14540,'1-15-03',25),
+(10445,'7-17-01',15),
+(6350,'3-7-16',20),
+(10447,'6-7-02',34),
+(10448,'1-10-07',31),
+(10451,'4-18-13',38),
+(10452,'1-10-10',28),
+(10453,'8-6-04',24),
+(6358,'8-28-08',21),
+(10455,'11-30-05',40),
+(14552,'6-7-06',13),
+(14554,'12-10-15',24),
+(6363,'2-12-03',18),
+(14556,'5-26-09',3),
+(10461,'7-11-08',19),
+(14558,'9-29-11',23),
+(14559,'12-21-00',23),
+(6367,'12-2-02',21),
+(10463,'5-27-05',16),
+(10464,'4-11-09',23),
+(14560,'8-21-10',14),
+(10465,'10-20-08',36),
+(6370,'1-10-01',14),
+(6371,'1-18-15',33),
+(14564,'10-30-04',13),
+(10469,'5-3-10',19),
+(14565,'3-28-04',37),
+(14568,'2-23-03',32),
+(10474,'8-10-04',31),
+(6379,'4-9-11',7),
+(10475,'1-18-14',27),
+(14572,'12-14-12',37),
+(6382,'11-29-00',8),
+(14575,'12-31-10',1),
+(10479,'3-22-01',1),
+(14578,'6-26-00',1),
+(6387,'9-22-09',9),
+(14579,'10-22-14',17),
+(10483,'7-19-15',6),
+(14580,'12-25-14',20),
+(6388,'6-28-15',36),
+(10484,'5-17-12',13),
+(10485,'6-24-12',6),
+(14581,'10-19-03',32),
+(6390,'2-6-15',25),
+(6391,'5-14-14',10),
+(10488,'4-3-05',31),
+(6393,'8-13-02',29),
+(6395,'2-22-02',23),
+(6397,'2-26-01',34),
+(6399,'3-19-16',35),
+(14592,'11-15-09',3),
+(10496,'8-13-01',18),
+(6401,'12-10-10',39),
+(10497,'9-12-06',27),
+(14593,'9-16-14',11),
+(6403,'6-1-15',29),
+(14597,'8-22-13',25),
+(10501,'10-20-03',17),
+(10502,'11-9-15',40),
+(6407,'4-20-09',5),
+(10504,'5-6-16',23),
+(6409,'9-4-03',20),
+(14602,'7-6-09',35),
+(6412,'11-2-13',27),
+(14606,'12-27-12',29),
+(10511,'8-6-15',1),
+(10514,'9-27-07',3),
+(10515,'8-24-01',21),
+(14611,'10-30-08',31),
+(10516,'3-7-06',33),
+(6420,'9-26-14',6),
+(10517,'9-11-11',39),
+(14614,'11-17-09',8),
+(10519,'8-25-15',2),
+(6429,'12-26-02',18),
+(10525,'3-4-03',9),
+(14621,'10-22-08',33),
+(10529,'2-2-01',26),
+(14625,'2-14-01',8),
+(10532,'5-2-09',18),
+(14629,'5-30-08',14),
+(6438,'3-6-16',20),
+(14631,'1-23-01',3),
+(10536,'7-17-05',8),
+(14632,'9-14-05',31),
+(6440,'5-10-15',31),
+(14633,'12-18-02',29),
+(6442,'12-11-06',21),
+(14635,'3-7-08',37),
+(14637,'5-13-08',22),
+(6447,'7-24-10',25),
+(6448,'7-24-10',24),
+(6452,'11-14-00',13),
+(6454,'5-8-11',32),
+(6457,'3-15-09',14),
+(14649,'1-8-14',5),
+(6458,'12-4-06',27),
+(14651,'9-10-03',39),
+(14652,'9-25-14',36),
+(6460,'6-14-03',35),
+(6461,'7-28-04',27),
+(6464,'8-29-09',36),
+(10562,'12-10-04',31),
+(14659,'5-11-07',36),
+(10564,'6-10-08',2),
+(6469,'1-9-02',4),
+(6470,'4-5-11',33),
+(6472,'10-7-14',21),
+(10568,'11-10-07',35),
+(10569,'2-16-06',10),
+(10570,'4-2-08',17),
+(6476,'11-26-04',39),
+(10573,'10-3-15',7),
+(14676,'10-31-00',25),
+(6484,'1-11-14',23),
+(10581,'8-24-02',1),
+(14677,'4-28-09',34),
+(6487,'11-21-05',8),
+(14679,'4-13-05',16),
+(10584,'12-27-10',16),
+(6488,'1-23-12',30),
+(6490,'4-27-12',28),
+(10586,'2-20-10',35),
+(14683,'10-15-09',6),
+(6491,'6-6-12',32),
+(10588,'12-5-00',39),
+(10590,'5-3-02',38),
+(14689,'2-8-14',13),
+(10594,'1-17-02',31),
+(6499,'10-31-12',25),
+(10597,'1-20-03',26),
+(14694,'6-19-02',3),
+(6505,'7-24-11',7),
+(6506,'10-8-09',31),
+(14698,'5-22-06',26),
+(14699,'7-9-01',14),
+(10603,'11-7-11',33),
+(14702,'3-10-08',24),
+(14704,'8-4-04',25),
+(10608,'6-26-07',14),
+(6513,'5-26-15',12),
+(6514,'3-6-13',27),
+(10610,'1-10-11',36),
+(6515,'1-21-06',5),
+(14707,'7-2-07',22),
+(14708,'11-22-12',26),
+(10613,'1-17-10',14),
+(6522,'3-10-12',34),
+(14715,'4-28-01',35),
+(14716,'6-15-15',28),
+(6524,'7-29-15',35),
+(10620,'4-23-09',8),
+(6525,'9-18-09',3),
+(10621,'5-3-05',12),
+(10622,'1-20-13',10),
+(6526,'11-9-04',3),
+(14718,'9-10-04',20),
+(14719,'10-12-08',31),
+(10623,'12-28-02',32),
+(14720,'8-22-06',10),
+(10624,'3-25-05',15),
+(6528,'5-28-03',23),
+(6529,'9-14-11',27),
+(14721,'2-14-06',16),
+(10626,'4-1-13',11),
+(14723,'2-27-11',13),
+(6533,'3-28-03',16),
+(10630,'9-12-07',17),
+(14726,'12-23-06',28),
+(14727,'5-25-04',2),
+(6536,'9-15-12',28),
+(14728,'4-27-14',38),
+(6540,'1-12-10',4),
+(14732,'9-15-03',33),
+(6541,'12-1-03',34),
+(10637,'1-1-04',36),
+(6542,'6-21-02',38),
+(10639,'5-18-01',7),
+(6544,'12-28-10',6),
+(14736,'4-26-07',7),
+(14737,'11-14-05',5),
+(10641,'3-30-06',14),
+(6546,'3-10-01',2),
+(14738,'5-10-11',3),
+(6547,'8-29-00',29),
+(10643,'9-9-11',39),
+(6548,'7-22-01',5),
+(14741,'4-27-08',19),
+(14743,'8-14-02',2),
+(6551,'6-26-14',37),
+(6552,'9-25-14',36),
+(14745,'2-7-08',12),
+(10650,'6-13-05',16),
+(6555,'11-18-00',19),
+(14747,'11-22-10',12),
+(6556,'10-8-04',20),
+(10652,'12-14-09',26),
+(10653,'3-13-03',17),
+(14750,'8-3-12',33),
+(10654,'1-10-14',14),
+(6561,'4-19-15',2),
+(14753,'3-27-13',11),
+(10658,'8-3-08',21),
+(6562,'6-2-15',14),
+(14755,'9-18-13',9),
+(6564,'5-10-05',28),
+(14756,'6-28-13',32),
+(10660,'4-5-13',10),
+(14757,'8-8-04',35),
+(14758,'11-13-15',10),
+(10663,'7-21-09',18),
+(14760,'12-2-03',25),
+(6568,'1-17-16',19),
+(14761,'2-23-11',10),
+(14762,'3-26-01',22),
+(10666,'9-23-01',6),
+(14765,'8-23-10',13),
+(10669,'11-9-01',10),
+(6573,'3-30-11',12),
+(14767,'12-7-06',30),
+(6575,'8-9-01',31),
+(10674,'7-23-06',1),
+(6579,'12-15-05',33),
+(10675,'5-28-16',23),
+(14772,'6-8-12',35),
+(6581,'11-5-14',19),
+(14774,'11-2-10',40),
+(14775,'6-25-01',2),
+(10680,'3-30-05',24),
+(14778,'12-25-10',27),
+(14780,'7-23-01',6),
+(10685,'8-16-12',6),
+(6590,'8-15-00',3),
+(10688,'5-29-09',39),
+(14784,'1-27-09',21),
+(6593,'5-25-16',3),
+(10690,'11-1-05',24),
+(6596,'1-26-11',33),
+(14789,'6-13-02',3),
+(6597,'6-3-07',27),
+(10693,'10-24-05',6),
+(14790,'5-22-16',19),
+(10696,'12-17-09',26),
+(6603,'9-19-03',17),
+(10699,'2-6-05',18),
+(14796,'12-28-15',38),
+(14797,'12-23-02',38),
+(10701,'9-23-05',8),
+(6606,'1-24-09',26),
+(14798,'9-18-13',36),
+(6608,'8-11-10',22),
+(14800,'5-22-16',38),
+(6609,'4-16-15',8),
+(10705,'2-26-04',22),
+(6610,'4-10-09',20),
+(14802,'6-25-07',27),
+(6611,'5-21-13',31),
+(10707,'7-29-06',26),
+(14804,'7-19-02',31),
+(10709,'3-8-07',10),
+(14805,'5-29-10',10),
+(6614,'5-27-15',8),
+(14807,'8-4-04',8),
+(10712,'4-5-08',4),
+(14808,'4-24-08',11),
+(10713,'4-7-01',4),
+(6617,'5-12-14',5),
+(14809,'1-8-15',30),
+(10718,'5-8-03',24),
+(10719,'6-19-13',9),
+(10720,'11-27-10',19),
+(10722,'6-29-03',23),
+(10723,'11-10-02',9),
+(6627,'3-18-09',30),
+(14819,'8-2-00',7),
+(6628,'12-29-03',14),
+(10724,'10-2-13',31),
+(14820,'4-11-05',16),
+(14821,'9-11-13',8),
+(10725,'10-18-00',24),
+(6630,'6-27-05',37),
+(10727,'7-5-02',11),
+(14823,'10-28-02',15),
+(10728,'8-8-13',39),
+(6632,'6-27-12',23),
+(14825,'10-19-10',34),
+(10729,'7-5-15',38),
+(10730,'2-20-03',27),
+(14830,'2-12-04',12),
+(10735,'2-20-11',33),
+(10736,'10-10-04',19),
+(6641,'8-1-04',2),
+(14833,'10-9-12',37),
+(14835,'7-30-08',27),
+(6644,'8-30-08',26),
+(10740,'6-10-11',14),
+(14837,'2-24-04',24),
+(14838,'9-23-04',37),
+(14839,'1-31-16',37),
+(14841,'2-4-10',25),
+(14843,'7-6-01',34),
+(14847,'11-18-00',24),
+(6655,'7-7-07',27),
+(14848,'7-7-12',12),
+(10752,'12-26-14',30),
+(6657,'5-11-06',29),
+(14849,'8-8-08',29),
+(14851,'2-5-05',28),
+(6659,'4-6-06',37),
+(14852,'1-27-07',28),
+(6660,'4-9-14',28),
+(10760,'1-9-12',32),
+(6666,'9-17-00',6),
+(6669,'4-17-01',33),
+(10765,'5-18-07',22),
+(14863,'7-8-14',33),
+(6671,'12-13-07',39),
+(6673,'1-10-14',12),
+(14865,'2-22-06',24),
+(14866,'7-18-11',2),
+(6675,'4-30-16',32),
+(10772,'7-4-05',11),
+(14869,'2-10-01',26),
+(6677,'11-29-15',2),
+(14871,'1-15-01',3),
+(10775,'6-2-09',3),
+(10776,'7-14-09',31),
+(6682,'6-29-13',2),
+(14876,'5-2-12',30),
+(10781,'8-23-07',6),
+(6685,'5-17-09',17),
+(14878,'1-18-12',11),
+(6687,'11-13-02',36),
+(6688,'2-27-12',39),
+(10784,'7-3-12',16),
+(14882,'4-3-06',14),
+(10787,'8-31-07',10),
+(14883,'12-5-00',2),
+(14884,'9-17-09',3),
+(14888,'8-29-07',24),
+(6696,'11-23-04',4),
+(6697,'11-13-15',34),
+(14890,'6-5-08',13),
+(14893,'9-4-02',18),
+(14894,'10-26-15',4),
+(10799,'12-22-04',6),
+(10800,'9-12-09',25),
+(10801,'6-21-14',24),
+(14898,'8-2-06',12),
+(10804,'4-27-08',40),
+(14901,'4-7-11',35),
+(6710,'1-4-14',35),
+(14902,'3-15-06',39),
+(14904,'8-25-00',30),
+(6716,'3-14-05',18),
+(14909,'11-11-14',27),
+(10817,'8-4-04',22),
+(6722,'2-14-05',31),
+(6723,'1-25-11',18),
+(6724,'8-12-08',30),
+(14916,'2-25-07',25),
+(14917,'10-11-00',37),
+(6726,'7-7-07',36),
+(10823,'10-21-08',23),
+(14920,'4-13-02',23),
+(6730,'5-30-03',10),
+(14923,'12-12-00',4),
+(10827,'5-18-10',39),
+(6732,'12-29-11',37),
+(14924,'12-26-13',40),
+(10830,'6-18-14',37),
+(14927,'7-16-02',16),
+(10833,'3-19-12',39),
+(6739,'12-23-15',4),
+(10835,'9-7-13',20),
+(14931,'2-22-15',14),
+(14932,'4-6-13',13),
+(6741,'2-19-15',36),
+(14935,'12-25-03',9),
+(6743,'5-7-11',10),
+(14937,'4-18-07',6),
+(6746,'1-23-09',19),
+(10842,'11-16-00',30),
+(10844,'2-3-13',40),
+(10845,'11-6-11',8),
+(14941,'8-14-14',38),
+(14943,'11-1-04',29),
+(14944,'10-6-13',16),
+(14947,'9-6-01',21),
+(6756,'11-22-03',19),
+(6757,'10-5-05',27),
+(14949,'9-2-07',6),
+(14955,'1-17-01',13),
+(6766,'7-1-07',8),
+(6768,'3-4-09',29),
+(14960,'10-11-05',3),
+(6770,'8-14-10',28),
+(6771,'9-2-15',19),
+(14965,'9-29-13',16),
+(10869,'4-25-07',5),
+(14966,'3-25-01',28),
+(14967,'4-7-04',12),
+(6776,'6-10-00',3),
+(14970,'6-23-13',35),
+(14971,'8-24-07',23),
+(10876,'10-17-13',28),
+(14974,'6-9-12',30),
+(10878,'6-17-15',24),
+(6783,'8-12-14',33),
+(14975,'1-5-04',21),
+(6784,'10-29-11',9),
+(6786,'7-3-11',11),
+(6789,'11-13-11',2),
+(10885,'2-13-14',7),
+(14988,'10-23-01',10),
+(10892,'2-16-02',10),
+(6799,'3-4-08',10),
+(10895,'12-4-11',26),
+(10896,'9-25-10',14),
+(6801,'3-26-16',35),
+(14994,'1-1-10',38),
+(14995,'9-11-15',37),
+(14996,'8-17-02',4),
+(14997,'7-31-04',20),
+(6806,'10-8-13',6),
+(14998,'2-22-14',40),
+(10904,'6-22-09',21),
+(10906,'12-19-13',6),
+(6811,'6-30-07',4),
+(10907,'5-6-12',24),
+(6812,'3-6-15',20),
+(10909,'7-16-06',28),
+(10911,'5-20-09',29),
+(6817,'3-25-09',15),
+(10913,'9-18-04',9),
+(6819,'2-26-16',29),
+(10916,'4-24-13',39),
+(6821,'4-18-11',3),
+(6823,'4-2-14',35),
+(6824,'9-15-09',13),
+(10922,'8-14-08',12),
+(10923,'5-3-01',38),
+(6827,'1-18-16',15),
+(10924,'8-16-03',21),
+(6829,'1-26-06',40),
+(6830,'7-4-05',11),
+(10926,'6-15-03',26),
+(10928,'6-22-01',2),
+(10931,'1-24-16',20),
+(10932,'8-2-05',11),
+(10937,'11-7-01',35),
+(6841,'1-27-16',20),
+(6845,'12-11-09',22),
+(10947,'3-28-02',39),
+(10948,'6-2-10',23),
+(6852,'8-18-07',34),
+(6854,'4-21-15',24),
+(10950,'4-27-02',4),
+(6858,'7-13-08',12),
+(10955,'3-30-14',6),
+(10956,'4-12-11',15),
+(10957,'1-23-06',16),
+(6861,'8-27-01',16),
+(6865,'9-30-03',29),
+(6867,'2-19-09',27),
+(10963,'3-19-01',35),
+(10964,'1-27-08',31),
+(6871,'2-6-01',31),
+(10968,'4-10-07',9),
+(10969,'2-5-03',39),
+(6873,'9-7-15',7),
+(6874,'11-7-15',13),
+(10972,'12-1-00',29),
+(6880,'9-16-08',39),
+(10979,'6-19-12',31),
+(10981,'11-6-06',11),
+(10982,'3-4-02',24),
+(6890,'1-21-14',40),
+(6891,'4-23-13',23),
+(6898,'5-24-16',8),
+(6899,'7-16-12',21),
+(10996,'12-27-08',2),
+(10998,'2-5-04',12),
+(6902,'7-5-01',6),
+(10999,'11-8-06',26),
+(6904,'7-31-13',30),
+(6905,'7-12-03',39),
+(11003,'11-1-07',25),
+(6912,'7-17-10',6),
+(6913,'2-17-02',31),
+(6914,'8-24-10',5),
+(6917,'6-4-14',5),
+(11016,'9-27-06',35),
+(6920,'8-23-00',1),
+(11018,'10-11-13',16),
+(6922,'10-7-06',3),
+(6923,'10-28-06',22),
+(6924,'3-20-14',40),
+(11025,'10-26-05',2),
+(11026,'6-20-11',4),
+(6935,'4-7-08',38),
+(11031,'10-29-10',3),
+(6936,'9-25-08',29),
+(6937,'5-2-03',31),
+(11036,'6-1-07',37),
+(11039,'8-20-06',19),
+(6950,'2-11-14',29),
+(11047,'2-13-10',10),
+(6954,'4-3-06',11),
+(11050,'7-27-00',39),
+(11051,'7-1-12',36),
+(6956,'1-19-01',27),
+(11053,'3-19-13',27),
+(11055,'12-10-00',12),
+(6960,'12-12-00',39),
+(6964,'6-15-06',3),
+(11061,'11-28-10',28),
+(11062,'4-17-10',20),
+(6969,'8-23-10',32),
+(11068,'1-7-04',23),
+(6974,'8-27-12',18),
+(11071,'3-28-03',36),
+(11073,'6-29-14',8),
+(6978,'8-6-07',13),
+(11076,'12-12-01',12),
+(6981,'9-1-08',19),
+(6982,'9-13-14',1),
+(11079,'5-10-08',16),
+(6984,'7-2-06',31),
+(6985,'1-9-04',11),
+(11081,'12-31-01',22),
+(11082,'1-17-03',2),
+(6989,'4-5-10',11),
+(11087,'1-10-16',4),
+(11089,'8-23-11',8),
+(6995,'6-4-11',37),
+(11093,'9-6-13',3),
+(11094,'3-21-12',30),
+(6998,'10-27-09',31),
+(6999,'9-23-09',20),
+(11099,'5-23-07',28),
+(11101,'12-29-12',21),
+(7005,'3-1-13',16),
+(11102,'10-5-05',19),
+(11103,'10-27-11',9),
+(7007,'11-30-03',10),
+(7009,'4-14-04',29),
+(7010,'6-7-08',20),
+(11107,'6-18-12',28),
+(7013,'1-31-14',16),
+(11110,'7-17-06',29),
+(7017,'5-30-07',28),
+(7018,'9-14-15',19),
+(7020,'8-13-10',6),
+(11117,'7-26-03',8),
+(7025,'10-23-10',25),
+(11121,'1-26-10',30),
+(11122,'1-4-16',34),
+(11124,'9-17-06',40),
+(11125,'4-4-13',29),
+(7033,'9-26-05',37),
+(11129,'7-15-15',40),
+(7034,'6-9-13',39),
+(11130,'4-20-05',3),
+(11131,'8-6-08',17),
+(7036,'3-26-02',8),
+(7041,'3-18-04',3),
+(7043,'2-13-14',17),
+(11141,'8-11-06',34),
+(11142,'6-4-12',8),
+(11145,'8-27-00',21),
+(11146,'5-22-07',36),
+(7053,'4-8-05',3),
+(11149,'1-15-03',22),
+(11150,'9-15-15',11),
+(11151,'1-8-16',19),
+(11153,'1-1-09',25),
+(11156,'9-3-00',15),
+(7067,'11-8-00',33),
+(7068,'3-3-09',4),
+(7069,'1-18-06',16),
+(11166,'7-29-15',34),
+(11167,'7-2-09',36),
+(7072,'11-20-08',11),
+(11169,'4-27-03',4),
+(11171,'10-24-15',18),
+(7076,'4-21-04',40),
+(7081,'11-7-10',25),
+(7083,'6-12-10',16),
+(7084,'11-17-09',10),
+(7085,'6-12-14',34),
+(7087,'6-9-09',19),
+(11185,'3-13-03',2),
+(7089,'7-3-03',20),
+(11186,'7-29-11',34),
+(7092,'2-28-05',32),
+(11188,'5-27-16',7),
+(7094,'5-1-03',19),
+(11190,'2-19-14',32),
+(11193,'12-3-13',19),
+(11194,'8-15-11',11),
+(11196,'10-18-02',8),
+(11199,'9-20-12',16),
+(7104,'7-2-15',21),
+(7108,'12-23-02',31),
+(7111,'8-23-01',14),
+(11208,'4-10-04',31),
+(7114,'11-30-07',36),
+(11210,'2-28-03',14),
+(11211,'11-16-09',31),
+(11212,'8-19-01',31),
+(11214,'9-10-09',25),
+(11215,'6-22-13',16),
+(7121,'11-2-03',32),
+(7122,'1-20-09',29),
+(7124,'1-3-02',9),
+(7125,'7-16-04',34),
+(11222,'5-7-16',6),
+(7127,'10-12-02',26),
+(11224,'7-3-05',23),
+(7128,'8-31-00',29),
+(11226,'3-16-08',36),
+(7135,'9-21-00',8),
+(11231,'2-26-12',30),
+(11232,'7-4-01',7),
+(11237,'9-22-07',4),
+(7141,'5-15-09',39),
+(11241,'10-25-08',9),
+(7146,'11-3-06',15),
+(11245,'11-9-15',33),
+(11247,'6-19-11',33),
+(7155,'5-31-00',35),
+(7158,'7-24-10',26),
+(7160,'3-19-16',35),
+(11259,'12-13-15',20),
+(7163,'6-29-14',21),
+(7164,'8-23-02',14),
+(11261,'10-7-07',14),
+(7165,'4-19-11',40),
+(7167,'10-12-06',23),
+(11263,'4-10-09',12),
+(7168,'6-10-07',29),
+(11268,'1-7-09',19),
+(7173,'8-18-07',33),
+(11269,'1-3-14',14),
+(11271,'12-29-10',31),
+(11273,'6-12-15',40),
+(11275,'6-5-01',18),
+(7186,'3-30-06',12),
+(11282,'3-10-03',16),
+(11283,'1-29-02',30),
+(11284,'3-18-13',18),
+(7188,'5-23-15',25),
+(7191,'9-23-06',11),
+(11288,'11-21-08',21),
+(11289,'1-25-15',5),
+(7195,'10-25-04',13),
+(11294,'3-13-10',2),
+(11296,'2-21-06',19),
+(7201,'8-8-13',24),
+(11300,'2-12-11',17),
+(11303,'3-8-02',26),
+(11306,'3-13-02',29),
+(7210,'8-2-14',20),
+(11307,'3-23-16',2),
+(7214,'8-19-01',13),
+(7217,'1-13-16',23),
+(11314,'10-17-15',22),
+(11322,'11-13-00',19),
+(7233,'2-15-13',31),
+(7234,'3-21-08',9),
+(7236,'5-18-07',34),
+(7237,'2-28-04',28),
+(7239,'6-20-05',20),
+(11339,'10-23-11',40),
+(11340,'2-17-04',37),
+(7245,'10-15-13',12),
+(7246,'4-16-08',39),
+(7247,'9-23-14',29),
+(7248,'10-8-12',30),
+(11345,'1-31-08',17),
+(7250,'4-18-06',15),
+(11348,'12-20-15',30),
+(7253,'5-5-05',40),
+(11352,'7-1-12',11),
+(7257,'3-17-16',35),
+(7260,'2-8-02',25),
+(7261,'8-2-03',12),
+(7264,'9-30-00',37),
+(11362,'6-21-10',18),
+(7267,'8-11-03',18),
+(11363,'11-25-02',16),
+(7270,'8-22-02',4),
+(11367,'10-15-13',39),
+(7274,'5-8-09',24),
+(11374,'5-20-08',25),
+(11375,'1-18-03',4),
+(7279,'2-3-01',15),
+(11376,'6-30-14',7),
+(7280,'7-2-07',21),
+(7282,'1-23-13',10),
+(11381,'6-18-14',27),
+(7285,'3-6-06',37),
+(11383,'4-1-03',11),
+(11388,'10-21-07',20),
+(11389,'9-12-11',9),
+(7294,'12-18-08',16),
+(7295,'6-27-10',32),
+(11391,'10-1-14',27),
+(7298,'6-8-08',36),
+(7299,'11-3-02',20),
+(7302,'7-7-14',26),
+(11400,'7-6-09',10),
+(7304,'12-17-00',32),
+(7308,'5-25-15',33),
+(7309,'11-18-07',26),
+(11406,'5-1-09',27),
+(7311,'4-9-06',29),
+(7312,'8-19-03',34),
+(7314,'5-13-08',23),
+(11411,'3-21-01',35),
+(7315,'9-15-13',5),
+(11412,'11-1-10',27),
+(7318,'11-4-14',19),
+(11414,'2-10-08',37),
+(7321,'1-29-08',20),
+(7322,'11-16-13',21),
+(11418,'10-15-09',24),
+(7323,'5-19-10',6),
+(11423,'8-31-10',38),
+(11424,'1-30-16',34),
+(7329,'12-30-11',20),
+(11431,'8-28-01',1),
+(11434,'9-6-01',7),
+(7340,'5-30-16',23),
+(11437,'12-20-01',32),
+(11438,'10-4-02',5),
+(11441,'5-12-15',12),
+(11442,'9-16-11',12),
+(11445,'1-30-04',1),
+(7351,'3-2-07',24),
+(7354,'6-3-11',26),
+(7355,'4-22-12',15),
+(11451,'4-13-08',20),
+(11453,'8-1-07',9),
+(11454,'1-8-09',2),
+(7359,'4-7-16',4),
+(11455,'8-3-13',36),
+(7360,'2-13-03',2),
+(7361,'7-9-02',36),
+(11463,'7-4-01',34),
+(11464,'6-28-08',6),
+(11466,'1-1-11',40),
+(7372,'10-31-15',27),
+(11468,'8-28-06',28),
+(11469,'5-10-05',24),
+(11472,'3-13-02',29),
+(7378,'2-13-04',12),
+(11477,'6-17-06',2),
+(11478,'2-7-09',25),
+(11482,'9-21-00',28),
+(11483,'7-1-00',38),
+(7389,'4-28-12',37),
+(11487,'10-1-02',21),
+(7394,'3-7-10',6),
+(11491,'6-30-12',26),
+(11492,'1-19-03',40),
+(7396,'5-15-05',15),
+(7397,'6-4-08',27),
+(11497,'1-23-14',9),
+(7402,'6-23-00',32),
+(7405,'3-11-08',40),
+(11503,'3-13-04',32),
+(7409,'12-19-10',19),
+(7413,'10-3-11',22),
+(11510,'8-2-05',35),
+(7418,'12-1-01',22),
+(11515,'10-31-05',16),
+(7421,'9-14-15',8),
+(11518,'9-6-01',16),
+(7425,'4-12-05',33),
+(11523,'3-14-15',25),
+(7429,'12-14-13',28),
+(11526,'2-16-04',6),
+(7432,'11-19-04',11),
+(11528,'7-13-08',20),
+(11529,'12-29-09',14),
+(7434,'11-1-15',7),
+(11532,'9-23-00',8),
+(11533,'1-7-13',16),
+(7437,'5-17-02',8),
+(11535,'12-18-06',35),
+(7442,'1-13-04',32),
+(11540,'5-10-06',10),
+(11542,'10-13-01',19),
+(7446,'7-10-05',12),
+(11547,'6-25-13',4),
+(11550,'11-18-13',38),
+(11551,'4-18-16',27),
+(7456,'8-5-01',36),
+(11553,'5-20-03',36),
+(11554,'12-23-08',36),
+(7459,'5-29-15',5),
+(11555,'6-22-05',27),
+(11557,'4-20-05',5),
+(7465,'3-9-01',13),
+(7466,'12-24-01',7),
+(11564,'9-4-09',28),
+(11565,'1-24-13',34),
+(7469,'7-13-06',15),
+(11566,'11-24-01',29),
+(11568,'12-1-12',6),
+(7472,'4-4-09',39),
+(7475,'5-13-16',39),
+(11572,'2-20-10',8),
+(7477,'6-24-15',13),
+(11574,'1-2-03',33),
+(7479,'9-21-12',23),
+(11576,'12-26-06',24),
+(11577,'7-7-09',7),
+(7481,'10-14-07',13),
+(11578,'4-16-07',21),
+(11579,'7-31-11',12),
+(11580,'3-1-11',16),
+(7485,'1-22-09',16),
+(11586,'9-15-06',38),
+(7490,'9-25-12',40),
+(7492,'5-27-07',5),
+(11591,'6-3-09',2),
+(7495,'8-27-02',19),
+(7498,'11-29-06',30),
+(11595,'12-14-12',23),
+(11598,'10-14-15',32),
+(11602,'12-8-04',26),
+(11606,'9-4-01',40),
+(11608,'12-25-06',26),
+(11609,'12-9-01',1),
+(7515,'6-7-08',9),
+(11611,'2-20-01',37),
+(11614,'1-29-15',26),
+(7518,'5-8-16',40),
+(11615,'6-24-15',17),
+(7520,'9-2-09',4),
+(7521,'2-28-08',27),
+(7523,'8-25-12',6),
+(11622,'5-26-04',10),
+(11623,'8-26-09',18),
+(11625,'11-29-07',25),
+(11627,'3-1-15',20),
+(7532,'2-9-08',27),
+(11629,'3-18-04',15),
+(7536,'4-30-04',36),
+(7537,'3-6-03',19),
+(7539,'10-18-09',18),
+(7541,'9-1-03',23),
+(7542,'10-22-02',40),
+(11640,'2-18-03',5),
+(11641,'9-15-15',10),
+(11644,'7-22-04',36),
+(11645,'4-22-12',1),
+(11646,'6-26-13',2),
+(7552,'5-19-04',23),
+(7553,'12-30-02',40),
+(7556,'2-6-07',18),
+(7558,'2-14-10',15),
+(7559,'9-15-04',19),
+(7561,'10-16-14',37),
+(7562,'12-27-09',17),
+(11658,'6-25-11',14),
+(11659,'2-27-08',11),
+(11660,'8-29-07',2),
+(7565,'7-26-09',30),
+(11665,'1-1-07',18),
+(11666,'4-10-10',17),
+(11669,'7-11-06',2),
+(7576,'11-23-06',33),
+(11674,'1-7-12',31),
+(7579,'9-7-05',8),
+(7581,'12-29-10',29),
+(7582,'6-17-09',18),
+(11679,'7-1-01',31),
+(11680,'9-13-14',17),
+(11682,'8-25-02',38),
+(7587,'12-15-05',30),
+(7589,'1-3-10',9),
+(11685,'3-8-09',23),
+(7590,'10-2-12',39),
+(7592,'9-16-05',36),
+(11689,'3-16-16',5),
+(11692,'5-13-13',18),
+(11696,'5-1-04',19),
+(11697,'3-11-06',39),
+(7601,'5-27-15',12),
+(11699,'3-14-07',6),
+(7604,'4-6-13',31),
+(11701,'2-1-16',32),
+(11704,'5-27-14',23),
+(11708,'10-26-04',1),
+(7614,'6-26-12',9),
+(11713,'4-25-14',11),
+(11716,'12-6-15',33),
+(7620,'7-8-14',16),
+(7621,'7-23-05',6),
+(11717,'7-30-13',7),
+(7623,'8-23-03',11),
+(7625,'1-6-02',7),
+(7627,'10-22-14',24),
+(7630,'3-13-06',6),
+(7631,'4-6-12',9),
+(11728,'9-22-05',16),
+(11729,'10-28-07',39),
+(11731,'11-13-04',11),
+(11732,'5-28-12',39),
+(7636,'10-7-05',16),
+(7644,'11-8-03',38),
+(11743,'7-2-10',29),
+(7649,'7-7-04',28),
+(11746,'12-20-01',2),
+(11747,'4-10-14',24),
+(11748,'10-19-15',36),
+(11749,'12-31-11',6),
+(11750,'7-16-11',30),
+(7655,'8-26-09',25),
+(11752,'8-26-08',6),
+(7657,'7-11-00',2),
+(7658,'10-25-13',8),
+(11755,'5-19-09',6),
+(7660,'5-14-04',15),
+(7663,'2-15-01',24),
+(11763,'2-8-15',30),
+(11765,'12-26-15',2),
+(7671,'7-21-05',23),
+(11769,'6-26-08',6),
+(7673,'8-8-07',26),
+(7675,'12-4-02',21),
+(7676,'6-17-09',3),
+(11772,'5-14-11',39),
+(11774,'9-12-06',34),
+(11775,'7-14-06',22),
+(11776,'8-6-02',14),
+(11779,'10-12-06',8),
+(11780,'12-10-01',19),
+(7693,'11-10-15',10),
+(11790,'12-3-07',24),
+(7695,'12-13-08',2),
+(7696,'7-19-02',35),
+(11793,'3-11-10',13),
+(7697,'9-6-13',2),
+(7699,'12-23-06',37),
+(7701,'6-26-09',36),
+(11800,'10-21-07',29),
+(11801,'4-8-01',38),
+(7706,'5-27-14',21),
+(11804,'1-4-07',15),
+(7708,'8-20-03',39),
+(11806,'4-8-05',24),
+(7712,'8-8-00',24),
+(7714,'10-13-11',7),
+(11811,'5-27-10',13),
+(11813,'1-28-14',27),
+(7719,'4-28-03',9),
+(11820,'8-9-04',16),
+(7725,'12-5-15',38),
+(11823,'1-15-05',20),
+(11825,'4-30-09',10),
+(7729,'3-1-16',35),
+(7731,'5-11-10',38),
+(11827,'1-8-02',34),
+(11828,'11-9-06',6),
+(11830,'7-26-03',12),
+(7735,'7-19-05',11),
+(7737,'7-5-04',6),
+(11833,'7-3-08',31),
+(7741,'6-28-08',36),
+(7743,'6-17-01',34),
+(7747,'11-13-07',40),
+(11844,'6-19-00',22),
+(7755,'2-5-15',35),
+(11853,'2-14-02',5),
+(7757,'7-26-10',10),
+(11854,'1-20-05',24),
+(7758,'2-29-16',17),
+(7762,'2-5-02',5),
+(7765,'5-11-12',16),
+(11861,'4-23-10',25),
+(11863,'2-5-13',27),
+(11865,'1-19-15',2),
+(11866,'9-12-14',3),
+(11867,'2-26-14',17),
+(11868,'3-21-07',5),
+(11869,'12-25-03',12),
+(7774,'5-10-02',5),
+(7775,'1-5-04',23),
+(11872,'9-27-01',10),
+(11875,'3-16-09',3),
+(7781,'5-25-04',40),
+(11879,'1-19-12',29),
+(7787,'6-4-06',25),
+(7792,'1-10-01',35),
+(11888,'10-16-15',27),
+(7793,'11-8-13',5),
+(11891,'7-30-03',37),
+(11892,'2-1-14',30),
+(7796,'1-7-08',11),
+(11894,'3-25-10',35),
+(7800,'12-10-10',34),
+(7802,'7-28-04',14),
+(7804,'12-27-10',1),
+(11901,'7-10-06',39),
+(7806,'4-5-01',35),
+(7807,'10-15-08',8),
+(7809,'9-18-08',29),
+(7811,'7-30-15',24),
+(7814,'5-17-07',21),
+(7815,'5-23-04',16),
+(11911,'2-21-11',9),
+(11913,'11-14-07',34),
+(11914,'10-26-00',36),
+(7819,'6-7-13',17),
+(7820,'3-15-12',12),
+(11916,'3-3-11',6),
+(7822,'4-20-16',9),
+(7823,'3-22-10',8),
+(11920,'10-6-04',15),
+(11922,'1-16-02',18),
+(7827,'7-12-04',20),
+(7828,'1-6-10',37),
+(11927,'10-5-13',19),
+(11929,'4-14-15',21),
+(7835,'8-18-15',8),
+(7837,'12-4-01',38),
+(11934,'4-2-10',33),
+(7842,'12-9-04',17),
+(11939,'1-10-03',7),
+(11940,'12-5-07',25),
+(11942,'5-11-02',34),
+(11943,'10-19-03',14),
+(7848,'3-16-01',12),
+(11946,'3-27-14',28),
+(11949,'1-5-09',2),
+(7853,'9-14-06',28),
+(11950,'3-8-02',28),
+(7857,'3-20-03',16),
+(7860,'2-26-11',8),
+(11956,'7-29-14',25),
+(11960,'9-2-12',25),
+(11962,'8-11-02',7),
+(7867,'11-30-06',30),
+(7868,'9-4-13',25),
+(11965,'4-9-09',4),
+(7869,'12-5-06',23),
+(11967,'1-28-09',37),
+(11968,'10-14-13',26),
+(7874,'12-8-03',9),
+(11970,'6-17-13',21),
+(7875,'3-24-14',25),
+(7876,'2-26-16',37),
+(7880,'9-5-01',31),
+(7883,'1-20-03',7),
+(11980,'6-24-04',9),
+(11981,'5-3-01',34),
+(7887,'12-31-12',36),
+(7889,'8-12-03',20),
+(11987,'11-30-08',20),
+(7898,'12-9-14',10),
+(11995,'3-4-13',36),
+(12002,'10-29-14',2),
+(12003,'10-7-12',7),
+(7914,'2-19-02',40),
+(7916,'11-17-10',3),
+(12014,'1-29-05',13),
+(12015,'3-5-15',12),
+(12017,'6-11-13',38),
+(7925,'4-21-16',9),
+(12022,'11-30-06',38),
+(7926,'11-8-14',32),
+(12023,'4-10-14',14),
+(12024,'12-27-01',38),
+(7930,'10-3-11',16),
+(7932,'10-5-00',39),
+(7933,'11-21-01',28),
+(7934,'8-8-15',20),
+(7936,'5-16-12',13),
+(12032,'6-3-03',6),
+(7939,'5-31-07',27),
+(12035,'1-24-06',27),
+(12036,'5-20-08',6),
+(7940,'12-16-12',40),
+(7942,'12-3-01',27),
+(7943,'8-21-12',37),
+(12040,'1-17-12',8),
+(7944,'9-27-14',31),
+(12042,'7-19-02',3),
+(7947,'4-21-02',10),
+(12045,'12-12-03',25),
+(7952,'4-19-09',2),
+(12050,'10-25-15',22),
+(12054,'10-14-04',3),
+(12056,'6-20-12',28),
+(12059,'2-12-06',33),
+(7963,'5-29-15',38),
+(7967,'8-24-02',29),
+(7968,'4-3-09',11),
+(7970,'3-6-01',14),
+(7971,'1-2-01',34),
+(12067,'3-12-15',5),
+(12068,'7-5-11',30),
+(7972,'6-7-04',17),
+(12070,'11-9-12',12),
+(12071,'8-29-06',25),
+(12073,'1-7-02',17),
+(12076,'11-30-07',15),
+(7980,'6-17-02',5),
+(7983,'8-28-08',35),
+(12083,'11-20-08',24),
+(12086,'10-4-04',4),
+(12093,'12-10-08',40),
+(12095,'3-18-15',24),
+(8000,'1-28-05',14),
+(8002,'6-8-09',14),
+(8004,'8-10-09',10),
+(12100,'7-11-00',37),
+(12101,'10-11-11',33),
+(8006,'6-2-02',14),
+(8009,'10-18-08',32),
+(8010,'12-13-03',10),
+(8011,'9-11-06',39),
+(8013,'10-22-13',34),
+(8014,'5-2-11',25),
+(8015,'8-4-11',11),
+(12112,'1-11-13',7),
+(12114,'1-17-08',12),
+(12116,'8-29-02',3),
+(8020,'9-9-08',20),
+(12118,'10-29-15',3),
+(8024,'8-25-14',30),
+(12122,'5-4-07',28),
+(12123,'4-20-12',34),
+(8029,'4-27-16',20),
+(8030,'12-25-03',3),
+(12127,'3-11-14',40),
+(8033,'12-27-11',39),
+(12130,'12-31-00',13),
+(12131,'6-15-04',16),
+(8037,'6-19-10',13),
+(12136,'2-28-13',38),
+(12138,'5-31-13',20),
+(8044,'3-12-04',39),
+(8045,'12-16-12',11),
+(12142,'9-10-01',22),
+(8048,'1-13-11',19),
+(8049,'7-10-14',26),
+(12147,'2-15-10',30),
+(8052,'3-11-01',36),
+(12149,'5-3-07',38),
+(12151,'9-21-11',12),
+(8055,'9-11-05',31),
+(8059,'4-18-07',36),
+(12156,'12-13-12',34),
+(12158,'9-29-05',3),
+(12159,'7-4-12',17),
+(12162,'2-1-01',23),
+(12164,'10-16-07',6),
+(12165,'9-21-03',26),
+(8069,'2-28-02',17),
+(12167,'6-10-14',10),
+(8072,'8-8-15',29),
+(12168,'8-9-12',10),
+(12170,'10-13-14',5),
+(12173,'11-2-07',34),
+(12175,'1-7-01',9),
+(8079,'10-19-10',10),
+(8081,'11-19-12',30),
+(8083,'8-7-14',10),
+(8084,'1-25-15',19),
+(12181,'2-26-02',32),
+(12183,'11-27-05',31),
+(8092,'3-8-01',14),
+(8095,'7-25-00',17),
+(12192,'6-27-00',37),
+(12193,'6-11-05',11),
+(8098,'8-2-04',39),
+(8101,'1-4-12',24),
+(12199,'6-25-02',29),
+(8104,'7-15-08',10),
+(12201,'9-18-08',12),
+(8107,'6-14-08',2),
+(8109,'3-4-08',29),
+(12205,'8-18-01',18),
+(12206,'11-3-13',17),
+(8111,'3-15-02',16),
+(8114,'3-8-05',13),
+(12210,'4-23-09',5),
+(12211,'12-26-01',8),
+(8115,'4-20-12',40),
+(12212,'9-24-10',34),
+(12214,'4-28-02',31),
+(12215,'11-25-00',22),
+(12218,'2-17-08',2),
+(12219,'11-18-08',37),
+(8124,'8-20-15',29),
+(12220,'1-24-13',40),
+(12221,'9-28-00',22),
+(8125,'11-11-04',11),
+(12223,'6-8-15',31),
+(8129,'12-14-05',14),
+(8130,'2-5-02',16),
+(8131,'6-7-10',38),
+(8132,'6-4-06',19),
+(12229,'9-17-02',34),
+(12230,'10-24-01',1),
+(8134,'9-14-03',12),
+(12233,'4-14-02',7),
+(12234,'8-26-02',11),
+(8138,'1-24-03',34),
+(8139,'4-1-07',21),
+(8140,'12-4-06',20),
+(8141,'6-15-15',26),
+(12239,'3-22-14',7),
+(8143,'7-9-04',7),
+(12242,'2-13-04',22),
+(12245,'2-13-11',32),
+(8150,'8-12-03',40),
+(12249,'1-15-10',12),
+(8155,'8-8-02',31),
+(8157,'1-12-09',16),
+(12253,'1-8-04',14),
+(12254,'12-15-04',3),
+(8159,'12-23-14',39),
+(8161,'9-13-06',28),
+(8163,'4-15-13',23),
+(8165,'7-22-09',16),
+(12266,'9-20-06',27),
+(8171,'4-20-15',14),
+(12268,'3-29-04',30),
+(8173,'10-27-12',22),
+(8174,'4-17-04',17),
+(12272,'2-4-12',18),
+(8180,'11-10-08',32),
+(8181,'6-13-08',10),
+(8185,'3-28-14',30),
+(12282,'11-28-01',5),
+(8187,'4-23-02',20),
+(8188,'4-1-15',10),
+(8189,'6-18-06',7);

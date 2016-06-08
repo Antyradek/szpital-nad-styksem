@@ -9,13 +9,50 @@ Jeśli nazwa twojego użytkownika jest inna od administratora bazy, to dodaj jes
 do powyższych komend.
 
 
-Wykonywanie skryptów w postgresql:
+#### JAK ZROBIĆ, ŻEBY DZIAŁAŁO:
+
+psql -U postgres
+
+\c szpital-nad-styksem
+
+ALTER DATABASE "szpital-nad-styksem" SET datestyle TO "ISO, MDY";
+
 \i create.sql
+
+./fill.sh
+
+
+
+#### Skrypty:
+
+-  Tworzenie tabeli, kluczy glownych, kluczy obcych:
+  
+\i create.sql
+
+-  Usuwanie tabeli wraz z widokami (Opcja CASCADE):
+  
 \i drop.sql
 
-Getting error: Peer authentication failed for user “postgres”, when trying to get pgsql working with rails:
-http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge
+- Dodawanie przykladowych transakcji z zadania:
+ 
+\i queries.sql
 
-USTAWIANIE FORMATU DATY W POSTGRESIE:
-set datestyle to MDY;
+-  Wypełnianie tabeli (z shella):
+
+./fill.sh
+
+
+#### USTAWIANIE FORMATU DATY W POSTGRESIE (dane wygenerowalem w formacie MDY):
+
+- tymczasowe (nie dziala, jak chcemy wklepytac z shella skrypty):
+
+SET datestyle TO "ISO, MDY";
+
+SHOW datestyle;
+
+- pelne (skrypty z shella dzialaja):
+
+ALTER DATABASE "szpital-nad-styksem" SET datestyle TO "ISO, MDY";
+
+
 

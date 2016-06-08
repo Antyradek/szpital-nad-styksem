@@ -50,3 +50,20 @@ Daty są w formacie: 1/18/1999 (m/d/y)
 - Hospitalizacje ambulatoryjne = 550
 
 
+
+
+Aplikacja Process - służy to przetwarzania danych tak, aby pasowały do bazy danych.
+
+Poniższa komenda (opcja 4 w moim programie) przetwarza pierwszą (indeks 0) kolumnę pliku fillPacjenciOczekujacy.sql, 
+generuje plik wyjściowy fillPacjenciOczekujacy2.sql. Wartości z pierwszej kolumny są zastąpione
+wartościami UNIKALNYMI w zasięgu od 5000 do 15000 w liczbie 3000.
+
+java Process fillPacjenciOczekujacy.sql 4 fillPacjenciOczekujacy2.sql 3000 5000 15000 0 
+
+
+Poniższa komenda robi to samo, co powyżej, tylko generuje unikalne wartości w liczbie 2000 od 1 do 6500 dla trzeciej (indeks 2)
+kolumny w pliku.
+
+java Process fillDostawy.sql 4 fillDostawy2.sql 2000 1 6500 2
+
+
