@@ -1,3 +1,4 @@
+SET datestyle = "ISO, MDY";
 INSERT INTO Pacjenci VALUES (5001,'2-11-23','M','2-9-15','Kawaler',267),
 (5002,'2-14-13','M','4-18-15','Kawaler',130),
 (5003,'9-8-12','K','11-11-12','Wdowa',1954),

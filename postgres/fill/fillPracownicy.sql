@@ -1,3 +1,4 @@
+SET datestyle = "ISO, MDY";
 INSERT INTO Pracownicy VALUES (2501,'3-24-10','M',999999999,'Sprzataczka'),
 (2502,'8-11-60','K',999999999,'Dyrektor personalny'),
 (2503,'2-10-66','K',999999999,'Dyrektor'),

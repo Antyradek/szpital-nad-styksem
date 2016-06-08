@@ -1,4 +1,5 @@
-INSERT INTO Wizyty VALUES (1,'4-21-11 20:32:56',72,9908,3374),
+SET datestyle = "ISO, MDY";
+INSERT INTO Wizyty(Numer, Data_i_godzina_wizyty, Numer_gabinetu, Pacjent_numer, Pracownik_numer) VALUES (1,'4-21-11 20:32:56',72,9908,3374),
 (2,'6-10-06 01:05:43',487,12916,3173),
 (3,'11-23-10 13:11:58',202,5613,3156),
 (4,'8-2-02 08:40:45',372,14851,4260),
