@@ -1,3 +1,4 @@
+SET datestyle = "ISO, MDY";
 INSERT INTO Pacjenci_oczekujacy VALUES (8198,'7-16-02',18),
 (12295,'1-22-04',15),
 (8201,'8-7-03',11),

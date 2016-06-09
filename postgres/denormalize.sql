@@ -23,3 +23,5 @@ CREATE TRIGGER denorm_wizyty_trig
 	BEFORE INSERT OR UPDATE ON Wizyty
 	FOR EACH ROW
 	EXECUTE PROCEDURE denorm_wizyty();
+
+-- PRE-JOIN Informacja o Pacjencie i Oddziale do Wizyt Oczekujących
