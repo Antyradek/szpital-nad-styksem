@@ -1,3 +1,4 @@
+SET datestyle = "ISO, MDY";
 INSERT INTO Formularze_zapotrzebowania VALUES (1,'6-1-08','12-8-16',2883,36),
 (2,'6-4-08','10-13-71',3140,32),
 (3,'6-1-08','8-29-98',3478,7),

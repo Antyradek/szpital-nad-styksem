@@ -76,7 +76,7 @@ CONSTRAINT Material_PK PRIMARY KEY (Numer)
 
 CREATE TABLE Dostawy (
 Ilosc integer NOT NULL,
-Koszt_jednostkowy numeric(6,2) NOT NULL,
+Koszt_jednostkowy numeric(12,2) NOT NULL,
 Material_Numer integer NOT NULL,
 Dostawca_Numer integer NOT NULL,
 CONSTRAINT Dostawa_PK PRIMARY KEY (Material_Numer, Dostawca_Numer)
