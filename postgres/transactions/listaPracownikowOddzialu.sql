@@ -7,10 +7,10 @@ BEGIN
 
 RETURN QUERY
   SELECT Oddzialy.Nazwa, Osoby.Imie, Osoby.Nazwisko, Osoby.Adres, Pracownicy.Plec, Pracownicy.Data_urodzenia, Pracownicy.PESEL, Osoby.Telefon, Pracownicy.Rodzaj_pracownika_Typ, Pracownicy.Numer
-  FROM Osoby, Oddzialy, Pracownicy
+  FROM Osoby, Oddzialy, Pracownicy, Pracownicy_na_oddziale
   WHERE Oddzialy.Numer = nr_oddzialu
   AND Pracownicy_na_oddziale.Oddzial_Numer = Oddzialy.Numer
-  AND Pracownicy_na_oddziale.Praocownik_Numer = Pracownicy.Numer
+  AND Pracownicy_na_oddziale.Pracownik_Numer = Pracownicy.Numer
   AND Pracownicy.Numer = Osoby.Numer;
 
 END

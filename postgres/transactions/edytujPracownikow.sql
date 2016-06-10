@@ -6,9 +6,9 @@ $body$
 BEGIN
 
 RETURN QUERY
-  SELECT *
+  SELECT Osoby.Numer, Osoby.Imie, Osoby.Nazwisko, Osoby.Adres, Osoby.Telefon, Pracownicy.Data_urodzenia, Pracownicy.Plec, Pracownicy.PESEL, Pracownicy.Rodzaj_pracownika_Typ
   FROM Osoby, Pracownicy
-  WHERE Osoby.Numer = Pracownicy.Numer
+  WHERE Osoby.Numer = Pracownicy.Numer;
 
 END
 $body$ LANGUAGE plpgsql;
@@ -22,7 +22,7 @@ $body$
 BEGIN
 
 RETURN QUERY
-  SELECT *
+  SELECT Osoby.Numer, Osoby.Imie, Osoby.Nazwisko, Osoby.Adres, Osoby.Telefon, Pracownicy.Data_urodzenia, Pracownicy.Plec, Pracownicy.PESEL, Pracownicy.Rodzaj_pracownika_Typ
   FROM Osoby, Pracownicy
   WHERE Pracownicy.Numer = nr_prac
   AND Pracownicy.Numer = Osoby.Numer;
