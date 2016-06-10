@@ -128,3 +128,28 @@ CREATE TRIGGER dekoduj_dozowania_leku_trig
 BEFORE INSERT OR UPDATE ON Dozowania_Leku
 FOR EACH ROW
 EXECUTE PROCEDURE dekoduj_dozowania_leku();
+
+-- Perspektywa zmaterializowana
+CREATE MATERIALIZED VIEW Dozowania_Leku_persp_zmat AS
+	SELECT
+		Dozowania_Leku.Liczba_jednostek_na_dobe,
+		Dozowania_Leku.Data_poczatkowa,
+		Dozowania_Leku.Godzina_podania,
+		Dozowania_Leku.Minuta_podania,
+		Osoby.Imie,
+		Osoby.Nazwisko,
+		Materialy.Nazwa AS Lek_Nazwa,
+		Lozka.Numer AS Lozko_Numer,
+		Oddzialy.Nazwa AS Oddzial_Nazwa
+    FROM
+		Dozowania_Leku
+		INNER JOIN Osoby ON Dozowania_Leku.Pacjent_numer = Osoby.Numer
+		INNER JOIN Materialy ON Dozowania_Leku.Lek_Numer = Materialy.Numer
+		INNER JOIN Hospitalizacje ON Hospitalizacje.Pacjent_numer = Dozowania_Leku.Pacjent_numer
+		INNER JOIN Lozka ON Hospitalizacje.Lozko_Numer = Lozka.Numer
+		INNER JOIN Oddzialy ON Lozka.Oddzial_Numer = Oddzialy.Numer
+    ORDER BY Dozowania_Leku.Godzina_podania,Dozowania_Leku.Minuta_podania
+WITH NO DATA;
+
+-- Wsadź dane do perspektywy
+REFRESH MATERIALIZED VIEW Dozowania_Leku_persp_zmat;
