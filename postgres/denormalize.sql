@@ -72,7 +72,7 @@ BEFORE INSERT OR UPDATE ON Dozowania_Leku
 FOR EACH ROW
 EXECUTE PROCEDURE denorm_dozowania_leku();
 
--- Kolumna agregująca ceny zapytań
+-- Kolumna agregująca ceny formularzy
 ALTER TABLE Formularze_Zapotrzebowania
 	ADD COLUMN Suma_zamowienia numeric(12,2) DEFAULT 0 NOT NULL;
 
@@ -108,3 +108,23 @@ CREATE TRIGGER agreguj_formularze_zapotrzebowania_trig
 AFTER INSERT OR UPDATE OR DELETE ON Pozycje_zamowienia
 FOR EACH ROW
 EXECUTE PROCEDURE agreguj_formularze_zapotrzebowania();
+
+-- Dekodowanie godziny z liczby minut na dwa pola godziny i minuty
+ALTER TABLE Dozowania_Leku
+	ADD COLUMN Godzina_podania integer,
+	ADD COLUMN Minuta_podania integer;
+
+CREATE OR REPLACE FUNCTION dekoduj_dozowania_leku() RETURNS TRIGGER AS
+$dekoduj_dozowania_leku$
+BEGIN
+	NEW.Godzina_podania = NEW.Czas_podania / 60 % 12;
+	NEW.Minuta_podania = NEW.Czas_podania % 60;
+	RETURN NEW;
+END;
+$dekoduj_dozowania_leku$
+LANGUAGE plpgsql;
+
+CREATE TRIGGER dekoduj_dozowania_leku_trig
+BEFORE INSERT OR UPDATE ON Dozowania_Leku
+FOR EACH ROW
+EXECUTE PROCEDURE dekoduj_dozowania_leku();
