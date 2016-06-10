@@ -36,23 +36,23 @@ $body$
 BEGIN
 
   UPDATE Dostawcy
-  SET Nazwa = nazwa;
+  SET Nazwa = nazwa
   WHERE Dostawcy.numer = nr_dost;
 
   UPDATE Dostawcy
-  SET Adres = adres;
+  SET Adres = adres
   WHERE Dostawcy.numer = nr_dost;
 
   UPDATE Dostawcy
-  SET Telefon = telefon;
+  SET Telefon = telefon
   WHERE Dostawcy.numer = nr_dost;
 
   UPDATE Dostawcy
-  SET Email = email;
+  SET Email = email
   WHERE Dostawcy.numer = nr_dost;
 
   UPDATE Dostawcy
-  SET Faks = faks;
+  SET Faks = faks
   WHERE Dostawcy.numer = nr_dost;
 
   RETURN 0;
