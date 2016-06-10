@@ -1,0 +1,4 @@
+CREATE ROLE lekarz_rodzinny LOGIN;
+
+GRANT SELECT, INSERT, UPDATE, DELETE, TRUNCATE, TRIGGER 
+ON Wizyty TO lekarz_rodzinny ;
