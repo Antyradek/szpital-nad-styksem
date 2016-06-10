@@ -3,4 +3,3 @@
 DB_NAME=szpital-nad-styksem
 
 psql $DB_NAME -f create.sql
-psql $DB_NAME -f fill.sql

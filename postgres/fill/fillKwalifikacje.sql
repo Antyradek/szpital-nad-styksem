@@ -1,3 +1,4 @@
+SET datestyle = "ISO, MDY";
 INSERT INTO Kwalifikacje VALUES (1,'Studia doktoranckie','12-19-82','Szkolenie','Grambling',2834),
 (2,'Specjalizacja I lub II stopnia lub tytuł specjalisty w dziedzinie pediatrii','12-19-96','Studia doktoranckie','Charlotte',2927),
 (3,'Szkolenie- Nutricia - Żywienie a odporność noworodka, epidemiologia i klinika zakażeń pneumokokowych','5-13-86','Studia pielęgniarskie','Reno',2929),

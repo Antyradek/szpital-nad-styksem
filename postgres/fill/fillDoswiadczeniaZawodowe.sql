@@ -1,3 +1,4 @@
+SET datestyle = "ISO, MDY";
 INSERT INTO Doswiadczenia_zawodowe VALUES (1,'Lekarz rodzinny','43955 West Charlotte Amalie Blvd.','6-19-45','9-14-80',4946),
 (2,'Stażysta','45935 East Saint Lucia Ct.','3-20-13','2-16-83',2924),
 (3,'Stażysta','30836 South Thailand Ln.','8-28-14','4-30-85',2768),

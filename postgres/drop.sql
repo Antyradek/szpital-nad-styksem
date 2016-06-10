@@ -26,3 +26,10 @@ DROP TABLE	Pozycje_zamowienia	CASCADE;
 DROP TABLE	Hospitalizacje	CASCADE;
 DROP TABLE	Hospitalizacje_ambulatoryjne	CASCADE;
 
+DROP FUNCTION denorm_wizyty();
+DROP FUNCTION denorm_pacjenci_oczekujacy();
+DROP FUNCTION denorm_dozowania_leku();
+DROP FUNCTION agreguj_formularze_zapotrzebowania();
+DROP FUNCTION dekoduj_dozowania_leku();
+DROP MATERIALIZED VIEW Dozowania_Leku_persp_zmat;
+

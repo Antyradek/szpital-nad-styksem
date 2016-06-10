@@ -1,0 +1,5 @@
+#!/bin/bash
+# Stwórz tabele, wsadź i wypisz
+DB_NAME=szpital-nad-styksem
+
+psql $DB_NAME -f denormalize.sql
